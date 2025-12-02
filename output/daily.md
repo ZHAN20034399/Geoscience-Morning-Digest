@@ -171,20 +171,10 @@ Fingerprints of stratospheric particle transport and fallout
 ---
 
 ## 📰 Nature Communications
-### [Neural dissociation of attention and working memory through inhibitory control](https://www.nature.com/articles/s41467-025-66553-7)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66553-7
-
-Here, the authors combine brain imaging and non-invasive stimulation to show that attention and working memory are dissociable processes, with inhibitory control in the supramarginal gyrus gating what attended information reaches memory.
-
 ### [Halide insertion regulation for efficient and stable wide-bandgap perovskite photovoltaics](https://www.nature.com/articles/s41467-025-66970-8)
 Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66970-8
 
 Understanding the crystallization mechanism of mixed-halide wide-bandgap perovskites is critical to improve the performance of tandem solar cells. Here, the authors introduce ophenylenediamine to construct a π-conjugated molecular wall structure, achieving a maximum solar cell efficiency of 24.13%.
-
-### [The gut methanotroph <i>Methylocystis intestini</i> modulates intestinal peristalsis and fat metabolism via reducing methane levels](https://www.nature.com/articles/s41467-025-66596-w)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66596-w
-
-Here, the authors identify a methane-consuming human gut bacterium, Methylocystis intestini, showing it can affect digestion and fat metabolism by regulating gut methane levels, revealing a natural gut microbial potential mechanism helping maintain healthy gut function and balance.
 
 ### [CAV2-expressing nerves induce metabolic switch toward mitochondrial oxidative phosphorylation to promote cancer stemness](https://www.nature.com/articles/s41467-025-66914-2)
 Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66914-2
@@ -206,10 +196,20 @@ Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-02
 
 The complement cascade is increasingly recognized in the brain. Here, with MERFISH, the authors showed developmentally regulated brain endogenous expression of complement genes and a potential role of the alternative pathway in brain development.
 
-### [Tailoring precipitates for enhanced hydrogen trapping in aluminum alloys](https://www.nature.com/articles/s41467-025-66998-w)
-Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66998-w
+### [Superior lead-free piezoceramics for wearable multimodal ultrasound imaging arrays](https://www.nature.com/articles/s41467-025-66913-3)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66913-3
 
-This manuscript integrates molecular dynamics with first-principles calculations to determine practical processing parameters for H-capturing (including metastable) precipitates in Al alloys, reducing embrittlement by 78%.
+This study reports a flexible, lead-free ultrasound imaging array that enables real-time, high-resolution, and wearable imaging of human tissues, advancing safer and more portable ultrasound technology.
+
+### [An ammonia-induced universal synthesis approach for manganese based layered oxides](https://www.nature.com/articles/s41467-025-66960-w)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-66960-w
+
+Developing positive electrodes with high stability and rapid ion migration kinetics faces challenges for sodium ion batteries. Here, authors report a universal synthesis approach for layered transition-metal oxides by updating the conventional solid-state reaction with only dicyandiamide introduced.
+
+### [Tensile strain regulation via grain boundary buffering for flexible perovskite solar cells](https://www.nature.com/articles/s41467-025-67027-6)
+Nature Communications, Published online: 02 December 2025; doi:10.1038/s41467-025-67027-6
+
+The residual strain and modulus of polycrystalline films often limit the photovoltaic and mechanical performance of flexible perovskite solar cells. Here, the authors introduce metal chelates for a uniformly distributed tensile strain field, achieving a maximum efficiency of 24.47%.
 
 
 ---
@@ -259,6 +259,22 @@ Natural CO2 removal is increasingly being claimed as anthropogenic climate mitig
 ---
 
 ## 📰 Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences
+### [A speleothem record from the Fertile Crescent covering the last deglaciation better contextualizes neolithization](https://www.pnas.org/doi/abs/10.1073/pnas.2502092122?af=R)
+Proceedings of the National Academy of Sciences, Volume 122, Issue 50, December 2025.   
+SignificanceA speleothem record from the Kurdistan Region of Iraq records climatic and environmental changes during the transition from the Last Glacial Maximum (LGM) to the Holocene. It shows that local precipitation changes were synchronous with ...
+
+### [Warming from cold pools: A pathway for mesoscale organization to alter Earth’s radiation budget](https://www.pnas.org/doi/abs/10.1073/pnas.2513699122?af=R)
+Proceedings of the National Academy of Sciences, Volume 122, Issue 49, December 2025.   
+SignificanceShallow cumulus clouds play a central role in Earth’s energy balance, but remain a major source of uncertainty in climate projections. While climate models often assume these clouds are fully controlled by large-scale factors, observations ...
+
+### [An Archean atmosphere rich in sulfur biomolecules](https://www.pnas.org/doi/abs/10.1073/pnas.2516779122?af=R)
+Proceedings of the National Academy of Sciences, Volume 122, Issue 49, December 2025.   
+SignificanceSulfur biomolecules, such as the amino acids cysteine and methionine, are ubiquitous in all modern organisms. However, few prebiotic chemistry studies have demonstrated the abiotic production of organosulfur biomolecules. This fact coupled ...
+
+### [Volcanic forcing of the Lomagundi–Jatuli carbon isotope excursion](https://www.pnas.org/doi/abs/10.1073/pnas.2519431122?af=R)
+Proceedings of the National Academy of Sciences, Volume 122, Issue 49, December 2025.   
+SignificanceThe Lomagundi–Jatuli Event (LJE), more than 2 billion years ago, marks a major shift in Earth’s carbon cycle, following the rise of atmospheric oxygen. Its cause, however, remains unresolved. We dated black shales from Gabon to 2.194 billion ...
+
 ### [The molecular-level diagenetic clock of sinking marine organic matter](https://www.pnas.org/doi/abs/10.1073/pnas.2504769122?af=R)
 Proceedings of the National Academy of Sciences, Volume 122, Issue 48, December 2025.   
 SignificanceSinking particulate organic matter is a dominant component of the biological carbon pump. A paucity of knowledge regarding molecular-level composition of these sinking particles contributes to uncertainty in the relationship between surface ...
@@ -282,21 +298,6 @@ SignificanceRivers on Earth are large and dynamic systems that diversify ecosyst
 ### [Variability of annual polar motion and its relationship to the Chandler wobble](https://www.pnas.org/doi/abs/10.1073/pnas.2520272122?af=R)
 Proceedings of the National Academy of Sciences, Volume 122, Issue 48, December 2025.   
 SignificanceFor nearly a century, continuing to the present, a complete accounting of the excitation of the Chandler wobble (CW), a resonant motion of Earth’s rotation axis, has been a major scientific goal. We identify episodes of a near six-year ...
-
-### [Cloud fraction response to aerosol driven by nighttime processes](https://www.pnas.org/doi/abs/10.1073/pnas.2509949122?af=R)
-Proceedings of the National Academy of Sciences, Volume 122, Issue 47, November 2025.   
-SignificanceThe effect of airborne particulates-called aerosols-on climate is highly uncertain due to their complex interactions with clouds. A significant source of this uncertainty comes from the aerosol influence on large, low-lying clouds over the ...
-
-### [Organic geochemical evidence for life in Archean rocks identified by pyrolysis–GC–MS and supervised machine learning](https://www.pnas.org/doi/abs/10.1073/pnas.2514534122?af=R)
-Proceedings of the National Academy of Sciences, Volume 122, Issue 47, November 2025.   
-SignificanceTeasing out biochemical information from ancient organic-rich sediments, notably the timing of the emergence of photosynthesis relative to the inferred oxygenation of Earth’s atmosphere, remains a challenging opportunity. To tackle this ...
-
-### [High-energy impact and vapor recondensation history of the angrite parent body revealed by nickel isotopes](https://www.pnas.org/doi/abs/10.1073/pnas.2519759122?af=R)
-Proceedings of the National Academy of Sciences, Volume 122, Issue 46, November 2025.   
-SignificanceAngrites are the most volatile-depleted planetary materials known, yet the processes driving such extreme depletion remain uncertain. Using high-precision nickel isotope measurements, this study reveals that the angrite parent body (APB) ...
-
-### [Forecasting weather and health heat impact](https://www.pnas.org/doi/abs/10.1073/pnas.2525458122?af=R)
-Proceedings of the National Academy of Sciences, Volume 122, Issue 46, November 2025.   
 
 
 ---
@@ -458,13 +459,6 @@ Author(s): Mingming Jiang, Yejun Jin, Xiaofei Fu, Quanyou Liu
 ---
 
 ## 📰 ScienceDirect Publication: Earth and Planetary Science Letters
-### [Colonial cold-water coral Li/Mg palaeothermometry: Influence of growth rate and skeletal heterogeneity](https://www.sciencedirect.com/science/article/pii/S0012821X25005412?dgcid=rss_sd_all)
-Publication date: January 2026
-
-**Source:** Earth and Planetary Science Letters, Volume 674
-
-Author(s): Qian (刘倩) Liu, Joseph A. Stewart, Laura F. Robinson, Sang Chen, Maoyu Wang, Tianyu Chen, Tao Li
-
 ### [First radar evidence of large-scale englacial folding in the South Polar Layered Deposits (Ultimi Scopuli, Mars) unveiled by MARSIS](https://www.sciencedirect.com/science/article/pii/S0012821X25005473?dgcid=rss_sd_all)
 Publication date: January 2026
 
@@ -527,6 +521,13 @@ Publication date: January 2026
 **Source:** Earth and Planetary Science Letters, Volume 674
 
 Author(s): Franck Poitrasson, Pierre Le Pape, Guillaume Morin, Romain Guilbaud, Camille Baya, Qianyu Deng, Jeremy Rabone, Julie Aufort, Marc Blanchard
+
+### [Rochechouart impact spherules](https://www.sciencedirect.com/science/article/pii/S0012821X25005461?dgcid=rss_sd_all)
+Publication date: January 2026
+
+**Source:** Earth and Planetary Science Letters, Volume 674
+
+Author(s): Axel Wittmann, Philippe Lambert
 
 
 ---
