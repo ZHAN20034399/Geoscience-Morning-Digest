@@ -2,11 +2,7 @@ import feedparser
 import json
 import os
 from datetime import datetime
-from pathlib import Path
 
-# -------------------------
-# Config
-# -------------------------
 RSS_FEEDS = [
     "http://www.nature.com/nature/current_issue/rss",
     "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science",
@@ -24,100 +20,83 @@ RSS_FEEDS = [
     "https://rss.sciencedirect.com/publication/science/00167037"
 ]
 
-SEEN_FILE = Path("state/seen.json")
-OUTPUT_FILE = Path("output/daily.md")
+SEEN_FILE = "state/seen.json"
+OUTPUT_FILE = "output/daily.md"
 
+today = datetime.now().strftime("%Y-%m-%d")
 
 # -------------------------
-# Load / Save Seen IDs
+# 加载已抓取条目
 # -------------------------
-def load_seen():
-    SEEN_FILE.parent.mkdir(exist_ok=True, parents=True)
-    if not SEEN_FILE.exists() or SEEN_FILE.stat().st_size == 0:
-        return set()
+if os.path.exists(SEEN_FILE):
     with open(SEEN_FILE, "r", encoding="utf-8") as f:
-        return set(json.load(f))
+        try:
+            seen = json.load(f)
+        except:
+            seen = []
+else:
+    seen = []
 
+# 生成已有 uid 集合，防止重复
+seen_uids = set(entry.get("uid") for entry in seen if "uid" in entry)
 
-def save_seen(seen):
+# -------------------------
+# 抓取新条目
+# -------------------------
+new_entries = []
+
+for feed_url in RSS_FEEDS:
+    print(f"Parsing feed: {feed_url}")
+    feed = feedparser.parse(feed_url)
+    source_name = feed.feed.get("title", "Unknown Source")
+    
+    for entry in feed.entries:
+        uid = entry.get("id") or entry.get("link")
+        if not uid:
+            continue
+        if uid in seen_uids:
+            continue  # 已抓取过
+        
+        paper = {
+            "uid": uid,
+            "source": source_name,
+            "title": entry.get("title", "No title"),
+            "link": entry.get("link", ""),
+            "summary": entry.get("summary", "").strip(),
+            "date": today
+        }
+        new_entries.append(paper)
+        seen_uids.add(uid)
+
+# -------------------------
+# 更新 seen.json
+# -------------------------
+if new_entries:
+    print(f"新增条目: {len(new_entries)}")
+    seen.extend(new_entries)
+    os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(list(seen), f, indent=2)
-
-
-# -------------------------
-# Fetch New RSS Entries
-# -------------------------
-def fetch_new_entries():
-    seen = load_seen()
-    new_entries = []
-
-    for url in RSS_FEEDS:
-        feed = feedparser.parse(url)
-        source_name = feed.feed.get("title", url)
-        for entry in feed.entries:
-            uid = entry.get("id") or entry.get("link")
-            if not uid or uid in seen:
-                continue
-
-            new_entries.append({
-                "source": source_name,
-                "title": entry.get("title", "No title"),
-                "link": entry.get("link", ""),
-                "summary": entry.get("summary", "").replace("\n", " ").strip()
-            })
-            seen.add(uid)
-
-    save_seen(seen)
-    return new_entries, len(seen)
-
+        json.dump(seen, f, indent=2, ensure_ascii=False)
+else:
+    print("今天没有新增条目。")
 
 # -------------------------
-# Group by Source
+# 可选：更新 Markdown 文件（简易版）
 # -------------------------
-def group_by_source(entries):
-    groups = {}
-    for item in entries:
-        groups.setdefault(item["source"], []).append(item)
-    return groups
-
-
-# -------------------------
-# Write Markdown
-# -------------------------
-def write_markdown(entries, total_seen):
-    today = datetime.utcnow().strftime("%Y-%m-%d")
-    new_count = len(entries)
-
-    OUTPUT_FILE.parent.mkdir(exist_ok=True, parents=True)
-
-    md = f"# Daily Paper Digest — {today}\n\n"
-    md += f"**今日新增论文**：{new_count}\n"
-    md += f"已累计收录：{total_seen} 篇\n\n"
-    md += "---\n\n"
-
-    if not entries:
-        md += "今天没有新增论文。\n"
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    f.write(f"# Daily Paper Digest — {today}\n")
+    f.write(f"今日新增论文：{len(new_entries)}\n")
+    f.write(f"已累计收录：{len(seen)} 篇\n")
+    f.write("---\n\n")
+    if new_entries:
+        for p in new_entries:
+            f.write(f"- **{p['title']}**  \n")
+            f.write(f"  🔗 {p['link']}\n")
+            if p['summary']:
+                f.write(f"  📝 {p['summary']}\n")
+            f.write("\n")
     else:
-        md += "**摘要整理**：\n"
-        md += "今日新增论文条目已按来源分类并生成概要。\n\n"
-        grouped = group_by_source(entries)
-        for source, items in grouped.items():
-            md += f"## {source}\n\n"
-            for item in items:
-                md += f"- **{item['title']}**  \n"
-                md += f"  🔗 {item['link']}\n"
-                if item["summary"]:
-                    md += f"  📝 {item['summary']}\n"
-                md += "\n"
+        f.write("今天没有新增内容。\n")
 
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(md)
-
-
-# -------------------------
-# Main
-# -------------------------
-if __name__ == "__main__":
-    entries, total_seen = fetch_new_entries()
-    write_markdown(entries, total_seen)
-    print(f"Done! New entries: {len(entries)}, Total seen: {total_seen}")
+print("RSS抓取与 seen.json 更新完成。")
