@@ -1,4 +1,4 @@
-# scripts/fetch_rss.py
+# rss_reader.py
 import feedparser
 import json
 import os
@@ -22,72 +22,49 @@ RSS_FEEDS = [
 ]
 
 SEEN_FILE = "state/seen.json"
-OUTPUT_FILE = "output/daily.json"  # 可以先保存抓取数据，用于调试
-today = datetime.now().strftime("%Y-%m-%d")
 
-# -------------------------
-# Load / Save Seen IDs
-# -------------------------
 def load_seen():
     if not os.path.exists(SEEN_FILE):
-        return []
+        return {}
     try:
         with open(SEEN_FILE, "r", encoding="utf-8") as f:
-            data = f.read().strip()
-            if not data:
-                return []
-            return json.loads(data)
-    except Exception as e:
-        print(f"Error reading seen.json: {e}")
-        return []
+            data = json.load(f)
+            # 用 uid 做 key，快速去重
+            return {p.get("uid"): p for p in data if "uid" in p}
+    except:
+        return {}
 
-def save_seen(seen):
+def save_seen(seen_dict):
     os.makedirs(os.path.dirname(SEEN_FILE), exist_ok=True)
     with open(SEEN_FILE, "w", encoding="utf-8") as f:
-        json.dump(seen, f, indent=2, ensure_ascii=False)
+        json.dump(list(seen_dict.values()), f, ensure_ascii=False, indent=2)
 
-# -------------------------
-# Fetch New RSS Entries
-# -------------------------
-def fetch_new_entries():
+def fetch_feeds():
+    today = datetime.now().strftime("%Y-%m-%d")
     seen = load_seen()
-    seen_uids = {p['uid'] for p in seen if 'uid' in p}
-    new_entries = []
-    total_fetched = 0
+    new_count = 0
 
     for url in RSS_FEEDS:
-        print(f"\nParsing feed: {url}")
         feed = feedparser.parse(url)
-        source_name = feed.feed.get("title", "Unknown Source")
-        entries = feed.entries
-        print(f"  -> Found {len(entries)} entries from {source_name}")
-        total_fetched += len(entries)
-
-        for entry in entries:
+        source_name = feed.feed.get("title", "未知来源")
+        for entry in feed.entries:
             uid = entry.get("id") or entry.get("link")
-            if not uid or uid in seen_uids:
+            if not uid or uid in seen:
                 continue
-
             paper = {
                 "uid": uid,
                 "title": entry.get("title", "未知标题"),
-                "source": source_name,
                 "link": entry.get("link", ""),
-                "summary": entry.get("summary", "").strip(),
-                "authors": [a.get("name") for a in entry.get("authors", [])] if "authors" in entry else [],
+                "summary": entry.get("summary", ""),
+                "source": source_name,
+                "authors": [a.get("name") for a in entry.get("authors", [])] if entry.get("authors") else [],
                 "date": today
             }
-
-            new_entries.append(paper)
-            seen.append(paper)
-            seen_uids.add(uid)
+            seen[uid] = paper
+            new_count += 1
 
     save_seen(seen)
-    print(f"\n=== Summary ===")
-    print(f"Total entries fetched: {total_fetched}")
-    print(f"New entries added: {len(new_entries)}")
-    return new_entries
+    print(f"抓取完成，新文章 {new_count} 条，总计 {len(seen)} 条")
 
-# -------------------------
 if __name__ == "__main__":
-    new_entries = fetch_new_entries()
+    fetch_feeds()
