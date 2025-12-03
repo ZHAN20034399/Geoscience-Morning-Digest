@@ -37,3 +37,17 @@ jobs:
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: |
           python scripts/send_email.py
+
+      - name: Restore state
+        uses: actions/cache@v3
+        with:
+          path: state
+          key: rss-state
+
+      - name: Save state
+        uses: actions/cache/save@v3
+        if: always()
+        with:
+          path: state
+          key: rss-state
+
