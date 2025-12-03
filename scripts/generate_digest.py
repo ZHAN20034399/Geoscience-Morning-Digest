@@ -48,7 +48,7 @@ papers_brief = "\n".join(
     f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
     for p in papers_for_ai
 )
-    system_prompt = (
+system_prompt = (
         "你是一名地球科学领域科研助手。\n"
         "请根据以下论文列表生成日报。\n"
         "要求：\n"
