@@ -59,9 +59,9 @@ system_prompt = (
         "5. 不要包含原始条目列表。"
     )
 
-    user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
+user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
 
-    try:
+try:
         resp = client.chat.completions.create(
             model="deepseek-chat",
             messages=[
@@ -71,22 +71,22 @@ system_prompt = (
             stream=False
         )
         ai_summary = resp.choices[0].message.content.strip()
-    except Exception as e:
+except Exception as e:
         ai_summary = f"AI 摘要生成失败: {e}"
 
     # -------------------
     # 构建日报文本
-    daily_content = []
-    daily_content.append(f"Daily Paper Digest — {today}")
-    daily_content.append(f"今日新增论文：{len(papers_today)}")
-    daily_content.append(f"已累计收录：{len(seen)} 篇")
-    daily_content.append("\n---\n")
-    daily_content.append("【AI 摘要整理】\n")
-    daily_content.append(ai_summary)
-    daily_content.append("\n---\n")
-    daily_content.append("【附录：原始论文信息】\n")
+daily_content = []
+daily_content.append(f"Daily Paper Digest — {today}")
+daily_content.append(f"今日新增论文：{len(papers_today)}")
+daily_content.append(f"已累计收录：{len(seen)} 篇")
+daily_content.append("\n---\n")
+daily_content.append("【AI 摘要整理】\n")
+daily_content.append(ai_summary)
+daily_content.append("\n---\n")
+daily_content.append("【附录：原始论文信息】\n")
 
-    for i, p in enumerate(papers_today, 1):
+for i, p in enumerate(papers_today, 1):
         authors = p.get("authors", [])
         authors = [a for a in authors if a]  # 去除 None
         authors_str = ", ".join(authors) if authors else "未知"
@@ -98,7 +98,7 @@ system_prompt = (
             daily_content.append(f"   摘要：{p['summary']}")
         daily_content.append("")  # 空行分隔
 
-    daily_text = "\n".join(daily_content)
+daily_text = "\n".join(daily_content)
 
 # -------------------
 # 写入文件
