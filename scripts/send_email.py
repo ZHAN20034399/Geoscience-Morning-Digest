@@ -10,7 +10,7 @@ EMAIL_PASS = os.getenv("EMAIL_PASS")
 TO_EMAIL = os.getenv("TO_EMAIL", EMAIL_USER)  # 默认发给自己，也可以在 Secrets 里指定其他收件人
 
 SMTP_SERVER = os.getenv("SMTP_SERVER")  # 例如 "www.email.cugb.edu.cn"
-SMTP_PORT = os.getenv("SMTP_PORT")  # 默认 465 (SSL)
+SMTP_PORT = int(os.getenv("SMTP_PORT", "465"))  # 默认 465 (SSL)
 
 
 # 读取 daily.md 内容
