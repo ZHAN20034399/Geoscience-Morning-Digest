@@ -1,5 +1,115 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67020-z",
+    "title": "Multiphase aqueous soggy sand electrolyte for zinc metal batteries applications at elevated temperatures",
+    "link": "https://www.nature.com/articles/s41467-025-67020-z",
+    "authors": [
+      "Jingxuan Ren",
+      "Jie Zhang",
+      "Yufeng Chen",
+      "Renming Liu",
+      "Chuangwei Liu",
+      "Xinli Guo",
+      "Dan Luo",
+      "Dongdong Wang",
+      "Zhongwei Chen"
+    ],
+    "summary": "Nature Communications, Published online: 04 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67020-z\">doi:10.1038/s41467-025-67020-z</a>Aqueous zinc metal batteries often face performance decay under thermal environments, originating from side reactions caused by aqueous electrolytes. Here, authors report an organic-inorganic-H2O multiphase aqueous soggy-sand electrolyte that reconstructs hydrogen-bond networks, eliminates parasitic reactions, and promotes uniform Zn deposition at elevated temperature (140 oC).",
+    "source": "Nature Communications",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66695-8",
+    "title": "Rift linkage and inheritance determine collisional mountain belt evolution",
+    "link": "https://www.nature.com/articles/s41467-025-66695-8",
+    "authors": [
+      "Sebastian G. Wolf",
+      "Ritske S. Huismans",
+      "Josep Anton Muñoz",
+      "Dave A. May"
+    ],
+    "summary": "Nature Communications, Published online: 04 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-66695-8\">doi:10.1038/s41467-025-66695-8</a>Using 3D numerical models, this research shows how pre-existing rift basin structures influence the shape and growth of mountain belts, offering a way to link surface topography with deep Earth processes in regions like the Pyrenees and Caucasus.",
+    "source": "Nature Communications",
+    "date": "2025-12-04"
+  },
+  {
+    "id": "10.1029/2025GL117802",
+    "title": "Seismogenic Thickening in the Pamir Plateau From Craton Underthrusting Revealed by the 2023 Mw 6.9 Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117802?af=R",
+    "authors": [
+      "Qingyi Liu, \nYingfeng Zhang, \nZhangfeng Ma, \nLuca Dal Zilio, \nGuohong Zhang, \nHongyi Li, \nXinjian Shan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2025GL119566",
+    "title": "Mariotte Bottle‐Based Seepage Meter for Measuring Bidirectional Flow: Laboratory and Preliminary Field Tests",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119566?af=R",
+    "authors": [
+      "Bong‐Joo Lee"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2025GL117007",
+    "title": "Submerged Flexible Canopies Produce Weaker Shear‐Layer Turbulence and Mitigate Sediment Transport, Compared to Rigid Model Canopies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117007?af=R",
+    "authors": [
+      "Chao Liu, \nYuqi Shan, \nFujian Li, \nXingnian Liu, \nHeidi Nepf"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 23, 16 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2025JB031503",
+    "title": "Seismic Source Spectral Properties of Dynamic Rupture With a Self‐Similar, Self‐Healing Slip Pulse: Origins of Double‐Corner Displacement Spectra and Implications for Small Earthquake Rupture Modes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB031503?af=R",
+    "authors": [
+      "Yuto Kano, \nYoshihiro Kaneko, \nPeter M. Shearer"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2025JB032595",
+    "title": "Magma Ascent and Accumulation Drives Surface Deformation and Ring Fault Seismicity Preceding the 2024 Eruption of Fernandina Volcano, Galápagos Islands",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032595?af=R",
+    "authors": [
+      "Andrew F. Bell, \nSusanna K. Ebmeier, \nStephen Hernandez, \nEliot Eaton, \nXuesong Zhang, \nPeter LaFemina, \nChristopher Bean, \nMario Ruiz"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2024JB029469",
+    "title": "The Effect of Pressurization Rate and Pattern on Injection‐Induced Seismicity in Highly Permeable Sandstone: An Experimental Study",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB029469?af=R",
+    "authors": [
+      "M. Naderloo, \nA. Veltmeijer, \nA. Pluymakers, \nJ. D. Jansen, \nA. Barnhoorn"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
+    "id": "10.1029/2025GC012572",
+    "title": "Automatic Analysis of Hydroacoustic Signals Related to the Activity of the Fani Maoré Submarine Volcano",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012572?af=R",
+    "authors": [
+      "Pierre‐Yves Raumer, \nSara Bazin, \nRomain Safran, \nDorian Cazau, \nJean‐Yves Royer"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 26, Issue 12, December 2025.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-03"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-66895-2",
     "title": "ssG4-seq for global profiling of strand-specific G-quadruplex structures in mammalian genomes",
     "link": "https://www.nature.com/articles/s41467-025-66895-2",
