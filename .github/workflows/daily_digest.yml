@@ -2,10 +2,9 @@ name: Daily Paper Digest
 
 on:
   schedule:
-    - cron: '0 0 * * *' # 北京时间 8:00
+    - cron: '0 0 * * *' # 北京时间 8:00 (UTC 0 点)
   workflow_dispatch:
 
-# 1. 必须添加写入权限，否则无法 push
 permissions:
   contents: write
 
@@ -27,7 +26,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install openai requests feedparser
 
-          
       - name: Run RSS Reader
         run: python scripts/rss_reader.py
 
@@ -36,58 +34,22 @@ jobs:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
         run: python scripts/generate_digest.py
 
-      # 2. 关键修复：将 Commit/Push 放在 Send Email 之前
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "action@github.com"
           
-          # 检查 seen.json 文件是否有变动
           if [ -n "$(git status --porcelain state/seen.json)" ]; then
             git add state/seen.json
             git commit -m "Update seen papers list [skip ci]"
-            # 使用 Token 显式 Push，确保认证成功
             git push "https://${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
-            
             echo "Successfully pushed updated seen.json"
           else
             echo "No changes in seen.json to commit."
           fi
 
       - name: Send Email
-        # 这一步即使失败，我们最重要的数据（seen.json）也已经保存了
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: python scripts/send_email.py
-
-        
-      - name: Run RSS Reader
-        run: python scripts/rss_reader.py
-
-      - name: Generate DeepSeek Digest
-        env:
-          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-        run: python scripts/generate_digest.py
-
-      - name: Send Email
-        env:
-          EMAIL_USER: ${{ secrets.EMAIL_USER }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
-        run: python scripts/send_email.py
-
-      # 2. 新增步骤：保存 seen.json 的状态回仓库
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "GitHub Action Bot"
-          git config --global user.email "action@github.com"
-          
-          # 检查是否有文件变动
-          if [ -n "$(git status --porcelain state/seen.json)" ]; then
-            git add state/seen.json
-            git commit -m "Update seen papers list [skip ci]"
-            git push
-            echo "Successfully pushed updated seen.json"
-          else
-            echo "No changes in seen.json"
-          fi
