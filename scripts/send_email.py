@@ -7,10 +7,11 @@ from email.mime.multipart import MIMEMultipart
 # 配置
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
-TO_EMAIL = EMAIL_USER  # 你也可以改成其他收件人
+TO_EMAIL = os.getenv("TO_EMAIL", EMAIL_USER)  # 默认发给自己，也可以在 Secrets 里指定其他收件人
 
-SMTP_SERVER = "www.email.cugb.edu.cn"  # 根据你提供的校园邮箱
-SMTP_PORT = 465  # SSL端口
+SMTP_SERVER = os.getenv("SMTP_SERVER")  # 例如 "www.email.cugb.edu.cn"
+SMTP_PORT = int(os.getenv("SMTP_PORT"))  # 默认 465 (SSL)
+
 
 # 读取 daily.md 内容
 with open("output/daily.md", "r", encoding="utf-8") as f:
