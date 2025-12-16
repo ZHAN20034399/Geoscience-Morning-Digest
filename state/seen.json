@@ -1,5 +1,325 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-04054-9",
+    "title": "Giving a voice to animals: Laos’s national herpetologist on her day-to-day",
+    "link": "https://www.nature.com/articles/d41586-025-04054-9",
+    "authors": [
+      "Dave Tacon"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04054-9\">doi:10.1038/d41586-025-04054-9</a>Somphouthone Phimmachak studies amphibians and reptiles as one of the country’s few conservation researchers.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03809-8",
+    "title": "How fasting boosts breast cancer therapy",
+    "link": "https://www.nature.com/articles/d41586-025-03809-8",
+    "authors": [
+      "Stephen D. Hursting"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03809-8\">doi:10.1038/d41586-025-03809-8</a>A discovery in mice reveals why fasting enhances a type of breast cancer treatment — a hormone-signalling pathway and gene-expression changes have key roles.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04067-4",
+    "title": "NSF softens grant-review rules to cope with backlog",
+    "link": "https://www.nature.com/articles/d41586-025-04067-4",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04067-4\">doi:10.1038/d41586-025-04067-4</a>Agency staff members say that the changes are reasonable, but they are worried about the potential effects on review.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03935-3",
+    "title": "The best science images of 2025 — <i>Nature</i>’s picks",
+    "link": "https://www.nature.com/articles/d41586-025-03935-3",
+    "authors": [
+      "Emma Stoye",
+      "Fred Schwaller"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03935-3\">doi:10.1038/d41586-025-03935-3</a>The Sun’s fiery surface, a tattooed tardigrade, rare red lightning and more.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04049-6",
+    "title": "Despite all the negatives, 2025 showcased the power, resilience and universality of science",
+    "link": "https://www.nature.com/articles/d41586-025-04049-6",
+    "authors": [],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04049-6\">doi:10.1038/d41586-025-04049-6</a>There were huge disruptions to the global scientific enterprise this year — but immense bright spots for health, discovery, innovation and research collaboration.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04051-y",
+    "title": "Grant cuts, arrests, lay-offs: Trump made 2025 a tumultuous year for science",
+    "link": "https://www.nature.com/articles/d41586-025-04051-y",
+    "authors": [
+      "Jeff Tollefson"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04051-y\">doi:10.1038/d41586-025-04051-y</a>How the Trump administration caused seismic disruptions to the world’s premier scientific superpower.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03078-5",
+    "title": "Tracing pollution in the lives of Arctic seabirds",
+    "link": "https://www.nature.com/articles/d41586-025-03078-5",
+    "authors": [
+      "Rachael Pells"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03078-5\">doi:10.1038/d41586-025-03078-5</a>Olivier Chastel travels to Svalbard in northern Norway to study the impact of contaminants such as mercury on black-legged kittiwakes.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04066-5",
+    "title": "More than half of researchers now use AI for peer review — often against guidance",
+    "link": "https://www.nature.com/articles/d41586-025-04066-5",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04066-5\">doi:10.1038/d41586-025-04066-5</a>Policies should reflect the ‘new reality’ of researchers’ increasing reliance on tools that can summarize manuscripts and draft reports.",
+    "source": "Nature",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-64348-4",
+    "title": "Author Correction: Long non-coding RNA Linc-RAM enhances myogenic differentiation by interacting with MyoD",
+    "link": "https://www.nature.com/articles/s41467-025-64348-4",
+    "authors": [
+      "Xiaohua Yu",
+      "Yong Zhang",
+      "Tingting Li",
+      "Zhao Ma",
+      "Haixue Jia",
+      "Qian Chen",
+      "Yixia Zhao",
+      "Lili Zhai",
+      "Ran Zhong",
+      "Changyin Li",
+      "Xiaoting Zou",
+      "Jiao Meng",
+      "Antony K. Chen",
+      "Pier Lorenzo Puri",
+      "Meihong Chen",
+      "Dahai Zhu"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-64348-4\">doi:10.1038/s41467-025-64348-4</a>Author Correction: Long non-coding RNA Linc-RAM enhances myogenic differentiation by interacting with MyoD",
+    "source": "Nature Communications",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67557-z",
+    "title": "Ovarian cancer metastasis to the human omentum disrupts organ homeostasis and induces fundamental tissue reprogramming",
+    "link": "https://www.nature.com/articles/s41467-025-67557-z",
+    "authors": [
+      "Ulrike Lischetti",
+      "Ching-Yeu Liang",
+      "Matteo Carrara",
+      "Ricardo Coelho",
+      "Antoine Hanns",
+      "Flavio Lombardo",
+      "Arthur Dondi",
+      "Sandra Goetze",
+      "Michal Hensler",
+      "Christian Kurzeder",
+      "Céline Montavon",
+      "Jitka Fucikova",
+      "Franziska Singer",
+      "Niko Beerenwinkel",
+      "Christian Beisel",
+      "Viola Heinzelmann-Schwarz",
+      "Francis Jacob"
+    ],
+    "summary": "Nature Communications, Published online: 16 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67557-z\">doi:10.1038/s41467-025-67557-z</a>The omentum is the main metastatic site for ovarian cancer. Here, the authors present a human cell atlas of both benign and omentum metastatic ovarian cancer, providing insights into established metastatic sites but also of the omentum pre-metastatic niche.",
+    "source": "Nature Communications",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67432-x",
+    "title": "Author Correction: Strong crystalline thermal insulation induced by extended antibonding states",
+    "link": "https://www.nature.com/articles/s41467-025-67432-x",
+    "authors": [
+      "Ruihuan Cheng",
+      "Chen Wang",
+      "Niuchang Ouyang",
+      "Christophe Candolfi",
+      "Emmanuel Guilmeau",
+      "Xingchen Shen",
+      "Yue Chen"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67432-x\">doi:10.1038/s41467-025-67432-x</a>Author Correction: Strong crystalline thermal insulation induced by extended antibonding states",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67562-2",
+    "title": "Author Correction: Macrophage lineage cells-derived migrasomes activate complement-dependent blood-brain barrier damage in cerebral amyloid angiopathy mouse model",
+    "link": "https://www.nature.com/articles/s41467-025-67562-2",
+    "authors": [
+      "Mengyan Hu",
+      "Tiemei Li",
+      "Xiaomeng Ma",
+      "Sanxin Liu",
+      "Chunyi Li",
+      "Zhenchao Huang",
+      "Yinyao Lin",
+      "Ruizhen Wu",
+      "Shisi Wang",
+      "Danli Lu",
+      "Tingting Lu",
+      "Xuejiao Men",
+      "Shishi Shen",
+      "Huipeng Huang",
+      "Yuxin Liu",
+      "Kangyu Song",
+      "Banghao Jian",
+      "Yuxuan Jiang",
+      "Wei Qiu",
+      "Quentin Liu",
+      "Zhengqi Lu",
+      "Wei Cai"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67562-2\">doi:10.1038/s41467-025-67562-2</a>Author Correction: Macrophage lineage cells-derived migrasomes activate complement-dependent blood-brain barrier damage in cerebral amyloid angiopathy mouse model",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67654-z",
+    "title": "Author Correction: An orally available M<sup>pro</sup>/TMPRSS2 bispecific inhibitor with potent anti-coronavirus efficacy in vivo",
+    "link": "https://www.nature.com/articles/s41467-025-67654-z",
+    "authors": [
+      "Huiping Shuai",
+      "Jingxin Qiao",
+      "Chaemin Yoon",
+      "Guo Zhang",
+      "Yuxin Hou",
+      "Xiaoyan Xia",
+      "Lei Wang",
+      "Xinyue Deng",
+      "Yifei Wang",
+      "Qingquan Li",
+      "Lianzhao Du",
+      "Yuanchen Liu",
+      "Minmin Zhou",
+      "Hoi Ting Wong",
+      "Jiaheng Hu",
+      "Huan Liu",
+      "Bingjie Hu",
+      "Dong Wang",
+      "Jingyi Su",
+      "Yuying Pan",
+      "Yongtao Ye",
+      "Yan Chen",
+      "Zhen Fang",
+      "Ziyi Xia",
+      "Yue Chai",
+      "Jialu Shi",
+      "Yang Wang",
+      "Tianrenzheng Zhu",
+      "Honglei Zhang",
+      "Shuofeng Yuan",
+      "Jie Zhou",
+      "Jasper Fuk-Woo Chan",
+      "Kwok-Yung Yuen",
+      "Chunfu Xu",
+      "Jian Lei",
+      "Shengyong Yang",
+      "Hin Chu"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67654-z\">doi:10.1038/s41467-025-67654-z</a>Author Correction: An orally available M<sup>pro</sup>/TMPRSS2 bispecific inhibitor with potent anti-coronavirus efficacy in vivo",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67249-8",
+    "title": "A synthetic cell phage cycle",
+    "link": "https://www.nature.com/articles/s41467-025-67249-8",
+    "authors": [
+      "Antoine Levrier",
+      "Paul Soudier",
+      "David Garenne",
+      "Ziane Izri",
+      "Steven Bowden",
+      "Ariel B. Lindner",
+      "Vincent Noireaux"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67249-8\">doi:10.1038/s41467-025-67249-8</a>The reconstitution of complex biological processes in cell-free systems can support the detailed characterisation of biochemical mechanisms which are difficult to probe in vivo. Here authors present an all-cell-free T7 phage cycle, consisting of cell-sized liposomes encapsulating a cell-free gene expression reaction and a phage receptor at the membrane.",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67367-3",
+    "title": "Single cell proteomic analysis defines discrete neutrophil functional states in human glioblastoma",
+    "link": "https://www.nature.com/articles/s41467-025-67367-3",
+    "authors": [
+      "Pranvera Sadiku",
+      "Alejandro J. Brenes",
+      "Rupert L. Mayer",
+      "Leila Reyes",
+      "Patricia Coelho",
+      "Gabi van Stralen",
+      "Ailiang Zhang",
+      "Manuel A. Sanchez-Garcia",
+      "Emily R. Watts",
+      "Imran Liaquat",
+      "Andrew J. M. Howden",
+      "Ikeoluwa Adekoya",
+      "Anuka Boldbaatar",
+      "Allan MacRaild",
+      "Sarah Risbridger",
+      "Gillian M. Morrison",
+      "Heather MacPherson",
+      "Caroline M. Bruce",
+      "Shonna Johnston",
+      "Robert Grecian",
+      "Fiona A. Murphy",
+      "Steven M. Pollard",
+      "Paul M. Brennan",
+      "Karl Mechtler",
+      "Sarah R. Walmsley"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67367-3\">doi:10.1038/s41467-025-67367-3</a>Neutrophils infiltrate glioblastomas with the capacity to engage pro/anti tumoural responses. Here the authors developed proteomic workflows to stratify neutrophil heterogeneity by function. This work provides a platform to study neutrophil proteomes with single cell resolution in glioblastoma.",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67499-6",
+    "title": "Discontinuous transition to active nematic turbulence",
+    "link": "https://www.nature.com/articles/s41467-025-67499-6",
+    "authors": [
+      "Malcolm Hillebrand",
+      "Ricard Alert"
+    ],
+    "summary": "Nature Communications, Published online: 15 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67499-6\">doi:10.1038/s41467-025-67499-6</a>Active fluids, such as bacterial suspensions, exhibit chaotic flows at low Reynolds number - a phenomenon known as active turbulence. Here, the authors show a discontinuous transition from laminar to chaotic flows in unconfined active nematics.",
+    "source": "Nature Communications",
+    "date": "2025-12-15"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005813",
+    "title": "Enhanced marine primary productivity during the long-term Ordovician cooling: A barium isotope perspective from South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005813?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 675Author(s): Shengchao Yang, Junxuan Fan, Chao Li, Yi-Bo Lin, Yiying Deng, Zongyuan Sun, Jian Cao, Shu-zhong Shen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-16"
+  },
+  {
+    "id": "10.1029/2024JB030874",
+    "title": "Crustal Structure of the J Magnetic Anomaly at 31°N, Northern Central Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030874?af=R",
+    "authors": [
+      "Manel Prada, \nCésar R. Ranero, \nIngo Grevemeyer, \nLaura Gómez de la Peña, \nEstela Jiménez‐Tejero, \nMarta Neres, \nArantza Ugalde"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-14"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-025-67395-z",
     "title": "Slower-growing species promote interspecific cooperation and coexistence under acid stress through cross-feeding",
     "link": "https://www.nature.com/articles/s41467-025-67395-z",
