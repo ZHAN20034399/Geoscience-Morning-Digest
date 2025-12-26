@@ -1,5 +1,283 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-025-67996-8",
+    "title": "Machine learning-assisted kinetic matching model for rational electrode design in aqueous zinc-ion batteries",
+    "link": "https://www.nature.com/articles/s41467-025-67996-8",
+    "authors": [
+      "Qian Xie",
+      "Yurong You",
+      "Dingshuo Qiao",
+      "Huan Xia",
+      "Hanning Zhang",
+      "Song-Zhu Kure-Chu",
+      "Tomasz Wejrzanowski",
+      "Tao Shui",
+      "Wei Zhang",
+      "ZhengMing Sun"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67996-8\">doi:10.1038/s41467-025-67996-8</a>Aqueous zinc-ion batteries are safe and affordable but limited by incompatible electrode kinetics. Here, authors present a machine learning framework that resolves this mismatch, enabling the rational design of durable and stretchable zinc-ion batteries.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68082-9",
+    "title": "Engineered vesicles enhance oral antibiotic absorption in proximal small intestine and mitigate gut dysbiosis",
+    "link": "https://www.nature.com/articles/s41467-025-68082-9",
+    "authors": [
+      "Yinglan Yu",
+      "Yongfeng Xu",
+      "Zehui Yu",
+      "Xinrui Liu",
+      "Jiayue Guo",
+      "Min Xiang",
+      "Junmeng Chen",
+      "Riyanto Teguh Widodo",
+      "Lei Luo"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68082-9\">doi:10.1038/s41467-025-68082-9</a>In this work, authors present a biohybrid delivery system aimed at overcoming low oral bioavailability and antibiotic-induced dysbiosis by enabling efficient antibiotic transport in the proximal small intestine.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67613-8",
+    "title": "Ultrasensitive multi-degree-of-freedom piezoionic sensor via synergistic hydrogel-ion interactions",
+    "link": "https://www.nature.com/articles/s41467-025-67613-8",
+    "authors": [
+      "Yue Fang",
+      "Hao Ouyang",
+      "Yin Cheng",
+      "Yi Zhou",
+      "Liangjing Shi",
+      "Jing Sun",
+      "Ghim Wei Ho",
+      "Ranran Wang"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67613-8\">doi:10.1038/s41467-025-67613-8</a>Piezoionic flex-sensors are limited by sensitivity and unidirectional bending response. Here, the authors achieve a high piezoionic flex-sensitivity by tuning hydrogel-ion interactions, and decoupling of multi-degree-of-freedom bending via a square prism-shaped fiber structure.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67731-3",
+    "title": "mGluR4–NPDC1 complex mediates α-synuclein fibril-induced neurodegeneration",
+    "link": "https://www.nature.com/articles/s41467-025-67731-3",
+    "authors": [
+      "Azucena Perez-Canamas",
+      "Mingming Chen",
+      "Leire Almandoz-Gil",
+      "Nabab Khan",
+      "Si Jie Tang",
+      "Allyson Ho",
+      "Erik C. Gunther",
+      "Stephen M. Strittmatter"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67731-3\">doi:10.1038/s41467-025-67731-3</a>How α-synuclein interacts with the neuronal cell surface to contribute to disease pathology is not fully understood. Here, the authors conducted a comprehensive search for neuronal membrane proteins mediating α-synuclein aggregate uptake, and identified mGluR4 and NPDC1 as essential for Parkinson’s disease related neurodegeneration triggered by extracellular α-synuclein fibrils.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68086-5",
+    "title": "Calcium channel blockers increase the risk of aortic aneurysm and dissection",
+    "link": "https://www.nature.com/articles/s41467-025-68086-5",
+    "authors": [
+      "Tianfeng Ma",
+      "Zeyu Cai",
+      "Xinming Xu",
+      "Long Cao",
+      "Ao Wang",
+      "Zhongshuang Zhang",
+      "Siting Zhang",
+      "Zhenkun Huang",
+      "Jingjing Luo",
+      "Sen Lin",
+      "Jiashu Ge",
+      "Xinhao Wang",
+      "Yi Fu",
+      "Fang Yu",
+      "Jing Zhou",
+      "Lixin Wang",
+      "Hongpeng Zhang",
+      "Xiang Gao",
+      "Wei Guo",
+      "Wei Kong"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68086-5\">doi:10.1038/s41467-025-68086-5</a>Aortic aneurysm and dissection are lethal vascular diseases lacking effective medical therapy. Here the authors show that calcium channel blocker use increases AAD risk, worsens disease progression in models and patients, and may impair post-repair outcomes, warranting caution in at-risk hypertension.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67488-9",
+    "title": "Germline epigenome editing identifies H3K9me3 as a mediator of intergenerational DNA methylation recovery in mice",
+    "link": "https://www.nature.com/articles/s41467-025-67488-9",
+    "authors": [
+      "Takuro Horii",
+      "Sumiyo Morita",
+      "Shinjiro Hino",
+      "Yuko Hino",
+      "Hiroto S. Fukushima",
+      "Ryosuke Kobayashi",
+      "Mika Kimura",
+      "Mitsuyoshi Nakao",
+      "Yoichi Mizukami",
+      "Azusa Inoue",
+      "Izuho Hatada"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67488-9\">doi:10.1038/s41467-025-67488-9</a>The authors develop a system to erase DNA methylation at H19-DMR in mouse sperm. Despite loss, methylation partly recovers via H3K9me3 after fertilization, revealing partial intergenerational epigenetic inheritance.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67450-9",
+    "title": "Multi-scale classification decodes the complexity of the human E3 ligome",
+    "link": "https://www.nature.com/articles/s41467-025-67450-9",
+    "authors": [
+      "Arghya Dutta",
+      "Alberto Cristiani",
+      "Siddhanta V. Nikte",
+      "Jonathan Eisert",
+      "Yves Matthess",
+      "Borna Markusic",
+      "Cosmin Tudose",
+      "Chiara Becht",
+      "Varun Jayeshkumar Shah",
+      "Thorsten Mosler",
+      "Koraljka Husnjak",
+      "Ivan Dikic",
+      "Manuel Kaulich",
+      "Ramachandra M. Bhaskara"
+    ],
+    "summary": "Nature Communications, Published online: 25 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67450-9\">doi:10.1038/s41467-025-67450-9</a>The authors of this study map the human E3 ubiquitin ligome using a metric learning approach, revealing a unified classification framework that explains preserved patterns and functional segregation of E3 families, linking enzymes to substrates and drug interactions, and guiding strategies for targeted therapies.",
+    "source": "Nature Communications",
+    "date": "2025-12-25"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25005928",
+    "title": "Organic carbon burial and ocean redox modulated biotic recovery after the latest Ordovician crisis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25005928?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Wei Tang, Mu Liu, Heng-Ye Wei, Li-Guang Wu, Kai Lu, Jian Wang, Xian-Hua Li",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-26"
+  },
+  {
+    "id": "10.1029/2025GL119235",
+    "title": "Comparative Study of Upward Leader Inception During the Initial Stage of Negative and Positive Altitude‐Triggered Lightning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119235?af=R",
+    "authors": [
+      "Ruiling Chen, \nRubin Jiang, \nZhuling Sun, \nHongbo Zhang, \nMingyuan Liu, \nZhaowu Liu, \nZhimin Xia, \nShanqing Gu, \nXiushu Qie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GL117783",
+    "title": "The Impact of 3D Structure on Coseismic Coastal Land‐Level Change and Tsunami Generation in the Cascadia Subduction Zone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117783?af=R",
+    "authors": [
+      "Audrey M. Dunham, \nJeonghyeop Kim, \nErin Wirth, \nDavid Schmidt, \nRandall J. LeVeque, \nYong Wei, \nLoyce M. Adams, \nFred Pollitz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GL118108",
+    "title": "Why Horizontal Resolution and Bathymetry Matter in Modeling the Indonesian Seas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118108?af=R",
+    "authors": [
+      "Océane Richet, \nBernadette Sloyan, \nMaxim Nikurashin, \nBeatriz Peña‐Molino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GL117372",
+    "title": "Tropical Moist Heat Extremes on Small Scales Are Not Well Constrained by Reanalysis‐Derived Quasi‐Equilibrium Relationships",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117372?af=R",
+    "authors": [
+      "Quinn Bowman, \nLarissa Back"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GL116358",
+    "title": "Weakened Circum‐Global Teleconnection Pattern Under Global Warming Can Modulate Heat Extremes Across Eurasia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116358?af=R",
+    "authors": [
+      "Hanzhao Yu, \nTianjun Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GL119493",
+    "title": "Observed and Modeled Trends in Downward Surface Shortwave Radiation Over Land: Drivers and Discrepancies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119493?af=R",
+    "authors": [
+      "Karen A. McKinnon, \nIsla R. Simpson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 52, Issue 24, 28 December 2025.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025GC012711",
+    "title": "Nd Isotope Response to Precipitation Variability in the Western Tropical Pacific Over the Last 30 kyr",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012711?af=R",
+    "authors": [
+      "A. P. S. Cruz, \nC. Basak, \nA. K. I. U. Kapuge, \nL. Lo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "10.1029/ggge.70012",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/ggge.70012?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-24"
+  },
+  {
+    "id": "10.1029/2024JB030779",
+    "title": "A Possible Tsunamigenic Near‐Trench Strike‐Slip Fault, Offshore North Ecuador–South Colombia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030779?af=R",
+    "authors": [
+      "J.‐Y. Collot, \nG. Ratzov, \nF. Michaud, \nA. Galve, \nJ.‐N. Proust, \nM. Gonzalez, \nJ.‐F. Lebrun, \nM. Laigle, \nB. Marcaillou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "10.1029/2025JB032002",
+    "title": "Observations of Small‐Scale Heterogeneity in the Upper Mantle Beneath Old Oceanic Lithosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032002?af=R",
+    "authors": [
+      "A. Hariharan, \nZ. Eilon, \nJ. Gaherty, \nJ. Russell, \nJ. Phillips, \nD. Forsyth"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 130, Issue 12, December 2025.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2025-12-23"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007446",
+    "title": "Microbial and abiotic approaches to carbonating stevensite: what works and what doesn’t",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007446?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Maria L. Arizaleta, Maija J. Raudsepp, Nina Zeyen, Janice P.L. Kenney, Katherine N. Snihur, Daniel S. Alessi, Sasha Wilson",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-26"
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-03756-4",
     "title": "The Nature Podcast highlights of 2025",
     "link": "https://www.nature.com/articles/d41586-025-03756-4",
