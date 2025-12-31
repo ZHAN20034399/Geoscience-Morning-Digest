@@ -1,5 +1,337 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-025-03989-3",
+    "title": "Can boomerangs bounce?",
+    "link": "https://www.nature.com/articles/d41586-025-03989-3",
+    "authors": [],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-03989-3\">doi:10.1038/d41586-025-03989-3</a>Privacy in the age of computers and a Nature reader questions eyewitness accounts of boomerangs in our weekly dip into the archive.",
+    "source": "Nature",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04026-z",
+    "title": "Safe as houses",
+    "link": "https://www.nature.com/articles/d41586-025-04026-z",
+    "authors": [
+      "Dawn Vogel"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04026-z\">doi:10.1038/d41586-025-04026-z</a>Constructive feedback.",
+    "source": "Nature",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04100-6",
+    "title": "Science in 2050: the future breakthroughs that will shape our world — and beyond",
+    "link": "https://www.nature.com/articles/d41586-025-04100-6",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04100-6\">doi:10.1038/d41586-025-04100-6</a>Nuclear fusion. People on Mars. Artificial general intelligence. These are just some of the advances that could come by the mid-century mark.",
+    "source": "Nature",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04103-3",
+    "title": "Mummies give up their secrets — but not their mystery",
+    "link": "https://www.nature.com/articles/d41586-025-04103-3",
+    "authors": [
+      "Laura Spinney"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04103-3\">doi:10.1038/d41586-025-04103-3</a>A challenging exhibition asks why we are so fascinated with the preserved bodies of our ancestors, and how we should treat them.",
+    "source": "Nature",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04099-w",
+    "title": "Put pressure on publishers to follow best practice — external regulation is the answer",
+    "link": "https://www.nature.com/articles/d41586-025-04099-w",
+    "authors": [
+      "Jennifer A. Byrne"
+    ],
+    "summary": "Nature, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/d41586-025-04099-w\">doi:10.1038/d41586-025-04099-w</a>Journals that work hard to meet the needs of both authors and readers should be acknowledged publicly — encouraging others to follow suit.",
+    "source": "Nature",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67857-4",
+    "title": "Flexible computation of object motion and depth based on viewing geometry inferred from optic flow",
+    "link": "https://www.nature.com/articles/s41467-025-67857-4",
+    "authors": [
+      "Zhe-Xin Xu",
+      "Jiayi Pang",
+      "Akiyuki Anzai",
+      "Gregory C. DeAngelis"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67857-4\">doi:10.1038/s41467-025-67857-4</a>People typically perceive the motion and depth of objects correctly even during walking or running, when visual inputs change markedly. The authors show that this accurate perception is achieved by inferring the observer’s viewing geometry from optic flow.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67697-2",
+    "title": "Rhomboid protease GlpG regulates type 1 pili quality control and virulence in pathogenic <i>E. coli</i>",
+    "link": "https://www.nature.com/articles/s41467-025-67697-2",
+    "authors": [
+      "Jimmy Lu",
+      "Elena Arutyunova",
+      "Bridgette Hartley",
+      "Jonas Wong",
+      "Hyunjae Chung",
+      "Lanny Buchan",
+      "Heather Armstrong",
+      "Sadhna Phanse",
+      "Howard S. Young",
+      "Eytan Wine",
+      "Mohan Babu",
+      "Justin Chun",
+      "Wael Elhenawy",
+      "Olivier Julien",
+      "M. Joanne Lemieux"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67697-2\">doi:10.1038/s41467-025-67697-2</a>The disruption of the rhomboid protease gene glpG in E. coli leads to defects in bacterial colonization. Here, the authors show that GlpG is essential for the assembly of type 1 pili, a virulence factor required for colonization of bacteria in eukaryotic cells.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68065-w",
+    "title": "Magnetic memory driven by spin splitting torque in nonrelativistic collinear antiferromagnet",
+    "link": "https://www.nature.com/articles/s41467-025-68065-w",
+    "authors": [
+      "Yaqin Guo",
+      "Aitian Chen",
+      "Zhaozhuo Zeng",
+      "Tai An",
+      "Qirui Cui",
+      "Yonglong Ga",
+      "Dongxing Zheng",
+      "Xiao Deng",
+      "Xu Zhang",
+      "Meng Tang",
+      "Zengtai Zhu",
+      "Chuangwen Wu",
+      "Jing Zhang",
+      "Yibo Fan",
+      "Zhe Wang",
+      "Wenjie Song",
+      "Peng Yan",
+      "Tao Zhu",
+      "Shouguo Wang",
+      "Xiufeng Han",
+      "Jinkui Zhao",
+      "Kang L. Wang",
+      "Guoqiang Yu",
+      "Xixiang Zhang",
+      "Hao Wu"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68065-w\">doi:10.1038/s41467-025-68065-w</a>Altermagnets combine spin-split electronic bands with zero net magnetization, making them ideal for integration into spin-based information processing devices. Here Guo, Chen, Zeng, and coauthors demonstrate a magnetic memory making use of the altermagnetic spin splitting torque in a three terminal MRAM device.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67883-2",
+    "title": "Capsaicin diet drives gut inflammation and exosomal <i>miR-17-3p</i> elevation in idiopathic short stature",
+    "link": "https://www.nature.com/articles/s41467-025-67883-2",
+    "authors": [
+      "Yameng Wang",
+      "Zhiwen Wu",
+      "Jinghong Yuan",
+      "Junchao Zhu",
+      "Marco Ventin",
+      "Shahrzad Arya",
+      "Peng Yu",
+      "Giulia Cattaneo",
+      "Guowen Huang",
+      "Wenrui Zhao",
+      "Shengqin Li",
+      "Junqiu Zhang",
+      "Qi Chen",
+      "Xinhui Wang",
+      "Lianyong Li",
+      "Xijuan Liu",
+      "Xigao Cheng",
+      "Jingyu Jia"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67883-2\">doi:10.1038/s41467-025-67883-2</a>The authors demonstrate that plasma exosomes from children with idiopathic short stature contain elevated hsa-miR-17-3p, that disrupts growth signaling and impairs cartilage cell proliferation. A capsaicin-rich diet in rats triggered gut inflammation, increased exosomal miR-17-3p and recapitulated features of idiopathic short stature.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67629-0",
+    "title": "Structure of the G<sub>q</sub>-coupled adhesion receptor ADGRL4",
+    "link": "https://www.nature.com/articles/s41467-025-67629-0",
+    "authors": [
+      "Qingchao Chen",
+      "Anastasiia Gusach",
+      "Aurora Diamante",
+      "Jayesh C. Patel",
+      "Patricia C. Edwards",
+      "Christopher G. Tate",
+      "David M. Favara"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67629-0\">doi:10.1038/s41467-025-67629-0</a>ADGRL4 is a cancer-implicated adhesion GPCR whose ability to couple to G proteins had been unclear. Here, authors show that ADGRL4 weakly engages Gq and determine its 3.1 Å active-state structure, revealing its mechanism of activation.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-68025-4",
+    "title": "Topological exciton-polaritons with negative coupling",
+    "link": "https://www.nature.com/articles/s41467-025-68025-4",
+    "authors": [
+      "Zixuan Yu",
+      "Feng Jin",
+      "Jiahao Ren",
+      "Subhaskar Mandal",
+      "Baile Zhang",
+      "Rui Su"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-68025-4\">doi:10.1038/s41467-025-68025-4</a>Negative coupling is an intriguing mechanism for linking lattice sites, enabling phenomena unattainable with positive coupling alone. Here, the authors introduce this unique coupling into the polariton system and demonstrate topological polariton condensation in lattices with negative coupling.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67772-8",
+    "title": "Autonomous biogenesis of all thirty proteins of the Escherichia coli translation machinery",
+    "link": "https://www.nature.com/articles/s41467-025-67772-8",
+    "authors": [
+      "Matthaeus Schwarz-Schilling",
+      "Ilan Cohen",
+      "Aurore Dupin",
+      "Noa Avidan",
+      "Yoav Barak",
+      "Yoshihiro Shimizu",
+      "Shirley S. Daube",
+      "Roy H. Bar-Ziv"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67772-8\">doi:10.1038/s41467-025-67772-8</a>The cell-free biogenesis of the protein translation machinery is essential for the creation of a self-regenerating synthetic cell. Here the authors synthesise all 30 E. coli translation proteins in a cell-free system and demonstrate functionality.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-67909-9",
+    "title": "bZIP factors of the Unfolded Protein Response interact with PIF4 to promote thermomorphogenesis",
+    "link": "https://www.nature.com/articles/s41467-025-67909-9",
+    "authors": [
+      "Dan Zhang",
+      "Haiying Xu",
+      "Nam-Hai Chua"
+    ],
+    "summary": "Nature Communications, Published online: 30 December 2025; <a href=\"https://www.nature.com/articles/s41467-025-67909-9\">doi:10.1038/s41467-025-67909-9</a>UPR-derived bZIP factors interact with PIF4 to boost plant growth at moderately elevated temperatures, linking ER stress signaling with temperature-responsive pathways.",
+    "source": "Nature Communications",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2508896122?af=R",
+    "title": "Biomarker δ13C values record consistent savanna vegetation and variable alkalinity of Lake Olduvai during Pleistocene wet/dry cycles",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2508896122?af=R",
+    "authors": [
+      "Kelsey E. DoironDevon E. ColcordAndrea M. ShillingJackson K. NjauIan G. StanistreetHarald StollhofenKathy D. SchickNicholas P. TothSimon C. BrassellaDepartment of Earth & Atmospheric Sciences, Indiana University, Bloomington, IN 47401bDepartment of Earth, Ocean, and Ecological Sciences, University of Liverpool, Liverpool L69 3BX, United KingdomcThe Stone Age Institute, Gosport, IN 47433dGeoZentrum Nordbayern, Friedrich-Alexander-Universität, Erlangen 91054, Germany"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 1, January 2026. <br />SignificanceFossil and archaeological records confirm that the lacustrine setting of Olduvai Gorge was a sustained habitat for hominins in the early Pleistocene. Sediments deposited in Paleolake Olduvai spanning forty thousand years record evidence of ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001282522500340X",
+    "title": "The carbon isotope offset between leaf wax C<sub>29</sub> and C<sub>31</sub> <em>n</em>-alkanes as a proxy of precipitation seasonality",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001282522500340X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 December 2025<b>Source:</b> Earth-Science ReviewsAuthor(s): Liping Tian, Yanming Ruan, Jiantao Cao, Li Li, Guodong Jia",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X25006065",
+    "title": "Climatic controls on erosional efficiency vary with lithology across the Himalaya",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X25006065?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 February 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 676Author(s): Kevin Shao, Seulgi Moon, Gen K. Li, Peter J. Haproff, An Yin, Lee B. Corbett, Paul R. Bierman, Marina O. Argueta, Alan J. Hidy",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "10.1029/2025GL118457",
+    "title": "Temperature Is Surpassing Precipitation as the Dominant Driver of Flash Drought Acceleration Under Climate Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118457?af=R",
+    "authors": [
+      "Feng Ma, \nHua Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "10.1029/2025GL118295",
+    "title": "Difference in Slip Patterns Between Two Prehistoric Giant Earthquakes Along the Southern Kuril Trench",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118295?af=R",
+    "authors": [
+      "Kei Ioki, \nYuki Sawai, \nYuichi Namegaya, \nDan Matsumoto, \nKoichiro Tanigawa, \nYumi Shimada, \nToru Tamura, \nRina Okada"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-30"
+  },
+  {
+    "id": "10.1029/2025GL117680",
+    "title": "Independent Short‐ and Longwave Pathways for a Zonally Asymmetric Northern Hemisphere Temperature Response to Tropical Volcanic Eruptions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117680?af=R",
+    "authors": [
+      "L. S. Andreasen, \nT. A. Shaw, \nM. Günther, \nC. Timmreck"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "10.1029/2025GL117927",
+    "title": "Implications for Oceanographic and Seafloor Geodetic Applications Due To Settling of Self‐Calibrating Bottom Pressure Recorders",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117927?af=R",
+    "authors": [
+      "Nicholas Harmon, \nCatherine A. Rychert, \nBen Moat, \nDavid Smeed, \nEleanor Frajka‐Williams, \nTillys Petit, \nMartin Walker, \nPaul Provost, \nTina Thomas"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "10.1029/2025GL119062",
+    "title": "Halogenated Organic Compounds: A Massive Halogen Reservoir and an Intriguing Component of the Marine Dissolved Organic Matter Pool",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119062?af=R",
+    "authors": [
+      "Leanne C. Powers, \nJohan Schijf, \nPhilippe Schmitt‐Kopplin, \nMichael Gonsior"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 1, 16 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "10.1029/2025GC012630",
+    "title": "Brunhes Paleomagnetic Directions and Paleointensities From Northern Hainan Island",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012630?af=R",
+    "authors": [
+      "Mengqing Wang, \nHuapei Wang, \nHuafeng Qin, \nJian Luo, \nChen Wen, \nFei Han, \nYiming Ma, \nJiabo Liu"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2025-12-29"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007513",
+    "title": "Large impact of light on alkenone-inferred temperatures from continuous cultures of the coccolithophore <em>Gephyrocapsa (Emiliania) huxleyi</em> under nutrient limitation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007513?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Julian P. Sachs, Matthew Wolhowe",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-31"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703725007525",
+    "title": "Discovery of young submarine volcanism in the Cook Islands: New constraints on the location of the Rarotonga hotspot",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703725007525?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 29 December 2025<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yifan Du, Matthew Jackson, Brian Jicha, Andrew Kylander-Clark, Benjamin L. Byerly, Michael Bizimis, Sæmundur Ari Halldórsson, Gareth Seward, Olivia E. Anderson, Matthew Rioux, Kevin Konrad, Sunna Harðardóttir, Ruixia Bai, Andrea Giuliani, Douglas A. Wiens, S.Shawn Wei, Gerald McCormack, John Michael Parianos",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2025-12-31"
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-025-04147-5",
     "title": "Audio long read: Will blockbuster obesity drugs revolutionize addiction treatment?",
     "link": "https://www.nature.com/articles/d41586-025-04147-5",
