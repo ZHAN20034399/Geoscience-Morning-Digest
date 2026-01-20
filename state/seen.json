@@ -1,5 +1,373 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10131-4",
+    "title": "Collective intelligence for AI-assisted chemical synthesis",
+    "link": "https://www.nature.com/articles/s41586-026-10131-4",
+    "authors": [
+      "Haote Li",
+      "Sumon Sarkar",
+      "Wenxin Lu",
+      "Patrick O. Loftus",
+      "Tianyin Qiu",
+      "Yu Shee",
+      "Abbigayle E. Cuomo",
+      "John-Paul Webster",
+      "H. Ray Kelly",
+      "Vidhyadhar Manee",
+      "Sanil Sreekumar",
+      "Frederic G. Buono",
+      "Robert H. Crabtree",
+      "Timothy R. Newhouse",
+      "Victor S. Batista"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10131-4\">doi:10.1038/s41586-026-10131-4</a>Collective intelligence for AI-assisted chemical synthesis",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10108-3",
+    "title": "Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "link": "https://www.nature.com/articles/s41586-026-10108-3",
+    "authors": [
+      "Dolev Bluvstein",
+      "Alexandra A. Geim",
+      "Sophie H. Li",
+      "Simon J. Evered",
+      "J. Pablo Bonilla Ataides",
+      "Gefen Baranes",
+      "Andi Gu",
+      "Tom Manovitz",
+      "Muqing Xu",
+      "Marcin Kalinowski",
+      "Shayan Majidy",
+      "Christian Kokail",
+      "Nishad Maskara",
+      "Elias C. Trapp",
+      "Luke M. Stewart",
+      "Simon Hollerith",
+      "Hengyun Zhou",
+      "Michael J. Gullans",
+      "Susanne F. Yelin",
+      "Markus Greiner",
+      "Vladan Vuletić",
+      "Madelyn Cain",
+      "Mikhail D. Lukin"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-026-10108-3\">doi:10.1038/s41586-026-10108-3</a>Publisher Correction: A fault-tolerant neutral-atom architecture for universal quantum computation",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-10080-4",
+    "title": "Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "link": "https://www.nature.com/articles/s41586-025-10080-4",
+    "authors": [
+      "Hao Wang",
+      "Marc Tessier-Lavigne"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-10080-4\">doi:10.1038/s41586-025-10080-4</a>Editorial Expression of Concern: <i>En passant</i> neurotrophic action of an intermediate axonal target in the developing mammalian CNS",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-025-09992-y",
+    "title": "Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "link": "https://www.nature.com/articles/s41586-025-09992-y",
+    "authors": [
+      "Nathan J. Szymanski",
+      "Bernardus Rendy",
+      "Yuxing Fei",
+      "Rishi E. Kumar",
+      "Tanjin He",
+      "David Milsted",
+      "Matthew J. McDermott",
+      "Max Gallant",
+      "Ekin Dogus Cubuk",
+      "Amil Merchant",
+      "Haegyeom Kim",
+      "Anubhav Jain",
+      "Christopher J. Bartel",
+      "Kristin Persson",
+      "Yan Zeng",
+      "Gerbrand Ceder"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41586-025-09992-y\">doi:10.1038/s41586-025-09992-y</a>Author Correction: An autonomous laboratory for the accelerated synthesis of inorganic materials",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00189-5",
+    "title": "Floating science stations: my month on a research vessel looking after buoys",
+    "link": "https://www.nature.com/articles/d41586-026-00189-5",
+    "authors": [
+      "Christine Ro"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00189-5\">doi:10.1038/d41586-026-00189-5</a>Physical oceanographer Melina M. Martinez finds ways to gather ocean data off the coast of Argentina.",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00186-8",
+    "title": "‘Greed is the iron cage of our times’ — why nationalism is here to stay",
+    "link": "https://www.nature.com/articles/d41586-026-00186-8",
+    "authors": [
+      "Roberto Patricio Korzeniewicz"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00186-8\">doi:10.1038/d41586-026-00186-8</a>A generation that missed out on economic growth is driving the trends overtaking politics today.",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00144-4",
+    "title": "Can ‘toxic masculinity’ be measured? Scientists try to quantify controversial term",
+    "link": "https://www.nature.com/articles/d41586-026-00144-4",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00144-4\">doi:10.1038/d41586-026-00144-4</a>A study has outlined eight indicators of toxic masculinity in heterosexual men — and finds that ‘manliness’ is not necessarily a problematic aspect of masculinity.",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00187-7",
+    "title": "Forget formalism: mathematics was built on infighting and emotional turmoil",
+    "link": "https://www.nature.com/articles/d41586-026-00187-7",
+    "authors": [
+      "Ananyo Bhattacharya"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00187-7\">doi:10.1038/d41586-026-00187-7</a>A fast-paced book captures how theory and formal proof intertwined with the personal lives of prominent mathematicians.",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04061-w",
+    "title": "I’m going to halve my publication output. You should consider slow science, too",
+    "link": "https://www.nature.com/articles/d41586-025-04061-w",
+    "authors": [
+      "Adrian Barnett"
+    ],
+    "summary": "Nature, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04061-w\">doi:10.1038/d41586-025-04061-w</a>If we don’t slow down, the research enterprise is going to crash, argues Adrian Barnett.",
+    "source": "Nature",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00201-y",
+    "title": "Daily briefing: Symbols on ancient pottery could be earliest evidence of mathematics",
+    "link": "https://www.nature.com/articles/d41586-026-00201-y",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 16 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00201-y\">doi:10.1038/d41586-026-00201-y</a>Painted flowers reveal an understanding of symmetry and spatial division long before written numbers came into use. Plus, travel the vast ocean with sea turtles and what to watch from the Trump administration in 2026.",
+    "source": "Nature",
+    "date": "2026-01-16"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68722-8",
+    "title": "Publisher Correction: Echo-Vision-FM: a pre-training and fine-tuning framework for echocardiogram video vision foundation model",
+    "link": "https://www.nature.com/articles/s41467-026-68722-8",
+    "authors": [
+      "Ziyang Zhang",
+      "Qinxin Wu",
+      "Sirui Ding",
+      "Xiaolong Wang",
+      "Jiancheng Ye"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68722-8\">doi:10.1038/s41467-026-68722-8</a>Publisher Correction: Echo-Vision-FM: a pre-training and fine-tuning framework for echocardiogram video vision foundation model",
+    "source": "Nature Communications",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68641-8",
+    "title": "C1q-dependent clearance of alpha-synuclein allows macrophages to transiently limit enteric synucleinopathy in male mice",
+    "link": "https://www.nature.com/articles/s41467-026-68641-8",
+    "authors": [
+      "Phillip M. Mackie",
+      "Joanne M. Koshy",
+      "Mauli H. Bhogade",
+      "Tristan Hammoor",
+      "William Hachmeister",
+      "Grace M. Lloyd",
+      "Giavanna Paterno",
+      "Mackenzie L. Bolen",
+      "Andrea Merchak",
+      "Malu Gamez-Tansey",
+      "Benoit I. Giasson",
+      "Habibeh Khoshbouei"
+    ],
+    "summary": "Nature Communications, Published online: 20 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68641-8\">doi:10.1038/s41467-026-68641-8</a>Misfolded α-synuclein in the gut contributes to Parkinsons’s disease pathogenesis and gut symptoms. Gut macrophages clear α-synuclein via C1q–complement pathways; loss of this response worsens neuropathology and improves gut function, implicating neuroimmune crosstalk.",
+    "source": "Nature Communications",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68421-4",
+    "title": "Author Correction: Autophagy-deficient macrophages exacerbate cisplatin-induced mitochondrial dysfunction and kidney injury via miR-195a-5p-SIRT3 axis",
+    "link": "https://www.nature.com/articles/s41467-026-68421-4",
+    "authors": [
+      "Yujia Yuan",
+      "Longhui Yuan",
+      "Jingchao Yang",
+      "Fei Liu",
+      "Shuyun Liu",
+      "Lan Li",
+      "Guangneng Liao",
+      "Xi Tang",
+      "Jingqiu Cheng",
+      "Jingping Liu",
+      "Younan Chen",
+      "Yanrong Lu"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68421-4\">doi:10.1038/s41467-026-68421-4</a>Author Correction: Autophagy-deficient macrophages exacerbate cisplatin-induced mitochondrial dysfunction and kidney injury via miR-195a-5p-SIRT3 axis",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68624-9",
+    "title": "On the use and misuse of pangenome and related terms",
+    "link": "https://www.nature.com/articles/s41467-026-68624-9",
+    "authors": [
+      "David Edwards"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68624-9\">doi:10.1038/s41467-026-68624-9</a>The growth of pangenomics has been rapid, as data and tools improve over time. However, care should be taken to avoid the misuse of pangenome and related terms, with clarity and precision taking precedent over fashion and trends.",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68615-w",
+    "title": "Author Correction: Marine phosphorus and atmospheric oxygen were coupled during the Great Oxidation Event",
+    "link": "https://www.nature.com/articles/s41467-026-68615-w",
+    "authors": [
+      "Matthew S. Dodd",
+      "Chao Li",
+      "Haodong Gu",
+      "Zihu Zhang",
+      "Mingcai Hou",
+      "Aleksey Sadekov",
+      "Carlos Alberto Rosière",
+      "Franco Pirajno",
+      "Lewis Alcott",
+      "Frantz Ossa Ossa",
+      "Benjamin J. W. Mills",
+      "Andrey Bekker"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68615-w\">doi:10.1038/s41467-026-68615-w</a>Author Correction: Marine phosphorus and atmospheric oxygen were coupled during the Great Oxidation Event",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68518-w",
+    "title": "Author Correction: Mutual inhibition between EPFL2 and auxin extends the intervals of periodic leaf morphogenesis",
+    "link": "https://www.nature.com/articles/s41467-026-68518-w",
+    "authors": [
+      "Toshiaki Tameshige",
+      "Takeshi Tsuchida",
+      "Yuuki Matsushita",
+      "Yuki Doll",
+      "Kaisei Maruyama",
+      "Takemoto Agui",
+      "Mitsuhiro Aida",
+      "Hiroyuki Kasahara",
+      "Keiko U. Torii",
+      "Naoyuki Uchida",
+      "Koichi Fujimoto",
+      "Momoko Ikeuchi"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68518-w\">doi:10.1038/s41467-026-68518-w</a>Author Correction: Mutual inhibition between EPFL2 and auxin extends the intervals of periodic leaf morphogenesis",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68473-6",
+    "title": "Episodic events are flexibly encoded in both integrated and separated neural representations",
+    "link": "https://www.nature.com/articles/s41467-026-68473-6",
+    "authors": [
+      "Zhenghao Liu",
+      "Mikael Johansson",
+      "Inês Bramão"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68473-6\">doi:10.1038/s41467-026-68473-6</a>People often need to remember unique details while also finding connections across experiences. Here, the authors show that the brain flexibly links related events while preserving their distinct features to support different memory goals.",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68525-x",
+    "title": "Palmitic acid-triggered B7H3 palmitoylation promotes immune escape",
+    "link": "https://www.nature.com/articles/s41467-026-68525-x",
+    "authors": [
+      "Zejun Rao",
+      "Changsheng Huang",
+      "Qi Wu",
+      "Mao Li",
+      "Anyi Liu",
+      "Tong Zhu",
+      "Wangshuo Yang",
+      "Lanlan Yin",
+      "Shengyu Zhu",
+      "Xiaowei She",
+      "Chengxin Yu",
+      "Lang Liu",
+      "Pengcheng Li",
+      "Yucong Bai",
+      "Dongjing Zhang",
+      "Tianci Xie",
+      "Xiang Liu",
+      "Lu Liu",
+      "Feng Xu",
+      "Guihua Wang",
+      "Junbo Hu",
+      "Xuelai Luo"
+    ],
+    "summary": "Nature Communications, Published online: 19 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68525-x\">doi:10.1038/s41467-026-68525-x</a>B7H3 is an immune checkpoint overexpressed in many cancers and associated with tumor immune evasion. Here, the authors discover that in colorectal cancer, particularly microsatellite-stable tumors, palmitic acid promotes ZDHHC24- mediated B7H3 palmitoylation, regulating CD8⁺ T cell antitumor activity.",
+    "source": "Nature Communications",
+    "date": "2026-01-19"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000103",
+    "title": "Advances and challenges in predicting wave runup in coastal regions: A scoping review of empirical, numerical, and AI-based approaches",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000103?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Erfan Amini, Mehrdad Baniesmaeil, Hossein Mehdipour, Mehdi Neshat, Reza Marsooli",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "10.1029/2025JB032783",
+    "title": "Increasing the Accuracy and Efficiency of Micromagnetic Tomography by Double Sided Scanning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032783?af=R",
+    "authors": [
+      "Frenk Out, \nRosa A. de Boer, \nMartha E. Kosters, \nBertwin M. de Groot, \nLennart V. de Groot"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-18"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000190",
+    "title": "Sediment resuspension and reductive dissolution of terrigenous Fe-Mn oxides control dissolved neodymium and hafnium inputs from the Amazon shelf",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000190?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Antao Xu, Ed Hathorne, Florian Scholz, Chen Ling, Andrea Koschinsky, Martin Frank",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000207",
+    "title": "Iron and calcium isotopic fractionation during calcic carbonatite–silicate liquid immiscibility",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000207?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yan Liu, Haoyu Luo, Hongjie Wu, Zengqian Hou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000189",
+    "title": "Unlocking sub-annual hydroclimate and temperature variability through land snail shell records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000189?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xiulan Zong, Jingjing Guo, Wenru Yang, Jibao Dong, Niels J. de Winter, Hong Yan, Yougui Song, Youbin Sun, Francien Peterse, Martin Ziegler",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-20"
+  },
+  {
     "id": "10.1029/2025GL118190",
     "title": "Hidden Bioavailable Dissolved Organic Matter in the Deep Northwestern Pacific Ocean",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118190?af=R",
