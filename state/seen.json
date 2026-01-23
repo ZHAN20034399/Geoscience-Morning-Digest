@@ -1,5 +1,827 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00241-4",
+    "title": "Marvellous microbes, memory and the multiverse: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-00241-4",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 23 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00241-4\">doi:10.1038/d41586-026-00241-4</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00207-6",
+    "title": "Cause of vision loss discovered in overlooked genes",
+    "link": "https://www.nature.com/articles/d41586-026-00207-6",
+    "authors": [],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00207-6\">doi:10.1038/d41586-026-00207-6</a>Non-protein-coding genes have been linked to a hereditary condition, retinitis pigmentosa, that causes progressive blindness.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00206-7",
+    "title": "Canny cattle: at least one cow knows how to use tools",
+    "link": "https://www.nature.com/articles/d41586-026-00206-7",
+    "authors": [],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00206-7\">doi:10.1038/d41586-026-00206-7</a>An Austrian cow has shown that some bovines are intelligent enough to employ objects for their own ends.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00153-3",
+    "title": "‘Bodies like ours aren’t considered in academia’",
+    "link": "https://www.nature.com/articles/d41586-026-00153-3",
+    "authors": [
+      "Adam Levy"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00153-3\">doi:10.1038/d41586-026-00153-3</a>Two researchers describe how body size and having a disability can challenge perceptions of what a scientist should look like.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-04064-7",
+    "title": "When two years of academic work vanished with a single click",
+    "link": "https://www.nature.com/articles/d41586-025-04064-7",
+    "authors": [
+      "Marcel Bucher"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-025-04064-7\">doi:10.1038/d41586-025-04064-7</a>After turning off ChatGPT’s ‘data consent’ option, Marcel Bucher lost the work behind grant applications, teaching materials and publication drafts. Here’s what happened next.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00184-w",
+    "title": "Microplastic levels in the air have been overestimated, but are still a big concern",
+    "link": "https://www.nature.com/articles/d41586-026-00184-w",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00184-w\">doi:10.1038/d41586-026-00184-w</a>Microplastics are everywhere, but new research points to a need to standardize measurements of microparticles.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00222-7",
+    "title": "Cancer might protect against Alzheimer’s — this protein helps explain why",
+    "link": "https://www.nature.com/articles/d41586-026-00222-7",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00222-7\">doi:10.1038/d41586-026-00222-7</a>A molecule produced by cancer cells can shield the brain from Alzheimer’s disease in mice.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00251-2",
+    "title": "NIH ends support for some human fetal-tissue research – dismaying scientists",
+    "link": "https://www.nature.com/articles/d41586-026-00251-2",
+    "authors": [
+      "Heidi Ledford",
+      "Edward Chen"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00251-2\">doi:10.1038/d41586-026-00251-2</a>The US biomedical funding agency also hints at future restrictions on research involving human embryonic stem cells.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00183-x",
+    "title": "Exclusive: key NIH review panels due to lose all members by the end of 2026",
+    "link": "https://www.nature.com/articles/d41586-026-00183-x",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00183-x\">doi:10.1038/d41586-026-00183-x</a>Thirteen of the agency’s advisory councils, which must review grant applications before funding is awarded, are on track to have no voting members.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00219-2",
+    "title": "What your breath says about the bacteria in your gut",
+    "link": "https://www.nature.com/articles/d41586-026-00219-2",
+    "authors": [
+      "Edward Chen"
+    ],
+    "summary": "Nature, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00219-2\">doi:10.1038/d41586-026-00219-2</a>Metabolites in mouse and human breath correlate to gut-microbe populations and might be helpful in diagnosing disease.",
+    "source": "Nature",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00230-7",
+    "title": "Daily briefing: Trump — one year in",
+    "link": "https://www.nature.com/articles/d41586-026-00230-7",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 21 January 2026; <a href=\"https://www.nature.com/articles/d41586-026-00230-7\">doi:10.1038/d41586-026-00230-7</a>How one year of the Trump administration has impacted US science. Plus, baby-to-baby transmission shapes their developing gut microbiomes and the tech to look out for in 2026.",
+    "source": "Nature",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed7095?af=R",
+    "title": "Narratives of conflict in a warming Arctic",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed7095?af=R",
+    "authors": [
+      "Jennifer Spence"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 359-359, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed8334?af=R",
+    "title": "Mitigating clean energy’s dirty costs",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed8334?af=R",
+    "authors": [
+      "Elias T. Ayuk"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 358-358, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ads5266?af=R",
+    "title": "Giant enhancement of exciton diffusion near an electronic Mott insulator",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ads5266?af=R",
+    "authors": [
+      "Pranshoo Upadhyay, Daniel G. Suárez-Forero, Tsung-Sheng Huang, Mahmoud Jalali Mehrabad, Beini Gao, Supratik Sarkar, Deric Session, Kenji Watanabe, Takashi Taniguchi, You Zhou, Michael Knap, Mohammad Hafezi"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 394-398, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-01"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adt2442?af=R",
+    "title": "Multiparameter estimation with an array of entangled atomic sensors",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adt2442?af=R",
+    "authors": [
+      "Yifan Li, Lex Joosten, Youcef Baamara, Paolo Colciaghi, Alice Sinatra, Philipp Treutlein, Tilman Zibold"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 374-378, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu2825?af=R",
+    "title": "Platelet-derived integrin- and tetraspanin-enriched tethers exacerbate severe inflammation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu2825?af=R",
+    "authors": [
+      "Charly Kusch, David Stegner, Lukas J. Weiss, Paquita Nurden, Philipp Burkard, Denise Johnson, Wolfgang Bergmeier, Ceylan Onursal, Stefano Navarro, Christian Hackenbroch, Dennis Pfeiffer, Sabrina Ivana Bonfiglio, Mara Meub, Carina Gross, Joachim Schenk, Valeria Fumagalli, Kristina Mott, Markus Bender, Matteo Iannacone, Oliver Andres, Wolfgang Kastenmüller, Katrin G. Heinze, Markus Sauer, Harald Schulze, Klaus Ley, Alan T. Nurden, Bernhard Nieswandt"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu2896?af=R",
+    "title": "Myelin is repaired by constitutive differentiation of oligodendrocyte progenitors",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu2896?af=R",
+    "authors": [
+      "Yevgeniya A. Mironova, Brendan Dang, Dongeun Heo, Yu Kang T. Xu, Angela Yu-Huey Hsu, Jaime Eugenin von Bernhardi, Gian Carlo Molina-Castro, Anya A. Kim, Jing-Ping Lin, Daniel S. Reich, Dwight E. Bergles"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adv5257?af=R",
+    "title": "Endogenous retroviruses synthesize heterologous chimeric RNAs to reinforce human early embryo development",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adv5257?af=R",
+    "authors": [
+      "Yangquan Xiang, Yuli Qian, Zhengyi Li, Jiaxu Wang, Ruonan Tian, Weikang Meng, Jiabao Bu, Fei Huang, Zhipeng Ai, Danya Wu, Xijia Chen, You Wu, Li Shen, Yun-Shen Chan, Yawei Gao, Jun Ma, Wanlu Liu, Shaorong Gao, Dan Zhang, Hongqing Liang"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adw3020?af=R",
+    "title": "A 5500-year-old Treponema pallidum genome from Sabana de Bogotá, Colombia",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adw3020?af=R",
+    "authors": [
+      "Davide Bozzi, Nasreen Z. Broomandkhoshbacht, Miguel Delgado, Jane E. Buikstra, Carlos Eduardo G. Amorim, Kalina Kassadjikova, Melissa Pratt Estrada, Gilbert Greub, Nicolas Rascovan, David Šmajs, Lars Fehren-Schmitz, Anna-Sapfo Malaspinas, Elizabeth A. Nelson"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adw8301?af=R",
+    "title": "143–million-year seawater osmium isotopic record: Trends, rhythms, and dynamics of volcanism and tectonics",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adw8301?af=R",
+    "authors": [
+      "Hironao Matsumoto, Yasuto Watanabe, Rodolfo Coccioni, Fabrizio Frontalini, Toshihiro Yoshimura, Junichiro Kuroda, Katsuhiko Suzuki"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 389-393, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adx2872?af=R",
+    "title": "Observation of the Einstein–de Haas effect in a Bose–Einstein condensate",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adx2872?af=R",
+    "authors": [
+      "Hiroki Matsui, Yuki Miyazawa, Ryoto Goto, Chihiro Nakano, Yuki Kawaguchi, Masahito Ueda, Mikio Kozuma"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 384-388, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz4676?af=R",
+    "title": "Reentry and disintegration dynamics of space debris tracked using seismic data",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz4676?af=R",
+    "authors": [
+      "Benjamin Fernando and Constantinos Charalambous"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 412-416, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aeb7280?af=R",
+    "title": "Observation of one-dimensional, charged domain walls in ferroelectric ZrO2",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aeb7280?af=R",
+    "authors": [
+      "Hai Zhong, Shiyu Wang, Qinghua Zhang, Zhuohui Liu, Donggang Xie, Jiali Lu, Shifeng Jin, Shufang Zhang, Er-jia Guo, Meng He, Can Wang, Lin Gu, Guozhen Yang, Kui-juan Jin, Chen Ge"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 407-411, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aec5748?af=R",
+    "title": "Couple-close: Unified approach to semisaturated cyclic scaffolds",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aec5748?af=R",
+    "authors": [
+      "Jiaxin Xie, William Y. Zhao, Johnny Z. Wang, William L. Lyon, Noriyuki Takanashi, Alice Long, Taylor M. Sodano, Christopher B. Kelly, Marian C. Bryan, David W. C. MacMillan"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 399-406, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ady2347?af=R",
+    "title": "Pan-family pollen signals control an interspecific stigma barrier across Brassicaceae species",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ady2347?af=R",
+    "authors": [
+      "Yunyun Cao, Xiaoshuang Cui, Yinqing Yang, Lianhui Pan, Fei Yang, Shuyan Li, Dandan Wu, Yuelan Ding, Rui Chen, Nan Wang, Shangjia Liu, Zhaojing Ji, Yuxuan Zhao, Yue Chen, Rui Sun, Shiyu Xian, Lin Yang, Jiyun Hui, Ru Li, Tong Zhang, Shengwei Dou, Gengxing Song, Xiaochun Wei, Yuxiang Yuan, XiaoWei Zhang, Mingming Chen, Xihai Sun, Hen-Ming Wu, Alice Y. Cheung, Qiaohong Duan"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz0072?af=R",
+    "title": "Progressive eastward rupture of the Main Marmara fault toward Istanbul",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz0072?af=R",
+    "authors": [
+      "Patricia Martínez-Garzón, Xiang Chen, Dirk Becker, Sebastián Núñez-Jara, Recai Feyiz Kartal, Elif Türker, Georg Dresen, Yehuda Ben-Zion, Jorge Jara, Fabrice Cotton, Filiz Tuba Kadirioglu, Tuğbay Kiliç, Marco Bohnhoff"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 379-383, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2025-12-11"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adu6266?af=R",
+    "title": "A second planetesimal collision in the Fomalhaut system",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adu6266?af=R",
+    "authors": [
+      "Paul Kalas, Jason J. Wang, Maxwell A. Millar-Blanchaer, Bin B. Ren, Mark C. Wyatt, Grant M. Kennedy, Maximilian Sommer, Thomas M. Esposito, Robert J. De Rosa, Michael Fitzgerald"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 371-373, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2025-12-18"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5344?af=R",
+    "title": "The price of prestige",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5344?af=R",
+    "authors": [
+      "Zvonimir Marelja"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 418-418, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5689?af=R",
+    "title": "In Other Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5689?af=R",
+    "authors": [
+      "Corinne Simonti, and Jesse Smith, Bianca Lopez, Yevgeniya Nusinovich, Joana Osório, Corinne Simonti, Ian S. Osborne, Jack Huang, and Jelena Stajic"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 364-365, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee0657?af=R",
+    "title": "Tracking space debris from sonic booms",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee0657?af=R",
+    "authors": [
+      "Chris Carr"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 348-349, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee4609?af=R",
+    "title": "Meeting the need for myelin",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee4609?af=R",
+    "authors": [
+      "Wendy Macklin and Tessa Allen"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 351-352, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aed1243?af=R",
+    "title": "Tethered platelets in severe infection",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aed1243?af=R",
+    "authors": [
+      "Gina Perrella and Julie Rayes"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 349-350, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee7963?af=R",
+    "title": "Uncovering the secrets of syphilis",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee7963?af=R",
+    "authors": [
+      "Molly K. Zuckerman and Lydia Bailey"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 352-353, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee4593?af=R",
+    "title": "Regulate worker heat exposure in global trade",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee4593?af=R",
+    "authors": [
+      "Chang Liu, Jiafei Teng, and Hongmin Fan"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 360-360, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee4079?af=R",
+    "title": "Safeguarding tailings dams at the climate brink",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee4079?af=R",
+    "authors": [
+      "Wei-Bo Ma, Yi-Cong Chen, Hai-Dong Li, Zheng-Fu Bian, Shao-Gang Lei, and Zeng-Xin Zhang"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 360-361, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6705?af=R",
+    "title": "Mexican genome trove could guide medical decisions",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6705?af=R",
+    "authors": [
+      "Jennie Erin Smith"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 330-331, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6706?af=R",
+    "title": "Some guest editors pack special issues with their own articles",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6706?af=R",
+    "authors": [
+      "Jeffrey Brainard"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 332-333, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6707?af=R",
+    "title": "Purdue blocks admission of many Chinese grad students",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6707?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 333-334, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6708?af=R",
+    "title": "Hidden industry ties pervade social media research",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6708?af=R",
+    "authors": [
+      "Kai Kupferschmidt"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 335-335, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6709?af=R",
+    "title": "As Greenland loses ice, global sea levels will rise—and its own will fall",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6709?af=R",
+    "authors": [
+      "Evan Howell"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 336-336, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef6710?af=R",
+    "title": "AI has helped scientists—but may have hurt science",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef6710?af=R",
+    "authors": [
+      "Celina Zhao"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 337-337, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5690?af=R",
+    "title": "Damage assessment",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5690?af=R",
+    "authors": [
+      "Jeffrey Mervis"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 338-341, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5705?af=R",
+    "title": "Pressure on the pipeline",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5705?af=R",
+    "authors": [
+      "Katie Langin"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 342-344, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5706?af=R",
+    "title": "Talking back",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5706?af=R",
+    "authors": [
+      "David Malakoff"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 345-347, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee6955?af=R",
+    "title": "Repairing trust in science requires a more inclusive understanding of innovation",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee6955?af=R",
+    "authors": [
+      "Shobita Parthasarathy"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5010?af=R",
+    "title": "States pioneer a new frontier in US science funding",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5010?af=R",
+    "authors": [
+      "Jeffrey Alexander and Ivy Estabrooke"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 329-329, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.adz1697?af=R",
+    "title": "How malicious AI swarms can threaten democracy",
+    "link": "https://www.science.org/doi/abs/10.1126/science.adz1697?af=R",
+    "authors": [
+      "Daniel Thilo Schroeder, Meeyoung Cha, Andrea Baronchelli, Nick Bostrom, Nicholas A. Christakis, David Garcia, Amit Goldenberg, Yara Kyrychenko, Kevin Leyton-Brown, Nina Lutz, Gary Marcus, Filippo Menczer, Gordon Pennycook, David G. Rand, Maria Ressa, Frank Schweitzer, Dawn Song, Christopher Summerfield, Audrey Tang, Jay J. Van Bavel, Sander van der Linden, and Jonas R. Kunst"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 354-357, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aef5688?af=R",
+    "title": "In Science Journals",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aef5688?af=R",
+    "authors": [
+      "Michael Funk, and Angela Hessler, Jelena Stajic, Keith T. Smith, Jake S. Yeston, Phil Szuromi, Yikyung Park, Annalisa VanHook, Courtney Malo, Madeleine Seale, Stella M. Hurtley, Mattia Maroso, Sarah H. Ross, Corinne Simonti, and Leoma Bere"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 363-365, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/science.aee6983?af=R",
+    "title": "Editorial Expression of Concern for the Report “Meta-analysis reveals declines in terrestrial but increases in freshwater insect abundances”",
+    "link": "https://www.science.org/doi/abs/10.1126/science.aee6983?af=R",
+    "authors": [
+      "H. Holden Thorp"
+    ],
+    "summary": "Science, Volume 391, Issue 6783, Page 360-360, January 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-025-01909-8",
+    "title": "Global water security is threatened by rising inequality",
+    "link": "https://www.nature.com/articles/s41561-025-01909-8",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41561-025-01909-8\">doi:10.1038/s41561-025-01909-8</a>Projections using a machine-learning model, trained on historical socioeconomic and water-resources data, reveal the impact of inequality on water security and predict that, by 2100, 63% of the global population could face severe water scarcity. Pathways of societal development driven by technological efficiency could result in even greater inequality and water insecurity.",
+    "source": "Nature Geoscience",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66749-x",
+    "title": "Harnessing Van Hove singularities for terahertz photoresponse via Fermi surface reconstruction in kagome lattices",
+    "link": "https://www.nature.com/articles/s41467-025-66749-x",
+    "authors": [
+      "Yingdong Wei",
+      "Wenchuan Jing",
+      "Yanlin Wu",
+      "Xun Ge",
+      "Taikang Chen",
+      "Libo Zhang",
+      "Xiangqi Liu",
+      "Zhen Hu",
+      "Xiaokai Pan",
+      "Yage Yang",
+      "Xiao Zhuo",
+      "Li Han",
+      "Shi Zhang",
+      "Yichong Zhang",
+      "Shiqi Lan",
+      "Wei Lu",
+      "Wei Ren",
+      "Dawei Shen",
+      "Fang Wang",
+      "Yanfeng Guo",
+      "Lin Wang",
+      "Xiaoshuang Chen",
+      "Weida Hu"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-66749-x\">doi:10.1038/s41467-025-66749-x</a>This study demonstrates a low-energy photon device based on the kagome metal RbV₃Sb₅. It demonstrates that Fermi surface reconstruction, driven by a phase transition, leads to the emergence of van Hove singularities near the Fermi level.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68652-5",
+    "title": "Atypical pericapillary Ly6G⁺Nur77⁺ macrophages initiate type-2 immune responses to allergens in the mouse lung",
+    "link": "https://www.nature.com/articles/s41467-026-68652-5",
+    "authors": [
+      "Audrey Meloun",
+      "Holly Bachus",
+      "Crystal Lewis",
+      "Brittany Dulek",
+      "Shivangi Dave",
+      "Dave Durell Hill",
+      "Gabriela Pessenda",
+      "Jose Carlos Gonzalez",
+      "P’ng Loke",
+      "Alexander F. Rosenberg",
+      "Beatriz León"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68652-5\">doi:10.1038/s41467-026-68652-5</a>The cellular mechanisms to initiate allergic responses involve various immune cells in the lungs. Here the authors identify a Ly6G+Nur77+ macrophage population involved in initiation of HDM-driven Th2 responses that detect Derp1 allergen through PAR2 and modulate migration of conventional DC to draining lymph nodes via cysteinyl leukotriene production.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68671-2",
+    "title": "Harnessing P<sup>V</sup>-oxirene for the modular synthesis of α-Oxy carbonyls",
+    "link": "https://www.nature.com/articles/s41467-026-68671-2",
+    "authors": [
+      "Shisheng Huang",
+      "Deen Duan",
+      "Jilong Luo",
+      "Jiean Chen",
+      "Zhaofeng Wang"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68671-2\">doi:10.1038/s41467-026-68671-2</a>α-Oxy carbonyl compounds represent versatile building blocks and modifiers for functional molecules, but the synthetic challenges have limited their exploration in chemical biology and drug discovery. Here, the authors report a Cu-catalyzed, three-component modular strategy for the efficient construction of diverse α-oxy carbonyl compounds, which proceeds via a P(V)-oxirene intermediate.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68568-0",
+    "title": "Assimilative causal inference",
+    "link": "https://www.nature.com/articles/s41467-026-68568-0",
+    "authors": [
+      "Marios Andreou",
+      "Nan Chen",
+      "Erik Bollt"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68568-0\">doi:10.1038/s41467-026-68568-0</a>The authors develop a framework that uses data assimilation to trace causes backwards from observed effects, even with partial observations. This assimilative causal inference enables online detection of instantaneous causal relationships and reveals how causal influence propagates temporally.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68636-5",
+    "title": "Camouflaged nanorobots target and regulate macrophage subcellular organelle crosstalk patterns to promote neural regeneration",
+    "link": "https://www.nature.com/articles/s41467-026-68636-5",
+    "authors": [
+      "Qiangqiang Guo",
+      "Wei Wang",
+      "Xinzhao Jiang",
+      "Jincheng Tang",
+      "Feng Cai",
+      "Wenbo Wang",
+      "Lichen Zhang",
+      "Ziang Li",
+      "Yiyang Huang",
+      "Jie Wu",
+      "Liang Zhou",
+      "Haochen Jiang",
+      "Yiwei Zhu",
+      "Guhao Cai",
+      "Ziyu Lin",
+      "Yong Gu",
+      "Xuesong Zhu",
+      "Liang Chen",
+      "Kun Xi"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68636-5\">doi:10.1038/s41467-026-68636-5</a>Macrophages play an important role in repair and regeneration of damaged nerves in spinal cord injury (SCI). Here, Guo et al. investigate effects of endoplasmic reticulum-mitochondria crosstalk on macrophage phenotype and develop a targeted nanorobot inhibiting the Ero1α/MAMs/mtCa²⁺ axis, promoting M2 polarization and neural repair as a therapeutic strategy to treat SCI.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68412-5",
+    "title": "Phosphorothioate DNA modification by BREX type 4 systems in the human gut microbiome",
+    "link": "https://www.nature.com/articles/s41467-026-68412-5",
+    "authors": [
+      "Yifeng Yuan",
+      "Michael S. DeMott",
+      "Shane R. Byrne",
+      "Katia Flores",
+      "Mathilde Poyet",
+      "Mathieu Groussin",
+      "Brittany Berdy",
+      "John Rusine Bahunde",
+      "Catherine Girard",
+      "Jenni Lehtimäki",
+      "Audax Z. P. Mabulla",
+      "Ivan Emil Mwikarago",
+      "Yvonne Ayerki Nartey",
+      "Le Thanh Tu Nguyen",
+      "Charles A. Onyekwere",
+      "Lewis R. Roberts",
+      "B. Jesse Shapiro",
+      "Tommi Vatanen",
+      "Laurie E. Comstock",
+      "Eric J. Alm",
+      "Peter C. Dedon"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68412-5\">doi:10.1038/s41467-026-68412-5</a>Here, the authors combine bioinformatic, mass spectrometric, and sequencing-based mapping tools to identify previously undescribed phosphorothioate epigenetic systems widespread in the human gut microbiome.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68742-4",
+    "title": "Evaluating single-cell ATAC-seq atlasing technologies using sequence-to-function modeling",
+    "link": "https://www.nature.com/articles/s41467-026-68742-4",
+    "authors": [
+      "Hannah Dickmänken",
+      "Marta Wojno",
+      "Lukas Mahieu",
+      "Koen Theunis",
+      "Eren Can Ekşi",
+      "Valerie Christiaens",
+      "Niklas Kempynck",
+      "Florian V. De Rop",
+      "Natalie Roels",
+      "Katina I. Spanier",
+      "Roel Vandepoel",
+      "Gert Hulselmans",
+      "Suresh Poovathingal",
+      "Stein Aerts"
+    ],
+    "summary": "Nature Communications, Published online: 22 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68742-4\">doi:10.1038/s41467-026-68742-4</a>Generating high-quality training data for machine learning is costly. Here, authors include sequence-to-function modeling in benchmarking of custom and commercial droplet-based scATAC platforms, and release a new Drosophila embryo atlas along with a new mouse cortex atlas, assessed for model interpretability.",
+    "source": "Nature Communications",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000506",
+    "title": "Reply to the comment on “The influence of cementation on fault stability”",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000506?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): G. Volpe, R. Affinito, L. Calzolari, G. Pozzi, C. Marone, C. Collettini",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025GL117574",
+    "title": "Wide‐Swath Satellite Altimetry Data Improves Modeled Mesoscale and Submesoscale Dynamics in a Western Boundary Current",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117574?af=R",
+    "authors": [
+      "C. Kerry, \nS. R. Keating, \nM. Roughan, \nM. Azaneu, \nG. B. Brassington"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "10.1029/2025GL119998",
+    "title": "Whipped and Mixed Warm Clouds in the Deep Sea",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119998?af=R",
+    "authors": [
+      "Hans van Haren, \nKM3NeT collaboration"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "10.1029/2025GC012650",
+    "title": "The Age and Composition of the Voyager Seamounts: Evidence for a Long‐Lived Marquesas Mantle Source",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012650?af=R",
+    "authors": [
+      "Andrea Balbas, \nHannah Paradis, \nKevin Konrad, \nValerie A. Finlayson, \nMichael Bizimis, \nStephanie Anderson, \nChristopher Kelley, \nNicole A. Raineault, \nBeth N. Orcutt"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "10.1029/2025JB032111",
+    "title": "Lithospheric Magnetization Derived From Petrological and Satellite Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032111?af=R",
+    "authors": [
+      "Yi Zhang, \nShida Sun, \nWalter D. Mooney, \nYixian Xu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "10.1029/2025JB032555",
+    "title": "East Meets West: The Trace of the Mesoproterozoic Kibaran Event in the Mantle Lithosphere Beneath Eastern Tanzania",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032555?af=R",
+    "authors": [
+      "Sheng‐Hua Zhou, \nQiao Shu, \nSally A. Gibson, \nHong‐Fu Zhang, \nJing‐Jing Zhu, \nHélène Legros, \nD. Graham Pearson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-22"
+  },
+  {
+    "id": "10.1029/2025JB032212",
+    "title": "Cooling‐Induced Rheological Weakening Along the Nascent Plate Interface—A Mechanism for Catastrophic Subduction Initiation?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032212?af=R",
+    "authors": [
+      "Alissa J. Kotowski, \nCaroline E. Seyler, \nJames D. Kirkpatrick, \nDouwe J. J. van Hinsbergen"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-21"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000414",
+    "title": "Minor change in soil moisture induces abrupt shift in soil microbial community and methane emissions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000414?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xinyue Dang, B.David A. Naafs, Merve Gorguner, Paul Valdes, Richard D. Pancost, Zhiyao Zhang, Shucheng Xie",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000232",
+    "title": "REE mineralization controlled by decarbonation-driven melt alkalinity and ligand availability in carbonatite and associated fenite systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000232?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Fan Yang, Wei Chen, Jue Lu, Yuancan Ying, Sam Broom-Fendley, Antonio Simonetti, Kuidong Zhao, Shaoyong Jiang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000219",
+    "title": "Speciation of Niobium in hydrothermal fluids",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000219?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Bin Hu, Barbara Etschmann, Denis Testemale, Huan Chen, Richen Zhong, Andrew G. Tomkins, Harald Müller, Wei Li, Angela Isaura Santos Costa, Joël Brugger",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000438",
+    "title": "New insights into source of long chain <em>n</em>-alkanes in cave stalagmites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000438?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yinan Zhao, Yuan Yao, Lu Wang, Yunning Cao, Haiwei Zhang, Tingyong Li, Yanjun Cai, Hai Cheng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-23"
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10145-y",
     "title": "Editorial Expression of Concern: The X-linked lymphoproliferative-disease gene product SAP regulates signals induced through the co-receptor SLAM",
     "link": "https://www.nature.com/articles/s41586-026-10145-y",
