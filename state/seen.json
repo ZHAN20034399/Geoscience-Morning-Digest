@@ -1,5 +1,282 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68599-7",
+    "title": "Comprehensive benchmarking single and multi ancestry polygenic score methods with the PGS-hub platform",
+    "link": "https://www.nature.com/articles/s41467-026-68599-7",
+    "authors": [
+      "Xingyu Chen",
+      "Fei Wang",
+      "Hongqiang Zhao",
+      "Jing Hao",
+      "Yunga A",
+      "Xiong Yang",
+      "Tingfeng Xu",
+      "Yubo Zhou",
+      "Qiuli Chen",
+      "Rufan Zhang",
+      "Kang Yu",
+      "Komal Zaib",
+      "Akl C. Fahed",
+      "Guangyao Zhai",
+      "Minxian Wang"
+    ],
+    "summary": "Nature Communications, Published online: 25 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68599-7\">doi:10.1038/s41467-026-68599-7</a>Here the authors systematically benchmark 13 polygenic score (PGS) methods in UK Biobank European and African populations, revealing factors that affect prediction accuracy. They also introduce an automated platform for standardized and reproducible PGS computation.",
+    "source": "Nature Communications",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-65766-0",
+    "title": "Interaction and functional specialization across a distributed neural circuit for flexible task control in macaques",
+    "link": "https://www.nature.com/articles/s41467-025-65766-0",
+    "authors": [
+      "K. Marche",
+      "N. Trudel",
+      "U. Schüffelgen",
+      "S. Smart",
+      "C. M. Harbison",
+      "J. Scholl",
+      "J. Sallet",
+      "F-X Neubert",
+      "J. Algermissen",
+      "N. Khalighinejad",
+      "JX O’Reilly",
+      "MC Klein-Flügge",
+      "MFS Rushworth"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-65766-0\">doi:10.1038/s41467-025-65766-0</a>Neural mechanism underlying behavioural flexibility is not fully understood. Here authors study decision-making of macaques in a reversal task. They identify two complementary cognitive processes. Distinct neural patterns link these processes to the dorsomedial prefrontal cortex, thalamus, and hippocampus.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-025-66643-6",
+    "title": "Bernoulli’s principle-mediated Cl<sub>2</sub> electrosynthesis",
+    "link": "https://www.nature.com/articles/s41467-025-66643-6",
+    "authors": [
+      "Zhihao Nie",
+      "Guoliang Xu",
+      "Jingjing Duan",
+      "Markus Antonietti",
+      "Sheng Chen"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-025-66643-6\">doi:10.1038/s41467-025-66643-6</a>The method for separating Cl2 based on the Bernoulli principle enables efficient electrochemical chlorine evolution under universal pH conditions in a three-phase system. This enables assembly of a membrane-free system that can resist the influence of pH changes in the electrolyte.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68589-9",
+    "title": "Entanglement-inspired frequency-agile rangefinding",
+    "link": "https://www.nature.com/articles/s41467-026-68589-9",
+    "authors": [
+      "Weijie Nie",
+      "Peide Zhang",
+      "Alex McMillan",
+      "Alex S. Clark",
+      "John G. Rarity"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68589-9\">doi:10.1038/s41467-026-68589-9</a>Quantum range finding struggles in bright background and at long distance. Here, the authors demonstrate a quantum-inspired, energy-time correlated classical rangefinder. It preserves quantum noise suppression, works at low power, and enables robust daylight remote ranging in real-world environments",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68627-6",
+    "title": "Recreating viable YY<sup>h</sup> genotype uncovers the role of <i>CpYYL</i> underlying YY lethality in papaya",
+    "link": "https://www.nature.com/articles/s41467-026-68627-6",
+    "authors": [
+      "Jingjing Yue",
+      "Juan Liu",
+      "Qiuxia Zeng",
+      "Ching Man Wai",
+      "Ban Deng",
+      "Yihan Tong",
+      "Liping Zuo",
+      "Tao Xiang",
+      "Wangyang Xie",
+      "Xiaobing Zhao",
+      "Juan Lai",
+      "Jingjin Liao",
+      "Qingqing Lai",
+      "Liangwei Xu",
+      "Yating Zhu",
+      "Juan He",
+      "Mingjing Zhang",
+      "Suyue Nie",
+      "Zeng Lin",
+      "Yanqing Liang",
+      "Shaolian Jiang",
+      "Xi Chen",
+      "Bowei Wang",
+      "Yongji Huang",
+      "Yi Xu",
+      "Julie Nguyen-Edquilang",
+      "Yaying Ma",
+      "Nathan Fumia",
+      "Tyler Jones",
+      "Patricia Quesada-Rojas",
+      "Eric Mora-Newcomer",
+      "Jisen Zhang",
+      "Qingyi Yu",
+      "Ming-Li Wang",
+      "Ray Ming"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68627-6\">doi:10.1038/s41467-026-68627-6</a>Papaya is a trioecious species with XX females, XY males, and XYh hermaphrodites, and the combination of Y and Yh chromosomes is lethal. Here, the authors identify the degeneration of the YY lethality gene on the Y chromosome as the causal balancing lethal factor that reenforces dioecy and stabilizes balanced sex ratios.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68733-5",
+    "title": "BiG-SCAPE 2.0 and BiG-SLiCE 2.0: scalable, accurate and interactive sequence clustering of metabolic gene clusters",
+    "link": "https://www.nature.com/articles/s41467-026-68733-5",
+    "authors": [
+      "Arjan Draisma",
+      "Catarina Loureiro",
+      "Nico L. L. Louwen",
+      "Satria A. Kautsar",
+      "Jorge C. Navarro-Muñoz",
+      "Drew T. Doering",
+      "Nigel J. Mouncey",
+      "Marnix H. Medema"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68733-5\">doi:10.1038/s41467-026-68733-5</a>BiG-SCAPE and BiG-SLiCE are computational tools that enable exploring the diversity of metabolic gene clusters across microbial genomes. Here, the authors present major updates to these tools, providing essential infrastructure for studying the diversity of microbial metabolism.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68672-1",
+    "title": "iDesignGPT enhances conceptual design via large language model agentic workflows",
+    "link": "https://www.nature.com/articles/s41467-026-68672-1",
+    "authors": [
+      "Songkai Liu",
+      "Yanqing Shen",
+      "Yilun Zhang",
+      "Zhangli Hou",
+      "Xin Wang",
+      "Jianxi Luo",
+      "Zhinan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68672-1\">doi:10.1038/s41467-026-68672-1</a>Conceptual engineering design is challenged by its inherent complexity, dynamics, and creativity demands. Here, the authors integrate large language models with established design methodologies in a multiagent framework for early-stage conceptual design.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68658-z",
+    "title": "Molecular recognition of thyroglobulin by sortilin",
+    "link": "https://www.nature.com/articles/s41467-026-68658-z",
+    "authors": [
+      "Irene Boniardi",
+      "Giorgia Tanzi",
+      "Alessio Di Ianni",
+      "Andrea Graziadei",
+      "Marko Nedeljković",
+      "Camilla Stejskalova",
+      "Francesca Coscia"
+    ],
+    "summary": "Nature Communications, Published online: 24 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68658-z\">doi:10.1038/s41467-026-68658-z</a>Sortilin mediates thyroglobulin endocytosis within the thyroid. Using structural biology, the authors reveal that sortilin acts as structural sensor of monomeric thyroglobulin, independently of its iodination and hormone content, via binding of a flexible C-terminal peptide.",
+    "source": "Nature Communications",
+    "date": "2026-01-24"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000439",
+    "title": "Induced seismicity in the southern Sichuan basin regulated by heterogeneous folding",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000439?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Bingfeng Zhang, Xuewei Bao, Mengfan Jiang, Kecheng Zhou",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000579",
+    "title": "Editorial Board",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000579?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 March 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 678Author(s):",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "10.1029/2025GL117121",
+    "title": "Dynamic Boundaries of Antarctic Active Subglacial Lakes Reveal Underestimated Water Volume Change and Overestimated Lakebed Active Area",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117121?af=R",
+    "authors": [
+      "W. Sauthoff, \nM. R. Siegfried, \nR. A. Venturelli, \nB. E. Smith"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025GL118329",
+    "title": "Extreme Potomac Floods at Washington D.C. During the Past 500 Years",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118329?af=R",
+    "authors": [
+      "Michael Toomey, \nThomas Cronin, \nJessica Rodysill, \nJulia Seidenstein, \nDebra Willard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025GL120156",
+    "title": "Precipitation Response to Mesoscale SST Variability: Insights From Observations and Multi‐Resolution Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120156?af=R",
+    "authors": [
+      "Xiaoqi Wang, \nR. Justin Small, \nPing Chang, \nMeng Lyu, \nDan Fu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 2, 28 January 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025GC012419",
+    "title": "Soil Gas Investigations in Hatay‐Reyhanlı (Türkiye): Implications for Buried Fault Detection and Seismic Hazard Assessment",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012419?af=R",
+    "authors": [
+      "G. Yüce, \nC. C. Fu, \nW. D’Alessandro, \nB. Kahraman, \nB. Kürkcüoglu, \nF. Italiano, \nA. H. Gülbay, \nH. Elmacı, \nM. İçhedef, \nA. Özdemir, \nH. Akıllı, \nD. Yasin, \nŞ. D. Gürboğa, \nA. Demirtaş, \nL. H. Lin, \nP. L. Wang, \nS. Över"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025GC012675",
+    "title": "Voluminous Inflated Lobate Flows on the Distal Rift Zones of Axial Seamount, Juan de Fuca Spreading Ridge",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012675?af=R",
+    "authors": [
+      "Jennifer B. Paduan, \nDavid A. Clague, \nDavid W. Caress, \nRyan Portner, \nMorgane Le Saout, \nBrian Dreyer"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 1, January 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "10.1029/2025JB032147",
+    "title": "Seismic Attenuation Tomography in Central Myanmar and Its Implications on Continental Subduction and Arc Magmatism",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032147?af=R",
+    "authors": [
+      "Yilin Feng, \nYinshuang Ai, \nLuca De Siena, \nYumei He, \nMingming Jiang, \nChit Thet Mon, \nLian‐Feng Zhao, \nYiming Bai, \nGuangbing Hou, \nYuan Ling, \nSimona Gabrielli, \nFerdinando Napolitano, \nMyo Thant, \nKyaing Sein"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 1, January 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000384",
+    "title": "Titanium isotope fractionation during continental batholith construction and its implications for interpreting crustal Ti isotope signatures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000384?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shane H. Scoggin, Aleisha C. Johnson, Mauricio Ibañez-Mejia, François L.H. Tissot, Valbone Memeti, James B. Chapman, Johannes Hammerli",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-25"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000372",
+    "title": "Combined Ba-Cd isotope tracer in microbialites records biogeochemical metal cycling changes as a response to the Middle Miocene Badenian Salinity Crisis",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000372?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Simon V. Hohl, Yi-Bo Lin, Philipp Gleissner, Eva E. Stüeken, Yuxiang Jiang, Sebastian Viehmann",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-01-25"
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00235-2",
     "title": "Briefing Chat: The canny cow that can use tools, and how babies share their microbiomes",
     "link": "https://www.nature.com/articles/d41586-026-00235-2",
