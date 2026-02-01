@@ -1,5 +1,330 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-68954-8",
+    "title": "Computational single-neuron mechanisms of visual object coding in the human temporal lobe",
+    "link": "https://www.nature.com/articles/s41467-026-68954-8",
+    "authors": [
+      "Runnan Cao",
+      "Jie Zhang",
+      "Jie Zheng",
+      "Yue Wang",
+      "Peter Brunner",
+      "Jon T. Willie",
+      "Shuo Wang"
+    ],
+    "summary": "Nature Communications, Published online: 01 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68954-8\">doi:10.1038/s41467-026-68954-8</a>How the human brain transforms visual input into meaningful object representations remains unclear. Here, the authors show that dense feature-based coding in the ventral temporal cortex is transformed into sparse, conceptual representations in the medial temporal lobe, revealing neural computational mechanisms of object recognition.",
+    "source": "Nature Communications",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68857-8",
+    "title": "Early detection of aberrant cell fate and repair using circulating progenitor cells in patients with heterotopic ossification",
+    "link": "https://www.nature.com/articles/s41467-026-68857-8",
+    "authors": [
+      "Johanna Nunez",
+      "Matilda Holtz",
+      "Sneha Korlakunta",
+      "Hanil Kang",
+      "Florence Lin",
+      "Hannah Stowe",
+      "Chase A. Pagani",
+      "Achira Shah",
+      "Elise C. Jeffery",
+      "Meriam Elhamad",
+      "Saeed Nazemidashtarjandi",
+      "Robert Tower",
+      "Ji Hae Choi",
+      "Heeseog Kang",
+      "Alexandra Callan",
+      "Antonia F. Chen",
+      "Cenk Ayata",
+      "Mehmet Toner",
+      "Benjamin Levi",
+      "N. Murat Karabacak"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68857-8\">doi:10.1038/s41467-026-68857-8</a>Painful bone growth after injury or surgery often goes undetected until it is advanced and treatment options are limited. Here, authors demonstrate that a blood test detecting gene expression profiles in isolated circulating mesenchymal progenitor cells could detect early signs of this condition and track treatment success.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69049-0",
+    "title": "Experimental realization of dice-lattice flat band at the Fermi level in layered electride YCl",
+    "link": "https://www.nature.com/articles/s41467-026-69049-0",
+    "authors": [
+      "Songyuan Geng",
+      "Xin Wang",
+      "Risi Guo",
+      "Chen Qiu",
+      "Fangjie Chen",
+      "Qun Wang",
+      "Kangjie Li",
+      "Peipei Hao",
+      "Hanpu Liang",
+      "Yang Huang",
+      "Yunbo Wu",
+      "Shengtao Cui",
+      "Zhe Sun",
+      "Timur K. Kim",
+      "Cephise Cacho",
+      "Daniel S. Dessau",
+      "Benjamin T. Zhou",
+      "Haoxiang Li"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-69049-0\">doi:10.1038/s41467-026-69049-0</a>Using ARPES, this work identifies dice-lattice flat bands in the electride material YCl. The authors show that anionic electrons act as lattice sites to create this rare electronic structure.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68728-2",
+    "title": "Vertical chiral emission from an intrinsically achiral metasurface enabled with anisotropic continuum",
+    "link": "https://www.nature.com/articles/s41467-026-68728-2",
+    "authors": [
+      "Yuwei Sun",
+      "Zhipeng Hu",
+      "Mengqi Liu",
+      "Jianfeng Chen",
+      "Dmitrii Gromyko",
+      "Kezhang Shi",
+      "Lin Wu",
+      "Yi Jin",
+      "Sailing He",
+      "Cheng-Wei Qiu"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68728-2\">doi:10.1038/s41467-026-68728-2</a>Chiral light emission usually requires twisted or asymmetric nanostructures. Here, the authors show that even out-of plane symmetric metasurfaces can emit circularly polarized light, achieved by tuning an anisotropic continuum rather than breaking symmetry.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69009-8",
+    "title": "Multicomponent synergistic immobilization via in-situ and dynamic exchange strategies for constructing hierarchical biopharmaceuticals",
+    "link": "https://www.nature.com/articles/s41467-026-69009-8",
+    "authors": [
+      "Mingfang Yang",
+      "Xin Meng",
+      "Ruixuan Shi",
+      "Linglong Xie",
+      "Along Zuo",
+      "Lijie Wang",
+      "Jinbiao Guo",
+      "Yingxiao Sun",
+      "Jiangyue Yu",
+      "Zeyan Di",
+      "Zhenjie Zhang",
+      "Yao Chen"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-69009-8\">doi:10.1038/s41467-026-69009-8</a>Hierarchical immobilization of multicomponent biomacromolecules is promising for constructing advanced biopharmaceuticals, but remains challenging. Here, the authors report a multicomponent synergistic approach integrating in-situ and dynamic exchange methods to construct hierarchical biopharmaceutical formulations.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68723-7",
+    "title": "Room-temperature polariton condensate in a quasi-2D hybrid perovskite",
+    "link": "https://www.nature.com/articles/s41467-026-68723-7",
+    "authors": [
+      "Marti Struve",
+      "Christoph Bennenhei",
+      "Hamid Pashaei Adl",
+      "Kok Wee Song",
+      "Hangyong Shan",
+      "Nadiya Matukhno",
+      "Jens-Christian Drawer",
+      "Sven Stephan",
+      "Falk Eilenberger",
+      "Naga Prathibha Jasti",
+      "David Cahen",
+      "Oleksandr Kyriienko",
+      "Christian Schneider",
+      "Martin Esmann"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-68723-7\">doi:10.1038/s41467-026-68723-7</a>The authors report the experimental observation of room-temperature condensation of exciton polaritons in quasi-2D layered crystals of halide perovskite, integrated into an open optical microcavity. These materials combine van-der-Waals properties with dominant exciton physics at room temperature.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69099-4",
+    "title": "Repurposing nuclear receptors for ligand-responsive liquid condensate formation and gene regulation",
+    "link": "https://www.nature.com/articles/s41467-026-69099-4",
+    "authors": [
+      "Erik Rihtar",
+      "Tina Fink",
+      "Filip Ivanovski",
+      "Eva Koplan",
+      "Roman Jerala"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-69099-4\">doi:10.1038/s41467-026-69099-4</a>Two-input chemogenetic tools remain limited. Here, authors develop ligand-responsive systems based on human nuclear receptors, using agonists and antagonists to reversibly control protein interactions and cellular processes, including synthetic protein condensate formation to enhance transcription.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69016-9",
+    "title": "Transition to bio-based plastic packaging reveals complex climate–biodiversity trade-offs",
+    "link": "https://www.nature.com/articles/s41467-026-69016-9",
+    "authors": [
+      "Bilal Erradhouani",
+      "Veronique Coma",
+      "Guido Sonnemann",
+      "Philippe Loubet"
+    ],
+    "summary": "Nature Communications, Published online: 31 January 2026; <a href=\"https://www.nature.com/articles/s41467-026-69016-9\">doi:10.1038/s41467-026-69016-9</a>A harmonized life cycle assessment finds that bio-based plastic packaging lower greenhouse gas emissions but increases ecosystem damage mainly through land use. Beyond substitution, demand reduction and circularity are key to mitigating both impacts.",
+    "source": "Nature Communications",
+    "date": "2026-01-31"
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf404?af=R",
+    "title": "ENSO and PDO drive shoreline position anomalies in the US Pacific Northwest",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgaf404?af=R",
+    "authors": [
+      "Mohsen TaherkhaniSean VitousekMarcan GraffinKilian VosJonathan C AllanGeorge M KaminskyPeter RuggieroBarbara Romanowicz"
+    ],
+    "summary": "PNAS Nexus, Volume 5, Issue 1, January 2026. <br />Sandy beaches act as buffers against various coastal hazards but are vulnerable to episodic (seasonal) and chronic (interannual) erosion. Understanding the variation of shoreline position, a key metric in coastal morphology, over a spectrum of time ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-01-09"
+  },
+  {
+    "id": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-120845?TRACK=RSS",
+    "title": "Vertical Land Motion and Coastal Cities: Bridging Global Science and Policy for Resilient Communities",
+    "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-120845?TRACK=RSS",
+    "authors": [
+      "Manoochehr Shirzaei, Leonard Ohenhen, Carmen Atkins, Shubham Awasthi, Grace Carlson, Oluwaseyi Dasho, Ntambila Daud, Guangcai Feng, Hongbo Jiang, Mohammad Khorrami, Jonathan Lucy, Mahmoud Reshadati, Nitheshnirmal Sadhasivam, Sonam F. Sherpa, Guang Zhai, Wen Zhong, Claire Becker, Clayton Wise, William Etzler, Ibrahim O. Isiaka, Nivedita P. Kamaraj, Florence Onyike, Esther O. Oyedele, Sarah Wilson, Amir AghaKouchak, Anamaria Bukvic, Roland Bürgmann, Jeffrey Freymueller, Nadine Heck, Robert J. Nicholls, Julius Oelsmann, Siddharth Narayan, Pietro Teatini, Farshid Vahedifard, Michelle Jaramillo and Susanna Werth"
+    ],
+    "summary": "<div>Vertical land motion (VLM) is an underrecognized hazard in susceptible coastal cities, especially those experiencing rapid urbanization. Human-induced VLM often causes elevation loss (subsidence) at rates that exceed, sometimes by an order of magnitude or more, those of climate-driven sea-level rise. Local land subsidence (LLS) also damages infrastructure, disrupts drainage, and alters flood dynamics, yet its broader impacts remain poorly quantified and systematically assessed. This review synthesizes the scientific, technical, and policy dimensions of VLM, with particular focus on LLS, highlighting how natural processes and human activities interact to amplify coastal hazards. We examine the geophysical drivers of VLM, advances in monitoring and modeling, and their integration into hazard assessment frameworks. We consider socioeconomic and infrastructural vulnerabilities of city residents, especially where limited observational capacity and governance gaps intensify risk. VLM acts as both a physical amplifier and a socio-institutional blind spot within coastal adaptation planning, requiring real-time data integration, scenario testing, and inclusive policy development. Finally, we identify key research frontiers&#8212;including subsidence mitigation strategies, dynamic VLM projections, and equitable, high-resolution risk assessment&#8212;to support more resilient, adaptive, and just coastal futures.\n<ul>\n<li><span class=\"label\">&#9642;&#160;\n</span>Tectonics, sediment compaction, groundwater extraction, and urban loading combine to produce complex, nonlinear patterns of vertical land motion that shape local hazard dynamics.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Local land subsidence, often exceeding the rate of global sea-level rise, is the dominant and least understood driver of coastal flooding and infrastructure risk in many urban regions worldwide.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Subsidence disproportionately affects marginalized communities, exacerbating social inequities, driving displacement, and eroding cultural heritage, underscoring the need for inclusive, justice-centered adaptation frameworks.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Closing critical data and policy gaps through coordinated vertical land motion observation, open-access standards, and equitable governance is essential to safeguard coastal populations and sustain long-term urban resilience.\n</li>\n</ul></div>",
+    "source": "Annual Review of Earth and Planetary Sciences: Most Recent Articles",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000206",
+    "title": "Is daily extreme rainfall increasing in the Mediterranean basin? A critical review of the evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000206?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 January 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): José Carlos González-Hidalgo, Santiago Beguería",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000683",
+    "title": "Low temperature brine formation by serpentinization on asteroid (162,173) Ryugu",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000683?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Guy Libourel, Marc Portail, Vincent Guigoz, Virginie Brändli, Cyrille Collin, Nathalie Vigier, Tomoki Nakamura, Hikaru Yabuta, Shogo Tachibana, Cecile Engrand",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600052X",
+    "title": "Corrigendum to “Strain heterogeneities in laboratory faults driven by roughness and wear” [Earth and Planetary Science Letters Volume 657 (2025) 119247]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600052X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 January 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Sofia Michail, Paul Antony Selvadurai, Markus Rast, Patrick Bianchi, Antonio Felipe Salazar Vásquez, Claudio Madonna, Stefan Wiemer",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "10.1029/2025GL119944",
+    "title": "Uncovering the Generation Mechanism of Low‐Frequency Chorus Waves (<0.1 fce_eq ${\\boldsymbol{f}}_{\\mathbf{c}\\mathbf{e}\\mathbf{\\_}\\mathbf{e}\\mathbf{q}}$) During Active Geomagnetic Environments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119944?af=R",
+    "authors": [
+      "Xuan Zhou, \nXinliang Gao, \nDedong Wang, \nJiuqi Ma, \nQuanming Lu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025GL118886",
+    "title": "Predictability of Storms in an Idealized Climate Revealed by Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118886?af=R",
+    "authors": [
+      "Wuqiushi Yao, \nOr Hadas, \nYohai Kaspi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025GL118384",
+    "title": "Tropical Cyclone Outer‐to‐Inner Brightness Temperature Ratio: A New Size‐Adaptive Parameter Reflecting Storm Intensity and Its Change",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118384?af=R",
+    "authors": [
+      "Shi Tang, \nXiaogang Huang, \nJianfang Fei, \nXiaoping Cheng, \nLu Yang, \nShiyu Shao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025GL119833",
+    "title": "The Atmosphere's Substantial Role in Interannual Variability of Earth's Energy Imbalance",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119833?af=R",
+    "authors": [
+      "Michael Mayer, \nNorman G. Loeb, \nJohn M. Lyman, \nGregory C. Johnson, \nSusanna Winkelbauer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025GL119769",
+    "title": "Variable Flood Discharge Constrains Autochthonous Organic Carbon Preservation in Deltas: Insights From Physical Experiments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119769?af=R",
+    "authors": [
+      "Jose R. Silvestre, \nZachary Hom, \nKelly M. Sanks, \nSamuel M. Zapp, \nJohn B. Shaw, \nKyle M. Straub"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025GL117419",
+    "title": "Induced Earthquakes in the Southern Delaware Basin, Texas, Are Bound by a Geomechanically Controlled Maximum Magnitude",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117419?af=R",
+    "authors": [
+      "James P. Verdon, \nRyan Schultz"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025JB032142",
+    "title": "Submarine Fiber‐Optic Sensing Revels Monterey Paleocanyon Evolution With Multi‐Scale Ambient Noise Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032142?af=R",
+    "authors": [
+      "Jianbo Guan, \nFeng Cheng, \nJianghai Xia"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "10.1029/2025JB032433",
+    "title": "The Influence of Elevated Temperature on Time‐Dependent Compaction Creep in Bleursville Sandstone",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032433?af=R",
+    "authors": [
+      "Mark Jefferd, \nNicolas Brantut, \nThomas M. Mitchell, \nPhilip G. Meredith"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-01-30"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000700",
+    "title": "Space weathering on the lunar nearside and farside revealed by iron and potassium isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000700?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Heng-Ci Tian, Wei Yang, Xinmiao Zhao, Jun Du, Liyu Shan, Wen-Jun Li, Jing Wang, Xuhang Zhang, Yangting Lin, Xian-Hua Li, Fu-Yuan Wu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000657",
+    "title": "Lithium concentrations and isotopic compositions of chondrules − Part I: Type I and type II chondrule systematics",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000657?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 30 January 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Julia Neukampf, Yves Marrocchi, Johan Villeneuve, Mathieu Roskosz",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-01"
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10184-5",
     "title": "Publisher Correction: A domed pachycephalosaur from the early Cretaceous of Mongolia",
     "link": "https://www.nature.com/articles/s41586-026-10184-5",
