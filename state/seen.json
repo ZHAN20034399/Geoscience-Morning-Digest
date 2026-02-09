@@ -1,5 +1,64 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69297-0",
+    "title": "Decoding phantom limb movements from intraneural recordings",
+    "link": "https://www.nature.com/articles/s41467-026-69297-0",
+    "authors": [
+      "Cecilia Rossi",
+      "Marko Bumbasirevic",
+      "Paul Čvančara",
+      "Thomas Stieglitz",
+      "Stanisa Raspopovic",
+      "Elisa Donati",
+      "Giacomo Valle"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69297-0\">doi:10.1038/s41467-026-69297-0</a>Decoding motor intents from peripheral nerves remains challenging. The authors record intraneural sciatic activity in transfemoral amputees and use a spiking neural network to decode phantom leg movements. These findings support bidirectional, neurally-controlled prosthetic systems.",
+    "source": "Nature Communications",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69098-5",
+    "title": "Uncovering Cas9 PAM diversity through metagenomic mining and machine learning",
+    "link": "https://www.nature.com/articles/s41467-026-69098-5",
+    "authors": [
+      "Tao Fang",
+      "Lea Bogensperger",
+      "Lilith Feer",
+      "Ahmed Allam",
+      "Valentyn Bezshapkin",
+      "Zsolt Balázs",
+      "Christian von Mering",
+      "Shinichi Sunagawa",
+      "Michael Krauthammer",
+      "Gerald Schwank"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69098-5\">doi:10.1038/s41467-026-69098-5</a>CRISPR-Cas9 genome editing is constrained by the need for a protospacer adjacent motif (PAM) at the target site. Here, the authors combine metagenomic mining with machine learning to map and predict PAM specificities across thousands of Cas9 enzymes, expanding the genomic target space.",
+    "source": "Nature Communications",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69284-5",
+    "title": "Electrostatic properties of disordered regions control transcription factor search and pioneer activity",
+    "link": "https://www.nature.com/articles/s41467-026-69284-5",
+    "authors": [
+      "Sim Sakong",
+      "Beat Fierz",
+      "David M. Suter"
+    ],
+    "summary": "Nature Communications, Published online: 08 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69284-5\">doi:10.1038/s41467-026-69284-5</a>This work describes how positive charge in the peptide chain flanking the DNA-binding domain of transcription factors speeds up their search on free and chromatinized DNA, helping to explain why some transcription factors act as stronger pioneers.",
+    "source": "Nature Communications",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000816",
+    "title": "Why the end-Guadalupian biotic crisis differs from mass extinctions: Insights from high-precision geochronology and carbon cycle modeling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000816?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 679Author(s): Qiong Wu, Zhang-shuai Hou, Jahandar Ramezani, Dong-xun Yuan, Hua Zhang, Wen-qian Wang, Quan-feng Zheng, Yi-chun Zhang, Fei-fei Zhang, Guang-yi Wei, Shu-han Zhang, Yue Wang, Douglas H. Erwin, Yi-gang Xu, Shu-zhong Shen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-09"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69270-x",
     "title": "A role for condensin-mediator interaction in mitotic chromosome organization",
     "link": "https://www.nature.com/articles/s41467-026-69270-x",
