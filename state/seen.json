@@ -1,5 +1,336 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00336-y",
+    "title": "Jupiter gets downsized — and squashed",
+    "link": "https://www.nature.com/articles/d41586-026-00336-y",
+    "authors": [],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00336-y\">doi:10.1038/d41586-026-00336-y</a>The gas giant’s shape and size, previously known only from data collected more than 45 years ago, have been updated at last.",
+    "source": "Nature",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00389-z",
+    "title": "My mission to make life more user friendly for the disability community",
+    "link": "https://www.nature.com/articles/d41586-026-00389-z",
+    "authors": [
+      "Laurie Udesky"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00389-z\">doi:10.1038/d41586-026-00389-z</a>Inventor Josh Miele says that accelerating change requires uprooting social attitudes about blindness and other disabilities.",
+    "source": "Nature",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00385-3",
+    "title": "The dark side of green technology: what do electric vehicles really cost?",
+    "link": "https://www.nature.com/articles/d41586-026-00385-3",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00385-3\">doi:10.1038/d41586-026-00385-3</a>A powerful book reveals the corrupt deals and human exploitation behind the global scramble for strategic metals.",
+    "source": "Nature",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00386-2",
+    "title": "How to stop the survey-taking AI chatbots that threaten to upend social science",
+    "link": "https://www.nature.com/articles/d41586-026-00386-2",
+    "authors": [
+      "Folco Panizza",
+      "Yara Kyrychenko",
+      "Jon Roozenbeek"
+    ],
+    "summary": "Nature, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00386-2\">doi:10.1038/d41586-026-00386-2</a>Researchers need new bot-detection strategies that exploit the limits of human reasoning rather than AI weaknesses.",
+    "source": "Nature",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01920-7",
+    "title": "Mild-to-wild plasticity of Earth’s upper mantle",
+    "link": "https://www.nature.com/articles/s41561-026-01920-7",
+    "authors": [
+      "David Wallis",
+      "Kathryn M. Kumamoto",
+      "Thomas Breithaupt"
+    ],
+    "summary": "Nature Geoscience, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01920-7\">doi:10.1038/s41561-026-01920-7</a>Flow of Earth’s upper mantle may include intermittent wild fluctuations in plastic strain rate of increasing frequency with depth, according to results of nanoindentation experiments on olivine crystals.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69389-x",
+    "title": "Spin-exciton coupling modified by interfacial magnetic interactions in a van der Waals heterostructure",
+    "link": "https://www.nature.com/articles/s41467-026-69389-x",
+    "authors": [
+      "Weican Lan",
+      "Chaocheng Liu",
+      "Yajuan Feng",
+      "Ruiqi Liu",
+      "Yafei Chu",
+      "Lu Cheng",
+      "Chao Wang",
+      "Huijuan Wang",
+      "Minghui Fan",
+      "Zixun Zhang",
+      "Yuran Niu",
+      "Jheng-Cyuan Lin",
+      "Francesco Maccherozzi",
+      "Hengli Duan",
+      "Wensheng Yan"
+    ],
+    "summary": "Nature Communications, Published online: 10 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69389-x\">doi:10.1038/s41467-026-69389-x</a>Excitons are important excitations in solids with potential applications in quantum and spintronic technologies. The authors achieve bidirectional control of exciton energy in a twodimensional antiferromagnetic semiconductor via interfacial spin-exciton coupling.",
+    "source": "Nature Communications",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69321-3",
+    "title": "Diffusion models enable high-fidelity prediction of fuel cell impedance spectrum from short time-domain profiles",
+    "link": "https://www.nature.com/articles/s41467-026-69321-3",
+    "authors": [
+      "Hao Yuan",
+      "Dayi Tan",
+      "Zhihua Zhong",
+      "Jiangong Zhu",
+      "Pingwen Ming",
+      "Xuezhe Wei",
+      "Haifeng Dai"
+    ],
+    "summary": "Nature Communications, Published online: 10 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69321-3\">doi:10.1038/s41467-026-69321-3</a>Reliable fuel cell monitoring needs rapid access to impedance. Here, the authors use a denoising diffusion model to predict high-fidelity impedance spectrum from short signals, beating existing methods and releasing large open datasets.",
+    "source": "Nature Communications",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69407-y",
+    "title": "Author Correction: Random access and semantic search in DNA data storage enabled by Cas9 and machine-guided design",
+    "link": "https://www.nature.com/articles/s41467-026-69407-y",
+    "authors": [
+      "Carina Imburgia",
+      "Lee Organick",
+      "Karen Zhang",
+      "Nicolas Cardozo",
+      "Jeff McBride",
+      "Callista Bee",
+      "Delaney Wilde",
+      "Gwendolin Roote",
+      "Sofia Jorgensen",
+      "David Ward",
+      "Charlie Anderson",
+      "Karin Strauss",
+      "Luis Ceze",
+      "Jeff Nivala"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69407-y\">doi:10.1038/s41467-026-69407-y</a>Author Correction: Random access and semantic search in DNA data storage enabled by Cas9 and machine-guided design",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69415-y",
+    "title": "Author Correction: Enantioselective construction of inherently chiral pillar[5]arenes via palladium-catalysed Suzuki–Miyaura cross-coupling",
+    "link": "https://www.nature.com/articles/s41467-026-69415-y",
+    "authors": [
+      "Ting-Rui Luan",
+      "Che Sun",
+      "Yong-Le Tian",
+      "Yu-Kun Jiang",
+      "Long-Long Xi",
+      "Ren-Rong Liu"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69415-y\">doi:10.1038/s41467-026-69415-y</a>Author Correction: Enantioselective construction of inherently chiral pillar[5]arenes via palladium-catalysed Suzuki–Miyaura cross-coupling",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69406-z",
+    "title": "Publisher Correction: [Hg<sub>3</sub>Se<sub>2</sub>]<sup>2-</sup> cluster drives giant optical anisotropy and broad infrared transparency",
+    "link": "https://www.nature.com/articles/s41467-026-69406-z",
+    "authors": [
+      "Qixian Ren",
+      "Chen Cui",
+      "Xinchen Chen",
+      "Yabo Wu",
+      "Ran An",
+      "Zhihua Yang",
+      "Shilie Pan"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69406-z\">doi:10.1038/s41467-026-69406-z</a>Publisher Correction: [Hg<sub>3</sub>Se<sub>2</sub>]<sup>2-</sup> cluster drives giant optical anisotropy and broad infrared transparency",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69272-9",
+    "title": "Phase engineering of relaxor ferroelectricity in van der Waals crystal",
+    "link": "https://www.nature.com/articles/s41467-026-69272-9",
+    "authors": [
+      "Tao Yang",
+      "Yinchang Ma",
+      "Dongxing Zheng",
+      "Weili Deng",
+      "Chen Liu",
+      "Maolin Chen",
+      "Kairan Mai",
+      "Xiang Lv",
+      "Xiaowen Zhang",
+      "Jingkai Xu",
+      "Baoyu Wang",
+      "Yan Li",
+      "Meng Tang",
+      "Guo Tian",
+      "Weiqing Yang",
+      "Xixiang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69272-9\">doi:10.1038/s41467-026-69272-9</a>Relaxor ferroelectricity is achieved in two-dimensional CuInP2(S1−xSex)6 crystal via controlling the monoclinic and trigonal coexist phase, enabling memristors with more analog states and lower operating voltages.",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68994-0",
+    "title": "Phytic acid (InsP<sub>6</sub>) activates HDAC3 epigenetic axis to maintain intestinal barrier function",
+    "link": "https://www.nature.com/articles/s41467-026-68994-0",
+    "authors": [
+      "Sujan Chatterjee",
+      "Zachary Sin",
+      "Nguyen Tran",
+      "Loretta Vierra",
+      "Anuj Shukla",
+      "Tam Tran",
+      "George Koshkaryan",
+      "Kevin Ritter",
+      "Xue Bessie Su",
+      "Saharat Jolak Ragsac",
+      "Seungman Park",
+      "Qian Liu",
+      "Richard Van",
+      "Katherine Huang",
+      "Kayci Huff-Hardy",
+      "Richard Rood",
+      "Anas Gremida",
+      "Martin Gregory",
+      "Chien-Huan Chen",
+      "Mira V. Han",
+      "Parakkal Deepak",
+      "Adolfo Saiardi",
+      "Henning J. Jessen",
+      "Prasun Guha"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68994-0\">doi:10.1038/s41467-026-68994-0</a>The study finds that IPMK and InsP6activate HDAC3 to preserve gut integrity. Loss of IPMK impairs this axis, causing leaky gut, while InsP6 restores HDAC3 function, offering a potential therapy for inflammatory bowel disease.",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69428-7",
+    "title": "Tailoring sodium and oxygen mixed-ion conduction in the A-site non-stoichiometric NaNbO<sub>3</sub>-based ceramics",
+    "link": "https://www.nature.com/articles/s41467-026-69428-7",
+    "authors": [
+      "Zhiyong Liu",
+      "Chenggong Xiang",
+      "Pengrong Ren",
+      "Kun Guo",
+      "Bing Xie",
+      "Pu Mao",
+      "Haijun Sun",
+      "Huiqing Fan"
+    ],
+    "summary": "Nature Communications, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69428-7\">doi:10.1038/s41467-026-69428-7</a>Tailoring conduction properties of solid-state electrolytes is essential to fulfil the demands of electrochemical energy storage and conversion technologies. Here, authors demonstrate the synergistic regulation of Na+ and O2− ion conduction in the Na0.96xCa0.04Nb0.96Zr0.04O3-δ conductor by a non-stoichiometric ratio strategy.",
+    "source": "Nature Communications",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00768-0",
+    "title": "Tracing coral reef pollution using beachrocks",
+    "link": "https://www.nature.com/articles/s43017-026-00768-0",
+    "authors": [
+      "Liuwei Wang"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 09 February 2026; <a href=\"https://www.nature.com/articles/s43017-026-00768-0\">doi:10.1038/s43017-026-00768-0</a>Tracing coral reef pollution using beachrocks",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-02-09"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000334",
+    "title": "Impact of organic-inorganic interactions on shale source-reservoir systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000334?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Yue Huang, Zhenkai Huang, Xi Li, Guangyou Zhu, Zhiyuan Lu, Siyu Chen, Ruilin Wang, Wanyan Lan, Jiezhi Zhang",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-10"
+  },
+  {
+    "id": "10.1029/2025GL120587",
+    "title": "Coulomb Pre‐Stress Changes Modulate Coseismic Rupture Kinematics of the 2025 Mw7.7 Myanmar Earthquake Revealed by Space Geodesy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120587?af=R",
+    "authors": [
+      "Lijia He, \nRino Salman, \nBryan Marfito, \nGuangcai Feng, \nHongbo Jiang, \nWenxin Wang, \nZhiqiang Xiong, \nKai Sun, \nYuedong Wang, \nSang‐Ho Yun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL119494",
+    "title": "Northern Hemisphere Warm Fronts Are Less Efficient at Precipitating Ice Than Their Southern Hemisphere Counterparts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119494?af=R",
+    "authors": [
+      "Hanii Takahashi, \nCatherine M. Naud, \nDerek J. Posselt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL120688",
+    "title": "Distinguishing Single and Linked Ruptures in the Laboratory and Nature",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120688?af=R",
+    "authors": [
+      "Will Steinhardt, \nEmily E. Brodsky"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL118120",
+    "title": "P‐ and S‐wave Velocity Measurement of Lunar Orthopyroxene up to 5.5 GPa and 1,273 K: Implication for the Iron Content of the Lunar Upper Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118120?af=R",
+    "authors": [
+      "Yoshihiro Inoue, \nYoshio Kono, \nSteeve Gréaux, \nJie‐Jun Jing, \nSho Kakizawa, \nItaru Ohira, \nNoriyoshi Tsujino, \nYuji Higo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL120186",
+    "title": "On the Role of Western Boundary Currents to Fertilize Adjacent Continental Shelves at Interannual Scales: A Case Study in the Southwestern Atlantic",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120186?af=R",
+    "authors": [
+      "Carola Ferronato, \nMartin Saraceno, \nValeria A. Guinder"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL119909",
+    "title": "The Role of Near Solstice Solar Radiation on the Pacific Northwest Heatwave of June 2021",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119909?af=R",
+    "authors": [
+      "Shauna Ndoping, \nJamie Robson, \nLualawi Mareshet Admasu, \nTimothy C. Y. Chui, \nRosie Howard, \nRachel H. White"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
+    "id": "10.1029/2025GL119353",
+    "title": "Temperature Controls on Carbon‐Sulfur Diagenesis in Deep Hydrothermal Subseafloor Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119353?af=R",
+    "authors": [
+      "Bing‐Zheng Wu, \nJiarui Liu, \nGuang‐Chao Zhuang, \nXiting Liu, \nZhen Zhou, \nAndreas P. Teske, \nSamantha B. Joye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 3, 16 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-08"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69297-0",
     "title": "Decoding phantom limb movements from intraneural recordings",
     "link": "https://www.nature.com/articles/s41467-026-69297-0",
