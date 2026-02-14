@@ -1,5 +1,839 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-00476-1",
+    "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
+    "link": "https://www.nature.com/articles/d41586-026-00476-1",
+    "authors": [
+      "Benjamin Thompson",
+      "Nick Petrić Howe"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00476-1\">doi:10.1038/d41586-026-00476-1</a>Nature staff discuss some of the week’s top science news.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00412-3",
+    "title": "CAR-T therapy provides relief for children with autoimmune diseases",
+    "link": "https://www.nature.com/articles/d41586-026-00412-3",
+    "authors": [],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00412-3\">doi:10.1038/d41586-026-00412-3</a>Symptoms and organ damage abated in young children and teenagers whose conditions had resisted other treatments.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00411-4",
+    "title": "Parasitic wasps use tamed virus to castrate caterpillars",
+    "link": "https://www.nature.com/articles/d41586-026-00411-4",
+    "authors": [],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00411-4\">doi:10.1038/d41586-026-00411-4</a>A virus that became integrated into the wasp genome long ago is useful for subduing moth larvae.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00433-y",
+    "title": "Is social media addictive for teens? US courts wade into scientific debate",
+    "link": "https://www.nature.com/articles/d41586-026-00433-y",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00433-y\">doi:10.1038/d41586-026-00433-y</a>A wave of lawsuits will push juries to decide on an issue that researchers are still debating.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00156-0",
+    "title": "When a colleague dies: exploring academia's ‘death-denying’ culture",
+    "link": "https://www.nature.com/articles/d41586-026-00156-0",
+    "authors": [
+      "Adam Levy"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00156-0\">doi:10.1038/d41586-026-00156-0</a>How good is the sector at giving bereaved staff time and space to grieve?",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-025-03967-9",
+    "title": "How AI slop is causing a crisis in computer science",
+    "link": "https://www.nature.com/articles/d41586-025-03967-9",
+    "authors": [
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-025-03967-9\">doi:10.1038/d41586-025-03967-9</a>Preprint repositories and conference organizers are having to counter a tide of ‘AI slop’ submissions.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00468-1",
+    "title": "Exclusive: Key US infectious-diseases centre to drop pandemic preparation",
+    "link": "https://www.nature.com/articles/d41586-026-00468-1",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00468-1\">doi:10.1038/d41586-026-00468-1</a>Staff members have been instructed to scrub this topic and ‘biodefense’ from the agency’s website.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00140-8",
+    "title": "‘I was nearly arrested’: escaping Myanmar’s military leadership for a PhD abroad",
+    "link": "https://www.nature.com/articles/d41586-026-00140-8",
+    "authors": [
+      "Melissa Hobson"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00140-8\">doi:10.1038/d41586-026-00140-8</a>In the shadow of ongoing conflict, physician May T. N. Noe forged a path to achieve her academic goals.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00454-7",
+    "title": "AI agents are hiring human 'meatspace workers' — including some scientists",
+    "link": "https://www.nature.com/articles/d41586-026-00454-7",
+    "authors": [
+      "Jenna Ahart"
+    ],
+    "summary": "Nature, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00454-7\">doi:10.1038/d41586-026-00454-7</a>Biologists, physicists and computer scientists have joined a platform called RentAHuman.ai to advertise their skills.",
+    "source": "Nature",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00465-4",
+    "title": "Daily briefing: Hunter-gatherers in Europe’s ‘water world’ resisted the switch to farming for millennia",
+    "link": "https://www.nature.com/articles/d41586-026-00465-4",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 12 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00465-4\">doi:10.1038/d41586-026-00465-4</a>Inhabitants of the Rhine–Meuse river delta stubbornly resisted the population shifts that transformed most of Europe. Plus, a deep dive into the caves of Laos and the progress of clean-energy initiatives.",
+    "source": "Nature",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-00459-2",
+    "title": "Daily briefing: The centre of our Galaxy might not be a black hole",
+    "link": "https://www.nature.com/articles/d41586-026-00459-2",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 11 February 2026; <a href=\"https://www.nature.com/articles/d41586-026-00459-2\">doi:10.1038/d41586-026-00459-2</a>Our Galaxy’s heart might actually be a huge blob of dark matter, astrophysicists suggest. Plus, how to play a stone Roman board game and a call for the aid industry to shift to a ‘peace first’ approach.",
+    "source": "Nature",
+    "date": "2026-02-11"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adj4926?af=R",
+    "title": "CBX7 functions as a methylation-dependent inducer of gene transcription and regulator of cytosolic signaling in lymphoid cells",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adj4926?af=R",
+    "authors": [
+      "Kapil Sirohi, Anand Sripada, Mukesh Verma, Rangati Varma, Sucai Liu, Sangya Yadav, Anita Sahu, Laurie Manka, Vamsi P. Guntur, Magdalena M. Gorska, Rafeul Alam"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adx7448?af=R",
+    "title": "Identification of a type 1 diabetes–associated T cell receptor repertoire signature from the human peripheral blood",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adx7448?af=R",
+    "authors": [
+      "Puneet Rawat, Melanie R. Shapiro, Leeana D. Peters, Michael Widrich, Koshlan Mayer-Blackwell, Keshav Motwani, Milena Pavlović, Ghadi al Hajj, Amanda L. Posgai, Chakravarthi Kanduri, Giulio Isacchini, Maria Chernigovskaya, Lonneke Scheffer, Kartik Motwani, Leandro Octavio Balzano-Nogueira, Camryn M. Pettenger-Willey, Sebastiaan Valkiers, Laura M. Jacobsen, Michael J. Haller, Desmond A. Schatz, Clive H. Wasserfall, Ryan O. Emerson, Andrew J. Fiore-Gartland, Mark A. Atkinson, Günter Klambauer, Geir Kjetil Sandve, Victor Greiff, Todd M. Brusko"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady0344?af=R",
+    "title": "Breaking the optical loss barrier in amorphous silicon across the full visible spectrum via dopant-controlled chemical vapor deposition",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady0344?af=R",
+    "authors": [
+      "Younghwan Yang, Hyeonae Im, Eunji Lee, Hyunjung Kang, Junhwa Seong, Yujin Park, Dohyun Kang, Jeong Woo Han, Junsuk Rho"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady7222?af=R",
+    "title": "Non-equilibrium plasmon liquid in a Josephson junction chain",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady7222?af=R",
+    "authors": [
+      "Anton V. Bubis, Lucia Vigliotti, Maksym Serbyn, Andrew P. Higginbotham"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady8317?af=R",
+    "title": "Tubulin polymerization dynamics are influenced by magnetic isotope effects consistent with the radical pair mechanism",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady8317?af=R",
+    "authors": [
+      "Hadi Zadeh-Haghighi, Caleb R. Siguenza, Robert P. Smith, Christoph Simon, Travis J. A. Craddock"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz2892?af=R",
+    "title": "Elovl6 inhibits colorectal cancer progression through stearic acid–mediated mitochondrial fusion and metabolic reprogramming",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz2892?af=R",
+    "authors": [
+      "Zhiqian Bi, Xiaoyao Chang, Shengyun Zhu, Shuilian Fu, Yuzhe Zhang, Tingting Wang, Feng Wang, Hongqin Zhuang, Zi-Chun Hua"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz4733?af=R",
+    "title": "At-home movement state classification using totally implantable cortical-basal ganglia neural interface",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz4733?af=R",
+    "authors": [
+      "Rithvik Ramesh, Hamid Fekri Azgomi, Kenneth H. Louie, Jannine P. Balakid, Jacob H. Marks, Doris D. Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz8331?af=R",
+    "title": "Accessory microRNA byproducts expand RNA interference via microprocessor-mediated cleavage activation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz8331?af=R",
+    "authors": [
+      "Debora Mazzetti, Michal O. Nowicki, Himanshu Soni, Joshua D. Bernstock, Maya Groff, Luisa Esposito, Diego A. Hernandez, Lucia Altucci, Anna Krichevsky, Geoffrey Fell, E. Antonio Chiocca, Hiroshi Nakashima, Marco Mineo, Pierpaolo Peruzzi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz9942?af=R",
+    "title": "Vapor-deposited copper iodide cluster–based light-emitting diodes for pico-projector",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz9942?af=R",
+    "authors": [
+      "Yiqi Luo, Longbo Yang, Xiang Zhang, Jianfeng Ou, Fang Wang, Jiang Tang, Jiajun Luo"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea0449?af=R",
+    "title": "Munc13-1 couples DAG and Ca2+ signaling to dynamic vesicle priming, synaptic short-term plasticity, and posttetanic potentiation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea0449?af=R",
+    "authors": [
+      "Mrinalini Ranjan, Kun-Han Lin, Brian D. Mueller, Sonja M. Wojcik, Mareike Lohse, Thomas C. Südhof, Erik M. Jorgensen, Erwin Neher, Noa Lipstein, Nils Brose, Holger Taschenberger"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea1170?af=R",
+    "title": "Decoding active sites in high-entropy catalysts via attention-enhanced model",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea1170?af=R",
+    "authors": [
+      "Liang Yin, Tiantian Ma, Zibo Zhu, Zhanao Yao, Songlin Yu, Yi Li, Chengbo Li, Nian Ran, Wei Zhou, Jianjun Liu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea4413?af=R",
+    "title": "Opposing insulin signals underlie the same developmental switch across hemipteran insects",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea4413?af=R",
+    "authors": [
+      "Jin-Li Zhang, Yong-Kang Liu, Yi Wan, Hui-Jie Wu, Ni-Tong Xu, Zhuo-Qi Liu, Heng-Guang Huang, Jia-Peng Yang, Xin-Yang Liu, Xu-Mei Luo, Yi-Song Li, Qi-Sheng Song, Frederik H. Nijhout, Ehab Abouheif, Hai-Jun Xu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1732?af=R",
+    "title": "De novo identification of the specificities of recurrently identified human T cell receptors",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1732?af=R",
+    "authors": [
+      "Mithila Kasbe, Berkay Yahsi, Kalyn Whitehead, Jiwon Oh, Mashwiyat Mosharraf, Kayla Sohn, Trinh Phan, Mark N. Lee"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2036?af=R",
+    "title": "Structural basis for domain coupling in heteromeric glycine receptors revealed by an atypical allosteric agonist",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2036?af=R",
+    "authors": [
+      "Eric Gibbs, Bjarne Feddersen, Kayla J. Kindig, David Seiferth, Philip C. Biggin, Sudha Chakrapani"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5665?af=R",
+    "title": "Cross-trait genomic modeling reveals the polygenic architecture and systemic impact of MASLD",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5665?af=R",
+    "authors": [
+      "Mingyi Du, Huangbo Yuan, Tianhao Wu, Yanfeng Jiang, Chen Suo, Li Jin, Tiejun Zhang, Zhenqiu Liu, Xingdong Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9234?af=R",
+    "title": "Nanoscale temperature mapping through thermal vibration characterization using scanning precession electron diffraction",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9234?af=R",
+    "authors": [
+      "Kun Yang, Chao Zhang, Chengwei Wu, Qian Du, Bingzhi Li, Zhen Fang, Liang Li, Peng Wang, Wen Shang, Jianbo Wu, Tianru Wu, Hui Wang, Tao Deng, Wenpei Gao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9750?af=R",
+    "title": "Hysteretic slit-snapping and multistability in buckled beams with partial cuts",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9750?af=R",
+    "authors": [
+      "Bernat Durà Faulí, Lennard Kwakernaak, Martin van Hecke"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec5134?af=R",
+    "title": "Mechanical loading induces the longitudinal growth of muscle fibers via a rapamycin-insensitive mechanism",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec5134?af=R",
+    "authors": [
+      "Jamie E. Hibbert, Kent W. Jorgenson, Ramy K.A. Sayed, Hector G. Paez, Marius Meinhold, Corey G.K. Flynn, Anthony N. Lange, Garrison T. Lindley, Philip M. Flejsierowicz, Troy A. Hornberger"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed0335?af=R",
+    "title": "Lithography-free, site-controlled germanium quantum dots in silicon nanowires for single-hole transistors operating up to 50 K",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed0335?af=R",
+    "authors": [
+      "Junyang An, Zhiyan Hu, Zhengyi He, Songlin Li, Xiaopan Song, Lijuan Zhao, Junzhuan Wang, Linwei Yu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea5020?af=R",
+    "title": "Nanogate ferroelectric transistors with ultralow operation voltage of 0.6 V",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea5020?af=R",
+    "authors": [
+      "Dehuan Meng, Xuezhou Ma, Zizhuo Shen, Lin Xu, Lian-Mao Peng, Chenguang Qiu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ads7559?af=R",
+    "title": "Healthy dietary patterns, longevity genes, and life expectancy: A prospective cohort study",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ads7559?af=R",
+    "authors": [
+      "Yanling Lv, Jing Song, Ding Ding, Mengyun Luo, Feng J. He, Changzheng Yuan, Graham A. MacGregor, Liegang Liu, Liangkai Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady4848?af=R",
+    "title": "Exploring allomelanin: A comparative analysis via natural product extraction and synthesis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady4848?af=R",
+    "authors": [
+      "Sofia Aman, Lauren M. Irie, Shengyi Su, Zofia E. Siwicka, James J. La Clair, Brianna N. Kalaj, Elisabeth I. Latawiec, Prachi Karanjkar, Michael R. Wasielewski, Ali Dhinojwala, Michael D. Burkart, Omar K. Farha, Nathan C. Gianneschi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5758?af=R",
+    "title": "High-efficiency and broadband Kerr comb generation in normal-dispersion x-cut lithium niobate microresonators",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb5758?af=R",
+    "authors": [
+      "Yunxiang Song, Zongda Li, Xinrui Zhu, Norman Lippok, Miro Erkintalo, Marko Lončar"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ads5668?af=R",
+    "title": "Gigahertz multimode vibrations in graphene and MoS2 nanomechanical resonators at room temperature",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ads5668?af=R",
+    "authors": [
+      "Hao Jia, Fan Ye, Philip X.-L. Feng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2970?af=R",
+    "title": "Age-related thymic involution: Mechanistic insights and rejuvenating approaches to restore immune function",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2970?af=R",
+    "authors": [
+      "Jérémy C. Santamaria and Magali Irla"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 7, February 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01922-5",
+    "title": "Urban black-carbon radiative heating intensified by biogenic–anthropogenic interactions",
+    "link": "https://www.nature.com/articles/s41561-026-01922-5",
+    "authors": [
+      "Yunjiang Zhang",
+      "Shijie Cui",
+      "Jingyi Li",
+      "Ming Wang",
+      "Xiaofeng Xu",
+      "Jiandong Wang",
+      "Jie Fang",
+      "Hanrui Lang",
+      "Bo Zheng",
+      "Sheng Zhong",
+      "Peng Sun",
+      "Haiwei Li",
+      "Yun Wu",
+      "Jianlin Hu",
+      "Junfeng Wang",
+      "Mindong Chen",
+      "Olivier Favez",
+      "Didier Hauglustaine",
+      "Philippe Ciais",
+      "Kaspar R. Daellenbach",
+      "André S. H. Prévôt",
+      "Xinlei Ge"
+    ],
+    "summary": "Nature Geoscience, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01922-5\">doi:10.1038/s41561-026-01922-5</a>Biogenic–anthropogenic interactions increase the formation and prevalence of secondary organic aerosol coatings on urban black carbon in Nanjing, China. These coatings amplify radiative effects, according to a model–data analysis for 2023.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69644-1",
+    "title": "Author Correction: Malaria trends in Ethiopian highlands track the 2000 ‘slowdown’ in global warming",
+    "link": "https://www.nature.com/articles/s41467-026-69644-1",
+    "authors": [
+      "Xavier Rodó",
+      "Pamela P. Martinez",
+      "Amir Siraj",
+      "Mercedes Pascual"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69644-1\">doi:10.1038/s41467-026-69644-1</a>Author Correction: Malaria trends in Ethiopian highlands track the 2000 ‘slowdown’ in global warming",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69121-9",
+    "title": "Decodability, sensitivity, and criticality measured through single-neuron perturbations",
+    "link": "https://www.nature.com/articles/s41467-026-69121-9",
+    "authors": [
+      "Matthew Farrell",
+      "Taro Toyoizumi"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69121-9\">doi:10.1038/s41467-026-69121-9</a>This comment highlights a new study by Ribeiro et al.1 which investigates how single-neuron spikes influence the surrounding cortical network in vivo. By comparing induced and background spikes through the lenses of decodability, sensitivity, and criticality, this work highlights how local perturbations interact with ongoing network dynamics to reveal multi-faceted signatures of critical neural computation.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69503-z",
+    "title": "Precise synthesis of π-conjugated [3]catenanes and Solomon link for photothermal responses via a dual-tuning strategy",
+    "link": "https://www.nature.com/articles/s41467-026-69503-z",
+    "authors": [
+      "Jian-Xin Yang",
+      "Xiao-Qian Wan",
+      "Ming-Yu Lu",
+      "Meng-Yao Lu",
+      "Meng-Yi Yang",
+      "Ying Zhao",
+      "Francisco Aznarez",
+      "Bo Li",
+      "Li-Long Dang",
+      "Lu-Fang Ma"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69503-z\">doi:10.1038/s41467-026-69503-z</a>Mechanically interlocked supramolecular compounds have garnered widespread attention but it remains challenging to investigate topological adjustments in such complicated structures. Here, the authors use a bidentate pyridyl ligand featuring an extended π-conjugated plane for coordination-directed self-assembly to engineer three different kinds of sophisticated complexes.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69423-y",
+    "title": "Structural and molecular basis for allosteric regulation and catalytic coupling of human phosphoribosylformylglycinamidine synthase",
+    "link": "https://www.nature.com/articles/s41467-026-69423-y",
+    "authors": [
+      "Nandini Sharma",
+      "Weijie Zhou",
+      "Jarrod B. French"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69423-y\">doi:10.1038/s41467-026-69423-y</a>Here, the authors present structural snapshots of multiple distinct states of the enzyme phosphoribosylformylglycinamidine synthase, describing an allosteric mechanism that regulates transient intraprotein channel formation in this central purine metabolic protein.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69348-6",
+    "title": "Fluorescence-free single-molecule microscopy via electronic resonance stimulated Raman scattering",
+    "link": "https://www.nature.com/articles/s41467-026-69348-6",
+    "authors": [
+      "Sumin Oh",
+      "Yunji Eom",
+      "Ha Yeon Kim",
+      "Ayushi Tripathi",
+      "Sungnam Park",
+      "Han Young Woo",
+      "Sang-Hee Shim"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69348-6\">doi:10.1038/s41467-026-69348-6</a>This study demonstrates far-field single-molecule Raman detection without fluorescence or nearfield enhancement by integrating electronically resonant stimulated Raman scattering with nonfluorescent, highly conjugated molecular probes and an independently tunable dual-OPO laser system.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69435-8",
+    "title": "Hyperbolic localized plasmons and twist-induced chirality in an anisotropic 2D material",
+    "link": "https://www.nature.com/articles/s41467-026-69435-8",
+    "authors": [
+      "Yaolong Li",
+      "Xu Shi",
+      "Yuxin Zhang",
+      "Yen-En Liu",
+      "Hong Yang",
+      "Guowei Lyu",
+      "Yasutaka Matsuo",
+      "Xiaoyong Hu",
+      "Qihuang Gong",
+      "Hiroaki Misawa"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69435-8\">doi:10.1038/s41467-026-69435-8</a>Here, the authors report the nanofabrication and investigation of arrays of nanostructured MoOCl2 realizing both hyperbolic localized plasmon resonances and chiral optical responses.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-68791-9",
+    "title": "The interplay of sleep characteristics with health factors and gut microbiome",
+    "link": "https://www.nature.com/articles/s41467-026-68791-9",
+    "authors": [
+      "Jiafei Wu",
+      "Sergio Andreu-Sánchez",
+      "Haoran Peng",
+      "Ranko Gacesa",
+      "Milla Brandão Gois",
+      "Siobhan Brushett",
+      "Rinse Weersma",
+      "Daoming Wang",
+      "Alexander Kurilshikov",
+      "Alexandra Zhernakova",
+      "Jingyuan Fu",
+      "Daria V. Zhernakova"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-68791-9\">doi:10.1038/s41467-026-68791-9</a>Here, the authors investigate the association between sleep characteristics, such as sleep quality, daytime sleepiness, social jet lag and chronotype, and the gut microbiome composition in a Dutch cohort of 6941 participants.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69414-z",
+    "title": "The overlooked yet critical role of catholyte composition in microbial electrosynthesis",
+    "link": "https://www.nature.com/articles/s41467-026-69414-z",
+    "authors": [
+      "Dimitri van der Lee",
+      "Mungyu Lee",
+      "Minke Gabriëls",
+      "Robbert Kleerebezem",
+      "Ludovic Jourdin"
+    ],
+    "summary": "Nature Communications, Published online: 13 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69414-z\">doi:10.1038/s41467-026-69414-z</a>One often overlooked aspect in microbial electrosynthesis (MES) is the catholyte composition. Here, the authors review how catholyte design impacts MES performance at microbial, electrochemical, and process levels and propose a decision-making framework for process-specific formulation.",
+    "source": "Nature Communications",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-011942?TRACK=RSS",
+    "title": "The Black Sea as an Extreme Habitat of Earth's Ocean: Biogeochemical Functioning, Unique Ecosystems, and Astrobiological Relevance",
+    "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-032524-011942?TRACK=RSS",
+    "authors": [
+      "Mustafa Yücel, Betül Bitir Soylu, Esra Ermiş, Nimet Alımlı and Zeray Ayral Gülmez"
+    ],
+    "summary": "<div>The Black Sea, characterized by its unique oceanographic and biogeochemical gradients and oxygen-depleted (anoxic) waters, serves as a natural analogue of past planetary-scale geological events as well as more recent human-induced changes. In this review, based on a synthesis of the most recent research, we demonstrate how the extreme ecosystems of the Black Sea provide valuable insights into ecological resilience and adaptation in a changing global ocean. We also elaborate on how the Black Sea's biogeochemical oceanographic extremities parallel conditions found in some of the most extreme environments of our planet as well as newly discovered oceans of the Solar System, offering a crucial analogue for astrobiological and extreme environment research. As such, the Black Sea holds significant relevance not only for understanding Earth's past oceans and present ecological dynamics but also for advancing the exploration of life's potential beyond our planet.\n<ul>\n<li><span class=\"label\">&#9642;&#160;\n</span>The Black Sea is shaped by oceanographic gradients with Earth's largest volume of oxygen-depleted and sulfide-rich waters.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>The habitats of the Black Sea host not only unique bacterial and archaeal lineages but also eukaryotic organisms adapted to extreme conditions.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>It is also an excellent laboratory environment to study the geological past of Earth's ocean and for future studies of the Solar System's ocean worlds.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Managing the Black Sea's environmental challenges should be a priority as well to keep this unique natural laboratory stable and accessible for future generations.\n</li>\n</ul></div>",
+    "source": "Annual Review of Earth and Planetary Sciences: Most Recent Articles",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-040623-101222?TRACK=RSS",
+    "title": "Geoscience Diversity Programs: What Works and Does Not and Their Evolution Through Time",
+    "link": "https://www.annualreviews.org/content/journals/10.1146/annurev-earth-040623-101222?TRACK=RSS",
+    "authors": [
+      "Carlene Burton, Ann Marie Garran, Adeline Liem, N. Chloé Nwangwu, Samuel Cornelius Nyarko, Lisa Werkmeister Rozas and Vashan Wright"
+    ],
+    "summary": "<div>Geoscience remains one of the least diverse science, technology, engineering, and mathematics disciplines, despite investment in diversity initiatives. Obstacles such as insufficient funding, paucity of geoscience offerings, and lack of information continue to promote a culture of exclusion. This review critically examines the evolution of belonging, accessibility, justice, equity, diversity, and inclusion (BAJEDI) programs in the geosciences, focusing on efforts to increase participation and retention of minoritized people of color. We explore the philosophical foundations that have shaped BAJEDI efforts and the challenges they face despite realistic gains. This review identifies institutional and political limitations and offers recommendations to support positive, long-term institutional and systemic change. We underscore the need to move beyond symbolic gestures and argue for ethic of care practices that center authentic, relational interactions and systemic accountability. Understanding what truly works and the conditions under which it works for minoritized people of color is critical to building a more inclusive and innovative geoscience community.\n<ul>\n<li><span class=\"label\">&#9642;&#160;\n</span>Increasing racial diversity in geoscience requires sustained, resilient, and evidence-based strategies rather than short-term or ad hoc efforts.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Efforts to increase racial diversity and improve the experiences of people of color in geoscience must attend to relational dynamics within the field.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Learning from past missteps and evaluating what works are essential to strengthening existing efforts and advancing racial diversity in geoscience.\n</li>\n<li><span class=\"label\">&#9642;&#160;\n</span>Including an ethic of care, rather than relying primarily on deontological or utilitarian frameworks, within diversity programs and policies is key to meaningful, lasting transformation in geoscience.\n</li>\n</ul></div>",
+    "source": "Annual Review of Earth and Planetary Sciences: Most Recent Articles",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118278",
+    "title": "Irreversible Transitions of the Ocean Circulation in Antarctic Ice‐Shelf Cavities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118278?af=R",
+    "authors": [
+      "Louis Saddier, \nCorentin Herbert, \nChristopher Y. S. Bull, \nLouis‐Alexandre Couston"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL119602",
+    "title": "Observations and Modeling of the Longest‐Recorded Delayed Sprite",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119602?af=R",
+    "authors": [
+      "Y. Yair, \nC. Haspel, \nM. Korzets, \nE. Di‐Gangi, \nJ. Lapierre, \nO. Chanrion, \nY. Hobara, \nT. Bozóki, \nJ. Mlynarczyk, \nM. Korman, \nM. López‐Alegría"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL119174",
+    "title": "Seismic Waves Do Sense Fracture Connectivity: Experimental Validation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119174?af=R",
+    "authors": [
+      "Yanbin He, \nJ. Germán Rubino, \nJianping Liao, \nGuangui Zou, \nTailang Zhao, \nBin Li, \nHui Li, \nJinghuai Gao, \nGuiwen Xu, \nKlaus Holliger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL120120",
+    "title": "On the Beam Characteristics of X‐Ray Bursts Observed in Rocket‐Triggered Lightning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120120?af=R",
+    "authors": [
+      "Yuan Wang, \nPeng Li, \nYang Zhang, \nHeting Hong, \nXiao Li, \nYanfeng Fan, \nBaofeng Cao, \nWeiqun Xu, \nZongxiang Li, \nWeitao Lyu, \nGaopeng Lu, \nXiong Zhang, \nXiaoqiang Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL120134",
+    "title": "Formation of Secondary Structures Associated With the Gradient Drift Instability in the High‐Latitude Ionosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120134?af=R",
+    "authors": [
+      "Yusha Tan, \nJiuhou Lei, \nMaodong Yan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118480",
+    "title": "Future Weakening of the Kuroshio Extension Decadal Variability Revealed by an Eddy‐Resolving Global Climate Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118480?af=R",
+    "authors": [
+      "Xin Wang, \nBolan Gan, \nLixin Wu, \nHong Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118933",
+    "title": "Quantifying High‐Frequency Migrating Tides in the Atmosphere of Mars With Observations From EMIRS, Curiosity and Perseverance",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118933?af=R",
+    "authors": [
+      "Aishwarya Kumar, \nScott L. England, \nR. John Wilson, \nAmanda S. Brecht"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL119644",
+    "title": "How Do Projections of Meteorological Droughts Vary Across Models and Regions?",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119644?af=R",
+    "authors": [
+      "H. Douville"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL120802",
+    "title": "Leveraging Laboratory Experiments of Shoreline Response to Sea‐Level Rise: A Beach Disequilibrium Perspective",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120802?af=R",
+    "authors": [
+      "M. D’Anna, \nF. Ribas, \nG. Coco, \nP. M. Bayle, \nD. Calvete, \nA. Falqués, \nT. E. Baldock, \nA. L. Atkinson, \nT. Beuzen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118412",
+    "title": "High‐Resolution Channel Geometry Reveals Contrasting Styles of Gravel River Adjustment",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118412?af=R",
+    "authors": [
+      "Robert P. Kostynick, \nColin B. Phillips, \nClaire C. Masteller"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL121347",
+    "title": "Detectability of Phytoplankton Biomass Extremes Using Simulated Satellite Chlorophyll Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121347?af=R",
+    "authors": [
+      "Genevieve L. Clow, \nNicole S. Lovenduski, \nMichael N. Levy, \nKeith Lindsay, \nSamuel C. Mogen, \nJennifer E. Kay"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118296",
+    "title": "Subtropical Atmospheric Response to Extratropical SST Warming in the Western North Pacific Under Atmospheric Internal Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118296?af=R",
+    "authors": [
+      "Itsuki Miura, \nYouichi Tanimoto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL118568",
+    "title": "Frequency‐Dependent Seismic Velocity Variations Reveal Layered Aquifer Behavior Under Groundwater Fluctuations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118568?af=R",
+    "authors": [
+      "C. Rattanavetchasit, \nH.‐H. Huang, \nH. Sone, \nY.‐M. Wu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL119838",
+    "title": "The Impact of OCO‐2 Seasonally Dependent Sampling on Carbon Flux Estimation in the Northern Tropical Africa",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119838?af=R",
+    "authors": [
+      "Junjie Liu, \nSourish Basu, \nBrendan Byrne, \nJeongmin Yun, \nChris O’Dell"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GL119591",
+    "title": "Corona Discharges Glow on Trees Under Thunderstorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119591?af=R",
+    "authors": [
+      "P. J. McFarland, \nW. H. Brune, \nD. O. Miller, \nJ. M. Jenkins"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GC012679",
+    "title": "Assessing Pb Isotopic Equilibrium Between Apatite and K‐Feldspar",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012679?af=R",
+    "authors": [
+      "Priyanjan Datta, \nChristopher L. Kirkland, \nJanne Liebmann, \nHugo K. H. Olierook"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 2, February 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025GC012749",
+    "title": "Diagenetic and Hydrothermal Processes Produce Heavy Molybdenum Isotope Signatures in Pelagic Sediments of the North and South Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012749?af=R",
+    "authors": [
+      "P. L. Fraga‐Ferreira, \nC. Siebert, \nM. Frank, \nF. Scholz"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 2, February 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025JB032670",
+    "title": "Bayesian Inference of Local Paleosecular Variation From Sparse Paleomagnetic Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032670?af=R",
+    "authors": [
+      "M. A. Schanner, \nR. Meyer, \nL. V. de Groot"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "10.1029/2025JB032900",
+    "title": "Magnetic Domain State and Anisotropy in Monoclinic 4C Pyrrhotite (Fe7S8) From First‐Order Reversal Curve Diagrams",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032900?af=R",
+    "authors": [
+      "Andrew P. Roberts, \nXiang Zhao, \nChorng‐Shern Horng, \nPengxiang Hu, \nMark J. Dekkers, \nRichard J. Harrison, \nDavid Heslop, \nAdrian R. Muxworthy, \nHirokuni Oda, \nWyn Williams"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-12"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600102X",
+    "title": "The solubility of ErPO<sub>4</sub> and Er speciation in hydrothermal fluids at varying pH and salinity between 350 and 450 °C",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600102X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Charles T. Kershaw, Nicole C. Hurtig, Alexander P. Gysi, Artas A. Migdisov, Laura E. Waters, Daniel Harlov",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000827",
+    "title": "Depth variations in multi-stage hydrogen generation associated with serpentinization in the lower crust and mantle sections of the Oman Ophiolite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000827?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Kazuki Yoshida, Atsushi Okamoto, Ryosuke Oyanagi, Masakazu Fujii, Kenta K. Yoshida, Yasuhiro Niwa, Yasuo Takeichi, Masao Kimura",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001018",
+    "title": "Physical adsorption of hydroxide ion at mineral–water interface",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001018?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yingchun Zhang, Xiandong Liu, Pengyuan Gao, Jun Cheng, Johannes Lützenkirchen, Xiancai Lu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000980",
+    "title": "Sources, sinks, and isotopic fractionation of antimony in a karst catchment: constraints on multi-media migration and biogeochemical cycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000980?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yu Lin, Guangyi Sun, Xinyu Li, Yunjie Wu, Yu Cheng, Heng Yao, Xinbin Feng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726000979",
+    "title": "Microbial-induced birnessite transformation under different redox conditions and its impact on lead adsorption",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726000979?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 12 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yuanyuan Geng, Guanyu Zhang, Lingyi Tang, Xiaoliang Fan, Huan Liu, Baojun Wang, Chao-Sheng Tang, Bin Shi, Daniel S. Alessi, Zhengtao Shen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-14"
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10252-w",
     "title": "Publisher Correction: Physiology and immunology of a pig-to-human decedent kidney xenotransplant",
     "link": "https://www.nature.com/articles/s41586-026-10252-w",
