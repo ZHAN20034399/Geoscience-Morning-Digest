@@ -1,5 +1,337 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69470-5",
+    "title": "Ligand-dependent Wnt signaling promotes gastric cancer metastasis through hyaluronan expression in microenvironment",
+    "link": "https://www.nature.com/articles/s41467-026-69470-5",
+    "authors": [
+      "Yuichiro Furutani",
+      "Hiroko Oshima",
+      "Chang Pyo Hong",
+      "SeonJu Choi",
+      "Ryosuke Machi",
+      "Mizuho Nakayama",
+      "Kazuhiro Murakami",
+      "Shintaro Yagi",
+      "Yukinobu Ito",
+      "Daichi Maeda",
+      "Noriyuki Inaki",
+      "Nick Barker",
+      "Masanobu Oshima"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69470-5\">doi:10.1038/s41467-026-69470-5</a>Wnt signaling is activated in more than half of gastric cancers through a ligand-dependent manner. Here the authors show with mouse models that tumor-derived Wnt ligands activate liver stromal fibroblasts to facilitate hyaluronan accumulation in the microenvironment, promoting gastric cancer liver metastasis.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69527-5",
+    "title": "From nicotine to SARS-CoV-2 antivirals with potent in vivo efficacy and a broad anti-coronavirus spectrum",
+    "link": "https://www.nature.com/articles/s41467-026-69527-5",
+    "authors": [
+      "Kaustav Khatua",
+      "Sandeep Atla",
+      "Demonta Coleman",
+      "Lauren R. Blankenship",
+      "Yugendar R. Alugubelli",
+      "Veerabhadra Vulupala",
+      "Xuejiao Shirley Guo",
+      "Hongjie Xia",
+      "Birte K. Kalveram",
+      "David H. Walker",
+      "Brett L. Hurst",
+      "Sathish Kumar",
+      "Chia-Chuan D. Cho",
+      "Shivangi Sharma",
+      "Kai Yang",
+      "Dorsa Rabie",
+      "Satyanarayana Nyalata",
+      "Benjamin W. Neuman",
+      "Xuping Xie",
+      "Shiqing Xu",
+      "Wenshe Ray Liu"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69527-5\">doi:10.1038/s41467-026-69527-5</a>Here the authors identify nicotine-derived inhibitors of the SARS-CoV−2 main protease that outperform Paxlovid in cells and mice, remain effective against resistant variants, and show broad activity against multiple human coronaviruses.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69447-4",
+    "title": "Functional distinctions between orbitofrontal cortex and anterior cingulate cortex subregions in decision-making and autonomic regulation",
+    "link": "https://www.nature.com/articles/s41467-026-69447-4",
+    "authors": [
+      "Georgios K. Papageorgiou",
+      "Ken-ichi Amemori",
+      "Daniel J. Gibson",
+      "Helen N. Schwerdt",
+      "Michelangelo Naim",
+      "Michelle C. Wang",
+      "Tomoko Yoshida",
+      "Jitendra Sharma",
+      "Urvashi Upadhyay",
+      "Guangyu Robert Yang",
+      "Ann M. Graybiel"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69447-4\">doi:10.1038/s41467-026-69447-4</a>The roles of orbitofrontal and cingulate cortex in emotional decisions remain unclear. Here the authors show distinct timing between caudal orbitofrontal and cingulate signals, that orbitofrontal stimulation increases avoidance, and that physiological responses mirror behavior.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69169-7",
+    "title": "ATRX loss couples genome instability at a G-rich repeat to dysregulation of human alpha-globin expression",
+    "link": "https://www.nature.com/articles/s41467-026-69169-7",
+    "authors": [
+      "Yuqi Shen",
+      "Kinam Gupta",
+      "Sue Mei Tan-Wong",
+      "Sean Wen",
+      "Christopher A. Fisher",
+      "Liezel Tamon",
+      "Nicholas J. Proudfoot",
+      "Richard J. Gibbons",
+      "Douglas R. Higgs"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69169-7\">doi:10.1038/s41467-026-69169-7</a>ATRX mutations are associated with developmental disorders and cancer, but how they affect gene regulation is unclear. Here, the authors report that ATRX loss can perturb alpha-globin gene expression by promoting G4- and R-loop-associated DNA damage via a G-rich repeat.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69402-3",
+    "title": "Enabling global-scale nucleic acid repositories through versatile, scalable biochemical selection from room-temperature archives",
+    "link": "https://www.nature.com/articles/s41467-026-69402-3",
+    "authors": [
+      "Joseph D. Berleant",
+      "James L. Banal",
+      "Dhriti K. Rao",
+      "Mark Bathe"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69402-3\">doi:10.1038/s41467-026-69402-3</a>Large biospecimen banks are limited by a lack of fast, flexible, database-like retrieval. Here, authors encode metadata as DNA barcodes on silica-encapsulated samples and demonstrate numerical range, categorical, and Boolean queries, enabling rapid, precise recall from pooled DNA/RNA archives.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69614-7",
+    "title": "Single-crystal 2D covalent organic frameworks for high-capacity methane storage",
+    "link": "https://www.nature.com/articles/s41467-026-69614-7",
+    "authors": [
+      "Baoqiu Yu",
+      "Felipe L. Oliveira",
+      "Wenliang Li",
+      "Qingmei Xu",
+      "Xu Ding",
+      "Shangwei Yuan",
+      "Yucheng Jin",
+      "Hua Liu",
+      "Hailong Wang",
+      "Xin Xiao",
+      "Jingping Zhang",
+      "Guillaume Maurin",
+      "Banglin Chen",
+      "Jianzhuang Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69614-7\">doi:10.1038/s41467-026-69614-7</a>2D covalent organic frameworks usually possess a polycrystalline nature as well as lower porosity and surface area than 3D counterparts, limiting their gas storage application. Here, the authors report the formation of single-crystal 2D covalent organic frameworks isomers with atom-resolution structures for methane storage.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69430-z",
+    "title": "Blood-based epigenetic instability linked to human aging and disease",
+    "link": "https://www.nature.com/articles/s41467-026-69430-z",
+    "authors": [
+      "Salman Basrai",
+      "Ido Nofech-Mozes",
+      "Rajesh Detroja",
+      "Fernando L. Scolari",
+      "Mehran Bakhtiari",
+      "Andrea Arruda",
+      "Tracy Murphy",
+      "Scott V. Bratman",
+      "Steven M. Chan",
+      "Mark D. Minden",
+      "Jae Sook Ahn",
+      "Dennis D. H. Kim",
+      "Robert Kridel",
+      "Filio Billia",
+      "Sagi Abelson"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69430-z\">doi:10.1038/s41467-026-69430-z</a>DNA methylation heterogeneity and dynamics hinder distinguishing early pathological changes from normal variation. Here, the authors identify stable sites whose disruption is linked to blood cancers, aging, and cardiovascular risk.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69188-4",
+    "title": "Large-array sub-millimeter precision coherent flash three-dimensional imaging",
+    "link": "https://www.nature.com/articles/s41467-026-69188-4",
+    "authors": [
+      "Bin Wang",
+      "Junze Tian",
+      "Jianwei Wang",
+      "Shukang Xu",
+      "Shuangxiang Zhao",
+      "Jianhao Duan",
+      "Weifeng Zhang",
+      "Yangyang Liu",
+      "Tao Zeng",
+      "Erke Mao"
+    ],
+    "summary": "Nature Communications, Published online: 14 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69188-4\">doi:10.1038/s41467-026-69188-4</a>A solid-state flash 3D imaging system is demonstrated using stepped-frequency modulation and CCD-based coherent detection, achieving submillimeter precision, long-range detection, and scalable pixel performance.",
+    "source": "Nature Communications",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226000450",
+    "title": "Coastal changes in the low-latitude western North Pacific region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226000450?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Haixian Xiong, Yongqiang Zong, Shuqing Fu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X",
+    "title": "Sediment-derived deep forearc fluid caused coupled sulfur-Fe<sup>3+</sup>-enrichment in eclogite from the subducted Farallon plate",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600066X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 April 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 680Author(s): Sonja Aulbach, Johannes E. Pohlner, Richard A. Stern, Heidi E. Höfer, Daniel J. Schulze, Herwart Helmstaedt",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841",
+    "title": "Corrigendum to “Origin of the mass-dependent germanium isotopic continuum in the early Solar System” [Earth Planet. Sci. Lett. 672 (2025) 119663]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26000841?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Earth and Planetary Science LettersAuthor(s): Béatrice Luais, Guillaume Florin",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "10.1029/2025GL119055",
+    "title": "Modulation of the Mid‐Latitude Ionospheric Sporadic E Layer by the Northern Polar Vortex",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119055?af=R",
+    "authors": [
+      "Tomoki Maeda, \nHuixin Liu, \nYosuke Yamazaki, \nLihui Qiu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL119733",
+    "title": "Landward Acceleration of Tropical Cyclones Making Landfall Along the South China Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119733?af=R",
+    "authors": [
+      "Quanjia Zhong, \nWansuo Duan, \nShifei Tu, \nYongjie Huang, \nJohnny C. L. Chan, \nRuiqiang Ding"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL119273",
+    "title": "Seismoacoustic Analysis of Possible Vent‐Drying Sequence During Phreatomagmatic Activity on 13 July 2021 at Semisopochnoi Island, Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119273?af=R",
+    "authors": [
+      "Dan Muramatsu, \nJohn J. Lyons, \nHannah R. Dietterich, \nMie Ichihara, \nAlexandra M. Iezzi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL120887",
+    "title": "Low Cloud Dispersion Effects by Anthropogenic Aerosols in Polluted Air",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120887?af=R",
+    "authors": [
+      "Xiaomi Teng, \nLiang Xu, \nFan Zhang, \nYihan Cheng, \nMin Gao, \nXiyao Chen, \nJiefeng Li, \nShengzhen Zhou, \nShoujuan Shu, \nShupeng Zhu, \nDantong Liu, \nChuanfeng Zhao, \nJoseph Ching, \nWeijun Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL119490",
+    "title": "Deep Convection‐Driven Downward Transport of Trace Gases and Aerosols From the Free Troposphere to the Boundary Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119490?af=R",
+    "authors": [
+      "Manisha Mehra, \nYang Wang, \nChanakya Bagya Ramesh, \nRuoyu Zhang, \nJiaoshi Zhang, \nScott E. Giangrande, \nJian Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL119629",
+    "title": "Solar‐Wind Triggering of Substorm Onset During the May 2024 Superstorm: Coordinated Global Observations and Simulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119629?af=R",
+    "authors": [
+      "Yong Ren, \nMinghui Zhu, \nLei Dai, \nWalter Gonzalez, \nShan Wang, \nChi Wang, \nC. Philippe Escoubet, \nJiaojiao Zhang, \nQiugang Zong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025GL119355",
+    "title": "Climate Change Will Enhance Hypercapnic Hypoxia Threatening Mangrove Habitats",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119355?af=R",
+    "authors": [
+      "Gloria M. S. Reithmaier, \nAriel K. Pezner, \nAdam Ulfsbo, \nFrank Melzner, \nIsaac R. Santos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025JB033350",
+    "title": "Dissolution and Flow Channeling in Hydrate‐Bearing Sediments: Implications for Permeability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033350?af=R",
+    "authors": [
+      "Alejandro Cardona, \nYi Fang, \nDavid DiCarlo, \nPeter B. Flemings"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2025JB032061",
+    "title": "Paleosecular Variations in the South Atlantic Anomaly Region Over 65–40 ka — Revisiting Site ODP 1233",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032061?af=R",
+    "authors": [
+      "Jiabo Liu, \nNorbert R. Nowaczyk, \nYuhao Huang, \nXin Luo, \nHuapei Wang, \nFei Han, \nYiming Ma, \nQingsong Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "10.1029/2024JB030971",
+    "title": "Self‐Consistent Models of Earth's Mantle and Core From Long‐Period Seismic and Tidal Constraints",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JB030971?af=R",
+    "authors": [
+      "F. D. Munch, \nJ. Kemper, \nA. Khan, \nG. Helffrich, \nD. Giardini"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-13"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001043",
+    "title": "Corrigendum to “Experimental kinetic rate laws for aqueous pyrite reduction at underground hydrogen storage conditions (60–150 °C, up to 150 bar H<sub>2</sub>)”. [Geochim. Cosmochim. Ac. 414 (2026) 169–190]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001043?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Robin Hintzen, Roland Hellmann, Vladimir Roddatis, Julia van Winden, Laurent Truche",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001055",
+    "title": "Continental weathering and redox dynamics modulated marine phosphorus availability during the Sturtian deglaciation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001055?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ruru Li, Jun Hu, Sanzhong Li, Yuhao Li, Zheng Qin, Rui Dong, Huan Cui, Xueqi Liang, Kurt O. Konhauser",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-02-15"
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-00476-1",
     "title": "Briefing Chat: Caffeine slows brain ageing, suggests decades of data",
     "link": "https://www.nature.com/articles/d41586-026-00476-1",
