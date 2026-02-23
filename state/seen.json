@@ -1,5 +1,116 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-69697-2",
+    "title": "Subtypes of adolescent major depressive disorder characterized by divergent information dynamics in sensory-association cortices",
+    "link": "https://www.nature.com/articles/s41467-026-69697-2",
+    "authors": [
+      "Xiaobo Liu",
+      "Bin Wan",
+      "Xinyu Wu",
+      "Xihan Zhang",
+      "Lang Liu",
+      "Siyu Long",
+      "Ruiyang Ge",
+      "Ruifang Cui",
+      "Xin Wen",
+      "Xiaoqiang Liu",
+      "Wei Peng",
+      "Guoyuan Yang",
+      "Yujun Gao"
+    ],
+    "summary": "Nature Communications, Published online: 22 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69697-2\">doi:10.1038/s41467-026-69697-2</a>In this study, the authors identify two biologically distinct subtypes of adolescent major depressive disorder by analyzing interactions between sensory and higher-order association brain regions, offering new insights for the development of targeted diagnostic and therapeutic approaches.",
+    "source": "Nature Communications",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "10.1029/2025GL118467",
+    "title": "Freeze‐Thaw Cycling Accelerated Olivine Weathering and Water Sequestration on Icy Mars",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118467?af=R",
+    "authors": [
+      "Jing Liu, \nJing Wang, \nShouhao Tong, \nMengqi Luo, \nJunming Zhou, \nJiacheng Liu, \nZhongchen Wu, \nMinwang Laipan, \nRunliang Zhu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GL119801",
+    "title": "SWOT Sheds Light on Seiche Oscillations Within Atoll Islands",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119801?af=R",
+    "authors": [
+      "E. Rebouillat, \nL. Oruba, \nM. Hopuare, \nS. Planes, \nE. Dormy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GL120339",
+    "title": "How Fault Zone Fabric Controls the Hydro‐Mechanical Behavior and Evolution of Critical State Shearing in Clay Shale",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120339?af=R",
+    "authors": [
+      "L. Winhausen, \nM. Ziegler, \nF. Amann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GL120188",
+    "title": "Radiosonde‐to‐Space (R2S) Atmospheric Specifications: Bridging Observations and Models for Infrasound Propagation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120188?af=R",
+    "authors": [
+      "Loring P. Schaible, \nElizabeth A. Silber"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GL120537",
+    "title": "Climatology and Environmental Controls of Intense Wind Gusts in the Brazilian Amazon",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120537?af=R",
+    "authors": [
+      "Vanessa Ferreira, \nLetícia Oliveira dos Santos, \nMauricio Ilha de Oliveira, \nErnani de Lima Nascimento, \nAnja Rammig"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GL119926",
+    "title": "Changes in MJO Teleconnections in the Southeast U.S. Under Global Warming in the CESM2 Large Ensemble",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL119926?af=R",
+    "authors": [
+      "Jingxuan Cui, \nEric D. Maloney"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 4, 28 February 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025GC012803",
+    "title": "Late Holocene Increase in Influence of Pacific Deep Water off Southern Chile Caused by Migration of the Southern Westerly Wind: Evidence From Beryllium Isotopes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012803?af=R",
+    "authors": [
+      "Karin Nemoto, \nYusuke Yokoyama, \nAdam David Sproson, \nYosuke Miyairi, \nTakahiro Aze, \nYair Rosenthal, \nSamantha Bova, \nHailey Riechelson"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 2, February 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "10.1029/2025JB032728",
+    "title": "Insights Into the 2020 Instability Crisis of Merapi Through Numerical Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032728?af=R",
+    "authors": [
+      "M. Galárraga, \nL. Scholtès, \nB. Chevalier, \nN. Aisyah, \nK. Kelfoun"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 2, February 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-21"
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-69880-5",
     "title": "Thin film lithium niobate on sapphire for integrated mid-infrared modulator",
     "link": "https://www.nature.com/articles/s41467-026-69880-5",
