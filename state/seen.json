@@ -1,5 +1,391 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-01946-x",
+    "title": "Publisher Correction: Early Pleistocene ecosystem turnover in South Siberia linked to abrupt regional cooling",
+    "link": "https://www.nature.com/articles/s41561-026-01946-x",
+    "authors": [
+      "Joseph B. Novak",
+      "Alexander A. Prokopenko",
+      "Pavel E. Tarasov",
+      "James M. Russell",
+      "Emma R. Lindemuth",
+      "Koji Shichi",
+      "Kenji Kashiwaya",
+      "John Peck",
+      "Richard S. Vachula",
+      "George E. A. Swann",
+      "Pratigya J. Polissar"
+    ],
+    "summary": "Nature Geoscience, Published online: 27 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01946-x\">doi:10.1038/s41561-026-01946-x</a>Publisher Correction: Early Pleistocene ecosystem turnover in South Siberia linked to abrupt regional cooling",
+    "source": "Nature Geoscience",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-01933-2",
+    "title": "Daily variations of carbon, nitrogen and oxygen ions in a thin lunar atmosphere",
+    "link": "https://www.nature.com/articles/s41561-026-01933-2",
+    "authors": [
+      "Kentaro Terada",
+      "Ryusei Nishihira",
+      "Shoichiro Yokota",
+      "Yoshifumi Saito",
+      "Kazushi Asamura",
+      "Masaki N. Nishino",
+      "Shota Notsu"
+    ],
+    "summary": "Nature Geoscience, Published online: 27 February 2026; <a href=\"https://www.nature.com/articles/s41561-026-01933-2\">doi:10.1038/s41561-026-01933-2</a>Carbon, nitrogen and oxygen ion abundances in the lunar atmosphere show daily variations that may be produced by ejection from a nitrogen-rich reservoir by solar wind sputtering, according to measurements made by an ion mass analyser onboard the Kaguya satellite.",
+    "source": "Nature Geoscience",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70220-w",
+    "title": "Targeting NAT10 alleviates colonic senescence and elderly-onset colitis by disrupting N4-acetylation of <i>DYRK1A</i>",
+    "link": "https://www.nature.com/articles/s41467-026-70220-w",
+    "authors": [
+      "Jingyu Chen",
+      "Meng Xue",
+      "Shuyi Mi",
+      "Anbo Fu",
+      "Wenwen Chen",
+      "Yuhao Sun",
+      "Shenglong Xia",
+      "Qiwei Ge",
+      "Jiakai Luo",
+      "Qiao Yu",
+      "Liangjing Wang",
+      "Shujie Chen"
+    ],
+    "summary": "Nature Communications, Published online: 01 March 2026; <a href=\"https://www.nature.com/articles/s41467-026-70220-w\">doi:10.1038/s41467-026-70220-w</a>This study identifies NAT10-mediated RNA ac4C modification as a key regulator of colonic epithelial aging. Through N4-acetylation regulation of DYRK1A, NAT10 promotes intestinal senescence, highlighting a potential therapeutic target for elderly-onset colitis.",
+    "source": "Nature Communications",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69845-8",
+    "title": "Nanoporosity-driven deformation of additively manufactured nano-architected metals",
+    "link": "https://www.nature.com/articles/s41467-026-69845-8",
+    "authors": [
+      "Wenxin Zhang",
+      "Zhi Li",
+      "Huajian Gao",
+      "Julia R. Greer"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69845-8\">doi:10.1038/s41467-026-69845-8</a>A two-photon-lithography hydrogel-infusion process prints 3D nickel nano-architectures with ~100-nm features and high specific strength, indicating that localized nanoporosity hotspots govern deformation and size-dependent strength.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70171-2",
+    "title": "Physical echo state network based on the nonlinearity and dynamic response of ambipolar heterostructure transistors",
+    "link": "https://www.nature.com/articles/s41467-026-70171-2",
+    "authors": [
+      "Wen-Min Zhong",
+      "Wenbin Zhang",
+      "Yu-Xiang Zeng",
+      "JiYu Zhao",
+      "Ziqi Jia",
+      "Guanglong Ding",
+      "Su-Ting Han",
+      "Vellaisamy A. L. Roy",
+      "Ye Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70171-2\">doi:10.1038/s41467-026-70171-2</a>In neuromorphic computing, time-series prediction is a significant challenge to recurrent neural network architecture. Here, the authors present ambipolar transistors implementing a physical echo-state network for efficient time-series and image tasks, achieving high accuracy via static and dynamic computing modes.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69737-x",
+    "title": "Polyanion-stabilized amorphous halide electrolytes with low lithium content for all-solid-state lithium batteries",
+    "link": "https://www.nature.com/articles/s41467-026-69737-x",
+    "authors": [
+      "Wen Tang",
+      "Feilong Wang",
+      "Shuaika Liang",
+      "Fiaz Hussain",
+      "Jo-chi Tseng",
+      "Pengcheng Yu",
+      "Jiuwei Lei",
+      "Hailun Jin",
+      "Chunlei Zhao",
+      "Haochang Zhang",
+      "Zhepu Shi",
+      "Ying Li",
+      "Wen Yin",
+      "Fucheng Ren",
+      "Shuo Wang",
+      "Zi‑Feng Ma",
+      "Xueliang Sun",
+      "Wei Xia"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69737-x\">doi:10.1038/s41467-026-69737-x</a>Halide solid electrolytes typically require high lithium content, raising costs and exacerbating air sensitivity. Here, authors leverage anion clusters to synthesize an amorphous electrolyte with low lithium content of 2.4 wt%, high ionic conductivity of 1.5 mS cm-1, and good air-stability.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70129-4",
+    "title": "Strong optical anisotropy in one-dimensional phosphorus wavy tubes",
+    "link": "https://www.nature.com/articles/s41467-026-70129-4",
+    "authors": [
+      "Shuai Zhang",
+      "Zhaolong Liu",
+      "Tongtong Jiang",
+      "Chen Wang",
+      "Jiahui Wang",
+      "Han Wang",
+      "Minqiang Fan",
+      "Li Yang",
+      "Yang Li",
+      "Liping Ding",
+      "Ying Yu",
+      "Xiaodong Hao",
+      "Shufang Ma",
+      "Bingshe Xu",
+      "Xiaolong Chen",
+      "Cong Ye",
+      "Xianfeng Chen",
+      "Paul K. Chu",
+      "Shifeng Jin",
+      "Feng Ding",
+      "Xue-Feng Yu",
+      "Zhipei Sun",
+      "Jiahong Wang"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70129-4\">doi:10.1038/s41467-026-70129-4</a>Strong optical anisotropy is commonly achieved by complex engineered materials. Here, authors synthesize elemental crystals of type-II red phosphorus made of wavy tubular structures, exhibiting strong birefringence in the visible and near-infrared spectral region. They demonstrate anisotropic photoluminescence, Raman scattering and second-harmonic generation.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69127-3",
+    "title": "SOD1 lactylation impair its enzymatic activity by conformational change to aggravate intervertebral disc degeneration",
+    "link": "https://www.nature.com/articles/s41467-026-69127-3",
+    "authors": [
+      "Yuyao Zhang",
+      "Yu Zhai",
+      "Chao Liu",
+      "Minghang Chen",
+      "Yang Zhang",
+      "Zhiqun Bian",
+      "Xian Chang",
+      "Zhilei Hu",
+      "Jianmin Li",
+      "Chao Zhang",
+      "Zhenhong Ni",
+      "Yangli Xie",
+      "Lin Chen",
+      "Minghan Liu",
+      "Changqing Li"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69127-3\">doi:10.1038/s41467-026-69127-3</a>Lactylation of SOD1 at lysine in nucleus pulposus cells and aggravates intervertebral disc degeneration (IVDD) in male rats.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-70089-9",
+    "title": "Vertical nanodiamond dominated sheets possessing both high capacitance and high n-type Hall mobility",
+    "link": "https://www.nature.com/articles/s41467-026-70089-9",
+    "authors": [
+      "Yuemin Gong",
+      "Zhiqiang Zhang",
+      "Meiyan Jiang",
+      "Chengke Chen",
+      "Shaohua Lu",
+      "Xiaojun Hu"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-70089-9\">doi:10.1038/s41467-026-70089-9</a>The authors transformed Ta-loaded vertical graphene into diamond by Ar/O plasma treatment at ordinary pressure and obtained vertical nanodiamond dominated sheets electrode with both high capacitance and high n-type Hall mobility.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-69954-4",
+    "title": "Attention-related modulation in the superior colliculus encodes perceptual sensitivity, but not perceptual choice",
+    "link": "https://www.nature.com/articles/s41467-026-69954-4",
+    "authors": [
+      "Supriya Ghosh",
+      "John H. R. Maunsell"
+    ],
+    "summary": "Nature Communications, Published online: 28 February 2026; <a href=\"https://www.nature.com/articles/s41467-026-69954-4\">doi:10.1038/s41467-026-69954-4</a>The specific contributions of different SC (superior colliculus) neuron subtypes to the diverse perceptual and behavioral aspects of attentional performance remain unclear. Here authors show that neurons in the SC support visual spatial attention by enhancing perceptual sensitivity and motor bias, without reflecting internal perceptual decisions or choice accuracy, revealing its unique role in transforming attention into action.",
+    "source": "Nature Communications",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001044",
+    "title": "Subduction collapse and the isolation of southwest Gondwana basins from the Panthalassa Ocean",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001044?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Guido M. Gianni, Federico Dávila, Cesar R. Navarrete, Gustavo Correa, Osvaldo Conde, Pietro Sternai",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26001159",
+    "title": "Enhanced erosion of the Laramide ranges during the Paleocene–Eocene Thermal Maximum, Bighorn Basin, Wyoming",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26001159?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 May 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 681Author(s): Gilby Jepson, Sarah W.M. George, Barbara Carrapa, Thomas J. Lapen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "10.1029/2025GL121568",
+    "title": "Quasi‐Periodic Behavior of Tropical Cyclone Precursors and Its Phase Matching With the Insolation Diurnal Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121568?af=R",
+    "authors": [
+      "Bolei Yang, \nJi Nie, \nZhe‐Min Tan, \nJuan Fang, \nWilliam R. Boos"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL120181",
+    "title": "Major Melting Event on the Ross Ice Shelf, Antarctica, Connected With Enhanced Atmospheric Turbulence",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120181?af=R",
+    "authors": [
+      "Dhiman R. Mondal, \nPedro Elosegui, \nNathra Ramrajvel, \nScott Paine"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL118765",
+    "title": "North Pacific Model Biases Influence Kuroshio Extension Atmospheric Circulation Patterns",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118765?af=R",
+    "authors": [
+      "Se‐Yong Song, \nSamantha Stevenson, \nEmanuele Di Lorenzo, \nMatthew Newman, \nAntonietta Capotondi, \nNiklas Schneider"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL120498",
+    "title": "Estimating Ice Cover on the Great Lakes Using Seismic Ambient Noise",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120498?af=R",
+    "authors": [
+      "Joshua B. Russell, \nChristopher J. W. Carchedi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL120608",
+    "title": "Constraints on Past CO2 and Climate Sensitivity From Global Temperature and Sea Level Reconstructions Across the Plio‐Pleistocene",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120608?af=R",
+    "authors": [
+      "Peter Köhler, \nPeter U. Clark"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL120700",
+    "title": "Environmental Controls on the Seasonal and Spatial Variability of Submesoscale Thermal Air–Sea Coupling Over the Gulf Stream",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120700?af=R",
+    "authors": [
+      "Lionel Renault, \nCarlos Conejero, \nFabien Desbiolles"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL120182",
+    "title": "Anisotropic Melt Inclusions as a Confounding Signal for Ice‐Penetrating Radar Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120182?af=R",
+    "authors": [
+      "A. H. Cheng, \nD. M. Schroeder, \nN. S. Wolfenbarger, \nR. Shaper, \nC. Seltzer, \nB. Hills"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL118767",
+    "title": "Asymmetry in ENSO Prediction Skill Linked to Consecutive La Niña Events Within the IRI Real‐Time Forecast System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118767?af=R",
+    "authors": [
+      "Wenchang Ge, \nHan‐Ching Chen, \nWenjun Zhang, \nYu‐Heng Tseng, \nFei‐Fei Jin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GL121383",
+    "title": "Surface Observations From Atmospheric Radiation Measurement Sites Constrain the Anthropogenic Contribution to Cloud Droplet Number",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121383?af=R",
+    "authors": [
+      "Dani B. Jones, \nHunter Y. Brown, \nJacqueline M. Nugent, \nAugust Mikkelsen, \nCi Song, \nDamao Zhang, \nSusannah M. Burrows, \nHamish Gordon, \nAndrew Kirby, \nDaniel T. McCoy"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 5, 16 March 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GC012717",
+    "title": "A Thermodynamic Framework for Turing‐Type Instabilities in Porous Media: Part II Applications",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012717?af=R",
+    "authors": [
+      "Klaus Regenauer‐Lieb, \nManman Hu, \nQingpei Sun, \nChong Liu, \nZhennan Zhu, \nVictor Calo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025GC012710",
+    "title": "A Thermodynamic Framework for Turing‐Type Instabilities in Porous Media: Part I Theory",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012710?af=R",
+    "authors": [
+      "Klaus Regenauer‐Lieb, \nManman Hu, \nQingpei Sun, \nChong Liu, \nZhennan Zhu, \nVictor Calo"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 3, March 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2026JB033776",
+    "title": "Extensive Models for Seismically Viable Inner Core Compositions Featuring Light Element Variations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033776?af=R",
+    "authors": [
+      "Qianxi Chen, \nFeiwu Zhang, \nJoshua M. R. Muir"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "10.1029/2025JB033455",
+    "title": "Limited Passive Lithospheric Underthrusting and Localized Crustal Thickening Beneath the Qilian Shan, Northeastern Tibetan Plateau: Evidence From Receiver Function Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033455?af=R",
+    "authors": [
+      "Yifang Chen, \nJiuhui Chen, \nYu Li, \nPanpan Zhao, \nBiao Guo, \nShuncheng Li"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 3, March 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001341",
+    "title": "A new pair of lunar gabbroic meteorites record magma recharge at ∼ 3.0 Ga",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001341?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 28 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): P.Y. Li, Y. Jiang, K. Zhao, S.Y. Liao, X.C. Che, X.R. Zhang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-01"
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726001195",
+    "title": "Triple oxygen and hydrogen stable isotope composition of hydroxyl water in orgueil (CI-type) and Tagish Lake (C2-type) carbonaceous chondrites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726001195?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 27 February 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Erik J.H. Oerter, Christopher D.K. Herd, Conel M.O’D. Alexander",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-03-01"
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10308-x",
     "title": "Editorial Expression of&#xa0;Concern: The gene product Murr1 restricts HIV-1 replication in resting CD4+ lymphocytes",
     "link": "https://www.nature.com/articles/s41586-026-10308-x",
