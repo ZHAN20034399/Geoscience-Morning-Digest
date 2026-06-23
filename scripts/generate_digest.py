@@ -1,176 +1,233 @@
 import os
 import json
 import time
+import re
 from datetime import datetime
 from openai import OpenAI
 
-# -------------------
+# ================== 配置 ==================
 SEEN_JSON_PATH = "state/seen.json"
-OUTPUT_PATH = "output/daily.md"  
+OUTPUT_PATH = "output/daily.md"
 
-# 获取今天的日期
+# ================== 主题关键词 ==================
+TOPIC_KEYWORDS = {
+    "GPlates_tectonic": [
+        "gplates", "gplately", "pygplates",
+        "plate reconstruction", "plate tectonic reconstruction",
+        "deep-time reconstruction", "full-plate model",
+        "paleogeographic reconstruction", "continental drift",
+        "tectonic evolution", "plate boundary", "kinematic reconstruction",
+    ],
+    "ML_in_geology": [
+        "machine learning", "deep learning", "neural network",
+        "random forest", "xgboost", "gradient boosting",
+        "support vector", "gaussian process",
+        "geochemistry", "geophysical", "seismic", "earthquake",
+        "lithology", "mineral prospecting", "ore prediction",
+        "petrophysics", "gravity anomaly", "magnetotelluric",
+        "remote sensing", "hyperspectral", "landslide susceptibility",
+    ],
+    "LLM_in_geology": [
+        "large language model", "llm", "foundation model", "gpt",
+        "chatgpt", "generative ai",
+        "knowledge graph", "information extraction",
+        "geoscience", "geological", "geology", "earth science",
+        "field note", "geological report",
+    ],
+    "AntarcticPeninsula_magma": [
+        "antarctic peninsula", "west antarctica",
+        "south shetland islands", "bransfield strait",
+        "graham land", "palmer land", "trinity peninsula",
+        "scotia arc", "tectonomagmatic", "arc magmatism",
+        "subduction", "back-arc", "cretaceous magmatism",
+        "zircon u-pb", "hf isotope",
+    ],
+}
+
+HIGH_QUALITY_JOURNALS = (
+    "nature", "science", "geology", "eps", "epslets", "epsl",
+    "geochronology", "ggg", "jgr", "grl", "tectonics",
+    "lithos", "chemical geology", "cmp", "antarctic science",
+    "geosphere", "gsa bulletin", "reviews of geophysics",
+)
+
+TAG_ZH = {
+    "GPlates_tectonic": "🟢 GPlates / 板块构造模拟",
+    "ML_in_geology": "🔵 机器学习 × 地质",
+    "LLM_in_geology": "🟣 大模型 × 地质",
+    "AntarcticPeninsula_magma": "🔴 南极半岛构造岩浆",
+}
+
+# ================== 工具函数 ==================
+def norm(text: str) -> str:
+    return (text or "").lower().replace("-", " ").strip()
+
+def contains(tokens, text):
+    return any(tok in text for tok in tokens)
+
+def classify_paper(p: dict) -> dict:
+    blob = norm(f"{p.get('title','')} {p.get('summary','')}")
+    src = norm(p.get('source',''))
+
+    tags, score = [], 0
+
+    # GPlates
+    if contains(TOPIC_KEYWORDS["GPlates_tectonic"], blob):
+        tags.append("GPlates_tectonic")
+        score += 3
+
+    # ML（必须同时出现ML词+地学对象）
+    ml_core = ["machine learning", "deep learning", "neural network",
+               "random forest", "xgboost", "gradient boosting"]
+    geo_obj = [k for k in TOPIC_KEYWORDS["ML_in_geology"]
+               if k not in ml_core]
+    if contains(ml_core, blob) and contains(geo_obj, blob):
+        tags.append("ML_in_geology")
+        score += 2
+
+    # LLM
+    if contains(TOPIC_KEYWORDS["LLM_in_geology"], blob) and \
+       contains(["geology", "geoscience", "earth science"], blob):
+        tags.append("LLM_in_geology")
+        score += 2
+
+    # Antarctic Peninsula
+    if contains(TOPIC_KEYWORDS["AntarcticPeninsula_magma"], blob):
+        tags.append("AntarcticPeninsula_magma")
+        score += 3
+
+    # Journal bonus
+    if any(j in src for j in HIGH_QUALITY_JOURNALS):
+        score += 1
+
+    if score >= 3:
+        pri = "high"
+    elif score >= 1:
+        pri = "medium"
+    else:
+        pri = "low"
+
+    return {"tags": tags, "score": score, "priority": pri}
+
+
+# ================== 主流程 ==================
 today = datetime.now().strftime("%Y-%m-%d")
 
-# -------------------
-# 读取 seen.json
 if not os.path.exists(SEEN_JSON_PATH):
     print("seen.json 不存在，请先运行 RSS 抓取脚本。")
-    daily_content = [f"Daily Paper Digest — {today}", "\n错误：seen.json 文件不存在，请检查 RSS 抓取步骤。\n"]
-    daily_text = "\n".join(daily_content)
-    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write(daily_text)
-    print(f"错误日报已生成：{OUTPUT_PATH}")
     exit(1)
 
 with open(SEEN_JSON_PATH, "r", encoding="utf-8") as f:
-    try:
-        seen = json.load(f)
-    except Exception as e:
-        print(f"读取 seen.json 出错: {e}")
-        daily_content = [f"Daily Paper Digest — {today}", f"\n错误：读取 seen.json 文件出错: {e}\n"]
-        daily_text = "\n".join(daily_content)
-        os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-        with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-            f.write(daily_text)
-        print(f"错误日报已生成：{OUTPUT_PATH}")
-        exit(1)
+    seen = json.load(f)
 
-# 筛选今日新增论文
 papers_today = [p for p in seen if isinstance(p, dict) and p.get("date") == today]
 
-# -------------------
 if not papers_today:
     print("今日没有新增论文。")
-    daily_content = [f"Daily Paper Digest — {today}", "\n今日没有新增论文。\n", f"已累计收录：{len(seen)} 篇"] 
-    daily_text = "\n".join(daily_content)
-else:
+    os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+    with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+        f.write(f"# Daily Geoscience Digest — {today}\n\n今日没有新增论文。\n")
+    exit(0)
+
+# ---------- 分类 ----------
+for p in papers_today:
+    c = classify_paper(p)
+    p["_tags"] = c["tags"]
+    p["_pri"] = c["priority"]
+    p["_score"] = c["score"]
+
+highlighted = [p for p in papers_today if p["_pri"] == "high"]
+medium = [p for p in papers_today if p["_pri"] == "medium"]
+low = [p for p in papers_today if p["_pri"] == "low"]
+
+print(f"分类完成 → 重点:{len(highlighted)}  相关:{len(medium)}  其他:{len(low)}")
+
+# ---------- AI 摘要 ----------
+ai_summary = "（未生成 AI 摘要）"
+papers_for_ai = highlighted if highlighted else medium
+
+if papers_for_ai:
     DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
     if not DEEPSEEK_API_KEY:
-        ai_summary = "警告：未设置 DEEPSEEK_API_KEY，无法生成 AI 摘要。"
+        ai_summary = "⚠️ 未设置 DEEPSEEK_API_KEY，跳过 AI 摘要。"
     else:
         client = OpenAI(api_key=DEEPSEEK_API_KEY, base_url="https://api.deepseek.com")
-
-        if len(papers_today) > 50:
-            print(f"警告：今日新增论文过多 ({len(papers_today)}篇)，仅选取前 30 篇进行摘要。")
-            papers_for_ai = papers_today[:30]
-        else:
-            papers_for_ai = papers_today
+        if len(papers_for_ai) > 40:
+            papers_for_ai = papers_for_ai[:40]
 
         papers_brief = "\n".join(
-            f"{p.get('title','未知标题')} ({p.get('source','未知期刊')})"
+            f"[{TAG_ZH.get(t,'')}] {p.get('title','')} ({p.get('source','')})"
             for p in papers_for_ai
+            for t in p.get("_tags",[])
         )
 
-        system_prompt = """你是一位专业的地球科学领域AI研究助理，负责生成每日论文摘要日报。
+        system_prompt = """你是地球科学学术编辑，专注以下方向：
+1) GPlates / 深时板块构造模拟
+2) 机器学习在地学中的应用
+3) 大模型(LLM)在地学中的应用
+4) 南极半岛构造–岩浆演化
 
-## 核心任务
-基于今日新增论文列表，生成专业、精炼、有洞察力的日报内容。
+请基于【已标注主题】的论文：
+- 重点解读高价值论文（为什么重要、方法亮点、潜在影响）
+- 按主题分组输出
+- 其余论文仅用一段话概括，不必逐条展开
+- 使用 Markdown，语气专业但简洁
+"""
 
-## 输出要求
-请按以下结构组织内容：
+        user_prompt = f"日期：{today}\n论文列表：\n{papers_brief}"
 
-### 1. 📊 今日概览
-- 地球科学相关论文数量：[数量]
-- 主要来源期刊分布：[简要分析]
-
-### 2. 🌟 核心趋势（3-5点）
-用bullet points总结今日最显著的研究趋势，每点包含：
-• 趋势描述
-• 代表性论文（1-2篇）
-• 潜在意义/影响
-
-### 3. 📈 热点主题分类
-以清晰表格呈现（无需Markdown，用简单字符表格）：
-
-| 主题类别       | 论文数量 | 代表论文（简写标题） | 关键进展 |
-|----------------|----------|----------------------|----------|
-| 气候模型       | 3        | 如：CMIP6新参数化... | 提高预测精度5% |
-| 地震监测       | 2        | 如：AI预警系统...   | 响应时间缩短30% |
-
-### 4. 🎯 亮点论文深度解读（精选3-5篇）
-对今日最重要的论文进行详细分析，每篇包含：
-- 核心贡献（一句话）
-- 创新方法（简述技术路线）
-- 潜在应用价值
-- 局限性/未来方向
-
-### 5. 🔍 跨领域洞察
-- 哪些方法与AI/ML结合？
-- 有无开源代码/数据？
-- 跨学科合作机会？
-
-### 6. 📌 非地学重要论文（如存在）
-简要提及1-2篇非地球科学但值得关注的论文，不超过总篇幅10%。
-
-## 写作风格指南
-1. 专业但易懂，适合科研人员快速浏览
-2. 使用适当的表情符号增加可读性
-3. 避免过度技术术语，必要时简单解释
-4. 突出"为什么重要"而不仅仅是"是什么"
-5. 保持客观，标注不确定性
-
-## 筛选标准
-- 地球科学相关：地质学、地球化学、地球物理、大气科学、海洋学、环境地球科学等
-- 排除：纯工程、计算机科学、医学等无关领域
-- 边缘领域：如环境工程涉及地球过程的保留
-
-请基于以上框架生成日报，确保信息准确、结构清晰、洞察深刻。"""    
-        user_prompt = f"今天日期：{today}\n新增论文列表：\n{papers_brief}"
-
-        # -------------------
-        # 新增：重试机制
-        def retry_api_call(max_retries=3, base_delay=2):
-            for attempt in range(max_retries):
+        def retry_api_call(max_retries=3):
+            for i in range(max_retries):
                 try:
-                    resp = client.chat.completions.create(
+                    r = client.chat.completions.create(
                         model="deepseek-reasoner",
                         messages=[
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": user_prompt},
+                            {"role":"system","content":system_prompt},
+                            {"role":"user","content":user_prompt}
                         ],
                         stream=False
                     )
-                    return resp.choices[0].message.content.strip()
+                    return r.choices[0].message.content.strip()
                 except Exception as e:
-                    wait_time = base_delay * (2 ** attempt)
-                    print(f"[警告] AI 调用失败 (尝试 {attempt+1}/{max_retries}): {e}")
-                    if attempt < max_retries - 1:
-                        print(f"[重试] 等待 {wait_time} 秒后重试...")
-                        time.sleep(wait_time)
-                    else:
-                        return f"AI 摘要生成失败: {e}。请检查 API Key 或网络连接。"
+                    time.sleep(2 ** i)
+            return "⚠️ AI 摘要生成失败（多次重试后仍不可用）。"
 
         ai_summary = retry_api_call()
 
-    # -------------------
-    daily_content = []
-    daily_content.append(f"Daily Paper Digest — {today}")
-    daily_content.append(f"今日新增论文：{len(papers_today)}")
-    daily_content.append(f"已累计收录：{len(seen)} 篇")
-    daily_content.append("\n---\n")
-    daily_content.append("【AI 摘要整理】\n")
-    daily_content.append(ai_summary)
-    daily_content.append("\n---\n")
-    daily_content.append("【附录：原始论文信息】\n")
-
-    for i, p in enumerate(papers_today, 1):
-        authors = p.get("authors", [])
-        authors = [a for a in authors if a]
-        authors_str = ", ".join(authors) if authors else "未知"
-        daily_content.append(f"{i}. {p.get('title','未知标题')}")
-        daily_content.append(f"    作者：{authors_str}")
-        daily_content.append(f"    期刊/来源：{p.get('source','未知')}")
-        daily_content.append(f"    链接：{p.get('link','')}")
-        if p.get("summary"):
-            daily_content.append(f"    摘要：{p['summary']}")
-        daily_content.append("")
-
-    daily_text = "\n".join(daily_content)
-
-# -------------------
+# ---------- 写日报 ----------
 os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
-with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-    f.write(daily_text)
+lines = []
+lines.append(f"# Daily Geoscience Digest — {today}")
+lines.append(f"- 今日新增：**{len(papers_today)}** 篇")
+lines.append(f"- 重点推荐：**{len(highlighted)}** 篇\n")
+lines.append("---\n")
+lines.append("## 🤖 AI 精选摘要\n")
+lines.append(ai_summary)
+lines.append("\n---\n")
 
-print(f"日报已生成：{OUTPUT_PATH}")
+# 重点论文
+if highlighted:
+    lines.append("## ⭐ 重点推荐论文")
+    for p in highlighted:
+        lines.append(f"\n### {p.get('title')}")
+        lines.append(f"- 标签：{' / '.join(TAG_ZH[t] for t in p.get('_tags',[]))}")
+        lines.append(f"- 期刊：{p.get('source','')}")
+        lines.append(f"- 链接：{p.get('link','')}")
+        if p.get("summary"):
+            lines.append(f"> {p['summary'][:400]}...")
+
+# 相关论文
+if medium:
+    lines.append("\n## 📌 相关论文（未展开）")
+    for p in medium:
+        lines.append(f"- [{p.get('title')}]({p.get('link','')})")
+
+# 其他
+if low:
+    lines.append("\n## 📄 其余新增")
+    lines.append(f"> 共 {len(low)} 篇，未展开。")
+
+with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
+    f.write("\n".join(lines))
+
+print(f"✅ 日报已生成：{OUTPUT_PATH}")
