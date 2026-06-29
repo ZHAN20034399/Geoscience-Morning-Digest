@@ -26,7 +26,6 @@ RSS_URLS = [
     "https://agupubs.onlinelibrary.wiley.com/feed/15252027/most-recent", 
     "https://agupubs.onlinelibrary.wiley.com/feed/21699356/most-recent",
     "https://rss.sciencedirect.com/publication/science/00167037",
-    "https://www.nature.com/natrevearthenviron.rss",
     "https://pubs.geoscienceworld.org/rss/site_119/60.xml",
     "https://pubs.geoscienceworld.org/rss/site_69/35.xml",
     "https://pubs.geoscienceworld.org/rss/site_65/33.xml"
