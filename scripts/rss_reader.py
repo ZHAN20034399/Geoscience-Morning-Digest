@@ -84,7 +84,9 @@ def fetch_new_entries():
     for url in RSS_URLS:
         print(f"解析 RSS: {url}")
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, request_headers={
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) RSS-Mailer/1.0"
+})
             source_name = feed.feed.get('title', url.split('/')[2])
             
             for entry in feed.entries:
