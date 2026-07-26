@@ -1,5 +1,341 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-75673-7",
+    "title": "Universal Planckian dissipation in the strange metal state of the cuprates",
+    "link": "https://www.nature.com/articles/s41467-026-75673-7",
+    "authors": [
+      "A. Shekhter",
+      "B. J. Ramshaw",
+      "M. K. Chan",
+      "N. Harrison"
+    ],
+    "summary": "Nature Communications, Published online: 26 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75673-7\">doi:10.1038/s41467-026-75673-7</a>Through an analysis of existing data, the authors show that the “Planckian” relaxation rate in cuprate superconductors is doping independent. This follows from the finding that the square optical plasma frequency scales linearly with doping, which they further argue is a natural consequence of Mott physics.",
+    "source": "Nature Communications",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76107-0",
+    "title": "Finding the perfect promoter for Cas9 in homing gene drives using single cell transcriptome data",
+    "link": "https://www.nature.com/articles/s41467-026-76107-0",
+    "authors": [
+      "Yingke Wu",
+      "Yunchen Xia",
+      "Ziyin Yao",
+      "Weizhe Chen",
+      "Xihua Jia",
+      "Nan Liang",
+      "Jackson Champer"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76107-0\">doi:10.1038/s41467-026-76107-0</a>CRISPR homing gene drives can help control disease vectors but require precise Cas9 expression. Here, the drive performance of 35 Cas9 constructs with different promoters in Drosophila were compared to single cell RNA expression patterns of promoter-associated genes.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75391-0",
+    "title": "Scalable high resolution ancestry deconvolution for genomic data",
+    "link": "https://www.nature.com/articles/s41467-026-75391-0",
+    "authors": [
+      "Helgi Hilmarsson",
+      "Arvind S. Kumar",
+      "Míriam Barrabés",
+      "Richa Rastogi",
+      "Carlos D. Bustamante",
+      "Daniel Mas Montserrat",
+      "Alexander G. Ioannidis"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75391-0\">doi:10.1038/s41467-026-75391-0</a>The authors present Gnomix, a local ancestry framework that delivers leading accuracy across diverse admixed datasets on both whole-genome and array data with high efficiency, together with Gnofix, its fast phasing-error correction counterpart.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75886-w",
+    "title": "Electrically driven inverse metamagnetic transition in Sm<sub><i>1-x</i></sub>Sr<sub><i>x</i></sub>MnO₃",
+    "link": "https://www.nature.com/articles/s41467-026-75886-w",
+    "authors": [
+      "Suryakanta Mondal",
+      "Vinod Kumar",
+      "Sourav Chowdhury",
+      "Akshat Godha",
+      "Arup Kumar Mandal",
+      "Wan-Sheng Tang",
+      "Alan Kalitsov",
+      "Ashish Omar",
+      "Subhajit Nandy",
+      "Jayjit Kumar Dey",
+      "Gyanendra Panchal",
+      "Surendra Kumar Makineni",
+      "Julia Mundy",
+      "Yu-Hui Tang",
+      "Sasikanth Manipatruni",
+      "Manuel Bibes",
+      "Mark Blamire",
+      "Bhagwati Prasad"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75886-w\">doi:10.1038/s41467-026-75886-w</a>Correlated oxides are known to exhibit metamagnetic switching from a non-ferromagnetic to ferromagnetic phase. Here, the authors demonstrate an electrically driven inverse-metamagnetic transition from a ferromagnetic state to an antiferromagnetic-like phase in an epitaxial Sm1-xSrxMnO3 thin film.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76056-8",
+    "title": "Retarding moisture-induced chemical degradation of Yttrium Tellurides by tailoring grain boundary chemistry",
+    "link": "https://www.nature.com/articles/s41467-026-76056-8",
+    "authors": [
+      "Kyuseon Jang",
+      "Jamil Ur Rahman",
+      "Su-Hyun Yoo",
+      "Chanwon Jung",
+      "Eric Woods",
+      "Ruben Bueno-Villoro",
+      "Kornelius Nielsch",
+      "Christina Scheu",
+      "Yonghyuk Lee",
+      "Pyuck-Pa Choi",
+      "Ran He",
+      "Siyuan Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76056-8\">doi:10.1038/s41467-026-76056-8</a>Y2Te3 thermoelectrics degrade in moist air as water molecules enter along grain boundaries. The authors show that 1 at.% Bi segregates to these boundaries, suppressing moisture ingress and preventing chemical degradation while preserving performance.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76094-2",
+    "title": "<i>DICER1</i>-related tumour predisposition mutations increase 3p-miRNA function and HERVH activity",
+    "link": "https://www.nature.com/articles/s41467-026-76094-2",
+    "authors": [
+      "Katrina Gordon",
+      "Nicolas Bellora",
+      "Jeroen Witteveldt",
+      "Joanna K. Wojtus",
+      "Felix Mueller",
+      "Katharina J. Kases",
+      "Pilar G. Marchante",
+      "Guillermo Peris",
+      "Shelagh Boyle",
+      "Sara R. Heras",
+      "Atlanta G. Cook",
+      "Cei Abreu-Goodger",
+      "Sara Macias"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-76094-2\">doi:10.1038/s41467-026-76094-2</a>DICER1 is often mutated in cancer, including in DICER1-related tumour predisposition. Here, the authors show that cancer-associated DICER1 mutations shift microRNA processing and reactivate HERVH endogenous retroviruses.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75945-2",
+    "title": "Neural dynamics for working memory and evidence integration during olfactory navigation in <i>Drosophila</i>",
+    "link": "https://www.nature.com/articles/s41467-026-75945-2",
+    "authors": [
+      "Nicholas D. Kathman",
+      "Aaron J. Lanz",
+      "Jacob D. Freed",
+      "Katherine I. Nagel"
+    ],
+    "summary": "Nature Communications, Published online: 25 July 2026; <a href=\"https://www.nature.com/articles/s41467-026-75945-2\">doi:10.1038/s41467-026-75945-2</a>The authors describe a population of neurons in the navigation center of Drosophila that exhibits a persistent goal signal during olfactory navigation.",
+    "source": "Nature Communications",
+    "date": "2026-07-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002503",
+    "title": "Can arthropods produce <em>Paleodictyon?</em>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002503?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Andrea Baucon, Carlos Neto de Carvalho, Alfred Uchman, Girolamo Lo Russo, Filippo Guerrini, Noel Moreira, Mattia Alessio Meloni, Andrea Barucci, Michele Piazza",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004279",
+    "title": "Experimental evidence for metallic melt trapping in the deep Martian mantle – Implications for inefficient melt segregation and highly siderophile element retention",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004279?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Kyusei Tsuno, Hideharu Kuwahara, Varun Manilal, Axel Wittmann, Kurt Leinenweber, Tetsuo Irifune, Damanveer S Grewal",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004267",
+    "title": "Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004267?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Fabrice Gaillard, Yves Marrocchi, Gregory Rogerie, Mohamed A. Bouhifd, Camille Bernard, Mathieu Roskosz",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123536",
+    "title": "Substantial Accumulation of Chemically Oxidizable Organic Carbon in Continental Margin Sediments",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123536?af=R",
+    "authors": [
+      "Yufan Zhang, \nXueshi Sun, \nDejiang Fan, \nMing Liu, \nJingbo Chen, \nHoujie Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120296",
+    "title": "Internal Tide Displacements Enhance Surface‐Interior Heat Exchange in the Indonesian Seas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120296?af=R",
+    "authors": [
+      "Chengyuan Pang, \nMaxim Nikurashin, \nBeatriz Peña‐Molino, \nBernadette M. Sloyan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121002",
+    "title": "Attribution of the Record‐Breaking June 2024 Eastern Mediterranean Heatwave: Contrasting Roles of Soil Moisture in Anthropogenic Forcing and Natural Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121002?af=R",
+    "authors": [
+      "Kangjie Ma, \nHaipeng Yu, \nRuixia Guo, \nDongping Bai, \nMengjing Fu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122808",
+    "title": "Influence of the Polar‐Eurasia Pattern on Interannual Variations in Extratropical Transition of Western North Pacific Tropical Cyclones",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122808?af=R",
+    "authors": [
+      "Nannan Qin, \nRongqiang Qu, \nJinjie Song, \nPhilip J. Klotzbach, \nYihong Duan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122054",
+    "title": "Dynamics and Extremes of Open Ocean Non‐Thermal pCO2 Time Series",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122054?af=R",
+    "authors": [
+      "Kévin Robache, \nFrançois G. Schmitt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123991",
+    "title": "Co‐Occurring Flash and Standard Droughts Amplify Global Fire Behavior",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123991?af=R",
+    "authors": [
+      "Abhirup Dikshit, \nJason P. Evans"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122334",
+    "title": "Atomic Simulations of Volatile Coverage on Silicate Surfaces",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122334?af=R",
+    "authors": [
+      "Amanda Ricketts, \nBenjamin A. Clouter‐Gergen, \nDenton S. Ebel, \nAnastasis Georgiou, \nFrancois Leblanc, \nMenelaos Sarantos, \nSebastien Verkercke, \nLiam S. Morrissey"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120377",
+    "title": "Exploring Marine Biogeochemical Prediction With Linear Dynamical Frameworks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120377?af=R",
+    "authors": [
+      "Y.‐Y. Kim, \nJ. Lien, \nK. B. Rodgers, \nJ.‐Y. Lee, \nF.‐F. Jin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123553",
+    "title": "Atmospheric Noise Forcing Increases Multiyear El Niño Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123553?af=R",
+    "authors": [
+      "Keqing Bai, \nYishuai Jin, \nWei Zhang, \nXiaopei Lin, \nBen Kirtman"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124104",
+    "title": "Observed Multi‐Decadal Acceleration of Globally Averaged Abyssal Ocean Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124104?af=R",
+    "authors": [
+      "Gregory C. Johnson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122957",
+    "title": "Dansgaard‐Oeschger Events Recorded in Low‐Latitude Marine Sediments and Teleconnection With High‐Latitude Climate Variations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122957?af=R",
+    "authors": [
+      "Zhanjie Liu, \nZhaoxia Jiang, \nLong Chen, \nAndrew P. Roberts, \nSanzhong Li, \nLiang Chen, \nZhengxin Yin, \nWanxin Liu, \nYulong Guan, \nYuzhen Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 14, 28 July 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012860",
+    "title": "The Effects of a Microplate on Plume‐Ridge Interactions: Constraints From Comparing Easter and Juan Fernandez Microplates in the Eastern Pacific Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012860?af=R",
+    "authors": [
+      "Katherine Ames, \nJennifer Georgen"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 7, July 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-07-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004631",
+    "title": "Hematite and siderite nanocrystals in ∼3.48 Ga dresser formation jaspilite: implications for early atmospheric O<sub>2</sub> and CO<sub>2</sub>",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004631?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Tianyu Zhou, Huifang Xu, Seungyeol Lee, Eric E. Roden",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004722",
+    "title": "The underlying mechanism of crop mercury hyperaccumulation in HgS-rich soils: microbially driven enlargement of the bioavailable mercury pool",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004722?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 July 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qingyi Cao, Haiyan Hu, Jen-How Huang, Shirong Liu, Jinquan Chen, Xinbin Feng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-07-26",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10911-y",
     "title": "Author Correction: Feature-specific threat coding in lateral septum guides defensive action",
     "link": "https://www.nature.com/articles/s41586-026-10911-y",
