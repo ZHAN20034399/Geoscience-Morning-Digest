@@ -1,5 +1,75 @@
 [
   {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004474",
+    "title": "Indian monsoon regulates the sediment supply of the Upper Yangtze River since ∼2 Ma",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004474?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Xudong Zhao, Taylor F. Schildgen, Huiping Zhang, Weitao Wang, Yan Ma, Ping Wang, Yarong Zhang, Yifei Li, Chaopeng Li, Hongseng Xie, Peizhen Zhang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123750",
+    "title": "Generation of Falling‐Tone Whistler‐Mode Chorus Waves in the Earth's Magnetosphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123750?af=R",
+    "authors": [
+      "Huayue Chen, \nXueyi Wang, \nRui Chen, \nYoshiharu Omura, \nLunjin Chen, \nHong Zhao, \nYi‐Kai Hsieh"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123000",
+    "title": "Evaluation of Low‐Level Clouds, Temperature, and Surface Radiation Using a Model, Two Reanalyses, and Southern Ocean Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123000?af=R",
+    "authors": [
+      "Kazutoshi Sato, \nJun Inoue, \nHitoshi Matsui"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123626",
+    "title": "Reactive Mixing Fronts in Porous Media Under Transverse Velocity Gradients",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123626?af=R",
+    "authors": [
+      "Yubo Cheng, \nKai Zhang, \nZijing Li, \nTetsuya Suekane, \nChunwei Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122597",
+    "title": "Upwelling and Mixing in a Supercritical Submarine Canyon",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122597?af=R",
+    "authors": [
+      "Nicole Couto, \nMatthew H. Alford, \nArnaud Le Boyer, \nAndrew J. Lucas, \nGeno Pawlak"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122885",
+    "title": "Statistical Study of Betatron and Fermi Electron Acceleration at Dipolarization Fronts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122885?af=R",
+    "authors": [
+      "A. Kolokotronis, \nD. B. Graham, \nYu. V. Khotyaintsev, \nC. Norgren, \nK. Steinvall, \nL. Richard"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-10921-w",
     "title": "Author Correction: Cucurbituril-based anion-conducting membranes with supramolecular nanopores",
     "link": "https://www.nature.com/articles/s41586-026-10921-w",
