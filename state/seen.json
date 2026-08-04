@@ -1,5 +1,556 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10957-y",
+    "title": "Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+    "link": "https://www.nature.com/articles/s41586-026-10957-y",
+    "authors": [
+      "Katarzyna M. Groborz",
+      "Melissa E. Truong",
+      "Irma Stowe",
+      "Katherine E. Wickliffe",
+      "Bettina Lee",
+      "Stefan Bauernfried",
+      "Robert S. Jones",
+      "Emile Plise",
+      "Elizabeth S. Levy",
+      "Ponien Kou",
+      "Wyne P. Lee",
+      "Juan Zhang",
+      "Hanna Budayeva",
+      "Christopher M. Rose",
+      "Julia Nguyen",
+      "Malgorzata Kalinka",
+      "Marcin Drag",
+      "Nobuhiko Kayagaki",
+      "Kim Newton",
+      "Marcin Poreba",
+      "Vishva M. Dixit"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10957-y\">doi:10.1038/s41586-026-10957-y</a>Gasdermin D-mediated delivery of caspase inhibitors to suppress pyroptosis",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10943-4",
+    "title": "Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+    "link": "https://www.nature.com/articles/s41586-026-10943-4",
+    "authors": [
+      "Omer Revah",
+      "Felicity Gore",
+      "Kevin W. Kelley",
+      "Jimena Andersen",
+      "Noriaki Sakai",
+      "Xiaoyu Chen",
+      "Min-Yin Li",
+      "Fikri Birey",
+      "Xiao Yang",
+      "Nay L. Saw",
+      "Samuel W. Baker",
+      "Neal D. Amin",
+      "Shravanti Kulkarni",
+      "Rachana Mudipalli",
+      "Bianxiao Cui",
+      "Seiji Nishino",
+      "Gerald A. Grant",
+      "Juliet K. Knowles",
+      "Mehrdad Shamloo",
+      "John R. Huguenard",
+      "Karl Deisseroth",
+      "Sergiu P. Paşca"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10943-4\">doi:10.1038/s41586-026-10943-4</a>Author Correction: Maturation and circuit integration of transplanted human cortical organoids",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02339-1",
+    "title": "Sickle-cell disease linked to prematurely aged stem cells in mice",
+    "link": "https://www.nature.com/articles/d41586-026-02339-1",
+    "authors": [],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02339-1\">doi:10.1038/d41586-026-02339-1</a>A combination of drugs restores stem-cell function in mouse models of the blood disorder.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02372-0",
+    "title": "Venus’s rift valleys could be its secret to staying active",
+    "link": "https://www.nature.com/articles/d41586-026-02372-0",
+    "authors": [
+      "Katherine Skipper"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02372-0\">doi:10.1038/d41586-026-02372-0</a>The nature of geological dynamics on Venus are fiercely debated — the planet’s steep rift valleys could be evidence of ongoing tectonic activity.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02388-6",
+    "title": "Plans for nuclear-powered merchant ships must confront risks",
+    "link": "https://www.nature.com/articles/d41586-026-02388-6",
+    "authors": [
+      "Jihong Chen",
+      "Zheng Wan"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02388-6\">doi:10.1038/d41586-026-02388-6</a>Vessels propelled by atomic reactors have low emissions but create other hazards that need clear regulations.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02398-4",
+    "title": "Cancer-fighting antibodies with a one-two punch take aim at tumours",
+    "link": "https://www.nature.com/articles/d41586-026-02398-4",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02398-4\">doi:10.1038/d41586-026-02398-4</a>Bispecific antibodies, which bind to two targets, are sweeping into the clinic and are prompting even more elaborate versions.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01850-9",
+    "title": "Science-backed tips on how to avoid distractions",
+    "link": "https://www.nature.com/articles/d41586-026-01850-9",
+    "authors": [
+      "Nikki Forrester"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01850-9\">doi:10.1038/d41586-026-01850-9</a>Struggling to stay focused in the lab? Attention researchers offer some advice.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01360-8",
+    "title": "‘A waste of time for all of us’: caught in the crossfire of the peer-review wars",
+    "link": "https://www.nature.com/articles/d41586-026-01360-8",
+    "authors": [
+      "Katarina Zimmer"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01360-8\">doi:10.1038/d41586-026-01360-8</a>Review mills — researchers who write fake referee reports with coercive citation requests — are setting off a war in academic publishing. What happens to those caught in the middle?",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02436-1",
+    "title": "Controversial White House plan to overhaul US science funding faces Senate opposition",
+    "link": "https://www.nature.com/articles/d41586-026-02436-1",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02436-1\">doi:10.1038/d41586-026-02436-1</a>Proposal to put political appointees in charge of research grants could be temporarily halted if lawmakers’ efforts are successful.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02387-7",
+    "title": "The secret relationships that govern life on Earth",
+    "link": "https://www.nature.com/articles/d41586-026-02387-7",
+    "authors": [
+      "Richard Schiffman"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02387-7\">doi:10.1038/d41586-026-02387-7</a>Books on parasitism and symbiosis inspire wonder at the strange ways in which species’ lives intertwine.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02083-6",
+    "title": "Want to get more from AI? Treat every prompt like an experiment",
+    "link": "https://www.nature.com/articles/d41586-026-02083-6",
+    "authors": [
+      "James M. Dewar"
+    ],
+    "summary": "Nature, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02083-6\">doi:10.1038/d41586-026-02083-6</a>Taking a scientific approach to artificial-intelligence queries makes every output a result to be checked, says James Dewar. Here are ten tips for doing it right.",
+    "source": "Nature",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02432-5",
+    "title": "Daily Briefing: How smallpox reached the Americas",
+    "link": "https://www.nature.com/articles/d41586-026-02432-5",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 31 July 2026; <a href=\"https://www.nature.com/articles/d41586-026-02432-5\">doi:10.1038/d41586-026-02432-5</a>Viral sequences from Chilean mummies confirm smallpox was introduced to the Americas from Europe. Plus, the month’s best science images and the changing patterns of Europe’s wildfires.",
+    "source": "Nature",
+    "date": "2026-07-31",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02055-5",
+    "title": "Disconnection of the late Pliocene Agulhas Leakage from Atlantic Meridional Overturning Circulation",
+    "link": "https://www.nature.com/articles/s41561-026-02055-5",
+    "authors": [
+      "Suning Hou",
+      "Alejandra Cartagena-Sierra",
+      "Ning Tan",
+      "Carolien M. H. van der Weijst",
+      "Malte Stockhausen",
+      "Fenghao Liu",
+      "Melissa A. Berke",
+      "Isla S. Castañeda",
+      "Aidan Starr",
+      "Francien Peterse",
+      "Francesca Sangiorgi",
+      "Anna S. von der Heydt",
+      "Appy Sluijs",
+      "Peter K. Bijl"
+    ],
+    "summary": "Nature Geoscience, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02055-5\">doi:10.1038/s41561-026-02055-5</a>Northward movement of the Southern Ocean subtropical front diminished salt transport by Agulhas Leakage in the late Pliocene, although this had no apparent influence on the strength of the Atlantic Meridional Overturning Circulation, according to proxy records from marine sediment cores.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02054-6",
+    "title": "Molecular evidence for a relict marine community in an Antarctic Dry Valleys subglacial brine-fed system",
+    "link": "https://www.nature.com/articles/s41561-026-02054-6",
+    "authors": [
+      "Angela Zoumplis",
+      "Zoltan Füssy",
+      "Drishti Kaul",
+      "Nicholas Schulte",
+      "Hong Zheng",
+      "Robert H. Lampe",
+      "Karolina Brylka",
+      "Pratap Venepally",
+      "Jill A. Mikucki",
+      "Diane M. McKnight",
+      "Andrew E. Allen"
+    ],
+    "summary": "Nature Geoscience, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02054-6\">doi:10.1038/s41561-026-02054-6</a>Eukaryotic microorganisms within a subglacial brine-fed system in the McMurdo Dry Valleys of Antarctica are largely of marine origin, a legacy of past incursions of seawater into the area, according to RNA sequencing and metatranscriptomic analyses.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76310-z",
+    "title": "The recent enhancement of the surface melt over the Antarctic Peninsula dictated by thermodynamics",
+    "link": "https://www.nature.com/articles/s41467-026-76310-z",
+    "authors": [
+      "Qinglin Zhang",
+      "Baojuan Huai",
+      "Sai Wang",
+      "Brice Noël",
+      "Michiel R. van den Broeke",
+      "Xavier Fettweis",
+      "Christoph Kittel",
+      "Dahe Qin",
+      "Minghu Ding"
+    ],
+    "summary": "Nature Communications, Published online: 04 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76310-z\">doi:10.1038/s41467-026-76310-z</a>Antarctic Peninsula surface melt reversed its decline, significantly increasing 3% year-1 from 2009–2022. This intensified melt is dictated primarily (80%) by surface energy budget thermodynamics, rather than changes in atmospheric circulation.",
+    "source": "Nature Communications",
+    "date": "2026-08-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76283-z",
+    "title": "Translational control by RPL22L1-specific ribosomes enhances DNA repair and chemoresistance",
+    "link": "https://www.nature.com/articles/s41467-026-76283-z",
+    "authors": [
+      "Saisai Wei",
+      "Wentao Yu",
+      "Yilin Shen",
+      "Yu Qian",
+      "Ye Wang",
+      "Tiezheng Li",
+      "Jiaqi Cao",
+      "Xiangwei Gao",
+      "Xiujun Cai"
+    ],
+    "summary": "Nature Communications, Published online: 04 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76283-z\">doi:10.1038/s41467-026-76283-z</a>Ribosomal heterogeneity regulates the translation of specific mRNAs with unique structural features. Here, the authors discover that RPL22L1 regulates translation of mRNAs related to DNA repair such as ATRX, and that, consequently, RPL22L1 loss sensitizes cancer cells to chemotherapy.",
+    "source": "Nature Communications",
+    "date": "2026-08-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76172-5",
+    "title": "Author Correction: GGCX promotes Eurasian avian-like H1N1 swine influenza virus adaption to interspecies receptor binding",
+    "link": "https://www.nature.com/articles/s41467-026-76172-5",
+    "authors": [
+      "Jiahui Zou",
+      "Meijun Jiang",
+      "Rong Xiao",
+      "Huimin Sun",
+      "Hailong Liu",
+      "Thomas Peacock",
+      "Shaoyu Tu",
+      "Tong Chen",
+      "Jinli Guo",
+      "Yaxin Zhao",
+      "Wendy Barclay",
+      "Shengsong Xie",
+      "Hongbo Zhou"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76172-5\">doi:10.1038/s41467-026-76172-5</a>Author Correction: GGCX promotes Eurasian avian-like H1N1 swine influenza virus adaption to interspecies receptor binding",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75939-0",
+    "title": "Retraction Note: An autocatalytic multicomponent DNAzyme nanomachine for tumor-specific photothermal therapy sensitization in pancreatic cancer",
+    "link": "https://www.nature.com/articles/s41467-026-75939-0",
+    "authors": [
+      "Jiaqi Yan",
+      "Xiaodong Ma",
+      "Danna Liang",
+      "Meixin Ran",
+      "Dongdong Zheng",
+      "Xiaodong Chen",
+      "Shichong Zhou",
+      "Weijian Sun",
+      "Xian Shen",
+      "Hongbo Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75939-0\">doi:10.1038/s41467-026-75939-0</a>Retraction Note: An autocatalytic multicomponent DNAzyme nanomachine for tumor-specific photothermal therapy sensitization in pancreatic cancer",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76194-z",
+    "title": "Seismic evidence for lower-mantle heat supply beneath the Cordilleran slab window in western Canada",
+    "link": "https://www.nature.com/articles/s41467-026-76194-z",
+    "authors": [
+      "Quan Zhang",
+      "Pascal Audet",
+      "Cong Ji",
+      "Clément Estève"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76194-z\">doi:10.1038/s41467-026-76194-z</a>Using seismic imaging beneath the western Canada Cordillera, the authors show that an ancient gap left by a subducted oceanic ridge channels heat from deep within Earth, helping explain long-term uplift of the Canadian Cordillera.",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76197-w",
+    "title": "Global vulnerability assessment of mobile telecommunications infrastructure to climate hazards using crowdsourced open data",
+    "link": "https://www.nature.com/articles/s41467-026-76197-w",
+    "authors": [
+      "Edward J. Oughton",
+      "Tom Russell",
+      "Jeongjin Oh",
+      "Sara Ballan",
+      "Jim W. Hall"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76197-w\">doi:10.1038/s41467-026-76197-w</a>Mobile networks face growing risks from climate hazards. The study finds that floods and tropical cyclones could affect millions of base stations worldwide and cause billions of dollars in damage.",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75645-x",
+    "title": "Universal entanglement growth along imaginary time in quantum critical systems",
+    "link": "https://www.nature.com/articles/s41467-026-75645-x",
+    "authors": [
+      "Chang-Yu Shen",
+      "Shuai Yin",
+      "Zi-Xiang Li"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75645-x\">doi:10.1038/s41467-026-75645-x</a>Extracting universal entanglement features in higher-dimensional quantum critical systems has remained challenging. Here, the authors demonstrate a universal logarithmic scaling of corner entanglement in imaginary time, enabling efficient determination of critical properties from short-time dynamics.",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76339-0",
+    "title": "Discovery of a covalent FGFR2-selective inhibitor overcoming clinically-acquired resistance mutations",
+    "link": "https://www.nature.com/articles/s41467-026-76339-0",
+    "authors": [
+      "Xiaohao Huang",
+      "Xiansheng Cao",
+      "Lulu Zheng",
+      "Ruixiang Luo",
+      "Zhenglan Fang",
+      "Yongling Liang",
+      "Yongjuan Zhu",
+      "Shiyan Chen",
+      "Lei Zheng",
+      "Zheng Xu",
+      "Xiaokun Li",
+      "Guang Liang",
+      "Lingfeng Chen"
+    ],
+    "summary": "Nature Communications, Published online: 03 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76339-0\">doi:10.1038/s41467-026-76339-0</a>This study reports the structure-based discovery of LC-F2-1, a selective FGFR2 inhibitor that overcomes clinically observed resistance mutations in cancers. Its co-crystal structure with FGFR2V565F reveals how it may restore drug sensitivity.",
+    "source": "Nature Communications",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2529389123?af=R",
+    "title": "Engineering and land use intensified climate-driven Yangtze River flood hazards since the Little Ice Age",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2529389123?af=R",
+    "authors": [
+      "Shi-Yong YuZhixiong ShenJörg FrankeChunhai LiLiang ZhouAndreas LangWenjia LiXuefeng Yuahttps://ror.org/051hvcm98Key Laboratory of Regional Sustainable Development System Analysis and Simulation in Higher Education Institutions, School of Geography, Geomatics, and Planning, Jiangsu Normal University, Xuzhou 221116, Chinabhttps://ror.org/034t30j35State Key Laboratory of Loess Science, Institute of Earth Environment, Chinese Academy of Sciences, Xi’an 710075, Chinachttps://ror.org/01621q256Department of Marine Science, Coastal Carolina University, Conway, SC 29526dhttps://ror.org/02k7v4d05Institute of Geography and Oeschger Center for Climate Change Research, University of Bern, Bern CH-3012, Switzerlandehttps://ror.org/034t30j35State Key Laboratory of Lake and Watershed Science for Water Security, Nanjing Institute of Geography and Limnology, Chinese Academy of Sciences, Nanjing 210008, Chinafhttps://ror.org/05gs8cd61Department of Environment and Biodiversity, University of Salzburg, Salzburg 5020, Austriaghttps://ror.org/03et85d35Department of Geography and Spatial Information Techniques, Ningbo University, Ningbo 315211, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceFloods are among the most devastating natural disasters, yet the long-term roles of climate and human activity in shaping river flood hazards remain unclear. This study reconstructs 500 y of Yangtze River flood variability using lake sediments,...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608894123?af=R",
+    "title": "Controls on glacial erosion rates revealed by cosmogenic nuclide measurements in southeastern Alaska",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608894123?af=R",
+    "authors": [
+      "Jeremy P. BrooksAndrew G. JonesShaun A. MarcottLucas K. ZoetNathaniel A. LiftonChristian HelanowMarc W. Caffeeahttps://ror.org/01y2jtd41Department of Geoscience, University of Wisconsin-Madison, Madison, WI 53706bhttps://ror.org/02dqehb95Department of Earth, Atmospheric, and Planetary Science, Purdue University, West Lafayette, IN 47907chttps://ror.org/05f0yaq80Department of Mathematics, Stockholm University, Stockholm SE-106 91, Swedendhttps://ror.org/02dqehb95Department of Physics and Astronomy, Purdue University, West Lafayette, IN 47907"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 32, August 2026. <br />SignificanceGlacial erosion rates vary over many orders of magnitude, but there are numerous hypotheses predicting the variables that control glacial erosion rates. Here, we determine bedrock erosion rates using cosmogenic nuclides in southeastern Alaska. ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034470",
+    "title": "Seismic Characteristics of the Gas Hydrate System in the Mackenzie Trough of the Canadian Beaufort Sea, Arctic Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034470?af=R",
+    "authors": [
+      "Yeonjin Choi, \nYoung Keun Jin, \nMichael Riedel, \nJong Kuk Hong, \nMathieu J. Duchesne, \nSung‐Ryul Shin, \nWookeen Chung, \nSeung‐Goo Kang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726004679",
+    "title": "Chondrule formation in the outer disk from the primary three-dimensional chemical composition of CM chondrules",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726004679?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Poula Eyðbjørnsdóttir, Anders Johansen, Elishevah van Kooten",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1202/734261/Vacancy-ordering-schemes-govern-the",
+    "title": "Vacancy ordering schemes govern the antiferromagnetism in a modulated pyrrhotite structure",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1202/734261/Vacancy-ordering-schemes-govern-the",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Superstructures with modulated vacancy order are a characteristic trait of the pyrrhotite solid-solution series (Fe<sub>1–<span style=\"font-style: italic;\">x</span></sub>S, 0 &lt; <span style=\"font-style: italic;\">x</span> ≤ 0.125), and they strongly affect the magnetocrystalline anisotropy that causes Fe-spin rotation. The effect of a stochastic vacancy order and the resulting structural heterogeneity at the atomic level on the magnetization is not resolved yet in detail. Here, we demonstrate that a thermally tailored antiferromagnetic pyrrhotite made up of fivefold and sixfold stacking modulations with five different Fe-vacancy ordering variants forms two distinct vacancy ordering schemes that govern the spin rotation. A field-dependent thermomagnetic anomaly between 220 and 170 K and a secondary hysteresis loop in the magnetization curve in a field of around 3 Tesla provide compelling evidence for two different Fe-spin rotation patterns. The simultaneous occurrence of the magnetic anomaly and two enthalpy changes link the magnetocrystalline anisotropy to structural distortions of Fe–Fe bonds in the vacancy-ordering schemes, thereby explaining the presence of the two spin rotation patterns. This finding highlights magnetic effects induced by vacancy order and underscores the relevance of its architecture in a key sulfide material extensively used in geoscience and cosmology and with potential for technical applications.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1330/734260/Memorial-to-George-Robert-Rossman-1944-2026",
+    "title": "Memorial to George Robert Rossman 1944-2026",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1330/734260/Memorial-to-George-Robert-Rossman-1944-2026",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">George Rossman was all about curiosity. He enjoyed stimulating the curiosity of others by showing minerals and gems to people, followed by asking questions. Specimens, whether minerals or gems, sparked his interest, with a focus on the origin of color, the effect of high-energy radiation on color, and the role of “water” (H<sub>2</sub>O, that is) in minerals, particularly when not part of the chemical formula. George was an accomplished lecturer and teacher, developing both a puckish grin and an air of unpretentious intellect during his discussions. Getting you to think pleased him a lot. Our community of mineralogists, gemologists, and spectroscopists lost a wonderful person and a great scientific colleague with his passing.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1201/734258/New-insights-into-crystal-growth-from-aqueous",
+    "title": "New insights into crystal growth from aqueous solutions",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1201/734258/New-insights-into-crystal-growth-from-aqueous",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Science, engineering, mathematics, and the arts all share a claim to the beauty of symmetry. In geoscience, a major aspect of that beauty lies in the crystal forms of minerals, which have fascinated humans for millennia. Certainly, many young people have found a path to geoscience through either collecting minerals or experimenting with crystal growth. For the latter, an abundance of kits is available for growing crystals from aqueous solutions, many of which are almost foolproof. However, those who experiment on their own soon find that starting from scratch with a suspended seed crystal can be tricky. Excursions from steady growth conditions can soon spud unwanted overgrowths, not just on the initial beautiful form but also on the walls of the container and crawling up the thread that suspended the seed. Crystal growth can be difficult indeed but also rewarding. This can be a budding scientist’s first exposure to the challenges and failures that inform much of scientific research. The science of crystal growth from solution is still challenging, even at our most advanced levels of analysis and understanding.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1297/724702/Chemistry-of-bridgmanite-in-the-MgO-SiO2-Al2O3-FeO",
+    "title": "Chemistry of bridgmanite in the MgO-SiO 2 -Al 2 O 3 -FeO system at 27 GPa and 1700–2300 K",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1297/724702/Chemistry-of-bridgmanite-in-the-MgO-SiO2-Al2O3-FeO",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Bridgmanite, with (Mg,Fe)SiO<sub>3</sub> as the major component, is the most abundant mineral on Earth and is stable under lower mantle conditions. When incorporating trivalent cations (Al<sup>3+</sup> and Fe<sup>3+</sup>), bridgmanite can form various components such as the oxygen vacancy [(Mg,Fe<sup>2+</sup>)(Al,Fe<sup>3+</sup>)O<sub>2.5</sub>] and <span style=\"font-style: italic;\">A</span>-site vacancy [(Al,Fe<sup>3+</sup>)<sub>2/3</sub>□<sub>1/3</sub>)SiO<sub>3</sub>, □ = vacancy] components in addition to the charge-coupled (Fe<sub>2</sub>O<sub>3</sub>, Al<sub>2</sub>O<sub>3</sub>, FeAlO<sub>3</sub>) components. These vacancy-bearing components potentially allow the storage of volatiles in the lower mantle and the modification of the viscosity and compressibility of the lower mantle. However, our understanding of these defect components has been limited due to the previous focus on relatively simple systems. This study determined the compositions of bridgmanite and its associated phases in the MgO-SiO<sub>2</sub>-Al<sub>2</sub>O<sub>3</sub>-Fe<sub>2</sub>O<sub>3</sub>-FeO system as a function of temperature (1700–2300 K) at a fixed pressure of 27 GPa, relevant for uppermost lower mantle conditions. Our results suggest the presence of oxygen vacancies in bridgmanite, implying that the Earth’s lower mantle may store water and noble gases. Furthermore, our results agree with geophysical observations indicating slab stagnation in the deep mantle.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1324/724701/Single-crystal-elasticity-of-celestine-at-ambient",
+    "title": "Single-crystal elasticity of celestine at ambient conditions",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1324/724701/Single-crystal-elasticity-of-celestine-at-ambient",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Natural sulfates, particularly the baryte-celestine (Ba,Sr)SO<sub>4</sub> solid solution, are important mineral repositories for radionuclides such as <sup>226</sup>Ra derived from nuclear waste, making their thermodynamic and mechanical properties a subject of recent research interest. Despite this importance, the elastic properties of celestine (SrSO<sub>4</sub>) remain poorly constrained, with previously reported bulk and shear moduli differing by as much as 47% and 38%, respectively, and individual single-crystal elastic moduli showing even greater discrepancies. To address these uncertainties, we determined the single-crystal elasticity of natural near-end-member celestine using Brillouin spectroscopy. The best-fit single-crystal elastic moduli are: <span style=\"font-style: italic;\">C</span><sub>11</sub> = 105.1(3) GPa, <span style=\"font-style: italic;\">C</span><sub>22</sub> = 96.8(3) GPa, <span style=\"font-style: italic;\">C</span><sub>33</sub> = 124.1(3) GPa, <span style=\"font-style: italic;\">C</span><sub>44</sub> = 15.0(1) GPa, <span style=\"font-style: italic;\">C</span><sub>55</sub> = 40.4(2) GPa, <span style=\"font-style: italic;\">C</span><sub>66</sub> = 29.0(1) GPa, <span style=\"font-style: italic;\">C</span><sub>12</sub> = 51.1(2) GPa, <span style=\"font-style: italic;\">C</span><sub>13</sub> = 47.4(3) GPa, and <span style=\"font-style: italic;\">C</span><sub>23</sub> = 37.8(5) GPa. Voigt-Reuss-Hill averaging of the single-crystal elastic moduli yields an adiabatic bulk modulus (<span style=\"font-style: italic;\">K</span><sub><span style=\"font-style: italic;\">s</span></sub>) of 66.2(4) GPa, and a shear modulus (<span style=\"font-style: italic;\">G</span>) of 28(2) GPa. This study reports the most accurate single-crystal elastic properties of celestine under ambient conditions to date, providing new reference values for this technologically and geologically important mineral.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1209/724517/Geochemistry-and-structures-of-the-exomorphic-halo",
+    "title": "Geochemistry and structures of the exomorphic halo of the Volta Grande pegmatite, Brazil: Implications for net mass change and pegmatite emplacement",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1209/724517/Geochemistry-and-structures-of-the-exomorphic-halo",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Traditional views regarding the essential role of water in forming pegmatite have been debated in favor of less water-intensive models, although the total volume of water present in pegmatite-forming liquids after emplacement is poorly constrained by field evidence. Non-isochemical interactions between country rocks and metasomatizing pegmatite-related fluids may offer crucial insights into their origin and properties. In our study of the Li-rich Volta Grande pegmatite, we draw on comprehensive geochemical exploration databases and structural volumetric strain constraints to compute representative mass-balance estimates. In the exomorphic halo of the main pegmatite, an initial stage of holmquistite-dominated metasomatism can be recognized, followed by biotitization, which produces a metasomatic rock with ca. 80% Li-Rb-Cs-biotite. Major and trace elements in biotitite indicate alteration characterized by a volume loss factor of ca. 0.94. Volume loss is compatible with structural profiles of a contact-parallel reverse shear zone that overprinted metasomatism, characterized by upper greenschist to lower amphibolite facies mylonitization microstructures. At these doubly constrained volume loss factors, estimates suggest that adding K and Li to the exomorphic halo accounts for approximately 3–5% and 2% by weight, respectively, of the original mass within the pegmatite. Conversely, about 10% of Ca in the pegmatite may have been drawn in from the country rocks during late-stage metasomatism. This finding is backed by textural evidence of Ca-rich phases in the pegmatite and supports the growing consensus regarding open-system interactions between pegmatite-forming liquids and surrounding country rocks, which are particularly effective in causing Ca incursions into pegmatite.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1275/724516/Revealing-the-true-nature-of-chrysocolla-From",
+    "title": "Revealing the true nature of chrysocolla: From macro- to nano-characterization and first thermodynamic constraints",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1275/724516/Revealing-the-true-nature-of-chrysocolla-From",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Chrysocolla, historically appreciated as a vibrant blue-green pigment and gemstone, remains an unresolved issue due to its variable composition, ambiguous structural nature, and inconsistent classification across literature. This study presents a comprehensive, multi-scale investigation aimed at unraveling the true nature of chrysocolla by integrating analyses, complemented by the first thermodynamic constraints for its formation. Samples from two mining localities—Capo Calamita Mine (Elba Island, Italy) and Cornwall Mine (Pennsylvania, U.S.A.)—were analyzed using a stepwise methodological approach, combining optical microscopy, micro-Raman spectroscopy, electron microprobe analysis (EMPA-WDS), pair distribution function analysis (PDF) in high resolution, and transmission electron microscopy (TEM). Microstructural observations revealed various textural patterns: chrysocolla from the Elba Island exhibits complex arborescent and banded morphologies, often associated with malachite, while the samples from Pennsylvania display predominantly massive and banded textures intergrown with microcrystalline silica phases. Micro-Raman analyses confirmed consistent vibrational signatures of chrysocolla between the two sites but highlighted distinct mineral associations: samples from Elba Island contain malachite, whereas chrysocolla from Pennsylvania contains chalcedony (quartz and moganite). EMPA results determined a basic composition with a certain constancy in the sample set, but also some significant differences: samples from Elba Island showed a higher CuO content (∼45.85 wt%), whereas chrysocolla from Pennsylvania showed slightly lower CuO (∼41.50 wt%) and elevated Al<sub>2</sub>O<sub>3</sub> (∼1.31 wt%), reflecting local geological influences. Principal Component Analysis (PCA) analysis effectively distinguished the geochemical signatures of chrysocolla from the two localities, suggesting compositional “fingerprints” linked to the specific mineralizing environments. The total scattering data provided key insights into short-range structural coherence, distinguishing Si-O and Cu-O bond distances and confirming a low crystalline order, extending up to ∼10 Å. Furthermore, at the nanoscale, TEM investigations revealed that chrysocolla from both localities predominantly consists of an intricate network of randomly oriented nanotubes, diverging from prior models proposing an amorphous silica matrix embedding copper nanoparticles. Thermodynamic modeling of the system Cu-SiO<sub>2</sub>-SCOH revealed that chrysocolla stability is influenced by three main factors: (1) oxidizing conditions stabilizing Cu<sup>2+</sup>; (2) high silica chemical potential at, or above, quartz saturation; and (3) low temperatures near ambient conditions. The coexistence of malachite and chrysocolla in samples from Elba Island reflects fluid chemistry oscillations at the stability boundary between these two phases, whereas the assemblage from Pennsylvania implies silica supersaturation conditions, favoring simultaneous chrysocolla and chalcedony formation. Collectively, these findings refine our understanding of chrysocolla’s mineralogical identity, nanostructure, and formation conditions, offering valuable implications for mineral exploration and resource evaluation in copper deposits.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1315/724514/A-single-crystal-neutron-diffraction-study-of",
+    "title": "A single-crystal neutron diffraction study of berborite-2 T , Be 2 (BO 3 )(OH)·H 2 O",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1315/724514/A-single-crystal-neutron-diffraction-study-of",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The chemical composition (by EPMA-WDS and SIMS) and the crystal structure (by single-crystal X-ray diffraction at 293 K and neutron diffraction at 20 K) of berborite-2<span style=\"font-style: italic;\">T</span> from the Saga II quarry at Auenlandet, Larvik plutonic complex in southern Norway, were investigated. Chemical and crystallographic data confirm the general mineral formula of berborite: Be<sub>2</sub>(BO<sub>3</sub>)(OH)·H<sub>2</sub>O. F and Cl content (as potential substituents of the OH-group) was found to be below the detection limit of EPMA-WDS, and the average content of the other measured elements (i.e., Na, K, Ca, Mg, Fe, and S) is lower than 600 wt. ppm per equivalent oxide, and probably ascribable to micro-inclusions of other mineral species, rather than to elements replacing B or Be in the berborite structure. Excluding B and Be, both considered as “critical elements” for modern technology, berborite does not contain other industrially relevant elements. The measured <sup>11</sup>B/<sup>9</sup>Be ratio of berborite by SIMS was consistent with the expected value of the ideal formula (i.e., 1B:2Be apfu).X-ray and neutron refinements confirm the previously reported general structural model of berborite-2<span style=\"font-style: italic;\">T</span>, built up by two layers made of regular (as governed by the threefold axes) corner-sharing triangular BO<sub>3</sub>-units and tetrahedral BeO<sub>3</sub>Φ (Φ = OH, H<sub>2</sub>O) units, mutually connected to give electron-neutral [(BO<sub>3</sub>)Be<sub>2</sub>Φ<sub>2</sub>]-layers. The Φ-groups (i.e., hydroxyls or H<sub>2</sub>O molecules) represent the out-of-plane apices of the tetrahedra, and the special position of the O sites on the triad implies a statistical occupancy of the Φ-groups (i.e., 1/3 OH and 2/3 H<sub>2</sub>O). Subsequent electron-neutral [(BO<sub>3</sub>)Be<sub>2</sub>Φ<sub>2</sub>]-layers are mutually connected only by H-bonds. The statistical occupancy of the H sites leads to a complex configuration of the H-bonding network, here described on the basis of the neutron diffraction data. The calculation of the difference-Fourier maps of the nuclear density function and the application of the Maximum Entropy Method to the experimental data consistently rule out dynamic disorder of the H sites, confirming the occurrence of a static disorder of the protons in the structure of berborite-2<span style=\"font-style: italic;\">T</span>, at least at 20 K.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1247/724513/Deep-carbon-cycling-in-subduction-zones",
+    "title": "Deep carbon cycling in subduction zones constrained by partial melting of phengite-bearing carbonated eclogite",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1247/724513/Deep-carbon-cycling-in-subduction-zones",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Partial melting of carbonated rocks in subduction zones is generally controlled by the availability of fluid or the stability of hydrous minerals. Few experiments have addressed the conditions of dehydration melting of carbonated rocks, despite their potential importance for carbon (C) cycling in subduction zones and arc magmatism. Here, we present high-pressure experiments on a carbonated eclogite with H<sub>2</sub>O stored in phengite to illustrate the decarbonation behavior of subducted crust. The experimental results show that phengite-bearing carbonated eclogite undergoes silicate melting at 3–4 GPa and temperatures ∼850 °C, leaving carbonate as a refractory phase in equilibrium with eclogitic residues. At high pressures (5–8 GPa), the near-solidus liquid is replaced by carbonatitic liquid at temperatures of ∼900–950 °C. Dehydration of phengite is responsible for the formation of both silicate and carbonatitic liquids in subducted eclogite. The intersection of the carbonate melting curve with slab geotherms at depths greater than ∼150 km can produce 5–7 wt% potassium-rich carbonatitic liquids for mantle metamorphism at temperatures achievable in warm/hot subduction zones. We suggest that phengite dehydration-induced carbonate melting could be an important C-cycling mechanism in subduction zones, effectively removing most of the C from subducted eclogites.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1259/724083/Predicting-titanite-genetic-types-from-trace",
+    "title": "Predicting titanite genetic types from trace elements: A machine learning approach",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1259/724083/Predicting-titanite-genetic-types-from-trace",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Titanite, a ubiquitous accessory mineral in diverse rock types, provides robust constraints on geochronology, petrogenesis, and mineralization processes. Despite their diagnostic potential, the trace element signatures of titanite remain underexploited in geological interpretations. Moreover, traditional low-dimensional analysis suffers from well-documented inefficiencies and interpretive subjectivity. In this study, after comparing the performance of six models, we implemented an interpretable machine-learning approach (LightGBM) to relate titanite trace-elements to genetic types. Our study covers 14 064 sets of titanite trace element data across five different genesis types (hydrothermal, metamorphic, recrystallized, inherited, magmatic), along with 69 sets obtained from the Mesozoic granite in Jiaodong Peninsula, China. The LightGBM classifier demonstrated high accuracy in classifying titanite trace-element data by genetic type, achieving 96% overall accuracy with a weighted F1 score of 0.9529. An independent validation on 226 metamorphic titanite from Greenland UHP gneisses correctly classified 205 cases. Additionally, LightGBM predicted 66 titanites from the Jiaodong Mesozoic granites to be of magmatic origin, consistent with their petrographic characteristics. SHapley Additive exPlanations (SHAP) analysis of our model reveals that Nb, Hf, Th/U, Lu, CeAnom, Th, Eu, EuAnom, U, Zr, La, and Lu/Hf constitute the most diagnostically significant variables for discriminating titanite genetic types based on trace element compositions, and they further reveal the high coupling and complexity among trace elements in genetic discrimination. In addition, we introduce a visualization approach that combines LightGBM with t-distributed Stochastic Neighbor Embedding (t-SNE) to classify titanite by its genesis, achieving pronounced separation between metamorphic and magmatic titanite in high-dimensional feature space. These findings establish that our approach provides a robust framework for both deciphering titanite origins from trace element compositions and predicting titanite genesis across diverse geological settings worldwide.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1289/724082/Elasticity-of-silicate-glasses-along-the-MgSiO3",
+    "title": "Elasticity of silicate glasses along the MgSiO 3 -FeAlO 3  join",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1289/724082/Elasticity-of-silicate-glasses-along-the-MgSiO3",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The density and elastic properties of silicate melts are critical for understanding planetary differentiation and magma ocean dynamics. In this study, we measured the elastic properties of MgSiO<sub>3</sub>-FeAlO<sub>3</sub> glasses with varying FeAlO<sub>3</sub> contents (0–40 mol%), which we use as room-temperature analogs for planetary magma ocean melts, to elucidate the effects of Fe and Al on the melt elasticity, density, and viscosity. With increasing FeAlO<sub>3</sub> content, glass density and elastic moduli increase, while acoustic velocities decrease. The lower molar volumes observed in Fe-rich glasses are consistent with enhanced elastic modulus and polymerization. We also found that normalized compressibility –(∂<span style=\"font-style: italic;\">V</span>/∂<span style=\"font-style: italic;\">P</span>)<sub>S</sub> increases linearly with the non-bridging oxygen per tetrahedral cation (NBO/T) but decreases with increasing FeAlO<sub>3</sub> content. These results demonstrate that variations in glass composition, particularly FeAlO<sub>3</sub> content, exert a strong control on physical properties and indicate that analogous compositional effects likely occur in silicate melts, with significant consequences for magma ocean crystallization dynamics.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1308/724081/Haxonite-NiFe22C6-revisited-New-crystal-chemical",
+    "title": "Haxonite, NiFe 22 C 6 , revisited: New crystal-chemical formulas and Fe-Ni ordering as a structure-stabilizing factor",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/8/1308/724081/Haxonite-NiFe22C6-revisited-New-crystal-chemical",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Haxonite is the second most common carbide in meteorites, following cohenite. However, unlike the latter, haxonite has no synthetic counterpart; its structure type and chemical formula were suggested based on the similarity of its X-ray powder diffraction pattern with that of a <span style=\"font-style: italic;\">tau carbide</span> (synthetic analog of isovite). During the mineralogical study of the Barbianello meteorite (iron ungrouped, Ni-rich ataxite), we identified both cohenite and haxonite within the 2 cm single-crystal host rod of taenite matrix. Both carbides form irregular-angular crystals associated with nickelphosphide but have never been found in one inclusion together. Cohenite and haxonite vary considerably in Ni content (&lt;1 and 5 wt%, respectively), while the associated nickelphosphide and taenite have a constant Ni composition (∼27 and 52 wt%, respectively). The Ni content in haxonite from the Barbianello meteorite is close to ∼1.1 atoms per formula unit (apfu), which is a typical value for all previously studied haxonites (∼1.1–1.3 apfu). Notably, no Ni-free haxonite crystals are known. Based on single-crystal X-ray diffraction data, we demonstrated that Ni orderly occupies a single crystallographic site (M1, 4<span style=\"font-style: italic;\">a</span>). The dominance of Ni in a single crystallographic site also leads to the ideal formula of haxonite being <sup>M1</sup>Ni<sup>M2–M4</sup>Fe<sub>22</sub>C<sub>6</sub>. We hypothesize that the presence of Ni stabilizes the crystal structure of haxonite and makes it common in Ni-rich irons. We propose that other factors promoting haxonite formation include the presence of a precursor Ni-rich phase and relatively low crystallization temperatures.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-08-01",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-76308-7",
     "title": "LINE-1 insertion intermediates recombine with one another or with DNA breaks to form genome rearrangements",
     "link": "https://www.nature.com/articles/s41467-026-76308-7",
