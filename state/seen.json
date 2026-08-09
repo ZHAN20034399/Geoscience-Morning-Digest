@@ -1,5 +1,423 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-75786-z",
+    "title": "Stratospheric impacts on Eurasian soil moisture on subseasonal timescales",
+    "link": "https://www.nature.com/articles/s41467-026-75786-z",
+    "authors": [
+      "Ying Dai",
+      "Peter Hitchcock",
+      "Flavio Lehner",
+      "Suvarna Fadnavis"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75786-z\">doi:10.1038/s41467-026-75786-z</a>This study shows that sudden stratospheric warmings reshape Eurasian soil moisture by increasing wetness over Iberia while warming-induced drying affects soils from the Iranian Plateau to northern India, revealing a source of subseasonal hydroclimate predictability.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76506-3",
+    "title": "Allele-specific chromatin architecture shapes imprinted domains and coordinates a distal enhancer and antisense transcription at the mouse <i>Mest</i>-<i>Copg2</i> domain",
+    "link": "https://www.nature.com/articles/s41467-026-76506-3",
+    "authors": [
+      "Bongmin Bae",
+      "Katherine Gu",
+      "Daniel Loftus",
+      "Amanda J. Whipple"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76506-3\">doi:10.1038/s41467-026-76506-3</a>Here the authors show that parent-specific 3D genome architecture is a common feature of imprinted genes and identify a distal enhancer that works with antisense transcription to regulate neuron-specific imprinting.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76539-8",
+    "title": "Cavity-Enabled Supramolecular Regulation of Capacitive–Redox Bromine Electrochemistry in Zinc–Bromine Batteries",
+    "link": "https://www.nature.com/articles/s41467-026-76539-8",
+    "authors": [
+      "Yongxing Ding",
+      "Mingming Han",
+      "Yuezheng Liu",
+      "Laixi Li",
+      "Wei Zhong",
+      "Siyuan Li",
+      "Yingying Lu",
+      "Hao Cheng"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76539-8\">doi:10.1038/s41467-026-76539-8</a>Aqueous zinc-bromine batteries face a trade-off between capacitive power and redox capacity. Here, authors design cavity enabled supramolecular that dynamically switch from ion storage at low voltages to polybromide stabilization at high voltages, delivering high capacity, power and cycling durability.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76247-3",
+    "title": "Human learning of probability distributions is biased toward moderate structural complexity",
+    "link": "https://www.nature.com/articles/s41467-026-76247-3",
+    "authors": [
+      "Tianyuan Teng",
+      "Li Kevin Wenliang",
+      "Hang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76247-3\">doi:10.1038/s41467-026-76247-3</a>Humans build internal models from online observations to adapt to new environments. Here, the authors show that individuals are biased towards building models with moderate structural complexity, regardless of true complexity.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75862-4",
+    "title": "Targeting m<sup>6</sup>A writer METTL3 with engineered nanovesicles reduces neuroinflammation in vitro and in vivo",
+    "link": "https://www.nature.com/articles/s41467-026-75862-4",
+    "authors": [
+      "Liangfu Xu",
+      "Yuanwei Pan",
+      "Guanjun Li",
+      "Peng She",
+      "Qian-Fang Meng",
+      "Zhigang Liu",
+      "Lang Rao"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75862-4\">doi:10.1038/s41467-026-75862-4</a>Strategies to modulate neuroinflammation have broad therapeutic potential. Here, the authors develop siMETTL3-hNVs, nanovesicles carrying siRNA targeting METTL3, and show they can reduce neuroinflammation in vitro and in vivo.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76379-6",
+    "title": "Diet-responsive proteogenomic effects following short-term restriction of animal products in humans",
+    "link": "https://www.nature.com/articles/s41467-026-76379-6",
+    "authors": [
+      "Alexandros Simistiras",
+      "Ozvan Bocher",
+      "Christina Emmanouil",
+      "Anargyros Skoulakis",
+      "Stavros Glentis",
+      "Nikolaos Scarmeas",
+      "Eleftheria Zeggini",
+      "Konstantinos Rouskas",
+      "Antigone S. Dimas"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76379-6\">doi:10.1038/s41467-026-76379-6</a>Using longitudinal proteogenomics, the authors reveal diet- and season-sensitive genetic effects on protein abundance linked to cholesterol and methionine metabolism and to immune function.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76497-1",
+    "title": "Self-Assembled Multilayers Reduce Interfacial Energy Loss in Perovskite Solar Cells",
+    "link": "https://www.nature.com/articles/s41467-026-76497-1",
+    "authors": [
+      "Yi Pan",
+      "Lei Liu",
+      "Haoxuan Guo",
+      "Changqin Lin",
+      "Pengfei Wu",
+      "Zeping Ou",
+      "Can Wang",
+      "Peidong Chen",
+      "Qin Gao",
+      "Mingyang Gao",
+      "Xiaoxue Lin",
+      "Dingqin Hu",
+      "Tingming Jiang",
+      "Yujie Zheng",
+      "Zeyun Xiao",
+      "Ke Yang",
+      "Zeyu Zhang",
+      "Rui Wang",
+      "Nabonswende Aida Nadege Ouedraogo",
+      "Zedong Lin",
+      "Wei Wei",
+      "Kuan Sun",
+      "Qiang Liao"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76497-1\">doi:10.1038/s41467-026-76497-1</a>Self-assembled interlayers improve perovskite solar cells but suffer aggregation, incomplete coverage, and weak interfaces, limiting efficiency and stability. Pan et al. design a methoxy-functionalized molecule improving wettability and interface contact, boosting efficiency and long-term stability.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76461-z",
+    "title": "MRICombo: a deep-learning-based framework for universal volumetric segmentation grading-staging and malignancy detection across heterogeneous MRI",
+    "link": "https://www.nature.com/articles/s41467-026-76461-z",
+    "authors": [
+      "Zhuoneng Zhang",
+      "Luyi Han",
+      "Dengqiang Jia",
+      "Yuanfeng Wei",
+      "Tianyu Zhang",
+      "Jiaju Huang",
+      "Da Huang",
+      "Yapeng Wang",
+      "Shandong Wu",
+      "Michiel Kallenberg",
+      "Ritse Mann",
+      "Chenggong Yan",
+      "Yue Sun",
+      "Tao Tan"
+    ],
+    "summary": "Nature Communications, Published online: 08 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76461-z\">doi:10.1038/s41467-026-76461-z</a>Existing magnetic resonance imaging (MRI) deep learning models are often task- or sequence-specific. Here, the authors present MRICombo, which segments anatomy, labels tumor types, and supports grading, staging and malignancy detection across heterogeneous sequences.",
+    "source": "Nature Communications",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123701",
+    "title": "Attention‐Based Stochastic Simulation of Climate‐Informed Spatiotemporal Flood Risk for Multisite Insurance Portfolios",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123701?af=R",
+    "authors": [
+      "Adam Nayak, \nPierre Gentine, \nUpmanu Lall"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124863",
+    "title": "Anomalies and Recovery of Evaporation Ducts Induced by Typhoons in the Northwest Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124863?af=R",
+    "authors": [
+      "Xuhang Li, \nXiaoping Cheng, \nJiayuan Zhang, \nJianfang Fei, \nXiaogang Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120846",
+    "title": "Impacts of Future Oil Palm Expansion on Carbon and Hydrological Fluxes Across the Tropics",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120846?af=R",
+    "authors": [
+      "Ru Xu, \nYuanchao Fan, \nAshehad A. Ali, \nDavid J. Beerling, \nMaria Val Martin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122182",
+    "title": "Gamma Rays Signal the Vulnerability of Forest to Extreme Drought",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122182?af=R",
+    "authors": [
+      "Gavan S. McGrath, \nJoseph B. Fontaine, \nRichard Van Dongen, \nKatinka X. Ruthrof"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122331",
+    "title": "Seismic Tremor as a Precursor to Hydrothermal Explosions Near Mutnovsky Volcano (Kamchatka)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122331?af=R",
+    "authors": [
+      "Y. Berezhnev, \nN. Belovezhets, \nN. M. Shapiro, \nS. Abramenkov, \nI. Abkadyrov, \nS. Yaskevich, \nD. Chebrov, \nI. Koulakov"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123783",
+    "title": "Dust Layer Height Leads Atmospheric Boundary Layer Height by 3 hr Over the Taklimakan Desert",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123783?af=R",
+    "authors": [
+      "Xingran Li, \nTian Zhou, \nDongsheng Wu, \nZikai Lin, \nYonghong Gu, \nQili Gao, \nZhongwei Huang, \nXiaokai Song, \nYufei Wang, \nQingqing Dong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120213",
+    "title": "A Microphysical Model for Predicting Magma Fragmentation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120213?af=R",
+    "authors": [
+      "Jérémie Vasseur, \nFabian B. Wadsworth, \nEdward W. Llewellin, \nFrancisco Cáceres, \nDonald B. Dingwell, \nYan Lavallée, \nBettina Scheu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122279",
+    "title": "Satellite Mapping of the Moulin Distribution Across the Entire Greenland Ice Sheet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122279?af=R",
+    "authors": [
+      "Yuhan Wang, \nKang Yang, \nJianing Wei, \nWenzhuo Zhang, \nDongyang Du, \nWensong Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122845",
+    "title": "Quantifying Daily Vertical Heat Flux in the Loop Current System: A Quasi‐Lagrangian Assessment of Frontal Hotspots",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122845?af=R",
+    "authors": [
+      "Sakib Mahmud, \nXiao Ge, \nUchenna Nwankwo, \nAnthony Knap, \nSteven F. DiMarco"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120835",
+    "title": "Detecting an Ocean Inside Callisto With Geodetic Measurements From Europa Clipper and Juice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120835?af=R",
+    "authors": [
+      "Flavio Petricca, \nGael Cascioli, \nErwan Mazarico"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120812",
+    "title": "Updated Interior Structure of Callisto From a Reanalysis of Galileo Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120812?af=R",
+    "authors": [
+      "G. Cascioli, \nF. Petricca, \nE. Mazarico, \nD. Buccino, \nC. Cochrane, \nJ. Castillo‐Rogez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124221",
+    "title": "Temperature Dependent Complex Refractive Index (CRI) of Hexagonal Ice in the Range 150–270 K: Infrared and Far‐Infrared Transmission Measurements at the AILES Beamline",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124221?af=R",
+    "authors": [
+      "Cecilia Taverna, \nMarine Verseils, \nJean‐Blaise Brubach, \nKelly Rader, \nQuentin Libois, \nPascale Roy, \nLaurent C.‐Labonnote"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121190",
+    "title": "Exploring Antarctic Feedback Mechanisms Using Two‐Way Coupled Subglacial Hydrology and Ice Flow Modeling in the Siple Coast",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121190?af=R",
+    "authors": [
+      "Koi McArthur, \nChristine Dow, \nShivani Ehrenfeucht"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124704",
+    "title": "First Assessment of ICESat‐2 Summer Sea Ice Freeboard With Airborne Validation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124704?af=R",
+    "authors": [
+      "Ellen M. Buckley, \nSahra Kacimi, \nMelinda Webster, \nSiddarth Harrison, \nKutalmis Saylam, \nNathan T. Kurtz, \nRachel L. Tilling"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 15, 16 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013065",
+    "title": "An Open‐Source Markov Chain Monte Carlo Inversion Software for the Analysis of Experimental Rock Deformation Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013065?af=R",
+    "authors": [
+      "C. Jain, \nJ. Korenaga"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013187",
+    "title": "Distinct Transcrustal Evolutions of Komatiitic Primitive Magma: Implications for the Compositional Dichotomy of Continental Flood Basalts",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013187?af=R",
+    "authors": [
+      "Zongpeng Yang, \nTong Hou, \nRoman Botcharnikov, \nEvangelos Moulas, \nMeng Wang, \nStephan Buhre, \nZhaochong Zhang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012960",
+    "title": "Early–Late Carboniferous Tectonic Evolution of the Northern North China Craton (NE China): Constraints From Zircon Ages, Geochemistry, and Crustal Thickness Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012960?af=R",
+    "authors": [
+      "Yunfei Chang, \nQingxiang Du, \nHuachun Gan, \nXiaoli Shen, \nZuozhen Han, \nXiaoxue Hou, \nHuicong Zhang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032373",
+    "title": "Pressurization of Shallow Magma Reservoir Preceding Basaltic Eruptions at an Open‐Vent Volcano",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032373?af=R",
+    "authors": [
+      "A. Ishikawa, \nT. Nishimura, \nG. Lacanna, \nH. Aoyama, \nR. Kawaguchi, \nE. Fujita, \nT. Yamada, \nT. Miwa, \nM. Ripepe"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033724",
+    "title": "High‐Resolution Imaging of Lithosphere‐Asthenosphere Structure in Northeast China Using Eikonal Tomography With Physics‐Informed Deep Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033724?af=R",
+    "authors": [
+      "Xinyuan Cui, \nYou Tian, \nChao Song, \nHonghao Li, \nUmair bin Waheed, \nCai Liu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005120",
+    "title": "The solubility of NdPO<sub>4</sub> and DyPO<sub>4</sub> and stability of Nd and Dy chloride and hydroxyl complexes as a function of pH and salinity to 450 °C",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005120?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Sarah E. Smith-Schmitz, Nicole C. Hurtig, Alexander P. Gysi, Daniel Harlov",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005168",
+    "title": "Citation for Treibs award 2026 to Professor emeritus Steven John Rowland made by Associate Professor Maya Al Sid Cheikh (University of Edinburgh, Scotland)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005168?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s):",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005156",
+    "title": "Acceptance Speech for Treibs Award 2026 to Steven John Rowland by Professor emeritus Steven Rowland (University of Plymouth, England)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005156?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 7 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s):",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-09",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9271?af=R",
     "title": "Experimental violation of a Bell-like causal inequality in a photonic quantum switch",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9271?af=R",
