@@ -1,5 +1,745 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-10991-w",
+    "title": "Phosphine-mediated azine C–H couplings with water and ammonia",
+    "link": "https://www.nature.com/articles/s41586-026-10991-w",
+    "authors": [
+      "Kyle G. Nottingham",
+      "Dane A. Brunner",
+      "David Dalmau",
+      "Amanda K. Melanese",
+      "Juan V. Alegre-Requena",
+      "Robert S. Paton",
+      "Andrew McNally"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10991-w\">doi:10.1038/s41586-026-10991-w</a>Phosphine-mediated azine C–H couplings with water and ammonia",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10947-0",
+    "title": "Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "link": "https://www.nature.com/articles/s41586-026-10947-0",
+    "authors": [
+      "Tongwu Zhang",
+      "Wei Zhao",
+      "Christopher Wirth",
+      "Marcos Díaz-Gay",
+      "Jinhu Yin",
+      "Monia Cecati",
+      "Francesca Marchegiani",
+      "Phuc H. Hoang",
+      "Charles Leduc",
+      "Marina K. Baine",
+      "William D. Travis",
+      "Lynette M. Sholl",
+      "Philippe Joubert",
+      "Jian Sang",
+      "John P. McElderry",
+      "Michelle Antony",
+      "Alyssa Klein",
+      "Azhar Khandekar",
+      "Caleb Hartman",
+      "Jennifer Rosenbaum",
+      "Frank J. Colón-Matos",
+      "Mona Miraftab",
+      "Monjoy Saha",
+      "Olivia W. Lee",
+      "Kristine M. Jones",
+      "Neil E. Caporaso",
+      "Maria Pik Wong",
+      "Kin Chung Leung",
+      "Chao Agnes Hsiung",
+      "Chih-Yi Chen",
+      "Eric S. Edell",
+      "Jacobo Martínez Santamaría",
+      "Matthew B. Schabath",
+      "Sai S. Yendamuri",
+      "Marta Manczuk",
+      "Jolanta Lissowska",
+      "Beata Świątkowska",
+      "Anush Mukeria",
+      "Oxana Shangina",
+      "David Zaridze",
+      "Ivana Holcatova",
+      "Dana Mates",
+      "Sasa Milosavljevic",
+      "Milan Savic",
+      "Yohan Bossé",
+      "Bonnie E. Gould Rothberg",
+      "David C. Christiani",
+      "Valerie Gaborieau",
+      "Paul Brennan",
+      "Geoffrey Liu",
+      "Paul Hofman",
+      "Robert Homer",
+      "Soo-Ryum Yang",
+      "Angela C. Pesatori",
+      "Dario Consonni",
+      "Lixing Yang",
+      "Bin Zhu",
+      "Jianxin Shi",
+      "Kevin Brown",
+      "Nathaniel Rothman",
+      "Stephen J. Chanock",
+      "Ludmil B. Alexandrov",
+      "Jiyeon Choi",
+      "Maurizio Cardelli",
+      "Qing Lan",
+      "Martin A. Nowak",
+      "David C. Wedge",
+      "Maria Teresa Landi"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10947-0\">doi:10.1038/s41586-026-10947-0</a>Author Correction: Uncovering the role of LINE-1 in the evolution of lung adenocarcinoma",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02492-7",
+    "title": "Funders should look beyond strict age criteria",
+    "link": "https://www.nature.com/articles/d41586-026-02492-7",
+    "authors": [
+      "Xiaohui Xia"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02492-7\">doi:10.1038/d41586-026-02492-7</a>Funders should look beyond strict age criteria",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02464-x",
+    "title": "The case for responsible scientific activism",
+    "link": "https://www.nature.com/articles/d41586-026-02464-x",
+    "authors": [
+      "Stuart Capstick",
+      "Charlie Gardner",
+      "Abi Perrin"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02464-x\">doi:10.1038/d41586-026-02464-x</a>The case for responsible scientific activism",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02431-6",
+    "title": "Shipping on rivers packs a surprisingly large climate punch",
+    "link": "https://www.nature.com/articles/d41586-026-02431-6",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02431-6\">doi:10.1038/d41586-026-02431-6</a>Growing traffic on inland waterways could offer an opportunity for cutting emissions.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02490-9",
+    "title": "AI tools speed up analysis, but scientific truths must be grounded in reality",
+    "link": "https://www.nature.com/articles/d41586-026-02490-9",
+    "authors": [
+      "Weishi Zhang",
+      "Ying Xu",
+      "Yitong Han"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02490-9\">doi:10.1038/d41586-026-02490-9</a>AI tools speed up analysis, but scientific truths must be grounded in reality",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02380-0",
+    "title": "How escalating costs scuppered a radio telescope at Joddrell Bank",
+    "link": "https://www.nature.com/articles/d41586-026-02380-0",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02380-0\">doi:10.1038/d41586-026-02380-0</a>Where to spot a basking shark and a gloomy tale about an abandoned telescope, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02491-8",
+    "title": "Will AI make our dreams all look the same?",
+    "link": "https://www.nature.com/articles/d41586-026-02491-8",
+    "authors": [
+      "Claudio Nastruzzi"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02491-8\">doi:10.1038/d41586-026-02491-8</a>Will AI make our dreams all look the same?",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02454-z",
+    "title": "The forgotten 20 million: why is the world neglecting Afghanistan’s girls and women?",
+    "link": "https://www.nature.com/articles/d41586-026-02454-z",
+    "authors": [],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02454-z\">doi:10.1038/d41586-026-02454-z</a>It is shameful that half the country’s population continues to be overlooked by the international community.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02374-y",
+    "title": "HIV vaccines guide rare immune cells to make broadly neutralizing antibodies",
+    "link": "https://www.nature.com/articles/d41586-026-02374-y",
+    "authors": [
+      "S. Gnanakaran",
+      "Cynthia A. Derdeyn"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02374-y\">doi:10.1038/d41586-026-02374-y</a>Three studies in non-human primates show that strategically designed vaccines could prime a population of B cells to produce effective antibodies against HIV.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02452-1",
+    "title": "Seven tips for a graceful lab exit",
+    "link": "https://www.nature.com/articles/d41586-026-02452-1",
+    "authors": [
+      "Stephanie Melchor"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02452-1\">doi:10.1038/d41586-026-02452-1</a>Job transitions are challenging, but good communication and planning will help.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02082-7",
+    "title": "When the best decision is no decision: the rise of randomization in grant funding",
+    "link": "https://www.nature.com/articles/d41586-026-02082-7",
+    "authors": [
+      "Max Bennett"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02082-7\">doi:10.1038/d41586-026-02082-7</a>If reviewers can’t reliably tell the difference between top grant proposals, why should they pretend they can? A new wave of funders is turning to lotteries to break the tie.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02489-2",
+    "title": "NIH limits funding for research on the health effects of public policy",
+    "link": "https://www.nature.com/articles/d41586-026-02489-2",
+    "authors": [
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02489-2\">doi:10.1038/d41586-026-02489-2</a>US biomedical agency no longer considers policymakers ‘mission relevant’, leaving dozens of grants in limbo.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02142-y",
+    "title": "Solar eclipse offers rare chance to solve Sun’s magnetic-field mysteries",
+    "link": "https://www.nature.com/articles/d41586-026-02142-y",
+    "authors": [
+      "Ignacio Amigo"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02142-y\">doi:10.1038/d41586-026-02142-y</a>Researchers will travel to Spain and Iceland to observe the solar eclipse on 12 August, hoping to answer questions about the solar corona.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02449-w",
+    "title": "A ‘super’ El Niño could transform the Amazon. Is the world’s biggest rainforest doomed?",
+    "link": "https://www.nature.com/articles/d41586-026-02449-w",
+    "authors": [
+      "Quentin Septer"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02449-w\">doi:10.1038/d41586-026-02449-w</a>The Amazon rainforest might be closer to a tipping point than scientists thought. Some fear that droughts and fire could nudge it into irreversible decline.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02451-2",
+    "title": "Why scientists should lead the shift away from AI mega data centres",
+    "link": "https://www.nature.com/articles/d41586-026-02451-2",
+    "authors": [
+      "Cassidy K. Buhler",
+      "Fernando Pérez",
+      "Carl Boettiger"
+    ],
+    "summary": "Nature, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02451-2\">doi:10.1038/d41586-026-02451-2</a>Publicly available AI models and local infrastructure can reduce AI’s environmental footprint while giving researchers greater control over the tools they use.",
+    "source": "Nature",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10984-9",
+    "title": "Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+    "link": "https://www.nature.com/articles/s41586-026-10984-9",
+    "authors": [
+      "Chenghao Duan",
+      "Kaicheng Zhang",
+      "Zijian Peng",
+      "Shiang Li",
+      "Feilin Zou",
+      "Feng Wang",
+      "Jiong Li",
+      "Zheng Zhang",
+      "Chang Chen",
+      "Qiliang Zhu",
+      "Jianhang Qiu",
+      "Xinhui Lu",
+      "Ning Li",
+      "Liming Ding",
+      "Christoph J. Brabec",
+      "Feng Gao",
+      "Keyou Yan"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10984-9\">doi:10.1038/s41586-026-10984-9</a>Author Correction: Durable all-inorganic perovskite tandem photovoltaics",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10973-y",
+    "title": "Author Correction: Cooperation conflicts with equality when allocating public goods",
+    "link": "https://www.nature.com/articles/s41586-026-10973-y",
+    "authors": [
+      "Anzhi Sheng",
+      "Qi Su",
+      "Alex McAvoy",
+      "Long Wang",
+      "Joshua B. Plotkin"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10973-y\">doi:10.1038/s41586-026-10973-y</a>Author Correction: Cooperation conflicts with equality when allocating public goods",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10989-4",
+    "title": "Learning millisecond protein dynamics from what is missing in NMR spectra",
+    "link": "https://www.nature.com/articles/s41586-026-10989-4",
+    "authors": [
+      "Hannah K. Wayment-Steele",
+      "Gina El Nesr",
+      "Ramith Hettiarachchi",
+      "Adedolapo M. Ojoawo",
+      "Hasindu Kariyawasam",
+      "Sergey Ovchinnikov",
+      "Dorothee Kern"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10989-4\">doi:10.1038/s41586-026-10989-4</a>Learning millisecond protein dynamics from what is missing in NMR spectra",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-10978-7",
+    "title": "Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+    "link": "https://www.nature.com/articles/s41586-026-10978-7",
+    "authors": [
+      "Lin Shan",
+      "Guang Xu",
+      "Run-Wen Yao",
+      "Peng-Fei Luan",
+      "Youkui Huang",
+      "Pei-Hong Zhang",
+      "Yu-Hang Pan",
+      "Lin Zhang",
+      "Xiang Gao",
+      "Ying Li",
+      "Shi-Meng Cao",
+      "Shuai-Xin Gao",
+      "Zheng-Hu Yang",
+      "Siqi Li",
+      "Liang-Zhong Yang",
+      "Ying Wang",
+      "Catharine C. L. Wong",
+      "Li Yu",
+      "Jinsong Li",
+      "Li Yang",
+      "Ling-Ling Chen"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-10978-7\">doi:10.1038/s41586-026-10978-7</a>Author Correction: Nucleolar URB1 ensures 3′ ETS rRNA removal to prevent exosome surveillance",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02435-2",
+    "title": "How and when to use artificial intelligence in your science job application",
+    "link": "https://www.nature.com/articles/d41586-026-02435-2",
+    "authors": [
+      "David Payne"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02435-2\">doi:10.1038/d41586-026-02435-2</a>A webinar offers advice to hiring managers and jobseekers.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02493-6",
+    "title": "Where are you ticklish? Researchers map the sensation across cultures",
+    "link": "https://www.nature.com/articles/d41586-026-02493-6",
+    "authors": [
+      "Claire Ainsworth"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02493-6\">doi:10.1038/d41586-026-02493-6</a>People from Chinese, Dutch and Greek cultural backgrounds have the same ‘tickle hotspots’ on the body. And ticklishness is stronger in rarely touched areas.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02447-y",
+    "title": "I caught my students using AI to cheat in an exam — here’s what universities must do to stamp this out",
+    "link": "https://www.nature.com/articles/d41586-026-02447-y",
+    "authors": [
+      "Roberto Serrano"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02447-y\">doi:10.1038/d41586-026-02447-y</a>Without strong standards and smart oversight, artificial intelligence risks eroding the foundations of higher education.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-01681-8",
+    "title": "What to do when you have too many PhD projects on the go",
+    "link": "https://www.nature.com/articles/d41586-026-01681-8",
+    "authors": [
+      "Zachary Sentell"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-01681-8\">doi:10.1038/d41586-026-01681-8</a>By ruthlessly narrowing down his priorities, Zachary Sentell managed to publish several papers in the final year of his PhD and graduate on time.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02450-3",
+    "title": "Why environmental treaties must also address mental health",
+    "link": "https://www.nature.com/articles/d41586-026-02450-3",
+    "authors": [
+      "Manasi Kumar",
+      "Tunde M. Ojo",
+      "Zeinab Hijazi",
+      "Cromwell Lukorito",
+      "James M. Hassell",
+      "Alkomiet Hasan",
+      "Jurjen J. Luykx",
+      "Lasse Brandt"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02450-3\">doi:10.1038/d41586-026-02450-3</a>Global conventions have mainly overlooked the psychological and social impacts of climate change, biodiversity loss and pollution. Here’s how to change that.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02276-z",
+    "title": "This AI tool claims to pick the top 1% of preprints. Should researchers trust it?",
+    "link": "https://www.nature.com/articles/d41586-026-02276-z",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02276-z\">doi:10.1038/d41586-026-02276-z</a>QED Science says that its metrics reduce bias by assessing papers solely on the basis of their originality and validity.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02453-0",
+    "title": "Despite global turmoil, Gen Z researchers are not giving up",
+    "link": "https://www.nature.com/articles/d41586-026-02453-0",
+    "authors": [
+      "Meghie Rodrigues"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02453-0\">doi:10.1038/d41586-026-02453-0</a>Four researchers born after 1997 describe how they stay motivated and cultivate resilience during difficult times.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02500-w",
+    "title": "Daily briefing: AI agents sniff out decades-old errors in scientific literature",
+    "link": "https://www.nature.com/articles/d41586-026-02500-w",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02500-w\">doi:10.1038/d41586-026-02500-w</a>AI can spot errors quickly, but should only be used to check ‘objective’ facts, researchers say. Plus, a Tupperware-sized magnetic-field detector and Gen Z researchers’ tips on building resilience.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02199-9",
+    "title": "Turning the tide: restoring Mozambican mangroves — in photos",
+    "link": "https://www.nature.com/articles/d41586-026-02199-9",
+    "authors": [
+      "Melissa Hobson"
+    ],
+    "summary": "Nature, Published online: 10 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02199-9\">doi:10.1038/d41586-026-02199-9</a>As urban expansion in Maputo threatens to destroy mangrove forests, marine biologist Célia Macamo is studying how to save them.",
+    "source": "Nature",
+    "date": "2026-08-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02488-3",
+    "title": "Briefing Chat: Is DNA repair the secret to a long life? Whales and mole rats offer tantalizing hints",
+    "link": "https://www.nature.com/articles/d41586-026-02488-3",
+    "authors": [
+      "Shamini Bundell",
+      "Nick Petrić Howe"
+    ],
+    "summary": "Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02488-3\">doi:10.1038/d41586-026-02488-3</a>Nature staff discuss how animal studies are starting to uncover how DNA repair could prolong life, and how COVID-19 can reawaken dormant viruses.",
+    "source": "Nature",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02462-z",
+    "title": "Universal vaccine for pneumococcal disease moves closer to reality",
+    "link": "https://www.nature.com/articles/d41586-026-02462-z",
+    "authors": [],
+    "summary": "Nature, Published online: 07 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02462-z\">doi:10.1038/d41586-026-02462-z</a>Targeting shared proteins could help to control bacterial subtypes that current vaccines do not protect against.",
+    "source": "Nature",
+    "date": "2026-08-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02039-5",
+    "title": "Impacts of power plant emissions on air quality amplified by renewable energy droughts",
+    "link": "https://www.nature.com/articles/s41561-026-02039-5",
+    "authors": [
+      "Lu Shen",
+      "Tianguang Lu",
+      "Mingwei Li",
+      "Meng Qu",
+      "Fengwei Wan",
+      "Chris P. Nielsen",
+      "Xi Lu",
+      "Michael McElroy"
+    ],
+    "summary": "Nature Geoscience, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02039-5\">doi:10.1038/s41561-026-02039-5</a>Integrated model simulations suggest that air quality across China could be substantially degraded by emissions from fossil fuel power plants during renewable energy droughts in the 2050s, underscoring the need for a deeper clean energy transition.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76674-2",
+    "title": "Observed poleward heat transport by mesoscale eddies in the deep Southern Ocean",
+    "link": "https://www.nature.com/articles/s41467-026-76674-2",
+    "authors": [
+      "Tongya Liu",
+      "Xiaoming Zhai",
+      "Qingyou He",
+      "Andrew McC. Hogg",
+      "Dake Chen"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76674-2\">doi:10.1038/s41467-026-76674-2</a>Two decades of Argo observations reveal that mesoscale eddies redistribute heat in the deep Southern Ocean at rates comparable in magnitude to surface eddy heat transport, with about 60% of this deep transport originating from the Indian Ocean sector.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76666-2",
+    "title": "Zinc displacement and metabolic interference: cobalt ion-mediated therapy for broad-spectrum CRKP-resistant pneumonia via inhalable microspheres",
+    "link": "https://www.nature.com/articles/s41467-026-76666-2",
+    "authors": [
+      "Zhaoyou Chu",
+      "Jun Liang",
+      "Yayun Wu",
+      "Wanyue Fu",
+      "Ling Xu",
+      "Hanqing Zhang",
+      "Jiyang Wang",
+      "Min Shao",
+      "Haisheng Qian"
+    ],
+    "summary": "Nature Communications, Published online: 12 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76666-2\">doi:10.1038/s41467-026-76666-2</a>The global rise of carbapenem-resistant bacteria, driven by enzymes such as KPC-2 and OXA-48 as well as metallo-β-lactamases, poses a major challenge to antibiotic therapy. Here, the authors develop a cobalt-based microsphere platform for the delivery of meropenem, leveraging Co²⁺ as a metal-based resistance breaker to overcome multiple resistance mechanisms. In a mouse model of drug-resistant pneumonia, the treatment improved survival, reduced bacterial burden, and mitigated excessive inflammation, highlighting a promising strategy for combating multidrug-resistant infections.",
+    "source": "Nature Communications",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76612-2",
+    "title": "Origin of circular and triangular pores in electron-irradiated hexagonal boron nitride",
+    "link": "https://www.nature.com/articles/s41467-026-76612-2",
+    "authors": [
+      "Umair Javed",
+      "Manuel Längle",
+      "Vladimír Zobač",
+      "Alexander Markevich",
+      "Barbara Maria Mayer",
+      "Clara Kofler",
+      "Martin Paul",
+      "Darwin Lorber",
+      "Nandhini Ravindran",
+      "Clemens Mangler",
+      "Toma Susi",
+      "Jani Kotakoski"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76612-2\">doi:10.1038/s41467-026-76612-2</a>For two decades, triangular nanopores have been known to form in 2D boron nitride during electron microscopy. Researchers reveal this to be due to oxygen in the microscope column, allowing pore shaping via atmospheric control.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76466-8",
+    "title": "Moiré-induced modulation of out-of-plane elasticity in twisted hBN",
+    "link": "https://www.nature.com/articles/s41467-026-76466-8",
+    "authors": [
+      "Stefano Chiodini",
+      "Lin Nan",
+      "Giacomo Venturi",
+      "Thomas Poirier",
+      "James H. Edgar",
+      "Antonio Ambrosio"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76466-8\">doi:10.1038/s41467-026-76466-8</a>Twisted hBN moiré patterns are shown to modulate the effective out-of-plane elastic response, enabling AFM visualization through a stacking-dependent elastic landscape.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76709-8",
+    "title": "Overcoming the conversion-selectivity trade-off in plasma catalytic conversion of methane to ethylene",
+    "link": "https://www.nature.com/articles/s41467-026-76709-8",
+    "authors": [
+      "Zitong Zhang",
+      "Youran Wang",
+      "Liujia Zhang",
+      "Zhendong Liu",
+      "Weiming Wan"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76709-8\">doi:10.1038/s41467-026-76709-8</a>Non-thermal plasma (NTP) offers a low-temperature route for methane activation but is hindered by high energy consumption and limited ethylene selectivity. Here, the authors develop a pure-silica self-pillared pentasil zeolite that improves methane-to-ethylene conversion under NTP conditions.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76555-8",
+    "title": "A flexible repertoire of wound closure strategies precedes whole-body regeneration",
+    "link": "https://www.nature.com/articles/s41467-026-76555-8",
+    "authors": [
+      "Allison P. Kann",
+      "Mansi Srivastava"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76555-8\">doi:10.1038/s41467-026-76555-8</a>Animals capable of whole-body regeneration can heal virtually any wound. Here they show that Hofstenia miamia accomplishes this feat through variable morphogenetic strategies that depend on which epithelial layers are damaged, revealing a versatile toolkit for repair.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76713-y",
+    "title": "Healing intervention for improving the efficiency and stability of tandem devices on industrial textured silicon",
+    "link": "https://www.nature.com/articles/s41467-026-76713-y",
+    "authors": [
+      "Wenchi Kong",
+      "Haowen Luo",
+      "Bowen Yang",
+      "Jiajia Suo",
+      "Xuanpu Qu",
+      "Ruiyan Li",
+      "Tianqi Wei",
+      "Jiajia Hong",
+      "Xinrui Han",
+      "Xuntian Zheng",
+      "Henan Feng",
+      "Lu Zhao",
+      "Zijing Chu",
+      "Mingliang Li",
+      "Renxing Lin",
+      "Wenhua Zhang",
+      "Hairen Tan"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76713-y\">doi:10.1038/s41467-026-76713-y</a>Perovskite–silicon tandem solar cells offer efficient, low-cost energy, but forming high-quality perovskite films on textured silicon remains challenging. Kong et al. applied a healing treatment that improved crystal growth, efficiency, and long-term stability.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76459-7",
+    "title": "Neutrophil extracellular traps promote liver metastasis by impairing NK cell-dependent tumor surveillance via CCDC25",
+    "link": "https://www.nature.com/articles/s41467-026-76459-7",
+    "authors": [
+      "Yetong Zhang",
+      "Jiayi Zeng",
+      "Heliang Li",
+      "Yujiang Liu",
+      "Jianghua Lin",
+      "Zhijie Zeng",
+      "Ruiyue Wu",
+      "Xinyan Liang",
+      "Xiaoming Zhong",
+      "Linxi Xu",
+      "Xu Liu",
+      "Zhou Liu",
+      "Jieyu Fang",
+      "Sicong Du",
+      "Jiao Wang",
+      "Erwei Song",
+      "Linbin Yang"
+    ],
+    "summary": "Nature Communications, Published online: 11 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76459-7\">doi:10.1038/s41467-026-76459-7</a>The formation of neutrophil extracellular traps (NETs) contributes to liver metastasis and immune suppression. Here the authors show that NET-derived DNA can be sensed by CCDC25 on natural killer (NK) cells impairing NK cell-dependent tumor surveillance and promoting liver metastasis.",
+    "source": "Nature Communications",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2602994123?af=R",
+    "title": "Near-total loss of buttressing stresses observed on Pine Island Ice Shelf, West Antarctica",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602994123?af=R",
+    "authors": [
+      "Sarah Wells-MoranBrent MinchewBryan Rielahttps://ror.org/024mw5h28Department of Geophysical Sciences, Physical Sciences Division, University of Chicago, Chicago, IL 60615bhttps://ror.org/042nb2s44Department of Earth, Atmospheric, and Planetary Sciences, School of Science, Massachusetts Institute of Technology, Cambridge, MA 02139chttps://ror.org/05dxps055Seismological Laboratory, Division of Geological and Planetary Sciences, California Institute of Technology, Pasadena, CA 91125dDepartment of Geology, School of Earth Sciences, Zhejiang University, Hangzhou 310058, People’s Republic of China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 33, August 2026. <br />SignificanceIce shelves provide a key source of stability to the Antarctic Ice Sheet by buttressing the flow of grounded ice. As ice shelves weaken and collapse due to rising temperatures, the glaciers buttressed by them speed up, increasing Antarctica’s ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002606",
+    "title": "A lid on the fire: Controls on the extent, depth and composition of mantle melts in the Plio-Quaternary intraplate-like alkaline mantle-derived magmatism of Iran",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002606?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Meysam Akbari, Mohammad Reza Ghorbani, Michele Lustrino, Mohammad R. Ghassemi, Callum J. Hetherington",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004577",
+    "title": "Mantle heterogeneity drives spreading center dynamics at Arctic Mid-Ocean Ridge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004577?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): Eleonora Ficini, Marco Cuffaro, Edie Miglio, Marco Ligi, Alessio Sanfilippo",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004322",
+    "title": "Shallow seismic damage and structural inheritance at the onset of faulting",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004322?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 October 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 692Author(s): G. Pozzi, A. Ceccato, K. Wemmer, M. Hueck, S. Aretusini, E. Spagnuolo, A. Zappone, M.A. Meier, M. Cocco",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005053",
+    "title": "Evaporation kinetics of forsterite in H<sub>2</sub>-H<sub>2</sub>O gas mixtures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005053?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shiori Inada, Shogo Tachibana",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005077",
+    "title": "The fragile memory of the early Earth: Decoding the Sm-Nd systematics in Eoarchean Greenland gneisses",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005077?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 10 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): J. Hammerli, A.I.S. Kemp, M.J. Whitehouse, M. Boyet, M.A Kusiak, J. Vervoort, M.P. Roberts",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-12",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02056-4",
     "title": "Moss biocrusts sustain snowpack and soil function in cold deserts",
     "link": "https://www.nature.com/articles/s41561-026-02056-4",
