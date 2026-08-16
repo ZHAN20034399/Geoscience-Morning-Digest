@@ -1,5 +1,169 @@
 [
   {
+    "id": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
+    "title": "New Products",
+    "link": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
+    "authors": [],
+    "summary": "Science, Volume 393, Issue 6812, Page 736-736, August 2026. <br />",
+    "source": "AAAS: Science: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004449",
+    "title": "The fast destruction of methane by heterogeneous electrochemistry induced by martian dust activity: An experimental approach",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004449?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Alian Wang, Chuck Y.C. Yan, Quincy H.K. Qu, Alexander S. Bradley, Thirupathi Ravula, Michael D․ Smith, Kevin Olsen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124048",
+    "title": "Gravity Wave Energy Baselines (∼30–110 km) Established From Lidar Observations at McMurdo (77.84°S, 166.67°E), Antarctica: Energy Dissipation and Constituent Diffusion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124048?af=R",
+    "authors": [
+      "Jackson Jandreau, \nXinzhao Chu, \nYingfei Chen, \nChester S. Gardner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122534",
+    "title": "Iron Isotopes Reveal Fe Export Driven by Change of Tropical Weathering Regime",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122534?af=R",
+    "authors": [
+      "Z. Fekiacova‐Castanet, \nB. Heller, \nD. Guinoiseau, \nJ. Bouchez, \nA. Duvivier, \nS. Cornu, \nA. Guihou, \nC. Quantin, \nT. Allard, \nS. B. Riffel, \nP. Deschamps, \nC. Gautheron"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125110",
+    "title": "Spiky Bursts of Energetic Electron Beams Upstream of Nonstationary Quasi‐Perpendicular Shocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125110?af=R",
+    "authors": [
+      "Ao Guo, \nQuanming Lu, \nSan Lu, \nShutao Yao, \nXinliang Gao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125366",
+    "title": "Global Evidence for Off‐Axis Flexural Modification of Abyssal Hill Faults at Mid‐Ocean Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125366?af=R",
+    "authors": [
+      "Ran Li, \nZhonglan Liu, \nShuming Feng, \nTeng Peng, \nYuan Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123882",
+    "title": "Morphological and Size‐Dependent Enrichment of Endotoxins in Coastal Spray Aerosols: Implications for Regional Respiratory Health Risks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123882?af=R",
+    "authors": [
+      "Hong Na, \nJianlong Li, \nNarcisse Tsona Tchinda, \nHartmut Herrmann, \nChristian George, \nYan Wu, \nLin Du"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL117325",
+    "title": "Contribution of Urbanization and Large‐Scale Warming to Temperature Increase From Pre‐Industrial Revolution Time to Recent Period in Central Beijing City",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL117325?af=R",
+    "authors": [
+      "Guoyu Ren, \nYuyu Ren, \nSiqi Huang, \nYuan Zhang, \nPanfeng Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122357",
+    "title": "Electron Shot Noise on a Current Biased Antenna",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122357?af=R",
+    "authors": [
+      "Winry Ember, \nMarc Pulupa, \nMihailo Martinović, \nJohn Bonnell, \nMingzhe Liu, \nStuart D. Bale"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123378",
+    "title": "A Deep‐Learning‐Based Wind Gust Estimation Scheme in Complex Terrain",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123378?af=R",
+    "authors": [
+      "Aiwei Li, \nJiahao Feng, \nZilong Li, \nJingjia Luo, \nWenhao Dong, \nDeliang Chen, \nWenyu Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121874",
+    "title": "Multivariate Controls on Bed Turnover in Braided Rivers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121874?af=R",
+    "authors": [
+      "Safiya Alpheus, \nElizabeth Hajek"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122338",
+    "title": "Rapid Surface Intensification of the Gulf Stream Since 2014",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122338?af=R",
+    "authors": [
+      "Shenfu Dong, \nMarlos Goes, \nDenis Volkov, \nSang‐Ki Lee, \nHosmay Lopez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012854",
+    "title": "Oxygen Isotopic Composition of Miocene Meteoric Water (δ18Ow) in Alpine Foreland Basins",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012854?af=R",
+    "authors": [
+      "Armelle Ballian, \nMaud J. M. Meijers, \nDaniel Boateng, \nIsabelle Cojan, \nSebastian G. Mutz, \nTodd A. Ehlers, \nAndreas Mulch"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 8, August 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033666",
+    "title": "Kinematics and Dynamics of Normal Faults in Southern Tibet: Insights From the 2025 Mw 7.1 Dingri Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033666?af=R",
+    "authors": [
+      "Haicheng Xiong, \nYanchuan Li, \nXinjian Shan, \nZhenjie Wang, \nYingfeng Zhang, \nZhaowu Guo, \nChenglong Li, \nRenqi Lu, \nJun Hua, \nChunyan Qu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-11023-3",
     "title": "Author Correction: Cell intrinsic immunity spreads to bystander cells via the intercellular transfer of cGAMP",
     "link": "https://www.nature.com/articles/s41586-026-11023-3",
