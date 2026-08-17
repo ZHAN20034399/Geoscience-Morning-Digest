@@ -1,5 +1,252 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02076-0",
+    "title": "Antarctic greening is constrained by biology and requires field validation",
+    "link": "https://www.nature.com/articles/s41561-026-02076-0",
+    "authors": [
+      "S. Bokhorst",
+      "S. Huisman",
+      "I. K. de Jonge",
+      "T. A. J. Janssen",
+      "J. H. C. Cornelissen",
+      "K. A. Hughes",
+      "P. Convey"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02076-0\">doi:10.1038/s41561-026-02076-0</a>Antarctic greening is constrained by biology and requires field validation",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02080-4",
+    "title": "Reply to: Antarctic greening is constrained by biology and requires field validation",
+    "link": "https://www.nature.com/articles/s41561-026-02080-4",
+    "authors": [
+      "Thomas P. Roland",
+      "Oliver T. Bartlett",
+      "Dan J. Charman",
+      "Karen Anderson",
+      "Dominic A. Hodgson",
+      "Matthew J. Amesbury",
+      "Ilya Maclean",
+      "Peter T. Fretwell",
+      "Andrew Fleming"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02080-4\">doi:10.1038/s41561-026-02080-4</a>Reply to: Antarctic greening is constrained by biology and requires field validation",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02072-4",
+    "title": "Changes in the tropical rainfall seasonal cycle dominated by mesoscale convective systems",
+    "link": "https://www.nature.com/articles/s41561-026-02072-4",
+    "authors": [
+      "Xiaojie Guo",
+      "Guangxing Lin",
+      "Fengfei Song",
+      "Xuyang Guo",
+      "Zhe Feng",
+      "Xi Chen",
+      "Wenbin Kou",
+      "Yang Gao",
+      "Jinyan Song",
+      "Wei Liao",
+      "Feiya Bi",
+      "Chenglai Wu",
+      "Aiguo Dai"
+    ],
+    "summary": "Nature Geoscience, Published online: 14 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02072-4\">doi:10.1038/s41561-026-02072-4</a>High-resolution simulations project that the seasonal cycle of precipitation from mesoscale convective systems will intensify by 38–45% and be delayed by 10–15 days under high emissions, driving future changes in tropical rainfall seasonality.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76943-0",
+    "title": "Depletion of davemaoite in Earth’s ambient lower mantle",
+    "link": "https://www.nature.com/articles/s41467-026-76943-0",
+    "authors": [
+      "Ming Hao",
+      "Motohiko Murakami",
+      "Pinku Saha",
+      "Nicolas Guignot"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76943-0\">doi:10.1038/s41467-026-76943-0</a>Davemaoite remains cubic throughout most of the lower mantle and exhibits intrinsically low shear-wave velocities. Seismic constraints indicate that it is depleted in the ambient lower mantle but enriched within LLSVPs, likely as a result of late-stage crystallization during magma-ocean differentiation.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76743-6",
+    "title": "Atmospheric turbulence sensing with structured terahertz beams containing orbital angular momentum",
+    "link": "https://www.nature.com/articles/s41467-026-76743-6",
+    "authors": [
+      "Ruiyi Shen",
+      "Miranda van Iersel",
+      "Yasaman Ghasempour"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76743-6\">doi:10.1038/s41467-026-76743-6</a>This study introduces a method using structured THz-OAM beam to detect clear air turbulence. It overcomes optical limits by resisting saturation and misalignment, enabling robust turbulence strength sensing, hazard localization, and water vapor monitoring.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76777-w",
+    "title": "Quantifying the role of nitrogen in achieving global Sustainable Development Goals",
+    "link": "https://www.nature.com/articles/s41467-026-76777-w",
+    "authors": [
+      "Yi Zhou",
+      "Xiuming Zhang",
+      "Yiyang Zou",
+      "Chen Wang",
+      "Xin Xu",
+      "Baojing Gu"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76777-w\">doi:10.1038/s41467-026-76777-w</a>Balanced nitrogen intake and lower nitrogen releases are linked to progress across the Sustainable Development Goals, helping align human well-being with environmental protection and highlighting the need for context-specific nitrogen management.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76407-5",
+    "title": "Focal mechanism variations reveal mechanical controls on segmentation at oceanic transform faults",
+    "link": "https://www.nature.com/articles/s41467-026-76407-5",
+    "authors": [
+      "Fengzhou Tan",
+      "Wenyuan Fan",
+      "Peter M. Shearer",
+      "Mark D. Behn",
+      "Jeffrey J. McGuire"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76407-5\">doi:10.1038/s41467-026-76407-5</a>The authors use thousands of small earthquakes to show that variations in fault zone strength control segmentation of oceanic transform faults and their distinct slip behaviors.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76685-z",
+    "title": "CD36-mediated lipid-accumulation in reactive microglia contributes to retinal degeneration via the NLRP3-IL-1β pathway in mice",
+    "link": "https://www.nature.com/articles/s41467-026-76685-z",
+    "authors": [
+      "Tian Zhou",
+      "Ziqi Yang",
+      "Hong Zhou",
+      "Biyan Ni",
+      "Yang Zhou",
+      "Jingpeng Li",
+      "Minglu Ma",
+      "Huaicheng Wang",
+      "Peng An",
+      "Huiyi Xu",
+      "Xiaojing Lin",
+      "Shiya Lin",
+      "Shasha Wang",
+      "Shida Chen",
+      "Lixia Lin",
+      "Xialin Liu",
+      "Chang He"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76685-z\">doi:10.1038/s41467-026-76685-z</a>Metabolic stress can reshape immune cells into drivers of tissue damage. This study identifies CD36-driven lipid accumulation in reactive microglia as a mechanism linking retinal inflammation to degeneration.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76720-z",
+    "title": "Ryugu and Bennu preserve primordial isotopic heterogeneity absent from the meteorite record",
+    "link": "https://www.nature.com/articles/s41467-026-76720-z",
+    "authors": [
+      "Martin Bizzarro",
+      "Martin Schiller",
+      "Elishevah van Kooten",
+      "Isaac J. Onyett",
+      "Wei Dai",
+      "Yuki Masuda",
+      "James N. Connelly",
+      "Frédéric Moynier",
+      "Tetsuya Yokoyama",
+      "Maria Schönbächler",
+      "Jessica J. Barnes",
+      "Ann N. Nguyen",
+      "Harold C. Connolly Jr.",
+      "Dante S. Lauretta"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76720-z\">doi:10.1038/s41467-026-76720-z</a>Samples returned from Ryugu and Bennu preserve primordial isotopic heterogeneity in major planet-building elements that is not represented in meteorite collections.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76532-1",
+    "title": "Achieving Near 21% Efficiency Organic Solar Cells through Controlled Packing of Fused-Ring Electron Acceptors",
+    "link": "https://www.nature.com/articles/s41467-026-76532-1",
+    "authors": [
+      "Nan Wei",
+      "Tong Sun",
+      "Hao Lu",
+      "Xiaodong Wang",
+      "Xueqing Ma",
+      "Jiahe Zhang",
+      "Bohan Shang",
+      "Jieni Chen",
+      "Wenkai Zhang",
+      "Ming Fan",
+      "Yukun Xia",
+      "Zaifei Ma",
+      "Xiangwei Zhu",
+      "Zhishan Bo",
+      "Yahui Liu"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76532-1\">doi:10.1038/s41467-026-76532-1</a>Non radiative energy loss remains a challenge in non-fullerene organic solar cells. Wei et al. introduce chlorobenzene-functionalized acceptors that exhibit enhanced photoluminescence quantum yield with a distinct molecular packing mode, enabling a power conversion efficiency of 20.92%.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76796-7",
+    "title": "Phosphorylation of OTUB1 promotes autophagy initiation under starvation",
+    "link": "https://www.nature.com/articles/s41467-026-76796-7",
+    "authors": [
+      "Liangbo Sun",
+      "Meng He",
+      "Dong Liu",
+      "Jiahong Liu",
+      "Meihua Shan",
+      "Mingzhen Yang",
+      "Yan Zhang",
+      "Xufang Dai",
+      "Jie Yao",
+      "Yanhao Zhang",
+      "Haojun Xiong",
+      "Fengtian He",
+      "Jiqin Lian"
+    ],
+    "summary": "Nature Communications, Published online: 15 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76796-7\">doi:10.1038/s41467-026-76796-7</a>This study uncovers a phosphorylation-dependent regulatory mechanism controlling OTUB1’s function in nutrient deficiency-triggered autophagy initiation, providing cellular and molecular evidence supporting the therapeutic potential of fasting in alleviating MASLD.",
+    "source": "Nature Communications",
+    "date": "2026-08-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005351",
+    "title": "Four-dimensional perspectives on crystal cargoes reveal mafic rejuvenation of mantle mushes and antecryst recycling beneath Cumbre Vieja",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005351?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Franco Cortese, Marc-Antoine Longpré, Matthew Pankhurst",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600534X",
+    "title": "Factors shaping nickel bioavailability and isotopic signatures in marine phytoplankton",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600534X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 15 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Tzu-Hao Wang, Qiong Zhang, Yu-Te Hsieh, Gideon M. Henderson, Rosalind E.M. Rickaby",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
     "title": "New Products",
     "link": "https://www.science.org/doi/abs/10.1126/science.ael5176?af=R",
