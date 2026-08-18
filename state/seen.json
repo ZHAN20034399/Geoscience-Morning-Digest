@@ -1,5 +1,351 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02074-2",
+    "title": "Reforestation dominated China’s forest carbon sink from 1986 to 2019",
+    "link": "https://www.nature.com/articles/s41561-026-02074-2",
+    "authors": [
+      "Wenru Xu",
+      "Zhihua Liu",
+      "Philippe Ciais",
+      "Wei Li",
+      "Yidi Xu",
+      "Hong S. He",
+      "Jian Yang",
+      "Wenjuan Wang",
+      "Nianpeng He",
+      "Kewei Jiao",
+      "Chao Huang",
+      "Yangjian Zhang",
+      "Jiaojun Zhu"
+    ],
+    "summary": "Nature Geoscience, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02074-2\">doi:10.1038/s41561-026-02074-2</a>Reforestation on previously forested areas after disturbances exhibits higher post-disturbance carbon sequestration than afforestation on previously unforested land, and has dominated China’s forest carbon sink over the past three decades, according to above- and below-ground biomass estimates.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02057-3",
+    "title": "Central role of Labrador Sea convection for transport of oxygen into the deep North Atlantic Ocean",
+    "link": "https://www.nature.com/articles/s41561-026-02057-3",
+    "authors": [
+      "Una Kim Miller",
+      "Jaime Palter",
+      "Ellen Park",
+      "Dariia Atamanchuk",
+      "Kristen Fogaren",
+      "Yao Fu",
+      "Johannes Karstensen",
+      "Jannes Koelling",
+      "Isabela Le Bras",
+      "Hiroki Nagao",
+      "David Nicholson",
+      "Hilary Palevsky",
+      "Meg Yoder"
+    ],
+    "summary": "Nature Geoscience, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02057-3\">doi:10.1038/s41561-026-02057-3</a>The Labrador Sea plays a crucial role in transporting oxygen into the deep limb of the Atlantic Meridional Overturning Circulation, despite its limited contribution to density transformation, according to an analysis of 2 years of mooring data.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76354-1",
+    "title": "Global genomic surveillance uncovers emergence and spatiotemporal patterns of World Health Organization priority antibiotic resistance in invasive <i>Salmonella</i>",
+    "link": "https://www.nature.com/articles/s41467-026-76354-1",
+    "authors": [
+      "Yuhang Pei",
+      "Ziru Yang",
+      "Xiaolu Pang",
+      "Wufuer. Xiayidan",
+      "Meilian Huang",
+      "Jinhua Meng",
+      "Yufeng Qiu",
+      "Mingliu Wang",
+      "Hongxia Yang",
+      "Chunmei Jing",
+      "Mei Zeng",
+      "Yue Liu",
+      "Wenqing Wang",
+      "Yibin Zhou",
+      "Sufang Ma",
+      "Na Lyu",
+      "Mengqi Qu",
+      "Chaochao Zhao",
+      "Jiangtao Wang",
+      "Jiale Chen",
+      "Baoli Zhu",
+      "George F. Gao",
+      "Xuebin Xu",
+      "Yanan Wang"
+    ],
+    "summary": "Nature Communications, Published online: 18 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76354-1\">doi:10.1038/s41467-026-76354-1</a>Antimicrobial resistance in invasive Salmonella is an escalating global health threat, yet its global trends and genomic evidence remain poorly understood. Wang and Xu et al. use a state-of-the-art pipeline integrating global genomics to reveal emergence and spatiotemporal patterns of WHO priority antibiotic resistance in invasive Salmonella.",
+    "source": "Nature Communications",
+    "date": "2026-08-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76933-2",
+    "title": "High-precision integrated diffractive optical networks enabling regression analysis",
+    "link": "https://www.nature.com/articles/s41467-026-76933-2",
+    "authors": [
+      "Chao Chen",
+      "Hanting Ding",
+      "Yu Yu",
+      "Xinliang Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76933-2\">doi:10.1038/s41467-026-76933-2</a>Integrated diffractive optical networks offer fast and energy-efficient computing, but fabrication and environmental variations limit their precision. Here, the authors introduce hardware-level in-situ error compensation, enabling high-precision optical computing and regression analysis.",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76881-x",
+    "title": "Microbial superoxide production drives biogenic nitrogen dioxide formation in soils",
+    "link": "https://www.nature.com/articles/s41467-026-76881-x",
+    "authors": [
+      "Megan L. Purchase",
+      "Jonathan D. Raff",
+      "Deying Wang",
+      "Ryan M. Mushinski"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76881-x\">doi:10.1038/s41467-026-76881-x</a>Soil microbes produce superoxide, which reacts with nitric oxide to form nitrogen dioxide directly in soil. This overlooked pathway means soils can emit NO₂ as well as NO, with implications for how nitrogen emissions are modelled.",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76860-2",
+    "title": "Author Correction: Breaking the activity-selectivity trade-off for acetylene semihydrogenation by Pd<sub>2</sub> dual-atom site",
+    "link": "https://www.nature.com/articles/s41467-026-76860-2",
+    "authors": [
+      "Feng Hong",
+      "Hongqiu Chen",
+      "Jiawei Chen",
+      "Zhehan Ying",
+      "Mi Peng",
+      "Jingwang Zhang",
+      "Zuodong Yang",
+      "Guodong Wen",
+      "Jiangyong Diao",
+      "Bo Sun",
+      "Geng Sun",
+      "Ding Ma",
+      "Hongyang Liu"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76860-2\">doi:10.1038/s41467-026-76860-2</a>Author Correction: Breaking the activity-selectivity trade-off for acetylene semihydrogenation by Pd<sub>2</sub> dual-atom site",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76870-0",
+    "title": "Author Correction: Structural basis for prostaglandin and drug transport via SLCO2A1",
+    "link": "https://www.nature.com/articles/s41467-026-76870-0",
+    "authors": [
+      "Chitra Joshi",
+      "Justin C. Deme",
+      "Yoshinobu Nakamura",
+      "Wei-Tse Hsu",
+      "Jonathan D. Goult",
+      "Takafumi Kato",
+      "Joanne L. Parker",
+      "Philip C. Biggin",
+      "Susan M. Lea",
+      "Takeo Nakanishi",
+      "Simon Newstead"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76870-0\">doi:10.1038/s41467-026-76870-0</a>Author Correction: Structural basis for prostaglandin and drug transport via SLCO2A1",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76553-w",
+    "title": "Thermal-feedback modality switchable hydrogel with thermoelectric self-modulation for stage-adaptive repair of infected diabetic wound",
+    "link": "https://www.nature.com/articles/s41467-026-76553-w",
+    "authors": [
+      "Yutong Yang",
+      "Qingqing Fang",
+      "Tianyu Shu",
+      "Wenjia Liu",
+      "Yuchen Sun",
+      "Xiao Liu",
+      "Meng Li",
+      "Baolin Guo"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76553-w\">doi:10.1038/s41467-026-76553-w</a>Diabetic wounds are among the most difficult chronic injuries to treat due to their severely dysregulated microenvironment. Photothermal therapy (PTT) has emerged as a promising approach for combating drug-resistant infections and improving lowerlimb perfusion in diabetic patients. However, conventional PTT relies mainly on externally applied laser power, offering little control over photothermal temperature. Here, the authors report a thermal-feedback modality-switchable (TFMS) hydrogel that enables stage-adaptive temperature regulation following repair phases of infected diabetic wounds.",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76744-5",
+    "title": "Decoding the sequence determinants of locus-specific DNA methylation across human tissues",
+    "link": "https://www.nature.com/articles/s41467-026-76744-5",
+    "authors": [
+      "Junru Jin",
+      "Ding Wang",
+      "Jianbo Qiao",
+      "Wenjia Gao",
+      "Yuhang Liu",
+      "Siqi Chen",
+      "Quan Zou",
+      "Shu Wu",
+      "Ran Su",
+      "Leyi Wei"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76744-5\">doi:10.1038/s41467-026-76744-5</a>Here, the authors use genomic sequence to predict locus-specific DNA methylation across 39 human tissues with the deep learning model Melody. Their approach outperforms existing methods and extends to previously unseen cell types using transcriptomic data.",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76930-5",
+    "title": "Reconfigurable multibeam engineering of Marangoni convection for programmable optofluidic steering",
+    "link": "https://www.nature.com/articles/s41467-026-76930-5",
+    "authors": [
+      "Chenchen Liu",
+      "Zongpeng Huang",
+      "Fan Nan",
+      "Yao Zhang",
+      "Guowei Yang",
+      "Hongxiang Lei"
+    ],
+    "summary": "Nature Communications, Published online: 17 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76930-5\">doi:10.1038/s41467-026-76930-5</a>Optofluidic manipulation primarily relied on fixed geometries and optical forces, which limited the controllability and reconfigurability of flow patterns for particle steering. Here, the authors achieved a programmable, pump-free optofluidic platform enabling precise, on-demand manipulation and directional routing of microparticles and biological cells with sub-micrometer accuracy.",
+    "source": "Nature Communications",
+    "date": "2026-08-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122983",
+    "title": "Iron‐Catalyzed Photochemical Degradation of Organics on Mineral Dust Aerosol Particles",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122983?af=R",
+    "authors": [
+      "Liang Ran, \nUlrich K. Krieger, \nClaudia Marcolli, \nJing Dou, \nBeiping Luo, \nThomas Peter"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122829",
+    "title": "Sea Surface Temperature Feedbacks and Convective Organization Mediate the Tropical Circulation Response to Aerosols",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122829?af=R",
+    "authors": [
+      "Adam B. Sokol, \nChris J. Wright"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118370",
+    "title": "Ocean Mixing Regimes Set Heat and Buoyancy Fluxes From the Arctic's Atlantic Water Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118370?af=R",
+    "authors": [
+      "S. Waterman, \nM. Chanona, \nH. V. Dosser, \nN. C. Shibley, \nM.‐L. Timmermans"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL121668",
+    "title": "Unveiling the Shortwave Absorption Spectra of Alumina Aerosols: Radiative Implications for Solar Radiation Modification",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL121668?af=R",
+    "authors": [
+      "Taveen Singh Kapoor, \nPrabhav Upadhyay, \nJian Huang, \nGuodong Ren, \nJohn Cavin, \nDhruv Mitroo, \nSandro Vattioni, \nJohn Dykema, \nJan Sedlacek, \nJoshin Kumar, \nJordan A. Hachtel, \nLu Xu, \nRohan Mishra, \nRajan K. Chakrabarty"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123952",
+    "title": "Lidar Ratios and Fluorescence Properties of Stratospheric Volcanic Sulfate",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123952?af=R",
+    "authors": [
+      "Benedikt Gast, \nCristofer Jimenez, \nAlbert Ansmann, \nHolger Baars, \nUlla Wandinger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125002",
+    "title": "Stratosphere–Troposphere Coupling During Cold Air Outbreaks in the Eastern United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125002?af=R",
+    "authors": [
+      "Katherine Barragan, \nCristiana Stan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033502",
+    "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 2—Model Evaluation and Uncertainty Analysis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033502?af=R",
+    "authors": [
+      "Bjarke Nilsson, \nBenjamin J. Phrampus, \nFarshad Salajegheh, \nBiao Lu, \nYao Yu, \nDavid Sandwell, \nOle B. Andersen, \nWalter H. F. Smith, \nPaul Elmore, \nJonathan F. Kirby, \nLuis Altamirano"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034225",
+    "title": "Spin Transition of Ferric Iron in Silicate Glasses Inferred by High‐Pressure Electrical Conductivity Measurements",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034225?af=R",
+    "authors": [
+      "Izumi Mashino, \nTakashi Yoshino, \nShinji Kitao, \nTakaya Mitsui, \nRyo Masuda, \nMakoto Seto"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032798",
+    "title": "Bathymetry Prediction With SWOT Gravity Anomaly Using Machine Learning Methods: Paper 1–Model Development",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032798?af=R",
+    "authors": [
+      "David Sandwell, \nBenjamin J. Phrampus, \nFarshad Salajegheh, \nBjarke Nilsson, \nBiao Lu, \nYao Yu, \nHugh Harper, \nOle B. Andersen, \nWalter Smith, \nPaul Elmore, \nJonathan Kirby, \nJames Beale, \nJamie Roberts, \nLuis Altamirano"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033961",
+    "title": "The Overprint of Transient Rheology on Laterally Heterogeneous Viscosity: Influences on Sea‐Level Change Driven by Antarctic Ice Sheet Loss",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033961?af=R",
+    "authors": [
+      "Harriet C. P. Lau, \nAllie N. Coonin, \nFrederick D. Richards, \nKonstantin Latychev"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005302",
+    "title": "Sedimentary constraints on pelagic iron removal across the low-latitude Pacific",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005302?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 17 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zheyuan Zhang, Jianfan Zheng, Xuefa Shi, Weiqiang Li, Yanguang Liu, Jiahui Liu, Zhimian Cao, Tao Li, Tianyu Chen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-18",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02076-0",
     "title": "Antarctic greening is constrained by biology and requires field validation",
     "link": "https://www.nature.com/articles/s41561-026-02076-0",
