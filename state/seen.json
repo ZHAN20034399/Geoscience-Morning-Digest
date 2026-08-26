@@ -1,5 +1,730 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11017-1",
+    "title": "Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+    "link": "https://www.nature.com/articles/s41586-026-11017-1",
+    "authors": [
+      "Katharina Seeger",
+      "Philip S. J. Minderhoud"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41586-026-11017-1\">doi:10.1038/s41586-026-11017-1</a>Addendum: Sea level much higher than assumed in most coastal hazard assessments",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02633-y",
+    "title": "Amend copyright licences to halt AI misuse and reassert human control",
+    "link": "https://www.nature.com/articles/d41586-026-02633-y",
+    "authors": [
+      "Katie Seaborn",
+      "Daniel L. Gardner",
+      "Katta Spiel"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02633-y\">doi:10.1038/d41586-026-02633-y</a>Amend copyright licences to halt AI misuse and reassert human control",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02631-0",
+    "title": "The future of peer review requires AI support, not AI bans",
+    "link": "https://www.nature.com/articles/d41586-026-02631-0",
+    "authors": [
+      "Xuegong Zhang"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02631-0\">doi:10.1038/d41586-026-02631-0</a>The future of peer review requires AI support, not AI bans",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02634-x",
+    "title": "Protecting education in the middle of war zones",
+    "link": "https://www.nature.com/articles/d41586-026-02634-x",
+    "authors": [
+      "Ali F. Meghdari"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02634-x\">doi:10.1038/d41586-026-02634-x</a>Protecting education in the middle of war zones",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02382-y",
+    "title": "Ancient surveying instrument found in Egypt",
+    "link": "https://www.nature.com/articles/d41586-026-02382-y",
+    "authors": [],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02382-y\">doi:10.1038/d41586-026-02382-y</a>The earliest known example of a tool used to build in a straight line, and remembering an early trailblazer in radio communication in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02632-z",
+    "title": "Assessing students in the AI era",
+    "link": "https://www.nature.com/articles/d41586-026-02632-z",
+    "authors": [
+      "Jianjun Wu",
+      "Zhimin Qiao",
+      "Li Xu",
+      "Yapei Wang"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02632-z\">doi:10.1038/d41586-026-02632-z</a>Assessing students in the AI era",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02611-4",
+    "title": "Asthma in some boys stops at puberty: mouse results hint at why",
+    "link": "https://www.nature.com/articles/d41586-026-02611-4",
+    "authors": [],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02611-4\">doi:10.1038/d41586-026-02611-4</a>Study suggests that male hormones have an effect on nerve endings in the lungs.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02567-5",
+    "title": "How to manage AI risks while reaping the benefits",
+    "link": "https://www.nature.com/articles/d41586-026-02567-5",
+    "authors": [],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02567-5\">doi:10.1038/d41586-026-02567-5</a>As the world debates how to regulate artificial intelligence, Europe’s lawmakers are doing a lot of the heavy lifting.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02661-8",
+    "title": "The brain struggles to make new neurons in people with depression",
+    "link": "https://www.nature.com/articles/d41586-026-02661-8",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02661-8\">doi:10.1038/d41586-026-02661-8</a>High resolution, wide-coverage map of the hippocampus reveals possible pathways for therapy.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02115-1",
+    "title": "A guide to securing your first research fellowship: what reviewers are looking for",
+    "link": "https://www.nature.com/articles/d41586-026-02115-1",
+    "authors": [
+      "Stefan Howorka",
+      "Christoph Salzmann"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02115-1\">doi:10.1038/d41586-026-02115-1</a>How early-career researchers can strengthen their track record, boost their research proposal and assess institutional fit.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02094-3",
+    "title": "How one researcher captured a vanished world of UK government science",
+    "link": "https://www.nature.com/articles/d41586-026-02094-3",
+    "authors": [
+      "Emmeline  Ledgerwood"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02094-3\">doi:10.1038/d41586-026-02094-3</a>Oral historian Emmeline Ledgerwood’s PhD investigated how privatization affected civil-service scientists at the end of the twentieth century.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02622-1",
+    "title": "China is changing the shape of global health. The terms are still up for negotiation",
+    "link": "https://www.nature.com/articles/d41586-026-02622-1",
+    "authors": [
+      "Ruby Wang"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02622-1\">doi:10.1038/d41586-026-02622-1</a>Health-care partnerships can provide other nations with cheap diagnostics, medicines and more — but global institutions should help to ensure that they also strengthen local capacity and preserve sovereignty.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02573-7",
+    "title": "How tech-enhanced sleep could improve rest but erode privacy",
+    "link": "https://www.nature.com/articles/d41586-026-02573-7",
+    "authors": [
+      "Brian D. Earp",
+      "Sebastian Porsdam Mann",
+      "Effy Vayena"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02573-7\">doi:10.1038/d41586-026-02573-7</a>Technologies that promise better-than-usual sleep could improve people’s performance and health but also turn the need for rest into an auditable obligation. Ethical norms and regulations are needed.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02569-3",
+    "title": "AI-detection tools have made huge leaps forward — how good are they?",
+    "link": "https://www.nature.com/articles/d41586-026-02569-3",
+    "authors": [
+      "Miryam Naddaf",
+      "Richard  Van Noorden"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02569-3\">doi:10.1038/d41586-026-02569-3</a>Scientists and publishers are testing a new breed of software that promises impressive accuracy at spotting AI-written text.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02550-0",
+    "title": "These rodent OnlyFans stars are helping to fund scientific research",
+    "link": "https://www.nature.com/articles/d41586-026-02550-0",
+    "authors": [
+      "Elliot Yates"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02550-0\">doi:10.1038/d41586-026-02550-0</a>The platform, mostly known for its adult content, has provided a financial lifeline amid US federal-funding uncertainty. And now the marmots have their own cryptocurrency too.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02635-w",
+    "title": "More than 18,000 questionable images found in antibody catalogues of 15 companies",
+    "link": "https://www.nature.com/articles/d41586-026-02635-w",
+    "authors": [
+      "Dan Garisto"
+    ],
+    "summary": "Nature, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02635-w\">doi:10.1038/d41586-026-02635-w</a>Science sleuth’s findings raise questions for researchers working to improve the reliability of commercial antibodies.",
+    "source": "Nature",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02665-4",
+    "title": "Daily briefing: How ‘thunderquakes’ probe underground geology",
+    "link": "https://www.nature.com/articles/d41586-026-02665-4",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02665-4\">doi:10.1038/d41586-026-02665-4</a>Thunder generates acoustic waves that can help scientists probe Earth, a person’s own mitochondria have been injected into their eyes in an attempt to restore their vision and economists call for ‘pro-worker’ AI.",
+    "source": "Nature",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02638-7",
+    "title": "Daily briefing: Personalized mRNA vaccine shows promise for cancer",
+    "link": "https://www.nature.com/articles/d41586-026-02638-7",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 21 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02638-7\">doi:10.1038/d41586-026-02638-7</a>Good news from a trial of a vaccine against melanoma. Plus, the US NSF is set to issue its lowest number of new grants in 40 years, and the living layer that protects and produces desert soils.",
+    "source": "Nature",
+    "date": "2026-08-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02092-0",
+    "title": "Black carbon warms more strongly in aerosol-rich air",
+    "link": "https://www.nature.com/articles/s41561-026-02092-0",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02092-0\">doi:10.1038/s41561-026-02092-0</a>Coatings on black carbon particles modulate their warming potential. A decade of global single-particle observations shows that the amount of coating scales with the ratio of particulate matter smaller than 2.5 μm in diameter to black carbon mass, enabling the warming effect of black carbon to be evaluated worldwide.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02071-5",
+    "title": "Disturbance characteristics and forest properties regulate surface warming and recovery across Europe",
+    "link": "https://www.nature.com/articles/s41561-026-02071-5",
+    "authors": [
+      "Yang Su",
+      "Yidi Xu",
+      "Xianglin Zhang",
+      "David Makowski",
+      "Agnes Pellissier-Tanon",
+      "Saverio Francini",
+      "Tianqi Shi",
+      "Ke Yu",
+      "Siyu Liu",
+      "Haotian Chen",
+      "Haoruo Li",
+      "Jinfeng Chang",
+      "Songchao Chen",
+      "Chaohui Yin",
+      "Nikola Besic",
+      "Martin Brandt",
+      "Alba Viana-Soto",
+      "Katja Kowalski",
+      "Cornelius Senf",
+      "Alexandre d’Aspremont",
+      "Philippe Ciais"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02071-5\">doi:10.1038/s41561-026-02071-5</a>Forest disturbances drive substantial surface warming across Europe, with magnitude and recovery shaped by disturbance severity, size and forest characteristics, as inferred from combining satellite-derived land-surface temperature estimates with continent-wide disturbance data.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02068-0",
+    "title": "Warming potential of atmospheric black carbon modulated by particulate matter",
+    "link": "https://www.nature.com/articles/s41561-026-02068-0",
+    "authors": [
+      "Dantong Liu",
+      "Fei Jiang",
+      "Kang Hu",
+      "Shuo Ding",
+      "Xuan Wang",
+      "Huihui Wu",
+      "Yang Yang",
+      "Zhonghua Zheng",
+      "Chenjie Yu",
+      "James Allan",
+      "Dawei Hu",
+      "Yuan Sun",
+      "Ping Tian",
+      "Delong Zhao",
+      "Mengyu Huang",
+      "Siyuan Li",
+      "Yangzhou Wu",
+      "Sobhan Kumar Kompalli",
+      "S. Suresh Babu",
+      "Weijun Li",
+      "Lei Bi",
+      "Shaofei Kong",
+      "Yuan Wang",
+      "Ying Chen",
+      "Pengfei Liu",
+      "Joshua P. Schwarz",
+      "Hugh Coe"
+    ],
+    "summary": "Nature Geoscience, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41561-026-02068-0\">doi:10.1038/s41561-026-02068-0</a>Layers of particulate matter that accumulate on black carbon can boost warming by raising top-of-atmosphere forcing, with biomass-burning particles two to three times more impactful than urban ones, based on a model and global observations.",
+    "source": "Nature Geoscience",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77164-1",
+    "title": "A conserved small RNA-generating gene cluster undergoes sequence diversification and contributes to plant immunity",
+    "link": "https://www.nature.com/articles/s41467-026-77164-1",
+    "authors": [
+      "Li Feng",
+      "Yingnan Hou",
+      "AmirAli Toghani",
+      "Zhixue Wang",
+      "Bozeng Tang",
+      "Nicola Atkinson",
+      "Hui Li",
+      "Yue Qiao",
+      "Yan Wang",
+      "Jian Hua",
+      "Jixian Zhai",
+      "Wenbo Ma"
+    ],
+    "summary": "Nature Communications, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77164-1\">doi:10.1038/s41467-026-77164-1</a>Here the authors reveal a conserved small RNA-producing gene cluster that undergoes sequence diversification, driving a co-evolutionary arms race with pathogens. This native innate immunity offers new opportunities to engineer disease resistance in plants.",
+    "source": "Nature Communications",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77152-5",
+    "title": "Unveiling non-Hermitian band structures with non-Bloch supercells",
+    "link": "https://www.nature.com/articles/s41467-026-77152-5",
+    "authors": [
+      "Jia-Xin Zhong",
+      "Jing Lin",
+      "Kai Chen",
+      "Jing Lu",
+      "Kun Ding",
+      "Yun Jing"
+    ],
+    "summary": "Nature Communications, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77152-5\">doi:10.1038/s41467-026-77152-5</a>Non-Hermitian band structures enable unusual phenomena but remain difficult to map beyond one dimension. Here, the authors develop a general non-Bloch supercell framework to resolve complex momentum, energy, eigenstates, and topology, demonstrated in one- and two-dimensional acoustic crystals.",
+    "source": "Nature Communications",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77102-1",
+    "title": "Deep learning aging marker from retinal images unveils sex-specific clinical and genetic signatures",
+    "link": "https://www.nature.com/articles/s41467-026-77102-1",
+    "authors": [
+      "Olga Trofimova",
+      "Leah Böttger",
+      "Sacha Bors",
+      "Yating Pan",
+      "Bart Liefers",
+      "Jose D. Vargas-Quiros",
+      "Victor A. de Vries",
+      "Michael J. Beyeler",
+      "David M. Presby",
+      "Dennis Bontempi",
+      "Janna Hastings",
+      "Caroline C. W. Klaver",
+      "Ciara Bergin",
+      "Bogdan Draganski",
+      "Adham Elwakil",
+      "Györgyi V. Hamvas",
+      "Ilaria Iuliani",
+      "Ihor Kuras",
+      "Ilenia Meloni",
+      "Sofia Ortin Vela",
+      "Ian Quintas",
+      "Marc Schindewolf",
+      "Reinier O. Schlingemann",
+      "Mattia Tomasoni",
+      "Sven Bergmann"
+    ],
+    "summary": "Nature Communications, Published online: 26 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77102-1\">doi:10.1038/s41467-026-77102-1</a>Retinal images capture biological features of aging, but their links to health and disease are not fully understood. Here, the authors develop a retinal age predictor and show that accelerated retinal aging is associated with age‑related diseases, mortality and distinct sex‑specific genetic and biological signatures.",
+    "source": "Nature Communications",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75462-2",
+    "title": "Author Correction: Multimodal analysis of cfDNA methylomes for early detecting esophageal squamous cell carcinoma and precancerous lesions",
+    "link": "https://www.nature.com/articles/s41467-026-75462-2",
+    "authors": [
+      "Jiaqi Liu",
+      "Lijun Dai",
+      "Qiang Wang",
+      "Chenghao Li",
+      "Zhichao Liu",
+      "Tongyang Gong",
+      "Hengyi Xu",
+      "Ziqi Jia",
+      "Wanyuan Sun",
+      "Xinyu Wang",
+      "Minyi Lu",
+      "Tongxuan Shang",
+      "Ning Zhao",
+      "Jiahui Cai",
+      "Zhigang Li",
+      "Hongyan Chen",
+      "Jianzhong Su",
+      "Zhihua Liu"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75462-2\">doi:10.1038/s41467-026-75462-2</a>Author Correction: Multimodal analysis of cfDNA methylomes for early detecting esophageal squamous cell carcinoma and precancerous lesions",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77092-0",
+    "title": "Amide synthesis via molecular shuffling of carboxylic acids",
+    "link": "https://www.nature.com/articles/s41467-026-77092-0",
+    "authors": [
+      "Chenglong Li",
+      "Qihang Tan",
+      "Qiang Wu",
+      "Yun Fu",
+      "Yongmei Wang",
+      "Bin Song",
+      "Tianzeng Huang",
+      "Long Liu",
+      "Michal Szostak",
+      "Tieqiao Chen"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77092-0\">doi:10.1038/s41467-026-77092-0</a>The amide bond represents the most fundamental functional group in chemistry and biology. Herein, the authors report an approach to amide synthesis that relies on molecular shuffling of carboxylic acid functional group.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77057-3",
+    "title": "Memory-assisted multimode microwave-to-optical transduction",
+    "link": "https://www.nature.com/articles/s41467-026-77057-3",
+    "authors": [
+      "Ujjwal Gautam",
+      "Nasser Gohari Kamel",
+      "Sourabh Kumar",
+      "Daniel Oblak"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77057-3\">doi:10.1038/s41467-026-77057-3</a>Current demonstrations of microwave-to-optical transduction suffer from noise due to the pump field. Here, the authors demonstrate memory-assisted microwave-to-optical transduction to avoid noise in a Yb:YSO crystal at 30 mK with zero B-field and multimode functionality.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76715-w",
+    "title": "Optimising antibiotic switching via forecasting of patient physiology",
+    "link": "https://www.nature.com/articles/s41467-026-76715-w",
+    "authors": [
+      "Magnus Ross",
+      "Nel Swanepoel",
+      "Akish Luintel",
+      "Emma McGuire",
+      "Ingemar J. Cox",
+      "Steve Harris",
+      "Vasileios Lampos"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76715-w\">doi:10.1038/s41467-026-76715-w</a>The authors present a decision support system that forecasts patients’ vital signs to identify those ready to switch from intravenous to oral antibiotics. Clinical criteria are applied to the forecasts to rank patients for stewardship review.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77055-5",
+    "title": "Combinatorial group testing for efficient scaling across biological applications",
+    "link": "https://www.nature.com/articles/s41467-026-77055-5",
+    "authors": [
+      "Lorenzo Talamanca",
+      "Julian Trouillon"
+    ],
+    "summary": "Nature Communications, Published online: 25 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77055-5\">doi:10.1038/s41467-026-77055-5</a>Combinatorial group testing can reduce experimental costs but remains challenging to apply due to its complexity and the lack of implementation tools. Here, the authors present PoolPy, a complete combinatorial group testing framework, enabling up to 93% cost reduction across biological assays.",
+    "source": "Nature Communications",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00819-6",
+    "title": "The challenge of defining effectively no snow",
+    "link": "https://www.nature.com/articles/s43017-026-00819-6",
+    "authors": [
+      "Adrienne M. Marshall",
+      "Timothy E. Link"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 24 August 2026; <a href=\"https://www.nature.com/articles/s43017-026-00819-6\">doi:10.1038/s43017-026-00819-6</a>The challenge of defining effectively no snow",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2521660123?af=R",
+    "title": "Paleomagnetic evidence for a nebular magnetic field from calcium-aluminum-rich inclusions",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2521660123?af=R",
+    "authors": [
+      "Cauê S. BorlinaBenjamin P. WeissXue-Ning BaiPo-Yen TungRichard J. HarrisonElias N. MansbachNilanjan ChatterjeeFrançois L. H. TissotKevin D. McKeeganahttps://ror.org/042nb2s44Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139bhttps://ror.org/03cve4549Department of Astronomy, Institute for Advanced Study, Tsinghua University, Beijing 100084, Chinachttps://ror.org/013meh722Department of Earth Sciences, University of Cambridge, Cambridge CB2 1TN, United Kingdomdhttps://ror.org/05dxps055Division of Geological and Planetary Sciences, The Isotoparium, California Institute of Technology, Pasadena, CA 91125ehttps://ror.org/046rm7j60Department of Earth, Planetary, and Space Sciences, University of California, Los Angeles, CA 90095"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 36, September 2026. <br />SignificanceA key step in the formation of planetary systems is the collapse of a cloud of gas and dust into a protoplanetary disk. It has been unclear what forces transformed the disk into the final configuration of a central massive star surrounded by ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2615883123?af=R",
+    "title": "Major role for internal variability in tropical Pacific warming pattern over satellite era",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615883123?af=R",
+    "authors": [
+      "Shang-Ping XieAyumu MiyamotoQihua PengMatthew T. Luongoahttps://ror.org/0168r3w48Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA 92093bhttps://ror.org/01dq60k83Advanced Institute for Marine Ecosystem Change, Tohoku University, Sendai 980-8578, Japanchttps://ror.org/01rxvg760School of Atmospheric Sciences, Nanjing University, Nanjing 210023, Chinadhttps://ror.org/00cvxb145Cooperative Institute for Climate, Ocean, and Ecosystem Studies, University of Washington, Seattle, WA 98105ehttps://ror.org/00cvxb145School of Oceanography, University of Washington, Seattle, WA 98195"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 36, September 2026. <br />SignificanceGenerations of global climate models predict enhanced warming in the eastern tropical Pacific in response to increasing atmospheric concentrations of greenhouse gases. Concerns are deepening over the fidelity of climate models as the eastern ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2526201123?af=R",
+    "title": "Chemosymbiotic trophic strategy in an Ediacaran tubular animal",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2526201123?af=R",
+    "authors": [
+      "Zhenfei WangYongbo PengQing TangJames D. SchiffbauerShuhai XiaoDavid A. FikeZice JiaDong FengPeter W. CrockfordYaoping CaiXunlai YuanLisa M. Prattahttps://ror.org/01rxvg760International Center for Isotope Effects Research, State Key Laboratory of Critical Earth Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, Chinabhttps://ror.org/01rxvg760Frontiers Science Center for Critical Earth Material Cycling, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, Chinachttps://ror.org/02ymw8z06Department of Geological Sciences, University of Missouri, Columbia, MO 65211dhttps://ror.org/02ymw8z06X-ray Microanalysis Laboratory, University of Missouri, Columbia, MO 65211ehttps://ror.org/02smfhw86Department of Geosciences, Virginia Tech, Blacksburg, VA 24061fhttps://ror.org/01yc7t268Department of Earth and Planetary Sciences, Washington University in St. Louis, St. Louis, MO 63130ghttps://ror.org/04n40zv07College of Oceanography and Ecological Science, Shanghai Ocean University, Shanghai 201306, Chinahhttps://ror.org/02qtvee93Department of Earth Sciences, Carleton University, Ottawa, ON K1S5B6, CanadaiState Key Laboratory of Continental Evolution and Early Life, Department of Geology, Northwest University, Xi’an 710069, Chinajhttps://ror.org/034t30j35State Key Laboratory of Palaeobiology and Stratigraphy, Nanjing Institute of Geology and Palaeontology, Chinese Academy of Sciences, Nanjing 210008, ChinakDepartment of Earth and Atmospheric Sciences, Indiana University, Bloomington, IN 47405"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 35, September 2026. <br />SignificanceSymbiosis is a fundamental evolutionary driver, yet evidence for animal–microbe associations in the fossil record is scarce and elusive. Tubular cloudinomorphs, among the earliest animals with complex body plans, rose to prominence during the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2537342123?af=R",
+    "title": "The moisture dynamics in arid Central Asia over the last 47,000 years: Insights from the speleothem record",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537342123?af=R",
+    "authors": [
+      "Yanjun CaiHai ChengSebastian F. M. BreitenbachNosir ShukurovMaxim PetrovShukhrat ShukurovJing LeiYingjie YangGang XueLe MaShouyi HuangRuoxin LiMei HeZhengguo ShiHanying LiYoufeng NingXuexue JiaYifei HaoAlexander OsinzevR. Lawrence EdwardsZhisheng Anahttps://ror.org/017zhmm22Institute of Global Environmental Change, Xi’an Jiaotong University, Xi’an 710049, Chinabhttps://ror.org/034t30j35Institute of Earth Environment, Chinese Academy of Sciences, Xi’an 710061, Chinachttps://ror.org/00sc9n023Yunnan Key Laboratory of Plateau Geographical Processes & Environmental Changes, Faculty of Geography, Yunnan Normal University, Kunming 650500, Chinadhttps://ror.org/049e6bc10School of Geography and Natural Sciences, Northumbria University, Newcastle upon Tyne NE1 8ST, United KingdomeInstitute of Geology and Geophysics named after Kh.M. Abdullaev, University of Geological Sciences, Tashkent 100164, Uzbekistanfhttps://ror.org/02b6gy972Samarkand State University named after Sharof Rashidov, Samarkand 140104, UzbekistangXi‘an Institute for Innovative Earth Environment Research, Xi‘an 710061, ChinahSpeleoclub Arabika, Irkutsk 664013, Russiaihttps://ror.org/017zqws13Department of Earth Sciences, University of Minnesota, Minneapolis, MN 55455"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 35, September 2026. <br />SignificanceHydroclimate conditions shape the survival and development of societies in arid Central Asia. However, how regional hydroclimatic conditions changed across different temporal–spatial scales remains debated. Here, by analyzing climate signals ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608701123?af=R",
+    "title": "Mercury’s crustal magnetization indicates a stronger ancient dynamo",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608701123?af=R",
+    "authors": [
+      "Isaac S. NarrettBenjamin P. WeissSarah C. SteeleJohn B. Bierstekerahttps://ror.org/042nb2s44Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, Cambridge, MA 02139bhttps://ror.org/03vek6s52Department of Earth and Planetary Sciences, Harvard University, Cambridge, MA 02138"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 35, September 2026. <br />SignificanceMercury’s present-day dynamo-generated magnetic field is anomalously weak. However, Mercury’s 3.9- to 3.7-billion-year-old crustal remanent magnetization suggests that the planet once generated a dynamo magnetic field that was 1 to 2 orders of ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2626418123?af=R",
+    "title": "Correction for Sharp et al., Extreme triple oxygen isotope fractionation in Equisetum",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626418123?af=R",
+    "authors": [],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 35, September 2026. <br />",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002837",
+    "title": "A Mesozoic orogenic plateau across South China",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002837?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Mark B. Allean, Shuguang Song, Chao Wang, Renyu Zeng, Yang Chu, Alex Copley",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002795",
+    "title": "The epistemic architecture of palaeontological reasoning: trace fossil studies as an example",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002795?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 August 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Zekun Wang, Andrew K. Rindsberg, Olmo Miguez-Salas",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004759",
+    "title": "Lunar transient atmosphere recorded in Chang'e 6 impact glass beads",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004759?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Ziyan Han, Hejiu Hui, Sen Hu, Zhiyong Xiao, Fanglu Luo, Di Zhang, Yutao Lin, Huicun He, Liang Gao, Yue Zhang, Wenxin Ouyang, Yu Li, Yuantao Gu, Yongli Xue, Suping Wu, Zongjun Yin, Yi Chen, Xiancai Lu, Rucheng Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125188",
+    "title": "Normalized Regime Persistence: A Simple Metric to Diagnose Land Feedback States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125188?af=R",
+    "authors": [
+      "Sandipan Paul, \nLanka Karthikeyan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122962",
+    "title": "Locating Moonquakes With Single‐Station Seismology",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122962?af=R",
+    "authors": [
+      "Doyeon Kim, \nJung‐Hun Song, \nNicholas C. Schmerr"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124792",
+    "title": "Methane Emissions From U.S. Lakes Dominated by Ebullition, Shallow Zones, and Anthropogenic Drivers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124792?af=R",
+    "authors": [
+      "Chunqi Shen, \nPeter A. Raymond"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123797",
+    "title": "Extended Fire Season Over Eastern Siberia Driven by Accumulated August–September Drought",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123797?af=R",
+    "authors": [
+      "Yawen Liu, \nLian Xue, \nXin Huang, \nYun Qian, \nMinghuai Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122809",
+    "title": "AMOC Weakening Controls δ18O but Not Rainfall in North China During Deglacial Abrupt Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122809?af=R",
+    "authors": [
+      "Yitao Liu, \nChengfei He, \nJun Cheng, \nHongbin Zhang, \nYoubin Sun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123600",
+    "title": "Seismic Radial Anisotropy of the Southern Tibetan Rifts From Ambient Noise Adjoint Tomography: Basal Shear and Localized Crustal Weak Zones Promote Rifting",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123600?af=R",
+    "authors": [
+      "Taozhi Wang, \nZhen Guo, \nYanbin Wang, \nLipeng He, \nXiaobo Tian"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124323",
+    "title": "SWOT, Empiricism, and River Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124323?af=R",
+    "authors": [
+      "Colin J. Gleason, \nPaul D. Bates, \nMichael T. Durand, \nDongmei Feng, \nAugusto Getirana, \nPeirong Lin, \nHind Oubanas, \nTamlin M. Pavelsky, \nChaopeng Shen, \nLaurence C. Smith, \nJida Wang, \nDai Yamazaki, \nYuan Yang, \nHeejin An, \nFiona B. Bennitt, \nStephen J. Chuter, \nChenqi Fang, \nJonathan A. Flores, \nElisa Friedmann, \nSreelekha Jarugula, \nHaoyu Ji, \nTheodore Langhorst, \nDi Long, \nDung T. Vu, \nZiyun Yin, \nGeorge H. Allen, \nKonstantinos M. Andreadis, \nSylvain Biancamaria, \nCasey M. Brown, \nCédric H. David, \nMing Pan, \nJeffrey C. Neal, \nStephen P. Coss, \nMerritt E. Harlan, \nPeyman Saemian, \nTravis T. Simmons, \nNikki Tebaldi, \nM. J. Tourian"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 16, 28 August 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033834",
+    "title": "Improving Earthquake Forecasting for Europe Using Elliptic ETAS Aftershock Distribution Kernels",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033834?af=R",
+    "authors": [
+      "M. Han, \nL. Mizrahi, \nS. Wiemer"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033665",
+    "title": "Emplacement Conditions and Alteration of Volcanic Deposits Inferred From Magnetic Properties of the ICDP Eger Drill Site S4 (Bažina Maar), Czechia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033665?af=R",
+    "authors": [
+      "Johanna Berckhan, \nAgnes Kontny, \nKatarzyna Dudzisz, \nJan Mrlina, \nNorbert Nowaczyk, \nSimo Spassov, \nFranziska D. H. Wilke"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033663",
+    "title": "Cenozoic Post‐Collisional Au‐Rich Porphyry System Imaged by a High‐Density Seismic Array and Magma Records in the SE Margin of the Tibetan Plateau",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033663?af=R",
+    "authors": [
+      "Jue Hou, \nGuiping Yu, \nBo Xu, \nYingjie Yang, \nXiaobo Tian, \nTianyang Gao, \nMaowen Yuan, \nZhuang Miao, \nLei Gao, \nNian Yu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 8, August 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005521",
+    "title": "Non-monotonic rare earth element redistribution under intense subtropical weathering",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005521?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Ruifei Yu, Lidong Zhu, Ziyi Zhang, Jiabin Wu, Fengquan Li, Tianyang Wang, Wei Ye, Licheng Guo, Philip A.E. Pogge von Strandmann, Xiao Zhang, Ying Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005533",
+    "title": "Weathering-driven clay mineral evolution regulates altitudinal shifts in carbon stabilization within seasonally frozen soils",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005533?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 August 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zerun Shen, Lulu Zhao, Han Yang, Anbei Deng, Fuxing Liu, Liuling Cheng, Fuwen Jia, Liao Yang, Genming Luo, Zhongqiang Chen, Shucheng Xie",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-08-26",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02641-y",
     "title": "The exoskeletons are coming (to a store near you)",
     "link": "https://www.nature.com/articles/d41586-026-02641-y",
