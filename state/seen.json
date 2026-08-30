@@ -1,5 +1,554 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02732-w",
+    "title": "Briefing Chat: How Dolly Parton left her mark on science",
+    "link": "https://www.nature.com/articles/d41586-026-02732-w",
+    "authors": [
+      "Benjamin Thompson",
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02732-w\">doi:10.1038/d41586-026-02732-w</a>Nature reporters discuss the country-music icon's advocacy for vaccines and public health — plus, promising trial results for an mRNA cancer therapy.",
+    "source": "Nature",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02680-5",
+    "title": "The Moderna cancer vaccine offers hope — now we must speed up personalized therapies",
+    "link": "https://www.nature.com/articles/d41586-026-02680-5",
+    "authors": [
+      "Patrick A. Ott"
+    ],
+    "summary": "Nature, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02680-5\">doi:10.1038/d41586-026-02680-5</a>A positive trial holds promise for treating people with cancer. More research is needed to get effective vaccines to the clinic.",
+    "source": "Nature",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02688-x",
+    "title": "Heisuke Hironaka obituary: mathematician who smoothed out geometry’s complexities",
+    "link": "https://www.nature.com/articles/d41586-026-02688-x",
+    "authors": [
+      "Allyn Jackson"
+    ],
+    "summary": "Nature, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02688-x\">doi:10.1038/d41586-026-02688-x</a>His awe-inspiring proof for the resolution of singularities — such as peaks, edges and self-crossings — revolutionized algebraic geometry.",
+    "source": "Nature",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02733-9",
+    "title": "Will Meta’s deal make social media safe for kids? Researchers are dubious",
+    "link": "https://www.nature.com/articles/d41586-026-02733-9",
+    "authors": [
+      "Kaia Glickman"
+    ],
+    "summary": "Nature, Published online: 28 August 2026; <a href=\"https://www.nature.com/articles/d41586-026-02733-9\">doi:10.1038/d41586-026-02733-9</a>Nature talks to specialists about the changes coming to Facebook and Instagram, and whether there’s evidence they will help.",
+    "source": "Nature",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76503-6",
+    "title": "What one sees depends on how far the eye has moved",
+    "link": "https://www.nature.com/articles/s41467-026-76503-6",
+    "authors": [
+      "Y. Howard Li",
+      "Michele A. Cox",
+      "Jonathan D. Victor",
+      "Michele Rucci"
+    ],
+    "summary": "Nature Communications, Published online: 30 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76503-6\">doi:10.1038/s41467-026-76503-6</a>People explore the visual world through rapid eye movements called saccades. Here, the authors show that the size of each saccade determines which level of spatial detail becomes most visible after the movement.",
+    "source": "Nature Communications",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77193-w",
+    "title": "Strong and crack-tolerant elastomers via geometrically confined H-bonding semicarbazides",
+    "link": "https://www.nature.com/articles/s41467-026-77193-w",
+    "authors": [
+      "Rujuan Li",
+      "Shuyao Pan",
+      "Zhiming Liu",
+      "Shengli Chen",
+      "Pingchuan Sun",
+      "Fenfen Wang"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77193-w\">doi:10.1038/s41467-026-77193-w</a>The development of high-performance elastomers that are strong, crack-tolerant, and wear-resistant remains a challenge. Here the authors design a poly(urethane-urea) system based on geometrically confined semicarbazide chain extenders, which enhance the mechanical performance of the material.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77205-9",
+    "title": "Many-body interactions resolve halide distribution at the air/water interface",
+    "link": "https://www.nature.com/articles/s41467-026-77205-9",
+    "authors": [
+      "H. Agnew",
+      "R. Rashmi",
+      "X. Zhu",
+      "S. Dasgupta",
+      "F. Paesani"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77205-9\">doi:10.1038/s41467-026-77205-9</a>How halide ions distribute at the surface of water has long been debated. Here, the authors show that cooperative molecular interactions suppress adsorption, leaving only iodide with a weak surface preference.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76944-z",
+    "title": "Hydrogen Bond-Enabled Carbon Dot-Based Network for Efficient Inverted Organic Solar Cells with Prolonged Photoelectrical-Mechanical-Moist Stability",
+    "link": "https://www.nature.com/articles/s41467-026-76944-z",
+    "authors": [
+      "Mengqi Cui",
+      "Yi Yang",
+      "Huanhuan Gao",
+      "Ruijia Zhang",
+      "Xinjun He",
+      "Hao Wang",
+      "Haibin Su",
+      "Alex K.-Y. Jen",
+      "Wallace C. H. Choy"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76944-z\">doi:10.1038/s41467-026-76944-z</a>Long-lasting organic solar cells require transport layers stable in electrical, mechanical and chemical aspects. Cui et al. fabricated a fluorinated carbon dot/polymer electron transport layer, which delivers high efficiency together with excellent humidity and bending stability.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77331-4",
+    "title": "Persistent chromatin alterations and gene expression reprogramming follow widespread DNA damage in glioblastoma",
+    "link": "https://www.nature.com/articles/s41467-026-77331-4",
+    "authors": [
+      "Aram S. Modrek",
+      "Keerthivasan R. Chandradoss",
+      "Catherine Do",
+      "Ravesanker Ezhilarasan",
+      "Theodore Sakellaropoulos",
+      "Jerome Karp",
+      "Yingwen Ding",
+      "Ze-Yan Zhang",
+      "Maria L. G. Quiloan",
+      "Melanie Graciani",
+      "Giulia Cova",
+      "Jennifer E. Phillips-Cremins",
+      "Erik P. Sulman",
+      "Jane A. Skok"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77331-4\">doi:10.1038/s41467-026-77331-4</a>How DNA damage reshapes cancer cells beyond genetic mutations is poorly understood. Here, the authors show that DNA double-strand breaks in glioblastoma cells trigger lasting non-genetic changes in 3D genome folding, gene expression and DNA modifications that persist for weeks.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76949-8",
+    "title": "Hybrid exosomal nanomotors convert pathological ROS into transport-driving cues to enhance cartilage accumulation in osteoarthritis",
+    "link": "https://www.nature.com/articles/s41467-026-76949-8",
+    "authors": [
+      "Kai Huang",
+      "Hui-Zhi Liu",
+      "Yuan Liu",
+      "Jia-Yan Lyu",
+      "Qing-Yi Zhang",
+      "Zi-Yuan Feng",
+      "Zi-Lin Wang",
+      "Hui Dong",
+      "Rong Nie",
+      "Yi-Wen Zhang",
+      "Yue-Qi Zhang",
+      "Yi Zeng",
+      "Hui-Qi Xie",
+      "Zhou Zhou",
+      "Bin Shen"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-76949-8\">doi:10.1038/s41467-026-76949-8</a>Osteoarthritis therapies are limited by poor drug transport within dense cartilage. Here, authors develop hybrid exosomal nanomotors that convert pathological ROS into transport-driving cues, enhancing transport within cartilage and slowing osteoarthritis progression.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75221-3",
+    "title": "Cascade electrosynthesis of glycolic acid from ethylene and oxygen with an energy efficiency of 62.9%",
+    "link": "https://www.nature.com/articles/s41467-026-75221-3",
+    "authors": [
+      "Jun Wang",
+      "Yongyan Zhao",
+      "Fangxu Lin",
+      "Yu Gu",
+      "Peng Zhang",
+      "Menggang Li",
+      "Zhiyuan Sang",
+      "Yongzhi Zhao",
+      "Wenhe Yu",
+      "Yiming Du",
+      "Yanling Qiu",
+      "Zijian Zhu",
+      "Ning He",
+      "Fan Lv",
+      "Mingchuan Luo",
+      "Shaojun Guo"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-75221-3\">doi:10.1038/s41467-026-75221-3</a>The industrial implementation of ethylene glycol oxidation reaction (EGOR) to glycolic acid (GA) brings promise but poses a challenge for ethylene cost. Here, the authors report an ORR-ethylene oxidation-EGOR cascade conversion strategy that can boost both energy efficiency and economic viability.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77308-3",
+    "title": "Unraveling single-molecule reactions via multiplexed in-situ DNA sequencing",
+    "link": "https://www.nature.com/articles/s41467-026-77308-3",
+    "authors": [
+      "Jagadish Prasad Hazra",
+      "Rebecca Andrews",
+      "Piers Turner",
+      "Qing Zhao",
+      "Horst Steuer",
+      "Afaf H. El-Sagheer",
+      "Abhishek Mazumder",
+      "Hafez El Sayyed",
+      "Mirjam Kümmerlin",
+      "Tom Brown",
+      "Achillefs N. Kapanidis"
+    ],
+    "summary": "Nature Communications, Published online: 29 August 2026; <a href=\"https://www.nature.com/articles/s41467-026-77308-3\">doi:10.1038/s41467-026-77308-3</a>The authors develop SPIN-Seq, a method that directly links the sequence of individual DNA molecules to their functional behavior, revealing how DNA sequence impacts protein-DNA interactions and the kinetics of biological reactions on nucleic acids.",
+    "source": "Nature Communications",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004796",
+    "title": "West Antarctic subglacial geology distinguished by Pb isotopes and Rb–Sr ages in ice-rafted feldspars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004796?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Thomas Arney, Claus-Dieter Hillenbrand, Thomas M. Belgrano, J. Andy Milton, Christine S. Siddoway, Gavin L. Foster, Paul A. Wilson, Julia S. Wellner, Steve M. Bohaty",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004838",
+    "title": "Slab fluid-driven oxidation of Archean sub-arc mantle: A potential trigger for the great oxidation event",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004838?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 November 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 693Author(s): Kai Wang, Jiashun Hu, Richard M. Palin, Keda Cai, Xiangsong Wang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-08-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124645",
+    "title": "Impacts of Mid‐Latitude Ionospheric Dynamics on RF Applications During the November 2025 Superstorm Event",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124645?af=R",
+    "authors": [
+      "E. Yizengaw, \nW. Younas, \nY. Nishimura, \nC. Gabrielse, \nT. Beach, \nA. J. Coster, \nR. Pradipta, \nK. M. Groves"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123789",
+    "title": "Detectability of Forced ENSO Changes Under Global Warming: Insights From the Recharge Oscillator",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123789?af=R",
+    "authors": [
+      "Sooman Han, \nJérôme Vialard, \nAlexey V. Fedorov, \nSoong‐Ki Kim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124193",
+    "title": "Escalating Uncertainty Under Increasing Risk in Compound Heat and Precipitation Extremes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124193?af=R",
+    "authors": [
+      "Zhiling Zhou, \nLiping Zhang, \nJijun Xu, \nJun Xia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124182",
+    "title": "Fast Breakdowns Observed in the Initial Leaders of Two Energetic Compact Strokes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124182?af=R",
+    "authors": [
+      "Qingliu Yang, \nDaohong Wang, \nTing Wu, \nDavid M. Smith, \nYuki Hamajima, \nJinliang He"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123322",
+    "title": "A Stochastic Approach for Recovery Times of Coastal Dune Vegetation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123322?af=R",
+    "authors": [
+      "D. Demichele, \nC. Camporeale"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124091",
+    "title": "Dynamic Responses of Groundwater Flow and Salt Transport to Storm Surge Inundation in Unconfined Coastal Aquifers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124091?af=R",
+    "authors": [
+      "Canhao Cai, \nChengji Shen, \nShichang Li, \nChunhui Lu, \nLing Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123035",
+    "title": "Decadal Reversal of Eurasian Winter Temperature Trend Linked to North Atlantic Climate Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123035?af=R",
+    "authors": [
+      "Ye‐Jun Jun, \nSeok‐Woo Son, \nKyong‐Hwan Seo, \nSang‐Yoon Jun, \nDaehyun Kim, \nJin‐Yong Kim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124082",
+    "title": "Trends in Heat Stress During Heat Waves Across Europe (1979–2023)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124082?af=R",
+    "authors": [
+      "Qi Zhang, \nJoakim Kjellsson, \nEmily Black, \nJulian Krüger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122611",
+    "title": "Dominant Biases in Atmospheric Radiative Heating Rates in Global Climate Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122611?af=R",
+    "authors": [
+      "Han Huang, \nYi Huang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL116210",
+    "title": "Gas Measurements Reveal Fractional Degassing and Water Interaction During a Flank Eruption of Pacaya Volcano (Guatemala)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL116210?af=R",
+    "authors": [
+      "Robin Campion, \nAli Zare, \nSébastien Valade, \nDenis Legrand, \nGustavo Chigna, \nYves Moussallam"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124052",
+    "title": "Observation of Yanai Wave Excitation by Tropical Instability Waves in the Equatorial Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124052?af=R",
+    "authors": [
+      "Arachaporn Anutaliya, \nCaitlin B. Whalen, \nGunnar Voet, \nAnna‐Lena Deppenmeier, \nAmy F. Waterhouse, \nCaique Dias Luko, \nArnaud Le Boyer"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124384",
+    "title": "Emergent Regimes of River Meandering and Permafrost Extent in Arctic Floodplains",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124384?af=R",
+    "authors": [
+      "Michael P. Lamb, \nEmily C. Geyman, \nMadison D. Douglas, \nAjay B. Limaye"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124965",
+    "title": "Global Improvement of Tropical Cyclone Representation Enhances Hindcasts of Extreme Sea Levels Over 68 Years",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124965?af=R",
+    "authors": [
+      "Pengcheng Wang, \nNatacha B. Bernier, \nSean Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125058",
+    "title": "3D Subduction Interface Model for the Hikurangi Margin, New Zealand: Implications for Slow Slip Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125058?af=R",
+    "authors": [
+      "Haoran Ma, \nMaomao Wang, \nAndreas Plesch, \nFuyuan Wang, \nRenqi Lu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122340",
+    "title": "Re‐Evaluating Inherited SIF Anomaly Detection Methods for the 2024 Amazon Drought: A 3D Convolutional Autoencoder Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122340?af=R",
+    "authors": [
+      "Carmen Oliver Huidobro, \nGerbrand Koren"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123970",
+    "title": "Satellite‐Based Global Assessment of Solar Resource Stability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123970?af=R",
+    "authors": [
+      "Ning Lu, \nJun Qin"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124075",
+    "title": "Event‐Level Attribution of Wildfire Ignition Cause: A Machine‐Learning Approach",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124075?af=R",
+    "authors": [
+      "Kairui Qiu, \nYan Yu, \nHongxuan Su, \nYunxiao Tang, \nShuoqing Wang, \nXianglei Meng, \nQiyu Song, \nWei Guo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124012",
+    "title": "Assessing the Impact of Sea Surface Temperature Biases in CMIP6 Coupled Models on the North Pacific Westerly Jet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124012?af=R",
+    "authors": [
+      "Yusuke Ushijima, \nRyo Mizuta, \nShion Sekizawa, \nHiroyuki Tsujino"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/grl.73188",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/grl.73188?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122806",
+    "title": "Thermodynamic Control of Global Seasonal Snow Decline",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122806?af=R",
+    "authors": [
+      "Yang Song, \nDawei Han, \nGuojun Gu, \nJie Song, \nAli Behrangi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013337",
+    "title": "Pattern Formation in Rocks",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013337?af=R",
+    "authors": [
+      "Jibamitra Ganguly"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013224",
+    "title": "Comment on “Parameterizations of Clinopyroxene—Melt Trace Element Partition Coefficients” by Bédard, J. H. (2014)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013224?af=R",
+    "authors": [
+      "Jean H. Bédard"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034429",
+    "title": "Compositional Controls on the Contribution of (Fe,Al)OOH Solid Solution to Core‐Mantle Boundary Heterogeneities",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034429?af=R",
+    "authors": [
+      "Sparsh Sharma, \nGaurav Shukla"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-29",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034130",
+    "title": "Continuous Release of Saline Fluids From a Permeable Subducting Slab",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034130?af=R",
+    "authors": [
+      "Yongsheng Huang, \nYinwei Li, \nKaiwei Tao, \nGuoji Wu, \nMasanari Arao, \nMichihiko Nakamura, \nDuojun Wang, \nYuan Li"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034512",
+    "title": "Porous and Permeable Crystalline Basement: Evidence for Large‐Scale Hydraulic Connectivity at Kivetty, Finland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034512?af=R",
+    "authors": [
+      "Daniel Carbajal‐Martínez, \nMichael J. Heap, \nEster M. Jolis, \nToni Luoto, \nThierry Reuschlé, \nSatu Vuoriainen, \nJukka Kuva, \nEvgenii Kortunov, \nAlan Bischoff"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033428",
+    "title": "Imaging the Alpine Collision With Seismic Radial Anisotropy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033428?af=R",
+    "authors": [
+      "Henrique Berger Roisenberg, \nFelix Eckel, \nAmr El‐Sharkawy, \nClaudio Rosenberg, \nLapo Boschi, \nThomas Meier, \nFabio Cammarano"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-08-28",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.adx7511?af=R",
     "title": "Maladaptive immune-fibrotic axis drives impaired long bone regeneration under mechanical instability",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.adx7511?af=R",
