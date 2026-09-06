@@ -1,5 +1,319 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77155-2",
+    "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway",
+    "link": "https://www.nature.com/articles/s41467-026-77155-2",
+    "authors": [
+      "Nivine Srour",
+      "Kaixiu Luo",
+      "David Allard",
+      "Yan Xiong",
+      "Zhenbao Yu",
+      "Theodore Papadopoulos",
+      "François Santinon",
+      "Cheng-Hsun Hsieh",
+      "Anthony Parent",
+      "John Stagg",
+      "Simon Turcotte",
+      "Dalia Barsyte-Lovejoy",
+      "Stéphanie Lehoux",
+      "Sonia V. del Rincón",
+      "Jian Jin",
+      "Stéphane Richard"
+    ],
+    "summary": "Nature Communications, Published online: 06 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77155-2\">doi:10.1038/s41467-026-77155-2</a>Cytotoxic T cells (CTL) are successfully employed in tumour therapy but understanding how their expansion and effector function is regulated might result in further improvements. Here the authors show by a T-cell-specific deletion of Prmt7 and by developing a PRMT7-targeting PROTAC degrader that PRMT7 is a negative regulator of the NF-κB pathway in CTL, removing of which improves anti-tumour function of CTL.",
+    "source": "Nature Communications",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77570-5",
+    "title": "Optical excitation of nonreciprocal antiferromagnetic magnons at sub-terahertz frequencies",
+    "link": "https://www.nature.com/articles/s41467-026-77570-5",
+    "authors": [
+      "Chang Xu",
+      "Hanbum Park",
+      "Shishun Zhao",
+      "Chenhui Zhang",
+      "Qiyao Liu",
+      "Anastasia Petrova",
+      "Artem Matveev",
+      "Ansar Safin",
+      "Sergey Nikitov",
+      "Hyunsoo Yang"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77570-5\">doi:10.1038/s41467-026-77570-5</a>The authors demonstrate that optically excited subterahertz magnons in canted antiferromagnetic hematite propagate nonreciprocally at high group velocities, offering potential for ultrafast spintronic applications.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77413-3",
+    "title": "Unconditional and exponentially large violation of classicality",
+    "link": "https://www.nature.com/articles/s41467-026-77413-3",
+    "authors": [
+      "Marcello Benedetti",
+      "Gabriel Marin-Sanchez",
+      "Jordi Weggemans",
+      "Matthias Rosenkranz",
+      "Harry Buhrman"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77413-3\">doi:10.1038/s41467-026-77413-3</a>The authors introduce a practical game that distinguishes quantum from classical behaviour without relying on unproven assumptions. Quantum computers achieve exponentially larger scores than any classical strategy, a result confirmed in experiments.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77312-7",
+    "title": "Steric control of signaling bias in the immunometabolic receptor GPR84",
+    "link": "https://www.nature.com/articles/s41467-026-77312-7",
+    "authors": [
+      "Pinqi Wang",
+      "Xuan Zhang",
+      "Abdul-Akim Guseinov",
+      "Laura Jenkins",
+      "Carl von Hallerstein",
+      "Jonathan D. Colburn",
+      "Rowan Ives",
+      "Vincent B. Luscombe",
+      "Sara Marsango",
+      "Listiana Oktavia",
+      "Arun Raja",
+      "David R. Greaves",
+      "Philip C. Biggin",
+      "Graeme Milligan",
+      "Cheng Zhang",
+      "Irina G. Tikhonova",
+      "Angela J. Russell"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77312-7\">doi:10.1038/s41467-026-77312-7</a>This study reveals how subtle changes in ligand structure control signaling bias at the immunometabolic receptor GPR84, providing structural details for the rational design of drugs with tailored signalling properties.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77256-y",
+    "title": "Dysregulated tissue immunity in human fatal asthma",
+    "link": "https://www.nature.com/articles/s41467-026-77256-y",
+    "authors": [
+      "Yoonseung A. Lee",
+      "Steven B. Wells",
+      "Daniel C. Yee",
+      "Daniel P. Caron",
+      "Nora Lam",
+      "Derek A. Martinez",
+      "Rei Matsumoto",
+      "Yosuke Sakamoto",
+      "Andrea Vecchione",
+      "Amanda Atanasio",
+      "Jamie M. Orengo",
+      "Donna L. Farber"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77256-y\">doi:10.1038/s41467-026-77256-y</a>Immune mechanisms driving severe asthma and fatal outcomes remain elusive. Through cross-tissue immune profiling of organ donors who died of fatal asthma versus other causes, the authors here reveal mucosal immune dysregulation marked by enhanced T- and B-cell memory, reduced Tregs, and increased lung Th2 and Th1 effectors linked to priming in gut-associated lymph nodes.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77379-2",
+    "title": "OXR1 is a dual redox–mitochondrial checkpoint governing osteoclast differentiation and bone loss in an osteoporosis mouse model",
+    "link": "https://www.nature.com/articles/s41467-026-77379-2",
+    "authors": [
+      "Xiaojun Chen",
+      "Chengyu Zhou",
+      "Xiangyun Jin",
+      "Qiongxiang Lin",
+      "Lizhen Li",
+      "Zhongxiang Wang",
+      "Buran Chen",
+      "Qiu Dong",
+      "Jianbo He",
+      "Kavishadhi Chandrasekaran",
+      "Chau Bui",
+      "Alysia Hubbard",
+      "Qunwei Dong",
+      "Lei Chen",
+      "K. Swaminathan Iyer",
+      "Jiandong Yuan",
+      "Nathan J. Pavlos",
+      "Haibo Jiang",
+      "Kai Chen"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77379-2\">doi:10.1038/s41467-026-77379-2</a>Osteoclasts need to manage reactive oxygen species by coordinating redox control and mitochondrial quality maintenance. Here, the authors identify OXR1 as a regulator of osteoclastogenesis and mitophagy, and show that genetic or pharmacological targeting of OXR1 attenuates bone loss in an osteoporosis mouse model.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77247-z",
+    "title": "Selectively intraparticle oxygen dissociation and metalloid mineralization for long-term groundwater remediation",
+    "link": "https://www.nature.com/articles/s41467-026-77247-z",
+    "authors": [
+      "Chaohuang Chen",
+      "Zhongyuan Guo",
+      "Qianhai Zhou",
+      "Du Chen",
+      "Minjie Chen",
+      "Kaijian Sang",
+      "Chen Miao",
+      "Jie Hou",
+      "Yong Wang",
+      "Kun Yang",
+      "Daohui Lin",
+      "Lizhong Zhu",
+      "Jiang Xu"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77247-z\">doi:10.1038/s41467-026-77247-z</a>Toxic arsenic, antimony and selenium in groundwater are mineralized inside lattice-modified iron nanoparticles with a 98-fold greater stability during long-term aging in groundwater, offering an economic in-situ remediation strategy.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77389-0",
+    "title": "Whole genome sequencing of 1427 Mexican individuals from the oriGen cohort",
+    "link": "https://www.nature.com/articles/s41467-026-77389-0",
+    "authors": [
+      "Israel Aguilar-Ordoñez",
+      "Eugenio Guzman-Cerezo",
+      "David Torres-Treviño",
+      "Alvaro Colin-Oviedo",
+      "Rocio Ortiz-Lopez",
+      "Elena-Cristina Gonzalez-Castillo",
+      "Nestor Rubio-Infante",
+      "Jose Ramirez-Vega",
+      "Rocio-Alejandra Chavez-Santoscoy",
+      "Cuitlahuac Ruiz-Matus",
+      "Martin De-La-Cruz",
+      "Gerado Garcia-Rivas",
+      "Servando Cardona",
+      "Pablo Kuri-Morales",
+      "Guillermo Torre-Amione",
+      "Víctor Treviño"
+    ],
+    "summary": "Nature Communications, Published online: 05 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77389-0\">doi:10.1038/s41467-026-77389-0</a>Mexican populations remain underrepresented in genomics. Here, Aguilar-Ordoñez et al. report on 1,481 whole-genomes from the oriGen project, identifying key variants like a CNV driving the Rh-negative blood group.",
+    "source": "Nature Communications",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600498X",
+    "title": "Refining the average µ<sup>182</sup>W and µ<sup>142</sup>Nd compositions of the Archean to Proterozoic upper crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600498X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Josua J. Pakulla, Niklas Kallnik, Leander Sämann, Mario Fischer-Gödde, Simon Hohl, Albertus J.B. Smith, Sebastian Viehmann, Guang-Yi Wei, Frank Wombacher, Carsten Münker",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123438",
+    "title": "Surface Expression of the Kuroshio Extension Northern Recirculation Gyre",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123438?af=R",
+    "authors": [
+      "Haihong Guo, \nMengze Song, \nZhaohui Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124844",
+    "title": "Plume‐Fed Magmatic Fluids Weakened Crust and Promoted a Large Intraplate Earthquake in Northern Hainan (South China)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124844?af=R",
+    "authors": [
+      "Lue Yang, \nLun Li, \nChen Cai, \nJialong He, \nHongyi Li, \nYulong Xue, \nJinming Zhang, \nYuan Gao, \nZiwei Li, \nRui Gao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124653",
+    "title": "Horizontal and Vertical Structure of Cloud Effective Radius in Eastward‐Propagating Convective Systems",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124653?af=R",
+    "authors": [
+      "Jing Sun, \nYunying Li, \nXiong Hu, \nZitong Chen, \nXiang Lin, \nFan Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125329",
+    "title": "The Role of Vegetation Clumping in Regulating Global Heat Fluxes Accounting for Land‐Atmosphere Coupling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125329?af=R",
+    "authors": [
+      "Zhicheng Huang, \nPeirong Lin, \nZimin Yuan, \nXiangyong Lei, \nDalei Hao, \nWenjie Fan"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123060",
+    "title": "Diagnosing CESM2 Biases in Northwest Indian Ocean Warming and Its Implications for India Summer Monsoon Precipitation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123060?af=R",
+    "authors": [
+      "Yunfan Chen, \nJulia Cole, \nSamantha Stevenson, \nMidhun Madhavan, \nYan Du, \nYingying Feng, \nJoelle Tanuputri, \nKelsey Dyez"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123736",
+    "title": "Emerging Hotspots of Cropland Expansion on Steeper Tropical Terrains Intensify Tropical Forest Carbon Loss",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123736?af=R",
+    "authors": [
+      "Xiaofeng Yang, \nAlan D. Ziegler, \nHaohan Wei, \nPaul R. Elsen, \nXiaoxin Zhang, \nMengxiang Kong, \nJinran Xiong, \nYao Wang, \nJie Wu, \nZhenzhong Zeng, \nYu Feng, \nChunmiao Zheng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013210",
+    "title": "Investigating Layered Cratonic Lithosphere in the Fennoscandian Shield",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013210?af=R",
+    "authors": [
+      "Yiran Huang, \nColleen A. Dalton, \nKaren M. Fischer"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 9, September 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033859",
+    "title": "Distinct Groundwater Regimes in West Antarctic Sedimentary Basins Inferred From Magnetotelluric Imaging",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033859?af=R",
+    "authors": [
+      "Siobhan F. Killingbeck, \nBernd Kulessa, \nRebecca Pearce, \nAlex Brisbourne, \nLouise Borthwick, \nFelipe Napoleoni, \nSridhar Anandakrishnan, \nMartyn Unsworth, \nAtsuhiro Muto"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034313",
+    "title": "3D Absorption and 2D Scattering Attenuation of the Kashmir “Seismic Gap” in NW Himalaya",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034313?af=R",
+    "authors": [
+      "Dibyajyoti Chaudhuri, \nAmarjeet Kumar, \nSupriyo Mitra, \nSunil Kumar Wanchoo, \nKeith Priestley"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-04",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02800-1",
     "title": "Briefing Chat: How 1,000 pairs of buried underpants helped measure soil health",
     "link": "https://www.nature.com/articles/d41586-026-02800-1",
