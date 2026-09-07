@@ -1,5 +1,55 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77310-9",
+    "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length",
+    "link": "https://www.nature.com/articles/s41467-026-77310-9",
+    "authors": [
+      "Xiaoran Chai",
+      "LaiFong Poon",
+      "Hengrui Liu",
+      "Manvendra K. Singh",
+      "Takashi Minami",
+      "Goro Sashida",
+      "Masafumi Fukuda",
+      "Bin Tean Teh",
+      "Patrick Tan",
+      "William Ying Khee Hwang",
+      "Jue Lin",
+      "Angela S. Koh",
+      "Tatsuro Kondoh",
+      "Lifeng Xu",
+      "Motomi Osato",
+      "Jin Liu",
+      "Shang Li"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77310-9\">doi:10.1038/s41467-026-77310-9</a>The authors use long-read sequencing to map allele-specific telomere lengths and telomere variant sequences (TVS). They find that TVSs dispersed along the telomere repeat region are heritable genetic elements that account for the extreme heterogeneity of telomere length between alleles.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034263",
+    "title": "A Fractal Link Between Soil Water Retention and Freezing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034263?af=R",
+    "authors": [
+      "Hao Wang, \nSai K. Vanapalli"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005703",
+    "title": "Iron isotopes reveal the transition from magmatic to hydrothermal systems in highly evolved granites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005703?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yikang Quan, Jiaru Sheng, Gengxin Deng, Yan Jing, Xiangyu Yan, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-77155-2",
     "title": "PRMT7 restricts CD8+ T cells expansion via the NF-ΚB pathway",
     "link": "https://www.nature.com/articles/s41467-026-77155-2",
