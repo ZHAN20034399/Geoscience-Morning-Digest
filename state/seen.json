@@ -1,5 +1,257 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02086-y",
+    "title": "Past abrupt changes in Atlantic Ocean currents controlled the Earth’s energy balance",
+    "link": "https://www.nature.com/articles/s41561-026-02086-y",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41561-026-02086-y\">doi:10.1038/s41561-026-02086-y</a>During the last ice age, the Atlantic Meridional Overturning Circulation (AMOC) underwent a series of abrupt reorganizations. The global impact of these events reflects the accumulation of heat in the ocean interior during the weak AMOC mode and its loss during the strong mode, facilitated by radiative feedbacks that altered the planetary energy balance.",
+    "source": "Nature Geoscience",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77486-0",
+    "title": "Symmetry-cooperative optical-field engineering for ultrabroadband bulk photovoltaic photodetection",
+    "link": "https://www.nature.com/articles/s41467-026-77486-0",
+    "authors": [
+      "Sheng Ni",
+      "Xin Li",
+      "Rongsheng Chen",
+      "Fengyi Zhu",
+      "Changyi Pan",
+      "Shian Mi",
+      "Xuhao Fan",
+      "Haibiao Guan",
+      "Weiwei Tang",
+      "Lin Wang",
+      "Haibo Shu",
+      "Min Hu",
+      "Changlong Liu",
+      "Xiaoshuang Chen",
+      "Guanhai Li"
+    ],
+    "summary": "Nature Communications, Published online: 08 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77486-0\">doi:10.1038/s41467-026-77486-0</a>The authors establish device‑scale optical‑field symmetry asa powerful design degree of freedom for extending bulk photovoltaic photodetection into low‑energy spectral regimes atroom temperature.",
+    "source": "Nature Communications",
+    "date": "2026-09-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77422-2",
+    "title": "Harvesting environmental circadian oscillations for energy autonomy of soft robots",
+    "link": "https://www.nature.com/articles/s41467-026-77422-2",
+    "authors": [
+      "Sergio Picella",
+      "Alberto Comoretto",
+      "Olivier Vaarkamp",
+      "Johannes T. B. Overvelde"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77422-2\">doi:10.1038/s41467-026-77422-2</a>Researchers developed a soft robotic system that harvests energy from naturally occurring thermal oscillations, enabling electronics-free robots to move autonomously without external power or repeated manual recharging.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77574-1",
+    "title": "Superior flexibility merges high power density in single-crystal Bi<sub>2</sub>Te<sub>3</sub> film thermoelectric generators",
+    "link": "https://www.nature.com/articles/s41467-026-77574-1",
+    "authors": [
+      "Jitao Niu",
+      "Xingyan Dong",
+      "Yu-Ke Zhu",
+      "Junbo Niu",
+      "Ming Liu",
+      "Ding Luo",
+      "Le Zhang",
+      "Zhengfengyi Du",
+      "Yuxiang Gong",
+      "Muchun Guo",
+      "Zhentao Guo",
+      "Pengyuan Zhang",
+      "Hongrui Ma",
+      "Mingdi Lan",
+      "Fengkai Guo",
+      "Zihang Liu",
+      "Jiehe Sui"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77574-1\">doi:10.1038/s41467-026-77574-1</a>This work demonstrates an antisite-defect suppression strategy for Bi2Te3 single-crystal thin films, enabling flexible thermoelectric generators that deliver high power output and long-term bending durability for wearable microelectronic applications.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77475-3",
+    "title": "Spatiotemporal dynamics of tire wear particles reveal escalating emission inequalities across China’s road network",
+    "link": "https://www.nature.com/articles/s41467-026-77475-3",
+    "authors": [
+      "Yunfei Ma",
+      "Wei Chen",
+      "Elisabeth S. Rødland",
+      "Thilo Hoffmann",
+      "Zhi Cao",
+      "Jingyi Zhang",
+      "Shuxiao Wang",
+      "Huan Liu",
+      "Qingru Wu",
+      "Jianfei Peng",
+      "Jingyuan Li",
+      "Tong Zhang",
+      "Yan Lin"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77475-3\">doi:10.1038/s41467-026-77475-3</a>As vehicle exhaust emissions fall, tire and road wear particles (TRWP) are becoming a major PM2.5 source. In China, road traffic emitted 425 kt of TRWP PM2.5 in 2023, concentrating risks in cities. Without action, TRWP will grow by 2050, but targeted measures could cut emissions by 41%.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-75577-6",
+    "title": "SPE-55 and VHA-18 are essential for FB-MO complex assembly and transport during spermatogenesis in <i>C. elegans</i>",
+    "link": "https://www.nature.com/articles/s41467-026-75577-6",
+    "authors": [
+      "Xiaojing Ma",
+      "Xinyan Chen",
+      "Lianwan Chen",
+      "Peng Wang",
+      "Xinyue Lu",
+      "Xiaolong Zhang",
+      "Ying Chen",
+      "Ning Wang",
+      "Qiushi Wang",
+      "Zheng Cao",
+      "Yong Liu",
+      "Yanmei Zhao",
+      "Long Miao"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-75577-6\">doi:10.1038/s41467-026-75577-6</a>This study shows that SPE-55 and VHA-18 coordinate fibrous body–membranous organelle assembly during C. elegans spermatogenesis, providing a mechanism for how sperm cargoes are sorted and directionally transported.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77447-7",
+    "title": "Plasmid–Host Networks Reveal Persistent Mobile Elements Across Wastewater Treatment",
+    "link": "https://www.nature.com/articles/s41467-026-77447-7",
+    "authors": [
+      "Siyi Zhou",
+      "Sarah E. Philo",
+      "Michael A. Saldana",
+      "Jeseth Delgado Vela",
+      "Adam L. Smith",
+      "Lauren B. Stadler"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77447-7\">doi:10.1038/s41467-026-77447-7</a>Using Hi-C metagenomics, this study maps how plasmids associate with bacterial hosts across wastewater treatment. They find that plasmid host range narrows from influent to effluent, and a few bacterial families act as persistent plasmid reservoir.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77577-y",
+    "title": "Extreme-bandwidth valley photonic metamaterials approaching Dirac velocity",
+    "link": "https://www.nature.com/articles/s41467-026-77577-y",
+    "authors": [
+      "Xiaoxian He",
+      "Jianfeng Chen",
+      "Zhiqing Liang",
+      "Yidong Zheng",
+      "Liukefei Cui",
+      "Feng Liang",
+      "Zhi-Yuan Li",
+      "Xiangru Wang",
+      "Cheng-Wei Qiu"
+    ],
+    "summary": "Nature Communications, Published online: 07 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77577-y\">doi:10.1038/s41467-026-77577-y</a>The authors demonstrate ultrabroadband valley transport with near-Dirac group velocity through Dirac-mass engineering and mode control.",
+    "source": "Nature Communications",
+    "date": "2026-09-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002916",
+    "title": "Glaciers of Ecuador: a review of current scientific knowledge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002916?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Luis Angel Avila, Nestor Campos",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004747",
+    "title": "Heterogenous <sup>48</sup>Ca isotopic anomalies in a diverse suite of refractory inclusions, insights into the primordial Solar System",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004747?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Justin I. Simon, Rosalind M.G. Armytage",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004991",
+    "title": "Quantifying Tethys temperature evolution driven by <em>p</em>CO<sub>2</sub> and ocean circulation during Oceanic Anoxic Event 2",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004991?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Tianyang Wang, Jian Zhang, Songlin He, Jonathan C. Aitchison, Licheng Wang, Andreas Mulch, Guobiao Li, Jing Xie, Dangpeng Xi, Lin Ding",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124055",
+    "title": "Melt‐Regulated Crustal Kinematics in the Pamir, NW Tibetan Plateau: Insights From Surface‐Wave Tomography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124055?af=R",
+    "authors": [
+      "Bingfeng Zhang, \nShijie Hao, \nXuewei Bao, \nPing Tong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124149",
+    "title": "Stratospheric Quasi‐Biennial Oscillation Modulates Tropical Cyclone Extreme Rainfall Over East Asia via Intraseasonal Oscillation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124149?af=R",
+    "authors": [
+      "Xiaomin Wang, \nFang Zhou, \nZhicong Yin, \nMinghong Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124456",
+    "title": "A Compensated Structure‐Function Approach to Measuring TKE Dissipation in the Atmospheric Boundary Layer",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124456?af=R",
+    "authors": [
+      "Robert M. Banta, \nChristoph J. Senff"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 17, 16 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035666",
+    "title": "Why Does the Broken Hill Deposit Sit in Resistive Crust? Magnetotelluric Evidence for Metamorphic Decoupling of a World‐Class Mineral System",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035666?af=R",
+    "authors": [
+      "Yahya AlQahtani, \nSinan Özaydın, \nVasileios Chatzaras, \nPatrice F. Rey, \nTiago Passos"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005727",
+    "title": "Erosion-driven changes in soil cation exchange capacity quantified using barium isotopes",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005727?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Luke Bridgestock, Emily Stevenson, J.Jotautas Baronas, Alasdair Knight, Harold J. Bradbury, Alexandra V. Turchyn, Edward T. Tipper",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-08",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-77310-9",
     "title": "Telomere variant sequences encode the genetic blueprint for allele-specific telomere length",
     "link": "https://www.nature.com/articles/s41467-026-77310-9",
