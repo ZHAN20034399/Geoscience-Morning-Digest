@@ -1,5 +1,176 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-02826-5",
+    "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
+    "link": "https://www.nature.com/articles/d41586-026-02826-5",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 13 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02826-5\">doi:10.1038/d41586-026-02826-5</a>The extreme weather of this year’s mega El Niño could look different from past events.",
+    "source": "Nature",
+    "date": "2026-09-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76910-9",
+    "title": "Hos2-mediated KatG1 decrotonylation orchestrates ROS scavenging in rice blast infection",
+    "link": "https://www.nature.com/articles/s41467-026-76910-9",
+    "authors": [
+      "Zhiyong Ren",
+      "Zhirong Peng",
+      "Yong Zhang",
+      "Shanjun Tang",
+      "Shikun Xiang",
+      "Jun Zhu",
+      "Xiang Dong",
+      "Mengxi Tang",
+      "Shimei Zhang",
+      "Mengyuan Qin",
+      "Zhiguang Qu",
+      "Yanling Kong",
+      "Junjie Xing",
+      "Jingbo Xu",
+      "Xiao-Lin Chen"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76910-9\">doi:10.1038/s41467-026-76910-9</a>Plants trigger reactive oxygen species (ROS) bursts to defend against pathogens. Here the authors report that decrotonylation and relocalization of the rice blast fungus KatG1 protein can activate fungal ROS responses and propose targeting of this pathway in fungicide development.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77489-x",
+    "title": "Geometrical-optics resonator photonics",
+    "link": "https://www.nature.com/articles/s41467-026-77489-x",
+    "authors": [
+      "Chunlei Sun",
+      "Kangjian Bao",
+      "Boshu Sun",
+      "Bo Tang",
+      "Xu Yang",
+      "Zequn Chen",
+      "Yiheng Tang",
+      "Qingyan Deng",
+      "Yingchun Wu",
+      "Lei Liu",
+      "Renjie Tang",
+      "Zongxi Li",
+      "Kunhao Lei",
+      "Yilin Shi",
+      "William Shieh",
+      "Min Qiu",
+      "Hongtao Lin",
+      "Lan Li"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77489-x\">doi:10.1038/s41467-026-77489-x</a>The authors show that the geometrical-optics resonator (GOR) framework introduces a novel approach to on-chip photonics, overcoming the limitations of conventional waveguide optical resonators. They show that this innovation enables intrinsic Q-factors exceeding 1 million and tunable microwave photonic filters.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005261",
+    "title": "Carbonate-rich melt formation and connectivity in Earth’s upper mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005261?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Emmanuel A. Codillo, Anne Pommier, Ming Hao, Michael Walter, Andrew Thomson, Rajdeep Dasgupta",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005108",
+    "title": "Do Himalayan-style mountains lie under the Antarctic ice: Implication for the Gondwana Supermountains, the rise of oxygen and the Cambrian explosion?",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005108?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Bei Chen, Ian H. Campbell",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125330",
+    "title": "Evaluating Changes in Convective Environments Over Subtropical South America Under Forced and Natural Climate Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125330?af=R",
+    "authors": [
+      "Anindita Chakraborty, \nJames W. Hurrell, \nKristen L. Rasmussen, \nLantao Sun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124086",
+    "title": "Impacts of Anthropogenic Aerosol‐Forced North Atlantic SST Variability on the Simulated Historical Global Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124086?af=R",
+    "authors": [
+      "Harun A. Rashid"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125275",
+    "title": "The Role of Tectonic Inheritance in Active Rift Seismicity and Magmatism: Constraints From 3‐D Gravity Inversion and D‐InSAR Modeling of the 2025 Fentale Swarm, Ethiopia",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125275?af=R",
+    "authors": [
+      "Denberu Besfat, \nTilahun Mammo"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123346",
+    "title": "Chorus Wave‐Induced Ionospheric Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123346?af=R",
+    "authors": [
+      "Lunjin Chen, \nGrant D. Berland, \nRobert A. Marshall, \nJun Liang, \nHuayue Chen, \nZhiyang Xia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033894",
+    "title": "Crustal Anisotropy and Deformation Mechanism of the Southern South China Block",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033894?af=R",
+    "authors": [
+      "Huiyu Tian, \nJianshe Lei, \nDapeng Zhao, \nLongchun Qian"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034434",
+    "title": "Thermo‐Mechanical Controls on Central‐Vent Caldera Collapse",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034434?af=R",
+    "authors": [
+      "Pascal S. Aellig, \nAlbert de Montserrat, \nBoris J. P. Kaus"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB032097",
+    "title": "Mechanisms of Transient Postseismic Deformation Following the 2024 Mw 7.5 Noto Peninsula Earthquake Inferred From Horizontal and Vertical GNSS Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB032097?af=R",
+    "authors": [
+      "Jeonghyeop Kim, \nFred F. Pollitz, \nDavid A. Schmidt"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-12",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02893-8",
     "title": "Briefing Chat: The Bunsen burner myth that turns out to be just hot air",
     "link": "https://www.nature.com/articles/d41586-026-02893-8",
