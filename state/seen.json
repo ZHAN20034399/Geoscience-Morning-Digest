@@ -1,5 +1,254 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77732-5",
+    "title": "Mineral-integrated electrochemical system enabling membrane-free pH swing and active chlorine species generation for urine valorization",
+    "link": "https://www.nature.com/articles/s41467-026-77732-5",
+    "authors": [
+      "Ju Luo",
+      "Zhengshuo Zhan",
+      "Weiquan Li",
+      "Lingyu He",
+      "Yang Lei"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77732-5\">doi:10.1038/s41467-026-77732-5</a>A membrane‑free electrochemical alkalization and electrooxidation system for urine valorization enables efficient phosphorus recovery and urea stabilization, providing a scalable route for nutrient recycling and sustainable fertilizer production.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77591-0",
+    "title": "Privacy-preserving pangenome graphs",
+    "link": "https://www.nature.com/articles/s41467-026-77591-0",
+    "authors": [
+      "Jacob Blindenbach",
+      "Shaunak Soni",
+      "Gamze Gürsoy"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77591-0\">doi:10.1038/s41467-026-77591-0</a>Here the authors present PanMixer, a framework that obfuscates haplotype paths in pangenome graphs to reduce privacy risk while preserving downstream utility.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77739-y",
+    "title": "Difunctionalization of unsaturated hydrocarbons via EDA complexes to access pentafluorosulfanyl thioethers",
+    "link": "https://www.nature.com/articles/s41467-026-77739-y",
+    "authors": [
+      "Xiaofeng Zhang",
+      "Yuanyang Jiang",
+      "Hui-Yi Yang",
+      "Yifan Ma",
+      "Jiangshan Zhang",
+      "Ning Zhang",
+      "Gang Wu",
+      "Donglei Sun",
+      "Yi Shi",
+      "Wei Zhang",
+      "Shuaishuai Yue",
+      "Shuo Guo",
+      "Jianbo Wang"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77739-y\">doi:10.1038/s41467-026-77739-y</a>The pentafluorosulfanyl group is prized in medicinal chemistry for improving physicochemical properties of small molecules, yet its general incorporation into electron-deficient alkenes remains challenging. Here, the authors report EDA photoactivation enabling thiopentafluorosulfanylation of unsaturated hydrocarbons to access diverse thioethers.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77722-7",
+    "title": "RICTOR regulates an interspecies crosstalk that influences longevity through a methionine cycle-mitophagy axis",
+    "link": "https://www.nature.com/articles/s41467-026-77722-7",
+    "authors": [
+      "Simran Motwani",
+      "Somya Bhandari",
+      "Shivani Chitkara",
+      "Rajat Ujjainiya",
+      "Prerona Ghosh",
+      "Shantanu Sengupta",
+      "Arnab Mukhopadhyay"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77722-7\">doi:10.1038/s41467-026-77722-7</a>Physiological traits are modulated in response to diet. Here the authors show that RICTOR restrains host responses to vitamin B12 in C. elegans by modulating organellar quality control and regulating lifespan.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76657-3",
+    "title": "Antagonistic roles of histone H3 lysine methyltransferases dictate tumor immune surveillance",
+    "link": "https://www.nature.com/articles/s41467-026-76657-3",
+    "authors": [
+      "Amy C. Gladstein",
+      "Akino Mercy Charles Solomon",
+      "Carson D. Poltorack",
+      "Sharan Venkatesh",
+      "Keren M. Adler",
+      "Maggie R. Robertson",
+      "Stephanie Stransky",
+      "Valerie M. Irizarry-Negron",
+      "Dain A. Ruiz",
+      "Dingwen Tao",
+      "Nelson F. Freeburg",
+      "Simone Sidoli",
+      "Irfan A. Asangani",
+      "Sydney M. Shaffer",
+      "David M. Feldser"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76657-3\">doi:10.1038/s41467-026-76657-3</a>Histone H3K36 methyltransferases are frequently altered in cancer, yet the distinct roles of H3K36 methylation states in tumorigenesis and immunity remain unclear. This study identifies an H3K36-dependent epigenetic circuit that controls endogenous retroviral elements (ERVs) repression and immune surveillance in KRAS-driven lung cancer models.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77793-6",
+    "title": "Built-in electric field-boosted attomolar Pb²⁺ sensing on carboxylated black phosphorene",
+    "link": "https://www.nature.com/articles/s41467-026-77793-6",
+    "authors": [
+      "Fan Yang",
+      "Xixi Yuan",
+      "Jiaqi Zhu",
+      "Yuanyuan Pan",
+      "Zhongjun Li",
+      "Jianqing Li",
+      "Yanqi Ge",
+      "Leiming Wu",
+      "Yuanjiang Xiang",
+      "Han Zhang",
+      "Jun Yang",
+      "Yuwen Qin"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77793-6\">doi:10.1038/s41467-026-77793-6</a>Lead ion (Pb²⁺) contamination remains a threat to environmental safety and human health, requiring sensitive detectors. Here, the authors report the realization of carboxyl-functionalized black phosphorene modified surface plasmon resonance sensors with detection limit down to 10⁻¹⁹ M and good selectivity against other metal ions.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77638-2",
+    "title": "Preclinical and clinical investigation of VES001, an oral small molecule sortilin receptor inhibitor for the treatment of frontotemporal dementia: a first-in-human randomized placebo-controlled phase 1 trial",
+    "link": "https://www.nature.com/articles/s41467-026-77638-2",
+    "authors": [
+      "Louise Klem",
+      "Daniel Dumas",
+      "Imogen J. Swift",
+      "Sofie L. Frandsen",
+      "Ditte Nedergaard Mikkelsen",
+      "Laerke Fensbaek",
+      "Yalçin Yavuz",
+      "Okke Merton",
+      "Jesminne Castricum",
+      "Simone Prichardt",
+      "Graham M. Wynne",
+      "Anders Riisager",
+      "Nina Schultz",
+      "Paul B. Little",
+      "Ove Pedersen",
+      "Eva Thijssen",
+      "Anders Nykjaer",
+      "Philip Kremer",
+      "Mads Kjolby"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77638-2\">doi:10.1038/s41467-026-77638-2</a>Treatment for frontotemporal dementia due to GRN haploinsufficiency (FTD-GRN) are lacking. Here, in this preclinical and Phase 1 clinical trial, the authors show that VES001, an oral small molecule sortilin inhibitor, is safe and well tolerated, and increased progranulin levels.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77414-2",
+    "title": "Telomere length of both parents contributes to heritable POT1 cancer-predisposition syndrome",
+    "link": "https://www.nature.com/articles/s41467-026-77414-2",
+    "authors": [
+      "Annika Martin",
+      "Robert Lu",
+      "Alise Blake",
+      "Kim E. Nichols",
+      "Santiago E. Sanchez",
+      "Steven E. Artandi",
+      "Sharon A. Savage",
+      "Richa Sharma",
+      "Dirk Hockemeyer"
+    ],
+    "summary": "Nature Communications, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77414-2\">doi:10.1038/s41467-026-77414-2</a>Using haplotype-specific nanopore sequencing, the authors show that cancer-associated POT1 mutations reshape telomere inheritance across generations through germline and post-fertilization remodeling of the shortest telomeres.",
+    "source": "Nature Communications",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002928",
+    "title": "A review of phase-transition representation in permafrost land surface models: Mechanisms, algorithms, and impacts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002928?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shenning Wang, Ren Li, Tonghua Wu, Yao Xiao, Xiaodong Wu",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122337",
+    "title": "Probing Subsurface Properties With Mission Hardware: Lessons Learned From Artificial Impacts of Mars 2020",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122337?af=R",
+    "authors": [
+      "A. J. Sokołowska, \nI. J. Daubar, \nG. S. Collins, \nF. Calef, \nA. Jones"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125600",
+    "title": "Field‐Aligned Anisotropy of Electrons in Magnetic Hole Behind the Dipolarization Front in the Flow Braking Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125600?af=R",
+    "authors": [
+      "Y. Y. Wei, \nS. Y. Huang, \nK. Jiang, \nZ. G. Yuan, \nQ. Y. Xiong, \nS. H. Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125630",
+    "title": "Land Radiative Management Increases Heat Stress in Some Humid Regions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125630?af=R",
+    "authors": [
+      "Yu Cheng, \nKaighin A. McColl"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124717",
+    "title": "A 400‐Year Antarctic Ice‐Core Perchlorate Record Reveals Variability in Stratospheric Chlorine Chemistry",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124717?af=R",
+    "authors": [
+      "Wenzhi Zhou, \nSu Jiang, \nZhe Li, \nBo Zhang, \nDanhe Wang, \nDongqi Wang, \nGuitao Shi"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005934",
+    "title": "Hydrothermal experiments reveal methanol, ammonia, and methylamines as tracers of pH and temperature with potential application to Enceladus, Europa, and other icy ocean worlds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005934?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Kirtland J. Robinson, Everett L. Shock, Sean P. Sylva, Jeffrey S. Seewald",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726005946",
+    "title": "Disrupted magmatic evolution controls Nb and REE co-enrichment in alkaline-carbonatite systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726005946?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Chunwan Wei, Cheng Xu, John Mavrogenes, Jindrich Kynicky, Wenlei Song, Yuhan Ma",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02826-5",
     "title": "The super El Niño is already wreaking havoc: here’s what’s in store",
     "link": "https://www.nature.com/articles/d41586-026-02826-5",
