@@ -1,5 +1,658 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11139-6",
+    "title": "Quality control of glycogen through direct ubiquitylation by RNF213",
+    "link": "https://www.nature.com/articles/s41586-026-11139-6",
+    "authors": [
+      "Matthew C. J. Yip",
+      "Katerina Naydenova",
+      "Elsje G. Otten",
+      "Alexander Heatley",
+      "Agnes Moe",
+      "Leonie Anton",
+      "Lucía de los Reyes-Ramírez",
+      "Helen E. Jolin",
+      "Frederic Langevin",
+      "Michal Wiacek",
+      "Catarina Franco",
+      "Anne Bertolotti",
+      "Wanda Kukulski",
+      "Andrew N. J. McKenzie",
+      "Felix Randow"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11139-6\">doi:10.1038/s41586-026-11139-6</a>Quality control of glycogen through direct ubiquitylation by RNF213",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11137-8",
+    "title": "Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+    "link": "https://www.nature.com/articles/s41586-026-11137-8",
+    "authors": [
+      "Xiangyue Zhang",
+      "Christopher S. McGinnis",
+      "Guotao Yu",
+      "Sijie Chen",
+      "Pingping Zheng",
+      "Christian M. Schürch",
+      "Kamir J. Hiam-Galvez",
+      "Nathan E. Reticker-Flynn",
+      "Wenhui Guo",
+      "Winnie Yao",
+      "Jingtao Qiu",
+      "Alexander Muselman",
+      "Ian L. Linde",
+      "John W. Hickey",
+      "Hao Yan",
+      "Victoria M. Tran",
+      "Wenli Qiu",
+      "Delphine Brichart-Vernos",
+      "Toshihito Hirai",
+      "Bo Yu",
+      "Xiuli An",
+      "Yanling Xiao",
+      "Helena Paidassi",
+      "Tiffany C. Scharschmidt",
+      "Michael Angelo",
+      "Dean Sheppard",
+      "Hongbo Chi",
+      "Ansuman T. Satpathy",
+      "Sing Sing Way",
+      "Bernard Malissen",
+      "Samuel Strober",
+      "Edgar G. Engleman"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11137-8\">doi:10.1038/s41586-026-11137-8</a>Author Correction: Erythropoietin receptor on cDC1s dictates immune tolerance",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02904-8",
+    "title": "A wake-up call: diversify global research funding",
+    "link": "https://www.nature.com/articles/d41586-026-02904-8",
+    "authors": [
+      "Huixue Zhang",
+      "Shiyu Wang"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02904-8\">doi:10.1038/d41586-026-02904-8</a>A wake-up call: diversify global research funding",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02907-5",
+    "title": "Why Nepal floods resulted in a disaster even after satellites spotted danger",
+    "link": "https://www.nature.com/articles/d41586-026-02907-5",
+    "authors": [
+      "Rajeev Bhattarai"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02907-5\">doi:10.1038/d41586-026-02907-5</a>Why Nepal floods resulted in a disaster even after satellites spotted danger",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02723-x",
+    "title": "The geometric genius of René Descartes",
+    "link": "https://www.nature.com/articles/d41586-026-02723-x",
+    "authors": [],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02723-x\">doi:10.1038/d41586-026-02723-x</a>The achievements of a visionary mathematician, and a trip to the National Air and Space Museum in Washington DC, in this week’s pick from the Nature archive.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02905-7",
+    "title": "Make AI traceable before it shapes global climate assessments",
+    "link": "https://www.nature.com/articles/d41586-026-02905-7",
+    "authors": [
+      "Carlos Garcia-Soto"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02905-7\">doi:10.1038/d41586-026-02905-7</a>Make AI traceable before it shapes global climate assessments",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02906-6",
+    "title": "Why the NIH must resist the metrics trap",
+    "link": "https://www.nature.com/articles/d41586-026-02906-6",
+    "authors": [
+      "Kirsten K. Davison"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02906-6\">doi:10.1038/d41586-026-02906-6</a>Why the NIH must resist the metrics trap",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02885-8",
+    "title": "Global inequality panel is a chance for research to change lives",
+    "link": "https://www.nature.com/articles/d41586-026-02885-8",
+    "authors": [],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02885-8\">doi:10.1038/d41586-026-02885-8</a>The scientific panel is welcomed. It must now invite all interested researchers to participate.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02848-z",
+    "title": "CRISPR crops are coming to Europe — why bolder would be better",
+    "link": "https://www.nature.com/articles/d41586-026-02848-z",
+    "authors": [
+      "Nico De Storme"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02848-z\">doi:10.1038/d41586-026-02848-z</a>For farmers and consumers to reap the benefits, guidelines for farming gene-edited plants must be implemented with careful thought.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02850-5",
+    "title": "Underground hydrogen could spur a green-energy revolution — if companies can find it",
+    "link": "https://www.nature.com/articles/d41586-026-02850-5",
+    "authors": [
+      "James Mitchell Crow"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02850-5\">doi:10.1038/d41586-026-02850-5</a>Firms are racing to drill for hydrogen in hopes of finding a dirt-cheap green-energy source.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02853-2",
+    "title": "Cities and countryside are intimately linked — green initiatives must recognize that",
+    "link": "https://www.nature.com/articles/d41586-026-02853-2",
+    "authors": [
+      "Yansui Liu",
+      "Xinxin Huang"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02853-2\">doi:10.1038/d41586-026-02853-2</a>Urban areas depend on resources from the land that surrounds them. Managing regions in their entirety is the best way to avoid rural decline.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02891-w",
+    "title": "‘Stomach bugs’ send protective immune cells rushing from gut to brain",
+    "link": "https://www.nature.com/articles/d41586-026-02891-w",
+    "authors": [
+      "Gemma Conroy"
+    ],
+    "summary": "Nature, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02891-w\">doi:10.1038/d41586-026-02891-w</a>Voyaging gut-derived immune cells ‘remember’ past stomach infections in mice.",
+    "source": "Nature",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11124-z",
+    "title": "Encoded and non-genetic protein variants expand human functional proteome",
+    "link": "https://www.nature.com/articles/s41586-026-11124-z",
+    "authors": [
+      "Vyacheslav Tretyachenko",
+      "Tehila Leiman",
+      "David Morgenstern",
+      "Yishai Levin",
+      "Omer Asraf",
+      "Orna Dahan",
+      "Dvir Dahary",
+      "Yitzhak Pilpel"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11124-z\">doi:10.1038/s41586-026-11124-z</a>Encoded and non-genetic protein variants expand human functional proteome",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02908-4",
+    "title": "The roots of astrology, the mysterious nature of time and more: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-02908-4",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02908-4\">doi:10.1038/d41586-026-02908-4</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02847-0",
+    "title": "How is climate change affecting conifers and their ability to sequester carbon?",
+    "link": "https://www.nature.com/articles/d41586-026-02847-0",
+    "authors": [
+      "Mary Abraham"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02847-0\">doi:10.1038/d41586-026-02847-0</a>Fresh evidence reveals that the interplay of several factors could affect the ability of these trees to grow.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02852-3",
+    "title": "The pet trade puts reptiles and amphibians at risk: close legal gaps now",
+    "link": "https://www.nature.com/articles/d41586-026-02852-3",
+    "authors": [
+      "Neil M. Vora",
+      "Susan Lieberman",
+      "Sandra Altherr",
+      "Juliana Machado Ferreira",
+      "Rachel Boratto",
+      "Michèle Hamers",
+      "John E. Scanlon",
+      "Chris Walzer"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02852-3\">doi:10.1038/d41586-026-02852-3</a>Patchy legislation means that animals are routinely taken from their natural habitats and sold in other countries. Fresh national and international measures could help to stop this exploitation.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02829-2",
+    "title": "Science philanthropy is rising in Brazil ― upending a long tradition",
+    "link": "https://www.nature.com/articles/d41586-026-02829-2",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02829-2\">doi:10.1038/d41586-026-02829-2</a>Philanthropists are stepping up support for research in a country where scientists have relied on the government alone for funding.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02895-6",
+    "title": "‘Multifunctional’ brain implant translates speech and gestures in real time",
+    "link": "https://www.nature.com/articles/d41586-026-02895-6",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02895-6\">doi:10.1038/d41586-026-02895-6</a>A neural device uses artificial intelligence to read brain activity for intended words and gestures simultaneously.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02608-z",
+    "title": "UK universities are on the brink — what is their greatest source of stress?",
+    "link": "https://www.nature.com/articles/d41586-026-02608-z",
+    "authors": [
+      "Elliot Yates",
+      "Jack Leeming"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02608-z\">doi:10.1038/d41586-026-02608-z</a>Nature asked eight leaders in higher education what they thought about the state of UK institutions. Here’s how they answered.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02851-4",
+    "title": "Fraud sealed the fate of controversial zoologist Paul Kammerer — 100 years on, his ideas deserve revisiting",
+    "link": "https://www.nature.com/articles/d41586-026-02851-4",
+    "authors": [
+      "Max Telford"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02851-4\">doi:10.1038/d41586-026-02851-4</a>After an eventful life in the limelight, the discovery of a manipulated specimen preceded the biologist’s death. Questions about his findings remain.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02915-5",
+    "title": "Daily briefing: How this year’s super El Niño is different",
+    "link": "https://www.nature.com/articles/d41586-026-02915-5",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02915-5\">doi:10.1038/d41586-026-02915-5</a>Climate change makes the event difficult to predict. Plus, signs of success from an early trial of an osteoporosis therapy and how to safeguard reptiles and amphibians from illegal trafficking.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02882-x",
+    "title": "Drug firms’ secret data supercharge AI protein models",
+    "link": "https://www.nature.com/articles/d41586-026-02882-x",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02882-x\">doi:10.1038/d41586-026-02882-x</a>An AI system trained on more than 20,000 protein structures from pharmaceutical companies outperforms AlphaFold-like models that use only public data.",
+    "source": "Nature",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02901-x",
+    "title": "Daily briefing: Skeleton teeth show evidence of the earliest known habitual drug use",
+    "link": "https://www.nature.com/articles/d41586-026-02901-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 11 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02901-x\">doi:10.1038/d41586-026-02901-x</a>Traces of the psychoactive compound arecoline suggest that two people regularly sucked on psychoactive betel nuts. Plus, what motivates people to take action on climate change and the promise of nasal vaccines.",
+    "source": "Nature",
+    "date": "2026-09-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77710-x",
+    "title": "Hierarchical regulation of oxygen-sensing through coupled transducers in <i>Arabidopsis thaliana</i>",
+    "link": "https://www.nature.com/articles/s41467-026-77710-x",
+    "authors": [
+      "Isabel Manrique-Gil",
+      "Charlene Dambire",
+      "Susana Ubeda-Tomás",
+      "Gunjan Sharma",
+      "Mohamad Abbas",
+      "Cristina Sousa Correia",
+      "Andrea Bombana",
+      "Ranjan Swarup",
+      "Nicholas J. Mitchell",
+      "Neil J. Oldham",
+      "Michael J. Holdsworth"
+    ],
+    "summary": "Nature Communications, Published online: 16 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77710-x\">doi:10.1038/s41467-026-77710-x</a>The PLANT CYSTEINE OXIDASE (PCO) N-degron pathway contributes to oxygen sensing in plants. Here the authors identify HYPOXIA TRANSDUCER1 (HYT1) as a substrate of PCO and show it forms a coherent feed-forward loop with ERFVII transcription factors to ensure a robust response to reduced oxygen.",
+    "source": "Nature Communications",
+    "date": "2026-09-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77774-9",
+    "title": "Visible light-induced oxygen atom transfer into C−CL bond of acyl chlorides for homolytic cleavage",
+    "link": "https://www.nature.com/articles/s41467-026-77774-9",
+    "authors": [
+      "Yang Zhang",
+      "Shibo Hou",
+      "Qiude Huang",
+      "Derun Zhang",
+      "Chengfeng Xia"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77774-9\">doi:10.1038/s41467-026-77774-9</a>Oxygen O(3 P) atom has been rarely explored in condensed-phase chemistry, with known examples limited to σ insertion into C − H bonds, alkene epoxidation, and sulfide oxidation. Herein, the authors report the efficient generation of oxygen O(3 P) atom via visible light-induced deoxygenation of aryl 1H benzotriazole 3-oxides under mild conditions and their transfer into the C−Cl bond of acyl chlorides to realize homolytic cleavage.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76501-8",
+    "title": "Direct measurement of protein dipoles reveals the mechanism for like-charge adsorption on silica",
+    "link": "https://www.nature.com/articles/s41467-026-76501-8",
+    "authors": [
+      "Luis Lechaptois",
+      "Antoine Miche",
+      "Qingao Li",
+      "Souhir Boujday",
+      "Sierin Lim",
+      "Olivier Pluchery"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76501-8\">doi:10.1038/s41467-026-76501-8</a>Negatively charged particles are expected to adsorb with difficulty onto negatively charged surfaces but some proteins do. In this study, the authors use ferritin as a model protein particle to study its adsorption onto a negatively charged silica surface and explain the electrostatics of this like-charge attraction.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77642-6",
+    "title": "Multimodal data-driven clustering analysis of heart failure patients identifies two distinct patterns of heart failure with preserved ejection fraction: Results from the PACIFIC-PRESERVED study",
+    "link": "https://www.nature.com/articles/s41467-026-77642-6",
+    "authors": [
+      "Jean-Sébastien Hulot",
+      "Pierre-Yves Hervé",
+      "Nicolas Girerd",
+      "Frédérique Chézalviel-Guilbert",
+      "Philip Janiak",
+      "Pierre Boutouyrie",
+      "Jean-Joseph Christophe",
+      "Ariel Cohen",
+      "Thibaud Damy",
+      "Liliane Berkani",
+      "Kevin Duarte",
+      "Caroline Fraslon",
+      "Hüseyin Firat",
+      "Olivier Hanon",
+      "Richard Isnard",
+      "Guillaume Jondeau",
+      "Elie Mousseaux",
+      "Mathieu Pernot",
+      "Andrea Ruiz-Velasco",
+      "Alfonso Sartorius",
+      "Benoit Tyl",
+      "Gilles Soulat",
+      "Philippe Boutinaud",
+      "Damien Logeart"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77642-6\">doi:10.1038/s41467-026-77642-6</a>Heart failure with preserved ejection fraction is clinically heterogeneous, complicating efforts to identify patients at highest risk. Here, the authors show that integrating proteomics with machine learning reveals two biologically distinct subtypes with different prognoses, including a high-risk inflammatory cardiorenal phenotype.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77817-1",
+    "title": "Compound Z247611722 Exhibits Antifungal Activity by Inhibiting Serine Palmitoyltransferase",
+    "link": "https://www.nature.com/articles/s41467-026-77817-1",
+    "authors": [
+      "Jana Nysten",
+      "Wout Van Eynde",
+      "Yunjin Lee",
+      "Eliane Vanhoffelen",
+      "Giovanni Desiderati",
+      "Tine Van Win",
+      "Greetje Vande Velde",
+      "Arnout Voet",
+      "Nicole Robbins",
+      "Leah E. Cowen",
+      "Patrick Van Dijck"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77817-1\">doi:10.1038/s41467-026-77817-1</a>This study identifies and characterizes Z247611722, a novel fungicidal compound active against multiple Candida species, and demonstrates that it inhibits sphingolipid biosynthesis by targeting serine palmitoyltransferase.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77619-5",
+    "title": "On-demand design of controlled-release systems using an expert-mimic AI framework",
+    "link": "https://www.nature.com/articles/s41467-026-77619-5",
+    "authors": [
+      "Ying Qin",
+      "Rushuang Zhou",
+      "Yali Ming",
+      "Bohao Li",
+      "Yuning Hu",
+      "Donglin Sui",
+      "Jingxuan Liu",
+      "Hang Wang",
+      "Guanghui Ma",
+      "Yuedong Yang",
+      "Yining Dong",
+      "Yufei Xia"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77619-5\">doi:10.1038/s41467-026-77619-5</a>Here the authors develop an AI framework called E-MAF that, starting from a desired release profile, couples process-aware prediction with expert-mimic evolutionary search to generate interpretable, lab-ready formulations for controlled release systems.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77701-y",
+    "title": "Loss of NCOA6 protein causes aggressive prostate cancer with EGFR overexpression and dependency",
+    "link": "https://www.nature.com/articles/s41467-026-77701-y",
+    "authors": [
+      "Yonghong Liu",
+      "Zhangwei Tong",
+      "Qianxing Mo",
+      "Xiaohui Peng",
+      "Antrix Jain",
+      "Sung Yun Jung",
+      "Patricia Castro",
+      "Mu Yang",
+      "Lan Liao",
+      "Roberto Mantovani",
+      "Fen Wang",
+      "Michael M. Ittmann",
+      "Jianming Xu"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77701-y\">doi:10.1038/s41467-026-77701-y</a>EGFR is frequently overexpressed in prostate cancer. Here, the authors show that the transcriptional co-activator NCOA6 and the nuclear transcription factor NFY form a regulatory complex that restricts EGFR overexpression and suppresses prostate cancer development.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77777-6",
+    "title": "Near-Zero Creep Ionic Elastomer for Non-drifting Ear Electroencephalogram Signal Acquisition",
+    "link": "https://www.nature.com/articles/s41467-026-77777-6",
+    "authors": [
+      "Ruiming Liu",
+      "Xueyang Ge",
+      "Xiaojun Zhang",
+      "Zijun Xu",
+      "Yanning Zhang",
+      "Xiaosen Pan",
+      "Zhenwen Li",
+      "Lihong Yang",
+      "Qin Yue"
+    ],
+    "summary": "Nature Communications, Published online: 15 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77777-6\">doi:10.1038/s41467-026-77777-6</a>Polymer electrodes are promising for wearable ear electroencephalogram sensors, though they are sensitive to polymer creep under sustained strain. Here the authors report a crosslinked copolymer which resists creep for stable sensing.",
+    "source": "Nature Communications",
+    "date": "2026-09-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00830-x",
+    "title": "Drivers, trends and impacts of nitrogen deposition in China",
+    "link": "https://www.nature.com/articles/s43017-026-00830-x",
+    "authors": [
+      "Lei Liu",
+      "Xuejun Liu",
+      "Xuemei Wang",
+      "Wen Xu",
+      "Aohan Tang",
+      "Enzai Du",
+      "Lei Duan",
+      "Yuepeng Pan",
+      "Lin Zhang",
+      "Jianlin Shen",
+      "Ling Song",
+      "Kaihui Li",
+      "Xiaobing Zhou",
+      "Xiankai Lu",
+      "Yu Zhao",
+      "Qian Yu",
+      "Mengmeng Li",
+      "Xiuying Zhang",
+      "Zhang Wen",
+      "Tianxiang Hao",
+      "Liquan Yao",
+      "Keith Goulding",
+      "Jeffrey L. Collett Jr.",
+      "Peter Vitousek",
+      "Fusuo Zhang"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 14 September 2026; <a href=\"https://www.nature.com/articles/s43017-026-00830-x\">doi:10.1038/s43017-026-00830-x</a>Reactive nitrogen deposition in China has changed markedly since 1980 owing to variations in emissions from industry and agriculture, with consequences for ecosystems, food systems and pollution control. This Review synthesizes deposition trends, emission and meteorological drivers, ecological impacts and management strategies for sustainable nitrogen mitigation in China.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2532733123?af=R",
+    "title": "Patagonian Ice Sheet discharge enhanced by AMOC slowdown through thermal bipolar seesaw",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2532733123?af=R",
+    "authors": [
+      "Takuto KasuyaYuta KuniyoshiKana NagashimaHitoshi HasegawaAyako Abe-OuchiJulia R. HagemannHelge W. ArzCarina B. LangeFrank LamyShinya IwasakiWing-Le ChanNaomi HaradaMasafumi MurayamaFuyuki SaitoYusuke Okazakiahttps://ror.org/00p4k0j84Department of Earth and Planetary Sciences, Graduate School of Science, Kyushu University, Fukuoka 819-0395, Japanbhttps://ror.org/059qg2m13Research Institute for Global Change, Earth Surface System Research Center, Japan Agency for Marine-Earth Science and Technology, Yokosuka 237-0061, Kanagawa, Japanchttps://ror.org/057zh3y96Atmosphere and Ocean Research Institute, The University of Tokyo, Kashiwa 277-8564, Chiba, Japandhttps://ror.org/01xxp6985Department of Global Environment and Disaster Prevention, Faculty of Science and Technology, Kochi University, Kochi 780-8520, Japanehttps://ror.org/01xxp6985Marine Core Research Institute, Kochi University, Nankoku 783-8502, Kochi, Japanfhttps://ror.org/05vt9qd57Department of Marine and Coastal Science, Rutgers University, New Brunswick, NJ 08901-8520gDivision of Geoscience, Marine Geology Section, Alfred Wegener Institute Helmholtz Centre for Polar and Marine Research, Bremerhaven 27570, Germanyhhttps://ror.org/03xh9nq73Department of Marine Geosciences, Paleoceanography and Sedimentology Group, Leibniz Institute for Baltic Sea Research Warnemünde, Rostock 18119, Germanyihttps://ror.org/0460jpj73Departamento de Oceanografía & Centro de Investigación Oceanográfica en el Pacífico Suroriental (COPAS-Coastal), Universidad de Concepción, Concepción 4030000, Chilejhttps://ror.org/029ycp228Centro de Investigación Dinámica de Ecosistemas Marinos de Altas Latitudes, Universidad Austral de Chile, Valdivia 5110566, Chilekhttps://ror.org/0168r3w48Geosciences Research Division, Scripps Institution of Oceanography, University of California San Diego, La Jolla, CA 92037lhttps://ror.org/02e16g702Division of Earth System Science, Faculty of Environmental Earth Science, Hokkaido University, Sapporo 060-0810, Hokkaido, Japanmhttps://ror.org/01xxp6985Faculty of Agriculture and Marine Science, Kochi University, Nankoku 783-8502, Kochi, Japannhttps://ror.org/02c3vg160Department of Dinosaur Paleontology and Geology, Faculty of Dinosaur Paleontology, Fukui Prefectural University, Katsuyama 911-0025, Fukui, Japanohttps://ror.org/059qg2m13Research Institute for Global Change, Research Center for Environmental Modeling and Application, Japan Agency for Marine-Earth Science and Technology, Yokohama 236-0001, Kanagawa, Japan"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 38, September 2026. <br />SignificanceThe Atlantic Meridional Overturning Circulation (AMOC), a major regulator of global climate, is weakening under ongoing warming, yet its far-field impacts remain uncertain. Past AMOC slowdown events during the last glacial period provide ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2600775123?af=R",
+    "title": "Spatially refined satellite gravimetry captures human signatures in global terrestrial water storage trends",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600775123?af=R",
+    "authors": [
+      "Mary Michael O’NeillMatthew RodellBryant D. Loomisahttps://ror.org/027ka1x80Hydrological Sciences Laboratory, Earth Sciences Division, National Aeronautics and Space Administration, Goddard Space Flight Center, Greenbelt, MD 20771bhttps://ror.org/047s2c258Earth System Science Interdisciplinary Center, University of Maryland, College Park, MD 20742chttps://ror.org/027ka1x80Earth Sciences Division, National Aeronautics and Space Administration, Goddard Space Flight Center, Greenbelt, MD 20771dhttps://ror.org/027ka1x80Geodesy and Geophysics Laboratory, Earth Sciences Division, National Aeronautics and Space Administration, Goddard Space Flight Center, Greenbelt, MD 20771"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 38, September 2026. <br />SignificanceIt is well known that human activities directly impact the water cycle and the distribution of water resources, but quantifying such effects from space is challenging. By directly estimating mass change rates from raw satellite range ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag289?af=R",
+    "title": "Recognition of two potential warming events in the Paleocene terrestrial record of North America and associated mammalian responses",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag289?af=R",
+    "authors": [
+      "Ross SecordDaniel J PeppeThomas E WilliamsonCaitlin E LeslieStephen L BrusatteAndrew G FlynnC Boyce"
+    ],
+    "summary": "PNAS Nexus, Volume 5, Issue 9, August 2026. <br />Numerous early Cenozoic transient warming events (“hyperthermals”) have been recognized in the marine record, but few have been located in fossiliferous terrestrial strata. Locating warming events is critical for understanding how terrestrial animals and ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-08-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226002941",
+    "title": "Assessing the global metal mining pollution risk to the marine environment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226002941?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): A.D. Sproson, A. Lichtschlag, I.A. Yeo, E.C. Atwood",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26004826",
+    "title": "Mapping the Australian upper mantle flow with azimuthal anisotropy from seismic full-waveform inversion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26004826?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Ömer Bodur, Xueyan Li, David Lumley, Hejun Zhu",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122910",
+    "title": "Reconfiguration of Mercury's Exosphere During Strong Space Weather Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122910?af=R",
+    "authors": [
+      "P. S. Szabo, \nS. R. Carberry Mogan, \nA. R. Poppe, \nS. Fatemi, \nW. J. Sun, \nJ. T. Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123505",
+    "title": "Diagnosing Forecast Error Propagation and Large‐Scale Dynamics of Weather Extremes With an AI Weather Model",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123505?af=R",
+    "authors": [
+      "Yanbo Nie, \nAgniv Sengupta, \nJorge Baño‐Medina, \nBenjamin Moore, \nLuca Delle Monache"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122531",
+    "title": "Quantifying the Role of 3D Fault Geometry Complexities on Slow and Fast Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122531?af=R",
+    "authors": [
+      "J. Cheng, \nH. S. Bhat, \nM. Almakari, \nB. Lecampion, \nP. Dubernet"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034017",
+    "title": "Correlation of Permeability Evolution With Frequency‐Magnitude Distributions for Injection‐Induced Seismicity Under Varying Initial Stress States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034017?af=R",
+    "authors": [
+      "Ke Zhang, \nQiang Li, \nQuan Gan, \nYueqiang Ma, \nSida Jia, \nDawei Hu, \nDerek Elsworth"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-14",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-77732-5",
     "title": "Mineral-integrated electrochemical system enabling membrane-free pH swing and active chlorine species generation for urine valorization",
     "link": "https://www.nature.com/articles/s41467-026-77732-5",
