@@ -1,5 +1,351 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77027-9",
+    "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
+    "link": "https://www.nature.com/articles/s41467-026-77027-9",
+    "authors": [
+      "Marie Emilie Dourthe",
+      "Mehdi Latiri",
+      "Etienne Lengliné",
+      "Guillaume Charbonnier",
+      "Chaimae Saji",
+      "Grégoire Huré",
+      "Camille Gillet",
+      "Jérôme Doss",
+      "Aurore Touzart",
+      "Lucien Courtois",
+      "Agata Cieslak",
+      "Mathieu Simonin",
+      "Norbert Ifrah",
+      "Hervé Dombret",
+      "Olivier Hermine",
+      "Nicolas Boissel",
+      "André Baruchel",
+      "Jacques Ghysdael",
+      "Elizabeth Macintyre",
+      "Philippe Rousselot",
+      "Christine Tran Quang",
+      "Guillaume P. Andrieu",
+      "Vahid Asnafi"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77027-9\">doi:10.1038/s41467-026-77027-9</a>Anti-thymocyte globulin (ATG) is a potent immunosuppressant used to prevent and treat acute organ transplant rejection and severe aplastic anemia. Here, the authors discover that ATG can be repurposed to induce TNF-driven cell death in T cell acute lymphoblastic leukemia.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77463-7",
+    "title": "Virtual sensing to enable real-time monitoring of inaccessible locations &amp; unmeasurable parameters",
+    "link": "https://www.nature.com/articles/s41467-026-77463-7",
+    "authors": [
+      "Kazuma Kobayashi",
+      "Farid Ahmed",
+      "Jaewan Park",
+      "Subhankar Sarkar",
+      "Seid Koric",
+      "Souvik Chakraborty",
+      "Syed Bahauddin Alam"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77463-7\">doi:10.1038/s41467-026-77463-7</a>The authors introduce an operator-learning framework for real-time virtual sensing that reconstructs inaccessible interior physical fields from sparse, heterogeneous measurements and operating conditions.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77880-8",
+    "title": "Kirigami-actuated reconfigurable topological photonic crystals",
+    "link": "https://www.nature.com/articles/s41467-026-77880-8",
+    "authors": [
+      "Mo-Dian Liu",
+      "Guobang Jiang",
+      "Jizhai Cui",
+      "Yongfeng Mei",
+      "Xiao-Dong Chen",
+      "Jian-Wen Dong"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77880-8\">doi:10.1038/s41467-026-77880-8</a>Using kirigami, the authors create a photonic crystal whose topology can be mechanically reconfigured, allowing corner states and light-routing paths to be switched after fabrication.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77864-8",
+    "title": "Resonance-enhanced integrated acousto-optic beam steering",
+    "link": "https://www.nature.com/articles/s41467-026-77864-8",
+    "authors": [
+      "Yue Yu",
+      "Qixuan Lin",
+      "Shucheng Fang",
+      "Joseph G. Thomas",
+      "Yibing Zhou",
+      "Zichen Xi",
+      "Jun Ji",
+      "Yizheng Zhu",
+      "Linbo Shao",
+      "Bingzhao Li",
+      "Mo Li"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77864-8\">doi:10.1038/s41467-026-77864-8</a>The authors combine molecular-dimer calculations with simplified, coarse-grained simulations to predict the crystal structure of metal-organic cages and show how cage shape and the directionality of interactions influence the structures formed.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77768-7",
+    "title": "Bayesian bilevel operator learning with low-rank adaptation for efficient uncertainty quantification of PDE inverse problems",
+    "link": "https://www.nature.com/articles/s41467-026-77768-7",
+    "authors": [
+      "Ray Zirui Zhang",
+      "Christopher E. Miles",
+      "Xiaohui Xie",
+      "John S. Lowengrub"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77768-7\">doi:10.1038/s41467-026-77768-7</a>Estimating parameters of partial differential equations from data with quantified uncertainty is computationally demanding. Here, authors combine bilevel local operator learning with low rank adaptation to enable efficient gradient-based posterior sampling without adjoint equations, pretraining data, or sampling network weights.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77985-0",
+    "title": "Checkerboard-type Zhang-Rice states in overdoped cuprate superconductors",
+    "link": "https://www.nature.com/articles/s41467-026-77985-0",
+    "authors": [
+      "Xiongfang Liu",
+      "Kun Han",
+      "Yan Peng",
+      "Yuanjie Ning",
+      "Jing Wu",
+      "Zhaoyang Luo",
+      "Difan Zhou",
+      "Zhigang Zeng",
+      "Qian He",
+      "Chuanbing Cai",
+      "Mark. B. H. Breese",
+      "Ariando Ariando",
+      "Chi Sin Tang",
+      "George A. Sawatzky",
+      "Mi Jiang",
+      "Xinmao Yin"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77985-0\">doi:10.1038/s41467-026-77985-0</a>In cuprate superconductors, the overdoped regime has received comparatively limited attention. Here, broadband optical spectroscopy and DQMC calculations reveal an electronic reconstruction in LSCO beyond x > 0.2, consistent with a checkerboard Zhang–Rice configuration hosting coexisting localized and itinerant carriers.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77992-1",
+    "title": "Dosing and delivery of bacteriophage therapy in a murine wound infection model",
+    "link": "https://www.nature.com/articles/s41467-026-77992-1",
+    "authors": [
+      "Yung-Hao Lin",
+      "Tejas Dharmaraj",
+      "Qingquan Chen",
+      "Arne Echterhof",
+      "Robert Manasherob",
+      "Lucy J. Zhang",
+      "Zhiwei Li",
+      "Cas de Leeuw",
+      "Nana A. Peterson",
+      "Tony H. W. Chang",
+      "Whitney Stannard",
+      "Maryam Hajfathalian",
+      "Aviv Hargil",
+      "Hunter A. Martinez",
+      "Julie Pourtois",
+      "Maya Abhyankar",
+      "Francis G. Blankenberg",
+      "Derek Amanatullah",
+      "Ovijit Chaudhuri",
+      "Paul L. Bollyky"
+    ],
+    "summary": "Nature Communications, Published online: 19 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77992-1\">doi:10.1038/s41467-026-77992-1</a>Here, the authors develop a mouse model of wound infection to evaluate the efficacy of phage therapy for established infections and generate “HydroPhage”, a phage-containing hydrogel, as a means for sustained delivery and topical phage application.",
+    "source": "Nature Communications",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00831-w",
+    "title": "Towards global nutrient justice via a circular bionutrient economy",
+    "link": "https://www.nature.com/articles/s43017-026-00831-w",
+    "authors": [
+      "Chuan Liao",
+      "Shuai Zhou",
+      "Seongmin Shin",
+      "Danning Lu",
+      "Yujin Lee",
+      "Shuai Xu",
+      "Ying Tu",
+      "Krisztina Mosdossy",
+      "Lucinda Li",
+      "Rebecca Nelson",
+      "Johannes Lehmann"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 17 September 2026; <a href=\"https://www.nature.com/articles/s43017-026-00831-w\">doi:10.1038/s43017-026-00831-w</a>Nutrient management is central to global food security, ecosystem health and climate resilience, yet current practices are profoundly inequitable and unsustainable. This Perspective introduces the circular bionutrient economy as a justice-oriented framework for advancing ecological balance and social equity through the recycling of organic waste streams into agrifood systems.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-09-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005285",
+    "title": "Thallium isotope evidence for an anoxic global deep ocean ∼1.83 billion years ago",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005285?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Chadlin M. Ostrander, Andy W. Heard, Donald E. Canfield, Philip W. Fralick, Sune G. Nielsen, Jean N.R. Clemente, Simon W. Poulton",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005273",
+    "title": "Heavy rubidium isotope compositions in intraplate basalts trace recycled carbonates in the deep mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005273?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Ding-Sheng Jiang, Matthew Jackson, Frederic Moynier, Xing Ding, Kan Li, Xia Hu, Guo-Liang Zhang, Zi-Qiang Zhong, Fang Huang",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005297",
+    "title": "Geological characterization of Shackleton-Slater crater region at lunar south pole, Chang’e-7 candidate landing site",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005297?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Mingyu Tian, Yuqi Qian, Lukas Wueller, James Head, Xiang Li, Wajiha Iqbal, Harald Hiesinger, Carolyn van der Bogert, Ke Xu, Lingzhi Sun, Long Xiao, Guochun Zhao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123975",
+    "title": "Co‐Occurring Weather Systems Vary by Atmospheric River Scale Across the United States",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123975?af=R",
+    "authors": [
+      "Diya Kamnani, \nTravis A. O’Brien, \nWei‐Ming Tsai, \nKwesi Twentwewa Quagraine, \nJ. David Neelin, \nJennifer L. Catto, \nYang Zhou, \nL. Ruby Leung, \nWilliam R. Boos, \nHongsheng Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122610",
+    "title": "Assimilation of SWOT Water Surface Elevation Enhances Simulations of River Dynamics in the Ohio River Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122610?af=R",
+    "authors": [
+      "Yeosang Yoon, \nAugusto Getirana, \nSujay V. Kumar, \nElyssa Collins, \nJerry W. Wegiel"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122470",
+    "title": "Capturing Typhoon Rapid Intensification and Abrupt Recurvature Using an IAU‐Based 4DVar Scheme",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122470?af=R",
+    "authors": [
+      "Siqi Chen, \nLiwen Wang, \nYongzhu Liu, \nJiandong Gong, \nBanglin Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124338",
+    "title": "Ecological and Hydrological Modulation of Land Surface Temperature in the East Asian Monsoon Margin During Pliocene‐Pleistocene Global Cooling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124338?af=R",
+    "authors": [
+      "Chen Chen, \nHanzhi Zhang, \nHuayu Lu, \nCheng Zhao, \nYuqiang Zeng, \nJian Yu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125720",
+    "title": "Global Projections of Coral Reef Sediment Dissolution in the 21st Century",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125720?af=R",
+    "authors": [
+      "Tingli Yan, \nLi‐Qing Jiang, \nXianxun Li, \nLeilei Jiang, \nShuzhen Song, \nNing Zhao"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123910",
+    "title": "Dampened Diurnal Cycles of Hot‐Wet Extremes in Urban Areas Contrast With Thermally Driven Daytime Stress in Rural Landscapes of Beijing‐Tianjin‐Hebei Region",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123910?af=R",
+    "authors": [
+      "Hanxu Jiang, \nBoqi Liu, \nShuangmei Ma"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123945",
+    "title": "A Shallow‐Marine Ecosystem Before Initial Tibetan Plateau Uplift",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123945?af=R",
+    "authors": [
+      "Ming Wang, \nXin Rao, \nRichard M. Palin, \nPeter W. Skelton, \nWenjiao Xiao, \nYuhe Zhang, \nBinxuan Hao, \nDongfang Song, \nBo Wang, \nYangrui Guo, \nTingting Yu, \nKun Liang, \nFelix Schlagintweit"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124877",
+    "title": "Linking Extreme Precipitation to Pluvial Hydrometeorological Disasters in Southeast Asia Using a Long‐Term Event Database",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124877?af=R",
+    "authors": [
+      "Junjun Li, \nJingyu Wang, \nHui Su, \nXianfeng Wang, \nEdward Park, \nRaju Pathak, \nDung Duc Tran, \nLuojie Dong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120985",
+    "title": "Intra‐Seasonal Variability of Serial Clustering of Severe European Winter Windstorms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120985?af=R",
+    "authors": [
+      "S. Feltz, \nK. S. Ng, \nC. Allen, \nT. Kruschke, \nM. Angus, \nA. Quinn, \nG. C. Leckebusch"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034209",
+    "title": "Thermal and Structural Signatures Associated With Subducted Seamounts in Hyuga‐nada and Off Cape Muroto, Southwest Japan",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034209?af=R",
+    "authors": [
+      "Masataka Kinoshita, \nKazuya Shiraishi, \nYoshitaka Hashimoto, \nYohei Hamada, \nRie Nakata"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006009",
+    "title": "The role of sediments in calc-alkaline differentiation of thickened arc magmas and bulk crust compositions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006009?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jun Wang, Chris J. Hawkesworth, Qiang Wang, Peng Sun, Wan-Long Hu, Shaohao Zou",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-02897-4",
     "title": "Cognitive resilience helps to predict Alzheimer’s dementia",
     "link": "https://www.nature.com/articles/d41586-026-02897-4",
