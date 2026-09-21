@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77409-z",
+    "title": "Design of white circularly polarized luminescence with high <i>g</i><sub>lum</sub> across entire visible regions by dual-loop active learning",
+    "link": "https://www.nature.com/articles/s41467-026-77409-z",
+    "authors": [
+      "Peng Yang",
+      "Xiaoyue He",
+      "Hongli Zhang",
+      "Zeyu Feng",
+      "Liyang Wen",
+      "Li Wen",
+      "Yin Xu",
+      "Bo Chen",
+      "Mingjun Xiao",
+      "Xin Chen",
+      "Gang Zou"
+    ],
+    "summary": "Nature Communications, Published online: 21 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77409-z\">doi:10.1038/s41467-026-77409-z</a>White circularly polarized luminescence materials are promising but combining favorable white-light colorimetric properties and strong chiroptical activities is difficult. Yang et al. adopted a dual-loop active learning strategy to realize high-performance materials and devices.",
+    "source": "Nature Communications",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-76272-2",
+    "title": "Memristive singular value decomposition",
+    "link": "https://www.nature.com/articles/s41467-026-76272-2",
+    "authors": [
+      "Chenchen Ding",
+      "Zhengwu Liu",
+      "Yibei Zhang",
+      "Can Li",
+      "Jianshi Tang",
+      "Bin Gao",
+      "Hao Yu",
+      "Huaqiang Wu",
+      "Ngai Wong"
+    ],
+    "summary": "Nature Communications, Published online: 20 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-76272-2\">doi:10.1038/s41467-026-76272-2</a>Efficient processing of high-dimensional datasets demands minimal information loss and reduced computational complexity. Ding et al. report a memristor-based system that boosts data simplification efficiency and accuracy, supporting applications in image reconstruction, biomedical signal analysis, and LLM fine tuning.",
+    "source": "Nature Communications",
+    "date": "2026-09-20",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005352",
+    "title": "Reconciling inferences of mantle viscosity and late Quaternary ice history - the importance of an asthenosphere and 3-D viscosity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005352?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Tao Yuan, Shijie Zhong, Glenn Milne, Donna dePolo",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005339",
+    "title": "Tungsten isotopes of intraplate basalts and implications for deep W recycling",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005339?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Li-Tao Ma, Li-Qun Dai, Ye-Dan Hu, Qing-Feng Mei, Guo-Chao Sun, Xi Yu, Zi-Fu Zhao, Wei Dong",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005315",
+    "title": "Regime transitions of dynamos driven by fingering double-diffusive convection",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005315?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Wei Fan, Yufeng Lin",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-21",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123799",
+    "title": "The 2025–2026 Iberian Atmospheric Rivers Exhibited Moisture Transport Resembling the Early SSP5‐8.5 Climate Response",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123799?af=R",
+    "authors": [
+      "J. C. Fernández‐Alvarez, \nG. Alvarez‐Socorro, \nR. Nieto, \nL. Gimeno"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034259",
+    "title": "Magnetic Dual‐Layer Equivalent Sources on the Sphere",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034259?af=R",
+    "authors": [
+      "Arthur Siqueira‐Macedo, \nLeonardo Uieda, \nIndia Uppal"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034613",
+    "title": "Interseismic Strain Accumulation and Partitioning in Hispaniola From GNSS and InSAR",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034613?af=R",
+    "authors": [
+      "Christian Emmanuel, \nEric Calais, \nRomain Jolivet, \nBryan Raimbault, \nSteeve J. Symithe, \nDominique Boisson"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-19",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-77027-9",
     "title": "Anti-thymocyte globulin triggers TNF-dependent cell death in T-cell acute lymphoblastic leukemia",
     "link": "https://www.nature.com/articles/s41467-026-77027-9",
