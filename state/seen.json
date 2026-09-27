@@ -1,5 +1,397 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-77967-2",
+    "title": "Efficient transport kinetics of indirect excitons in van der Waals heterostructure",
+    "link": "https://www.nature.com/articles/s41467-026-77967-2",
+    "authors": [
+      "Zhiwen Zhou",
+      "W. J. Brunner",
+      "E. A. Szwed",
+      "H. Henstridge",
+      "L. H. Fowler-Gerace",
+      "L. V. Butov"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77967-2\">doi:10.1038/s41467-026-77967-2</a>Here, the authors investigate the transport kinetics of indirect excitons (IXs) in a MoSe2/WSe2 van der Waals heterostructure, and observe anomalously high IX mobility, consistent with IX superfluidity.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77197-6",
+    "title": "Global spatiotemporal dynamics of mortality from carbapenem-resistant Gram-negative infections over the past three decades",
+    "link": "https://www.nature.com/articles/s41467-026-77197-6",
+    "authors": [
+      "Zhihui Chen",
+      "Mingchen Zhong",
+      "Jing Wu",
+      "Xiangru Ye",
+      "Zhonghua Li",
+      "Jing Wang",
+      "Yueru Tian",
+      "Shirong Li",
+      "Lei Zhou",
+      "Jie Ni",
+      "Jialin Jin",
+      "Wenhong Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77197-6\">doi:10.1038/s41467-026-77197-6</a>Long-term mortality from carbapenem-resistant Gram-negative infections is poorly characterised worldwide. Here, authors analyse data from 204 countries and territories, revealing divergent trajectories by region, pathogen, and pandemic period.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78046-2",
+    "title": "Branched-type nanocluster-junction fluorofluidic-gels for interface-adaptive thermal conduction and mechanical resistance",
+    "link": "https://www.nature.com/articles/s41467-026-78046-2",
+    "authors": [
+      "Weiming Tang",
+      "Hangsheng Zhou",
+      "Hanyu Wang",
+      "Xingyue Zhu",
+      "Lei Jiang",
+      "Ziguang Zhao",
+      "Shutao Wang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78046-2\">doi:10.1038/s41467-026-78046-2</a>‘Conventional thermal interface materials often suffer from a certain degree of mismatch between their thermal conductivity and contact thermal resistance. Here the authors develop a thermal interface fluorofluidic-gel with a branched-type nanocluster-junction network exhibiting high thermal conductivity and low contact thermal resistance.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78079-7",
+    "title": "<i>Alteromonas macleodii</i> breaches the diatom frustule triggering protoplast emergence and programmed necrosis-like death in <i>Thalassiosira rotula</i>",
+    "link": "https://www.nature.com/articles/s41467-026-78079-7",
+    "authors": [
+      "Isobel Short",
+      "Clara Martínez-Pérez",
+      "Samuel Miravet-Verde",
+      "Shinichi Sunagawa",
+      "Roman Stocker",
+      "Uria Alcolombri"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78079-7\">doi:10.1038/s41467-026-78079-7</a>In this study, the authors show that the marine bacterium Alteromonas macleodii exploits the diatom Thalassiosira rotula by triggering programmed necrosis-like cell death. By forcing cells out of their silica shells and lysing them, this interaction may affect ocean carbon cycling.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77487-z",
+    "title": "Microglia regulate nucleus accumbens synaptic development and circuit function underlying threat avoidance behaviors in mice",
+    "link": "https://www.nature.com/articles/s41467-026-77487-z",
+    "authors": [
+      "Michael W. Gongwer",
+      "Fanny Etienne",
+      "Eric N. Moca",
+      "Sara V. Blagburn-Blanco",
+      "Megan S. Chappell",
+      "Keionna A. Newton",
+      "Daniel T. Gray",
+      "Jack P. Riley",
+      "Chloe R. Christensen",
+      "Russell N. Ahmed",
+      "Alexander S. Enos",
+      "Melody Haratian",
+      "Alex Qi",
+      "Rocio Rojo",
+      "Scott A. Wilke",
+      "Clare Pridans",
+      "Laura A. DeNardo",
+      "Lindsay M. De Biase"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77487-z\">doi:10.1038/s41467-026-77487-z</a>Microglial synapse removal has been heavily studied. Here, the authors reveal roles for microglia in synapse formation by showing that absence of nucleus accumbens microglia during development reduces synapse number and alters avoidance behaviors.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78058-y",
+    "title": "PARP10 condensation inhibits viral replication via targeting NAD<sup>+</sup> homeostasis",
+    "link": "https://www.nature.com/articles/s41467-026-78058-y",
+    "authors": [
+      "Xiaoxin Chen",
+      "Qi Xu",
+      "Yi Liu",
+      "Zhenshuo Zhu",
+      "Ziqiu Wang",
+      "Yun Zhang",
+      "Ziru Li",
+      "Yunan Mao",
+      "Chenmiao Ai",
+      "Qi Chen",
+      "Le Tian",
+      "Zhiying Yao",
+      "Youngdae Gwon",
+      "Zhubing Shi",
+      "Peiguo Yang"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78058-y\">doi:10.1038/s41467-026-78058-y</a>While specific antiviral mechanisms of certain ADP-ribosyltransferases remain unclear, this study uses vesicular stomatitis virus to reveal that PARP10 forms condensates to amplify enzyme activity. This in turn decreases local NAD+ levels to block viral replication.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78077-9",
+    "title": "Early insights into predicted efficacy of Ebola monoclonal antibodies for the 2026 Bundibugyo virus disease outbreak",
+    "link": "https://www.nature.com/articles/s41467-026-78077-9",
+    "authors": [
+      "Kevin Cissy Nabukeera",
+      "Gradi Luakanda-Ndelemo",
+      "Syrus Semawule",
+      "Alisen Ayitewala",
+      "Pascal Adroba-Tandele",
+      "Andrew Walakira",
+      "Adrienne Amuri-Aziza",
+      "Daan Jansen",
+      "Ronald Galiwango",
+      "Eddy Kinganda-Lusamaki",
+      "Andrew Tebba",
+      "Christian Ngandu",
+      "Aloysious Ssemaganda",
+      "Olivier Tshiani-Mbaya",
+      "Stephen Kanyerezi",
+      "Judith Kyokushaba",
+      "Prince Akil-Bandali",
+      "Carol Makoha",
+      "Hellen Rosette Oundo",
+      "Servet Kimbonza",
+      "Stephen Balinandi",
+      "Daniel Mukadi-Bamuleka",
+      "Valeria Nakintu",
+      "Justus Nsio",
+      "Ibrahimm Mugerwa",
+      "Daniel Kadobera",
+      "Daniel Euriene",
+      "Sabue Mulangu",
+      "Ahidjo Ayouba",
+      "Micheal Eliu",
+      "Sam Gidudu",
+      "Henry Kyobe Bosa",
+      "Misaki Wayengera",
+      "Anne W. Rimoin",
+      "Benard Lubwama",
+      "Atek Kagirita",
+      "Steve Ahuka-Mundeke",
+      "Dieudonné Mwamba",
+      "Andrew Kambugu",
+      "Pontiano Kaleebu",
+      "Christian Happi",
+      "Laurens Liesenborghs",
+      "Miles W. Carroll",
+      "Piet Maes",
+      "Jean B. Nachega",
+      "Martine Peeters",
+      "Pierre Akilimali",
+      "Ronnie Bahatungire",
+      "Allan Muruta",
+      "Jason Kindrachuk",
+      "Andrew Rambaut",
+      "Daniel Kyabayinze",
+      "Charles Olaro",
+      "Koen Vercauteren",
+      "Jean-Jacques Muyembe-Tamfum",
+      "Susan Nabadda",
+      "Diana Atwine",
+      "Daudi Jjingo",
+      "Tony Wawina-Bokalanga",
+      "Placide Mbala-Kingebeni",
+      "Isaac Ssewanyana"
+    ],
+    "summary": "Nature Communications, Published online: 26 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78077-9\">doi:10.1038/s41467-026-78077-9</a>Rapid predictive methods narrow the solution space in an outbreak setting. In this computational study, the authors find that cocktail treatments for Ebola Zaire could be more effective than monotherapies against the 2026 Bundibugyo strain.",
+    "source": "Nature Communications",
+    "date": "2026-09-26",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003090",
+    "title": "Interferometric SAR for monitoring the Arctic cryosphere: Progress, challenges, and perspectives",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003090?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Jinbiao Zhao, Tonghua Wu, Peiqing Lou, Xiaodong Wu, Junming Hao, Dong Wang, Jie Chen, Ren Li, Amin Wen, Xin Ma, Xingchen Lin, Yong Zhang, Junqiang Bai",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005479",
+    "title": "Bimodal double-frequency microseisms beneath Arctic sea ice: The role of sediment modulation",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005479?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Zhangju Liu, Jiabiao Li, Fansheng Kong, Xiongwei Niu, Tao Zhang, Zhiteng Yu, Zhezhe Lu, Yongfa Zhang, Jianmin Lin, Weiwei Ding",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005510",
+    "title": "Apatite sulfur signatures reveal melt–fluid remiscibility at low temperature in felsic systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005510?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 1 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 695Author(s): Thomas Grocolas, Nordine Bouden, Emilie Bruand, Othmar Müntener",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125138",
+    "title": "Phytoplankton Size Structure Controls the Bio‐Optical Anomaly of Antarctic Waters",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125138?af=R",
+    "authors": [
+      "Xuerong Sun, \nRobert J. W. Brewin, \nGiorgio Dall’Olmo, \nJaime Pitarch, \nThomas G. Bell, \nBethany Wilkinson, \nDionysios E. Raitsos, \nHendrik Jan van der Woerd, \nShubha Sathyendranath"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122766",
+    "title": "Systematic Overestimation of Global Peak Runoff Synchronization in CMIP6 Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122766?af=R",
+    "authors": [
+      "Yixin Yang, \nGabriele Villarini, \nLong Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120974",
+    "title": "Simulation of Coastal El Niño Events in CMIP6 Models and Its Relationship to Mean‐State and ENSO Biases",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120974?af=R",
+    "authors": [
+      "G. A. Rivera Tello, \nC. Karamperidou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122757",
+    "title": "Fault Slip Reversals Preceded the Intraplate 2021 Earthquake Series in the Vienna Basin (Central Europe)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122757?af=R",
+    "authors": [
+      "I. Baroň, \nJ. Jelének, \nM. Rowberry, \nR. Melichar, \nM. del Puy Papí‐Isaba, \nR. Schultz, \nJ. Balek, \nJ. Stemberk, \nĽ. Sokol, \nH. Hausmann, \nL. Plan, \nG. Winkler, \nB. Grasemann, \nR. Bürgmann"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123445",
+    "title": "Cross‐Scale Energy Transfer and Scale‐to‐Scale Energy Conversion During the Collisionless Magnetic Reconnection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123445?af=R",
+    "authors": [
+      "Yongyuan Yi, \nMeng Zhou, \nRunqing Jin, \nZhihong Zhong, \nLiangjin Song, \nYe Pang, \nXiaohua Deng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125625",
+    "title": "Decreasing Translation Speed of Rapid Expansion Tropical Cyclones Over the Western North Pacific",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125625?af=R",
+    "authors": [
+      "Huilin Li, \nXiaodong Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125037",
+    "title": "Global Characterization of Precipitation Peaks in the Seasonal Cycle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125037?af=R",
+    "authors": [
+      "Zijie Zhao, \nYueyang Lu, \nAndréa S. Taschetto"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 18, 28 September 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034841",
+    "title": "Resolving Sub‐Kilometer Cascading Ruptures of Moderate Earthquakes With Distributed Acoustic Sensing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034841?af=R",
+    "authors": [
+      "Hao Zhang, \nZhongwen Zhan"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033615",
+    "title": "Source Effects in Higher‐Order Ambient Seismic Field Correlations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033615?af=R",
+    "authors": [
+      "Sven Schippkus, \nGregor Hillers, \nCéline Hadziioannou"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034460",
+    "title": "P‐T‐H2O Dependence on Structure and Transport Properties in Supercritical SiO2‐H2O Fluids",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034460?af=R",
+    "authors": [
+      "Yifan Lu, \nYicheng Sun, \nKai Wang, \nYingchun Zhang, \nGuo‐Guang Wang, \nXiancai Lu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 9, September 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006113",
+    "title": "Time-resolved Mo isotopes track source evolution from recycled slab components to a coherent OIB-type mantle source",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006113?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dongjing Xu, Xiu-Zheng Zhang, Yue Qi, Jie Li, Bing Chen, Pei-Na Guo, Tao Du, Qiang Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006101",
+    "title": "Small sulfur isotope fractionations by environmentally relevant sulfur oxidizers under oligotrophic conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006101?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Daniela Osorio-Rodriguez, Thomas E. Hanson, Douglas E. LaRowe, Victoria J. Orphan, Alex L. Sessions, Jess F. Adkins",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006022",
+    "title": "Secular evolution of marine carbonate <math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" id=\"d1e763\" altimg=\"si32.svg\" class=\"math\"><mrow><msup><mrow><mi>δ</mi></mrow><mrow><mn>66</mn></mrow></msup><mi mathvariant=\"normal\">Zn</mi></mrow></math> and its implications for nutrient cycling through time",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006022?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Francis Albarède, Janne Blichert-Toft, Kurt O. Konhauser, Andrew H. Knoll, Marine Pinto, Aline Lamboux, Harilaos Tsikos, Gilles Dromart",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006095",
+    "title": "Ca-Sr isotope constraints on riverine Ca cycling under anthropogenic perturbations: insights from a tributary of Lower Mekong",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006095?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 25 September 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Shitong Zhang, Guilin Han, Xi Gao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-09-27",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03041-y",
     "title": "Briefing Chat: Why scientists made papyrus scrolls, then burnt them",
     "link": "https://www.nature.com/articles/d41586-026-03041-y",
