@@ -1,5 +1,554 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11083-5",
+    "title": "Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+    "link": "https://www.nature.com/articles/s41586-026-11083-5",
+    "authors": [
+      "Yingxi Xu",
+      "Yangtao Shangguan",
+      "Yu-Ming Chuang",
+      "Tzu-Hsuan Chang",
+      "Wenbing Liu",
+      "Jhan-Jie Peng",
+      "Josep Garnica",
+      "Leling Xie",
+      "Pei-Chun Hsueh",
+      "Mei-Chun Lin",
+      "Yi-Hao Wang",
+      "Karina Lobo Hajdu",
+      "Yibo Wu",
+      "Maryam Akrami",
+      "Chen Wang",
+      "Anna Kohl",
+      "Alfred Zippelius",
+      "Wei Qi",
+      "Min Wang",
+      "Bugi Ratno Budiarto",
+      "Shih-Yu Chen",
+      "Zhengtao Xiao",
+      "Panagiota Vardaka",
+      "Rahul Roychoudhuri",
+      "Zhiliang Bai",
+      "Rong Fan",
+      "Santiago Carmona",
+      "Yi-Ru Yu",
+      "Christoph Scheiermann",
+      "Jianxiang Wang",
+      "Ping-Chih Ho"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41586-026-11083-5\">doi:10.1038/s41586-026-11083-5</a>Author Correction: Proteasome-guided haem signalling axis contributes to T cell exhaustion",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02972-w",
+    "title": "Strange and beautiful creatures spotted on the <i>Challenger</i> expedition",
+    "link": "https://www.nature.com/articles/d41586-026-02972-w",
+    "authors": [],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02972-w\">doi:10.1038/d41586-026-02972-w</a>A genus of soil-dwelling beetle discovered in Italy, and a glimpse at the wonders of the deep sea, in our weekly dip into Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03053-8",
+    "title": "PhD training should encourage ethical dissent",
+    "link": "https://www.nature.com/articles/d41586-026-03053-8",
+    "authors": [
+      "Yun Wah Lam",
+      "Pandora Pound",
+      "Anke Brüning-Richardson"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03053-8\">doi:10.1038/d41586-026-03053-8</a>PhD training should encourage ethical dissent",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03056-5",
+    "title": "Biodiversity protection must include language preservation",
+    "link": "https://www.nature.com/articles/d41586-026-03056-5",
+    "authors": [
+      "Mitali Das",
+      "Mengying Wang",
+      "Benjamin Kuersteiner"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03056-5\">doi:10.1038/d41586-026-03056-5</a>Biodiversity protection must include language preservation",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03035-w",
+    "title": "Emissions after the Paris accord made Europe’s heatwaves more severe",
+    "link": "https://www.nature.com/articles/d41586-026-03035-w",
+    "authors": [],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03035-w\">doi:10.1038/d41586-026-03035-w</a>A heatwave in 2025 would have been one-third of a degree cooler without the greenhouse gases released since 2015.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03054-7",
+    "title": "Patents alone won’t unlock critical-mineral supply chains",
+    "link": "https://www.nature.com/articles/d41586-026-03054-7",
+    "authors": [
+      "Sunil Kumar Tripathy"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03054-7\">doi:10.1038/d41586-026-03054-7</a>Patents alone won’t unlock critical-mineral supply chains",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02971-x",
+    "title": "The cost of lost labour on a warming planet",
+    "link": "https://www.nature.com/articles/d41586-026-02971-x",
+    "authors": [
+      "Holly Smith"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02971-x\">doi:10.1038/d41586-026-02971-x</a>Researchers quantify the economic damage caused by climate-change-related heat stress on the global workforce.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03055-6",
+    "title": "Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
+    "link": "https://www.nature.com/articles/d41586-026-03055-6",
+    "authors": [
+      "Phil Hutchinson"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03055-6\">doi:10.1038/d41586-026-03055-6</a>Why AI-authorship debates miss a deeper shift in how scholarly knowledge is produced",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03046-7",
+    "title": "AI-powered medical devices must be tested in real-world settings",
+    "link": "https://www.nature.com/articles/d41586-026-03046-7",
+    "authors": [],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03046-7\">doi:10.1038/d41586-026-03046-7</a>Tools that inform clinical decision-making require rigorous assessments equivalent to processes used to approve drugs and self-driving cars.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02961-z",
+    "title": "AI can widen science — but only if institutions stop rewarding the already measurable",
+    "link": "https://www.nature.com/articles/d41586-026-02961-z",
+    "authors": [
+      "Guowei Huang",
+      "Xiang Hu",
+      "Pengsong Zhang",
+      "Zhicheng Lin"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02961-z\">doi:10.1038/d41586-026-02961-z</a>Funders, journals and universities must reward the creation of new scientific terrain, not just the efficient mining of old ground.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02759-z",
+    "title": "Chinese-owned science journal created to rival the best",
+    "link": "https://www.nature.com/articles/d41586-026-02759-z",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02759-z\">doi:10.1038/d41586-026-02759-z</a>Newly-launched Vita is part of a broader government plan to give China a bigger say in what counts as high quality science.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02776-y",
+    "title": "A new chapter in targeting kinase enzymes in cancer",
+    "link": "https://www.nature.com/articles/d41586-026-02776-y",
+    "authors": [
+      "Alice T. Shaw"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02776-y\">doi:10.1038/d41586-026-02776-y</a>Inhibitors of tyrosine kinase enzymes have been a cornerstone in precision cancer treatments. Now, targeted protein degraders could reshape therapeutic options.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03048-5",
+    "title": "Lab-grown brain organoids: time for international oversight",
+    "link": "https://www.nature.com/articles/d41586-026-03048-5",
+    "authors": [],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03048-5\">doi:10.1038/d41586-026-03048-5</a>Researchers in the field are right to focus on biosafety, ethics and the involvement of patient groups and the public.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02960-0",
+    "title": "How to put people first in cyberspace",
+    "link": "https://www.nature.com/articles/d41586-026-02960-0",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02960-0\">doi:10.1038/d41586-026-02960-0</a>Digital technologies increasingly shape everyday life. Computer scientist Francine Berman tells Nature that stronger safeguards are required to protect the public interest.",
+    "source": "Nature",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03089-w",
+    "title": "Daily briefing: Old hearts ‘de-age’ in younger people",
+    "link": "https://www.nature.com/articles/d41586-026-03089-w",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03089-w\">doi:10.1038/d41586-026-03089-w</a>Epigenetic 'clocks' suggest that transplanted organs adjust to the host's biological age. Plus, a new biography of Stephen Hawking and how sham societies are misleading star researchers.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03004-3",
+    "title": "China now leads the world in trials for next-gen CAR-T therapies",
+    "link": "https://www.nature.com/articles/d41586-026-03004-3",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03004-3\">doi:10.1038/d41586-026-03004-3</a>China tests these therapies faster than the rest of the world but regulatory changes could slow the progress.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02959-7",
+    "title": "Stephen Hawking biography explores an ‘exceptionally clear, uncluttered mind’",
+    "link": "https://www.nature.com/articles/d41586-026-02959-7",
+    "authors": [
+      "Neil Turok"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02959-7\">doi:10.1038/d41586-026-02959-7</a>An elegant account of the physicist’s unusual life story highlights the relationships that inspired him.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02964-w",
+    "title": "Bigger than CRISPR? A guide to the latest genome editors",
+    "link": "https://www.nature.com/articles/d41586-026-02964-w",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02964-w\">doi:10.1038/d41586-026-02964-w</a>Gene-editing techniques could soon allow researchers to replace entire genes and engineer complex cellular circuits — if the systems can be delivered safely into cells.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02962-y",
+    "title": "Vaping in childhood has bigger health risks than we’d thought",
+    "link": "https://www.nature.com/articles/d41586-026-02962-y",
+    "authors": [
+      "William D. Carroll",
+      "Francis J. Gilchrist"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02962-y\">doi:10.1038/d41586-026-02962-y</a>Use of e-cigarettes makes it more likely that young people will experience mental-health disorders and take up smoking. Governments must act.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03043-w",
+    "title": "Old hearts age backwards: transplanted organs adjust to host’s biological age",
+    "link": "https://www.nature.com/articles/d41586-026-03043-w",
+    "authors": [
+      "Chris Simms"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03043-w\">doi:10.1038/d41586-026-03043-w</a>Tracking the biological age of grafted organs suggests that donor pools could be expanded to boost organ availability.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02277-y",
+    "title": "Paid to peer review: firms are paying researchers to assess manuscripts for journals",
+    "link": "https://www.nature.com/articles/d41586-026-02277-y",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 28 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-02277-y\">doi:10.1038/d41586-026-02277-y</a>Freelance peer-review jobs through third-party companies raise practical and ethical questions.",
+    "source": "Nature",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03050-x",
+    "title": "Daily briefing: Landmark bat study suggests they evolved in Europe",
+    "link": "https://www.nature.com/articles/d41586-026-03050-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 25 September 2026; <a href=\"https://www.nature.com/articles/d41586-026-03050-x\">doi:10.1038/d41586-026-03050-x</a>A new project aims to generate chromosome-level genomes for all living bat species. Plus, AlphaFold has a new pandemic preparedness portal and security risks of AI.",
+    "source": "Nature",
+    "date": "2026-09-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78118-3",
+    "title": "Generative design of high-fidelity microstructures using physics-aware machine learning",
+    "link": "https://www.nature.com/articles/s41467-026-78118-3",
+    "authors": [
+      "Weijie Liao",
+      "Kaidi Li",
+      "Bin Tang",
+      "Jiangkun Fan",
+      "Jun Wang",
+      "Xiangyi Xue",
+      "Jinshan Li",
+      "Ruihao Yuan"
+    ],
+    "summary": "Nature Communications, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78118-3\">doi:10.1038/s41467-026-78118-3</a>This study uses physics-aware AI to generate high-fidelity microstructures beyond existing data distributions, resulting in a bimodal grain structure that enables improved strength and ductility.",
+    "source": "Nature Communications",
+    "date": "2026-09-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77968-1",
+    "title": "An auto-initializing algorithm to determine electronic ground states from random Slater determinants",
+    "link": "https://www.nature.com/articles/s41467-026-77968-1",
+    "authors": [
+      "Hao Zhang",
+      "Matthew Otten"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77968-1\">doi:10.1038/s41467-026-77968-1</a>Electronic structure calculations usually need a good starting guess, often unavailable for strongly correlated systems. The authors develop an auto-initializing algorithm that efficiently finds accurate ground states from random Slater determinants.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-74974-1",
+    "title": "Waned mantle upwelling contributes to a heavily deformed northern smooth plains on Mercury",
+    "link": "https://www.nature.com/articles/s41467-026-74974-1",
+    "authors": [
+      "Sophia Eva Economon"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-74974-1\">doi:10.1038/s41467-026-74974-1</a>Waned mantle upwelling contributes to a heavily deformed northern smooth plains on Mercury",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78153-0",
+    "title": "Religious celibacy is linked to marriage and wealth transmission practices across different world religions",
+    "link": "https://www.nature.com/articles/s41467-026-78153-0",
+    "authors": [
+      "Gabriel Šaffa",
+      "Sara Sherbaji",
+      "Ruth Mace"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78153-0\">doi:10.1038/s41467-026-78153-0</a>Lifelong religious celibacy has been linked to sibling competition over parental wealth. Here, the authors show that celibacy is linked to marriage patterns, and its prevalence among men and women is related to which sex faces higher marriage payments.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78182-9",
+    "title": "Exploring Li growth modes in Li metal electrodes using X-ray nano-tomography",
+    "link": "https://www.nature.com/articles/s41467-026-78182-9",
+    "authors": [
+      "Josef Rizell",
+      "Victor Vanpeene",
+      "Martina Olsson",
+      "Jan Jamroz",
+      "François Cadiou",
+      "Hervé Manzanarez",
+      "Valentin Vinci",
+      "Olga Stamati",
+      "Julie Villanova",
+      "Sandrine Lyonnard",
+      "Aleksandar Matic"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78182-9\">doi:10.1038/s41467-026-78182-9</a>The growth of porous, weakly connected structures in Li electrodes is directly linked to the poor cycle life of Li-metal batteries. Here, the authors use in situ nano-tomography to track the evolution of these structures and understand their growth mechanism.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77989-w",
+    "title": "Deep-learning single-cell profiling uncovers interbacterial and drug-driven reshaping of pathogen virulence",
+    "link": "https://www.nature.com/articles/s41467-026-77989-w",
+    "authors": [
+      "Bence Bognár",
+      "Terézia Kovács",
+      "Réka Muresan",
+      "Ede Migh",
+      "Tímea Balogh",
+      "Nándor Milán Kovács",
+      "Áron Somogyi",
+      "Árpád Molnár",
+      "Bálint Csörgő",
+      "Csaba Pál",
+      "Péter Horváth",
+      "Szilvia Juhász",
+      "Viktória Lázár"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-77989-w\">doi:10.1038/s41467-026-77989-w</a>This study introduces MALVINA, a deep-learning platform that measures bacterial invasion and DNA damage in individual human cells, revealing how bacterial interactions and commonly used drugs reshape pathogen virulence.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78133-4",
+    "title": "Structural mechanisms underlying resistance to Switch-II pocket inhibitors in KRAS",
+    "link": "https://www.nature.com/articles/s41467-026-78133-4",
+    "authors": [
+      "Matthew J. Whitley",
+      "Marcin Dyba",
+      "Mayukh Chakrabarti",
+      "Brian P. Smith",
+      "Albert H. Chan",
+      "John-Paul Denson",
+      "Simon A. Messing",
+      "Ken Lin",
+      "Gabriel Cornilescu",
+      "Trent E. Balius",
+      "Dwight V. Nissley",
+      "Frank McCormick",
+      "Anna E. Maciag",
+      "Dhirendra K. Simanshu"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78133-4\">doi:10.1038/s41467-026-78133-4</a>This study explores how clinically observed KRAS resistance mutations alter drug-binding interactions and dynamics of the Switch-II pocket while preserving oncogenic signaling, providing a structural framework for developing more durable KRAS inhibitors.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78072-0",
+    "title": "Unexpected stabilization of a single-<i>q</i> charge density wave in pristine 1<i>T</i>-TiSe<sub>2</sub>",
+    "link": "https://www.nature.com/articles/s41467-026-78072-0",
+    "authors": [
+      "Kimoon Higashihira Han",
+      "Dongju Hwang",
+      "Dongsin Kim",
+      "Yeojin Ahn",
+      "Jaehun Cha",
+      "Seonggeon Gim",
+      "Gyubin Lee",
+      "Mingi Jho",
+      "Chan-young Lim",
+      "Sae Hee Ryu",
+      "Chris Jozwiak",
+      "Aaron Bostwick",
+      "Eli Rotenberg",
+      "Jonathan D. Denlinger",
+      "Makoto Hashimoto",
+      "Donghui Lu",
+      "Young Woo Choi",
+      "Gil Young Cho",
+      "Yeongkwan Kim"
+    ],
+    "summary": "Nature Communications, Published online: 29 September 2026; <a href=\"https://www.nature.com/articles/s41467-026-78072-0\">doi:10.1038/s41467-026-78072-0</a>The authors show that the subcomponents of the charge density wave in 1T-TiSe₂ are unequal and set in one by one, beginning with an unexpected unidirectional state.",
+    "source": "Nature Communications",
+    "date": "2026-09-29",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00827-6",
+    "title": "Dynamic instability of the Wilkes Subglacial Basin Ice Sheet, East Antarctica",
+    "link": "https://www.nature.com/articles/s43017-026-00827-6",
+    "authors": [
+      "Matt A. King",
+      "Nancy A. N. Bertler",
+      "Sridhar Anandakrishnan",
+      "Guilhem Barruol",
+      "Michael J. Bentley",
+      "Xavier Crosta",
+      "Poul Christoffersen",
+      "Florence Colleoni",
+      "Laura De Santis",
+      "Carlota Escutia",
+      "Johan Etourneau",
+      "Dimitris Evangelinos",
+      "Fausto Ferraccioli",
+      "Nicholas R. Golledge",
+      "Matt Harris",
+      "Petra Heil",
+      "Nicole A. Hill",
+      "Indi Hodgson-Johnston",
+      "Coen Hofstede",
+      "Xiaoxia Huang",
+      "Richard Jones",
+      "Serena Lagorio",
+      "Won Sang Lee",
+      "Andrew Mackintosh",
+      "Felicity S. McCormack",
+      "Robert M. McKay",
+      "Maxence Menthon",
+      "Taryn Noble",
+      "Marilyn N. Raphael",
+      "Stephen Rintoul",
+      "Martin Siegert",
+      "Craig Stevens",
+      "Craig Stewart",
+      "Chris Stokes",
+      "Yusuke Suganuma",
+      "Fiorenza Torricella",
+      "Yu Wang",
+      "Trevor Williams",
+      "Chen Zhao"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 30 September 2026; <a href=\"https://www.nature.com/articles/s43017-026-00827-6\">doi:10.1038/s43017-026-00827-6</a>The Wilkes Subglacial Basin is a marine-based sector of the East Antarctic Ice Sheet that is vulnerable to ocean-forced melting and climate warming. This Review assesses changes in ice-sheet extent in the Wilkes Subglacial Basin under past and projected warming and notes large uncertainties in temperature-related and climate-related thresholds for its major retreat.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-09-30",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005534",
+    "title": "Revisiting lithospheric dripping: Modern crustal xenoliths from the Colombian arc suggest heterogeneous viscosity and cyclic instability development",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005534?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Sophia A. Johnson, Cailey B. Condit, Mauricio Ibañez-Mejia, Rachel Bernard, Michelle Foley",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-09-30",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013189",
+    "title": "The Size of Greater India: Estimates by Comparing the Apparent Polar Wander Paths of the Tethyan Himalaya and the Indian Craton",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013189?af=R",
+    "authors": [
+      "Xianwei Jiao, \nSuo Wang, \nYong Zhao, \nTongming Fang"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012518",
+    "title": "Pre‐Eruptive Volatiles and Magma Storage Depth for the 2018 Eruption at Mount Veniaminof, Alaska",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012518?af=R",
+    "authors": [
+      "E. G. Huggins, \nP. Ruprecht, \nM. Loewen, \nM. Gavrilenko, \nR. J. Bodnar, \nM. Harlaux"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
+    "id": "10.1029/ggge.70209",
+    "title": "Issue Information",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/ggge.70209?af=R",
+    "authors": [
+      null
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-09-28",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02130-x",
     "title": "Author Correction: The dominant role of temperature in seasonal ozone sensitivity changes in China",
     "link": "https://www.nature.com/articles/s41561-026-02130-x",
