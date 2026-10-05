@@ -1,5 +1,155 @@
 [
   {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600556X",
+    "title": "Interseismic plate coupling along the Uttarakhand Himalaya from GNSS and ALOS-2 InSAR",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600556X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Dibyashakti Panda, Mridul Yadav, Eric O. Lindsey, G Srinivasa Rao",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL121480",
+    "title": "Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL121480?af=R",
+    "authors": [
+      "A. R. Muxworthy, \nM. E. Kosters, \nB. M. de Groot, \nT. M. Mitchell, \nA. R. Thomson, \nB. Kugabalan, \nL. Qi, \nL. V. de Groot"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123133",
+    "title": "Cosmogenic 10Be as a Tracer for Recent Heliospheric Encounters With Interstellar Cold Clouds and Nearby Supernovae",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123133?af=R",
+    "authors": [
+      "Anna Nica, \nMerav Opher, \nJesse A. Miller, \nJennifer L. Middleton, \nJoe Giacalone"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124761",
+    "title": "Detection and Analysis of an Upward Jet‐Like Electrical Discharge Intercepting a High‐Altitude Research Aircraft",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124761?af=R",
+    "authors": [
+      "T. J. Lang, \nA. Mezentsev, \nM. G. Quick, \nC. G. Amiot, \nM. Bateman, \nR. Blakeslee, \nS. Cummer, \nG. M. Heymsfield, \nR. A. Kroodsma, \nN. G. Lehtinen, \nD. Mach, \nM. Marisaldi, \nM. Walker McLinden, \nN. Østgaard, \nM. Pazos, \nD. A. S. Sarria, \nC. J. Schultz, \nT. D. Walker, \nO. van der Velde, \nK. Virts"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122682",
+    "title": "Contrast in the Boundary Layer Convergence Lines at Desert−Oasis Border With Different Vegetation Gradient",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122682?af=R",
+    "authors": [
+      "Zimeng Zheng, \nZhiyong Meng, \nQuxin Cui, \nYipeng Huang, \nXuefeng Meng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124553",
+    "title": "Dust Loading Increases During Topsoil Flash Droughts Under Rapid Surface Drying and Vegetation Stress",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124553?af=R",
+    "authors": [
+      "Xuesong Wang, \nChunlai Zhang, \nXi Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123394",
+    "title": "Rare Synchronization Among Recurring Earthquakes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123394?af=R",
+    "authors": [
+      "Kélian Dascher‐Cousineau, \nRoland Bürgmann, \nAlba M. Rodriguez Padilla, \nRishav Mallick, \nTaka’Aki Taira"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122882",
+    "title": "Quantifying Non‐Maxwellian Properties of Ion Populations During Reconnection at Earth's Magnetopause",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122882?af=R",
+    "authors": [
+      "I. Zaitsev, \nK. Papadakis, \nL. Pänkäläinen, \nM. Alho, \nS. Hoilijoki, \nU. Ganse, \nT. Roos, \nM. Palmroth"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123988",
+    "title": "The Influence of Sea‐Land Breeze on the Circulation and Air‐Sea Thermodynamics of the Mississippi Sound and Bight",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123988?af=R",
+    "authors": [
+      "D. N. Bernstein, \nB. N. Armstrong, \nA. Razavi Arab, \nM. K. Cambazoglu, \nJ. D. Wiggert"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012799",
+    "title": "The Aurora Vent Field at the Transition From Magmatic Accretion to Tectonic Extension on Gakkel Ridge: Constraints From Microseismicity and Aeromagnetic Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012799?af=R",
+    "authors": [
+      "Matthias Pilot, \nMechita C. Schmidt‐Aursch, \nGraeme Eagles, \nVera Schlindwein"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034431",
+    "title": "Episodic Seismicity Bursts Driven by Magma Intrusion During the 2025 Santorini‐Amorgos Seismic Crisis",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034431?af=R",
+    "authors": [
+      "Xing Tan, \nWilliam L. Ellsworth, \nGregory C. Beroza, \nStephanie G. Prejean, \nJeremy D. Pesicek"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006277",
+    "title": "Porewater nitrate isotope dynamics in selected benthic habitats: Modulation by sediment reactivity and process coupling via nitrite",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006277?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Alessandra Mazzoli, Peter Reichert, Cameron M. Callbeck, Claudia Frey, Paul M. Magyar, Tim J. Paulus, Donald E. Canfield, Sergei Katsev, Jakob Zopfi, Moritz F. Lehmann",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006320",
+    "title": "Sulfur isotope fractionation during metal–silicate equilibration and implications for Earth’s mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006320?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 3 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lucas Calvo, Jabrane Labidi, Anat Shahar, Edith Kubik, Julien Siebert",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-78126-3",
     "title": "Multivalent antiviral conjugates enhance activity against Influenza via cross-linking viruses",
     "link": "https://www.nature.com/articles/s41467-026-78126-3",
