@@ -1,5 +1,353 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02113-y",
+    "title": "Ocean acidification reshapes phytoplankton phosphorus metabolism under phosphate-limited conditions",
+    "link": "https://www.nature.com/articles/s41561-026-02113-y",
+    "authors": [
+      "Bingkun Wang",
+      "Yapeng Wang",
+      "Yanmin Sun",
+      "Xintong Huang",
+      "Fan Yang",
+      "Zhuonan Wang",
+      "Hai Chi",
+      "Shanying Tong",
+      "Xiao Fan",
+      "Xiaowen Zhang",
+      "Ke Sun",
+      "Feixue Fu",
+      "Yitao Wang",
+      "David A. Hutchins",
+      "Guofu Chen",
+      "Dong Xu",
+      "Naihao Ye"
+    ],
+    "summary": "Nature Geoscience, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02113-y\">doi:10.1038/s41561-026-02113-y</a>Ocean acidification can reduce phytoplankton phosphorus content, especially under phosphate limitation, which could reshape marine nutrient balance and phosphorus cycling, according to long-term experiments, field studies and global analyses.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78460-6",
+    "title": "Real-time visualization of G2L4 reverse transcriptase in DNA repair via microhomology-mediated end joining",
+    "link": "https://www.nature.com/articles/s41467-026-78460-6",
+    "authors": [
+      "Pangmiaomiao Zhang",
+      "Mo Guo",
+      "Y. Jessie Zhang",
+      "Alan M. Lambowitz",
+      "Yi-Chih Lin"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78460-6\">doi:10.1038/s41467-026-78460-6</a>The error-prone microhomology-mediated end joining (MMEJ) pathway is important for double strand break repair. Here, the authors use high-speed atomic force microscopy to visualize how the Pseudomonas aeruginosa chromosomally encoded group II intron-like reverse transcriptase (G2L4 RT) act on MMEJ substrates.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78192-7",
+    "title": "MOF-mediated cascade photoreactions under nanoconfinement for defluorination of per- and polyfluoroalkyl substances",
+    "link": "https://www.nature.com/articles/s41467-026-78192-7",
+    "authors": [
+      "Jingjing Tang",
+      "Xiang Zhang",
+      "Jie Li",
+      "Hongchao Li",
+      "Yuqian Jia",
+      "Wanyi Fu",
+      "Weiming Zhang",
+      "Jieshu Qian",
+      "Bingcai Pan"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78192-7\">doi:10.1038/s41467-026-78192-7</a>Here, authors report a nanoconfinement strategy to encapsulate a MOF photocatalyst within a graphene aerogel matrix. This not only allows cascade reduction-oxidation reactions but also provides kinetic and thermodynamic advantages for efficient defluorination of various PFASs.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78350-x",
+    "title": "Symmetry-engineered and electrically tunable in-plane anomalous Hall effect in oxide heterostructures",
+    "link": "https://www.nature.com/articles/s41467-026-78350-x",
+    "authors": [
+      "Kunjie Dai",
+      "Zhen Wang",
+      "Wenfeng Wu",
+      "Feng Jin",
+      "Enda Hua",
+      "Nan Liu",
+      "Jingdi Lu",
+      "Jinfeng Zhang",
+      "Yuyue Zhao",
+      "Linda Yang",
+      "Kai Liu",
+      "Huan Ye",
+      "Qiming Lv",
+      "Zhengguo Liang",
+      "Ao Wang",
+      "Shengchun Shen",
+      "Dazhi Hou",
+      "Yang Gao",
+      "Jing Tao",
+      "Liang Si",
+      "Wenbin Wu",
+      "Lingfei Wang"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78350-x\">doi:10.1038/s41467-026-78350-x</a>The authors demonstrate that engineering crystal symmetry in oxide heterostructures creates a robust in-plane anomalous Hall effect, enabling direct readout of in-plane magnetization and a wide range of fully reversible electrical ON/OFF switching.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78304-3",
+    "title": "RhoA Y42C drives cell plasticity and PD-1-mediated immune evasion of diffuse gastric cancer",
+    "link": "https://www.nature.com/articles/s41467-026-78304-3",
+    "authors": [
+      "Kyung-Pil Ko",
+      "Sangmin Kim",
+      "Jinho Jang",
+      "Yoojeong Seo",
+      "Gengyi Zou",
+      "Jie Zhang",
+      "Sohee Jun",
+      "Brittany Morrow",
+      "Jaffer A. Ajani",
+      "Ryan J. Park",
+      "Yuan-Hung Lo",
+      "Michael A. Curran",
+      "Kim Hyunki",
+      "Jae-Il Park"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78304-3\">doi:10.1038/s41467-026-78304-3</a>The oncogenic contribution of recurrent RHOA mutations in diffuse gastric cancer remains incompletely defined. Using engineered gastric organoids, the authors demonstrate that RHOA Y42C drives tumor formation and promotes PD-1- mediated immune suppression.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78432-w",
+    "title": "Large-scale proteomics identifies circulating markers of pulmonary pressure and pulmonary hypertension risk",
+    "link": "https://www.nature.com/articles/s41467-026-78432-w",
+    "authors": [
+      "Fernando R. Giugni",
+      "Mario Santos",
+      "Yimin Yang",
+      "Victoria Lamberson",
+      "Brian Claggett",
+      "Ron Hoogeveen",
+      "Christie Ballantyne",
+      "David Systrom",
+      "Aaron Waxman",
+      "Leo Buckley",
+      "Bing Yu",
+      "Raúl San José Estépar",
+      "Sheila M. Hegde",
+      "Amil M. Shah"
+    ],
+    "summary": "Nature Communications, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78432-w\">doi:10.1038/s41467-026-78432-w</a>By integrating proteomics, genetics and imaging, this study identifies candidate blood biomarkers of pulmonary hypertension, implicates NOTCH3 in disease development, and defines distinct biological subtypes of individuals at risk for this condition.",
+    "source": "Nature Communications",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78253-x",
+    "title": "<i>Ghd7</i>‑triggered transcriptional regulation for synergistically improving rice eating quality and yield",
+    "link": "https://www.nature.com/articles/s41467-026-78253-x",
+    "authors": [
+      "Guangming Lou",
+      "Haozhou Gao",
+      "Gonghao Jiang",
+      "Yahong Tian",
+      "Minqi Li",
+      "Wenting Rao",
+      "Zixuan Zhao",
+      "Ruoqian Yu",
+      "Yuanyuan Zheng",
+      "Huan Shi",
+      "Shiyuan Cheng",
+      "Yuli Cao",
+      "Pingli Chen",
+      "Yanhua Li",
+      "Guanjun Gao",
+      "Bian Wu",
+      "Junxiao Chen",
+      "Yuexing Wang",
+      "Yibo Li",
+      "Xuelei Lai",
+      "Ping Yan",
+      "Daoxiu Zhou",
+      "Lizhong Xiong",
+      "Aiqing You",
+      "Yuqing He"
+    ],
+    "summary": "Nature Communications, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78253-x\">doi:10.1038/s41467-026-78253-x</a>Rice breeders struggle to boost yield and eating quality simultaneously as the two traits often work against each other. Here, the authors identify a CCT domain transcription regulator encoding gene Ghd7 in determining rice grain amylose content and functioning in balancing starch and protein to coordinate yield and quality.",
+    "source": "Nature Communications",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78098-4",
+    "title": "PSHIC reveals allele-specific chromatin organization by phasing-free structural modeling",
+    "link": "https://www.nature.com/articles/s41467-026-78098-4",
+    "authors": [
+      "Wei Liu",
+      "Xueying Wang",
+      "Yuwei Zhang",
+      "Guangze Pan",
+      "Shuaicheng LI"
+    ],
+    "summary": "Nature Communications, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78098-4\">doi:10.1038/s41467-026-78098-4</a>PSHIC reconstructs parent-specific 3D genome organization from standard Hi-C data without phased genetic variants. It outperforms existing methods and recovers validated features of X inactivation, imprinting and gene regulation.",
+    "source": "Nature Communications",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78345-8",
+    "title": "Fear learning–induced brain dynamics predict individual extinction memory expression following transcranial magnetic stimulation",
+    "link": "https://www.nature.com/articles/s41467-026-78345-8",
+    "authors": [
+      "Kai Zhang",
+      "Lihan Cui",
+      "B.Isabel Moallem",
+      "Hani Meelad",
+      "Zakiya Atiyah",
+      "Muhammad Badarnee",
+      "Isabella Mason",
+      "Zhenfu Wen",
+      "Mark S. George",
+      "Mohammed R. Milad"
+    ],
+    "summary": "Nature Communications, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78345-8\">doi:10.1038/s41467-026-78345-8</a>Zhang et al. show that fear learning reshapes spontaneous brain activity and that these changes can predict individual differences in how extinction memories are later expressed following TMS-modulated extinction.",
+    "source": "Nature Communications",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00828-5",
+    "title": "Rethinking ocean alkalinity enhancement",
+    "link": "https://www.nature.com/articles/s43017-026-00828-5",
+    "authors": [
+      "Lennart T. Bach",
+      "Dariia Atamanchuk",
+      "Damon Britton",
+      "Michael Fuhr",
+      "Astrid Hylén",
+      "Sara Nawaz",
+      "Tyler Rohr"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00828-5\">doi:10.1038/s43017-026-00828-5</a>Ocean alkalinity enhancement (OAE) is often thought of as a global-scale geoengineering approach to mitigate climate change. This Perspective explores the environmental effects, geochemical constraints, verification and governance of OAE and argues for local-scale, context-led evaluation.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2608919123?af=R",
+    "title": "Causality-integrated graph learning for multi-endpoint toxicity prediction",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608919123?af=R",
+    "authors": [
+      "Haoyue TanTong BaoYin FangRong ZhangJinsha JinDan XuLan XieHuan ZhongXuezhi XiaoHuixiao HongEmilio BenfenatiTadahaya MizunoQing ZhouJingfan QiuChangsheng QuYan MaoXiangyi YuJing GuoHongxia YuXiaowei ZhangWei Shiahttps://ror.org/01rxvg760State Key Laboratory of Water Pollution Control and Green Resource Recycling, School of Environment, Nanjing University, Nanjing 210023, Jiangsu, ChinabJiangsu Province Ecology and Environment Protection Key Laboratory of Chemical Safety and Health Risk, Nanjing 210023, Jiangsu, ChinacCollege of Computer Science and Technology, Zhejiang University, Hangzhou 310027, Chinadhttps://ror.org/04gwbew76Foreign Environmental Cooperation Centre, Ministry of Ecology and Environment of the People‘s Republic of China, Beijing 100035, ChinaeNational Center for Toxicological Research US Food and Drug Administration, Jefferson, AR 72079fhttps://ror.org/04tfzc498Department of Environmental Health Sciences, Istituto di Ricerche Farmacologiche Mario Negri Istituto di Ricovero e Cura a Carattere Scientifico, Milano 20156, Italyghttps://ror.org/057zh3y96Laboratory of Molecular Pharmacokinetics, Graduate School of Pharmaceutical Sciences, The University of Tokyo, Bunkyo, Tokyo 113-0033, Japanhhttps://ror.org/03jcejr58The School of Statistical Thinking, The Institute of Statistical Mathematics, Tachikawa, Tokyo 190-8562, Japanihttps://ror.org/059gcgy73Key Laboratory for Pathogen Infection and Control of Jiangsu Province, Department of Pathogen Biology and Immunology, Nanjing Medical University, Nanjing 211166, Chinajhttps://ror.org/0385nmy68Key Laboratory of Environmental Remediation and Ecological Health, Ministry of Industry and Information Technology, Jiangsu Environmental Engineering Technology Co., Ltd, Nanjing 210019, Jiangsu, Chinakhttps://ror.org/04gwbew76Solid Waste and Chemicals Management Center, Ministry of Ecology and Environment, Beijing 100029, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceExisting models largely predict toxicity one end point at a time, although chemical toxicity emerges from coordinated perturbations across multiple targets, pathways, and adverse outcomes. We developed a causality-integrated graph learning ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612680123?af=R",
+    "title": "An unidentified reservoir of comet 81P/Wild 2 chondrules",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612680123?af=R",
+    "authors": [
+      "Mingming ZhangDonald E. BrownleeDave J. JoswiakNoriko T. Kitaahttps://ror.org/01y2jtd41WiscSIMS, Department of Geoscience, University of Wisconsin–Madison, Madison, WI 53706bhttps://ror.org/00cvxb145Department of Astronomy, University of Washington, Seattle, WA 98195"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceIt is widely accepted that chondrules were formed in the inner regions of the protoplanetary disk, though the heating mechanism is unknown. Petrography and O isotopes of ~100 silicate fragments from one of the largest aerogel tracks from the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+    "title": "A 2,623-year temperature reconstruction from the Colorado Rocky Mountains reveals warm and cool droughts",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612779123?af=R",
+    "authors": [
+      "Alexandre F. NolinConnie A. WoodhouseCody C. Routsonahttps://ror.org/03m2x1q45School of Geography, Development & Environment, University of Arizona, Tucson, AZ 85721bhttps://ror.org/03m2x1q45Laboratory of Tree-Ring Research, University of Arizona, Tucson, AZ 85721chttps://ror.org/0272j5188School of Earth and Sustainability, Northern Arizona University, Flagstaff, AZ 86011"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 41, October 2026. <br />SignificanceThis study provides a millennial-length temperature reconstruction for the southern Rocky Mountains, headwaters of the Colorado River and Rio Grande, which supply water to millions of people and global food systems. Yet recent drought in the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005625",
+    "title": "Potential for large igneous province volcanism to drive transient atmospheric deoxygenation in the Paleoproterozoic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005625?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Yasuto Watanabe, Kazumi Ozaki, Shintaro Kadoya, Mariko Harada, Hironao Matsumoto, Eiichi Tajika",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125307",
+    "title": "Tracing Mantle Upwellings Beneath Changbaishan/Mount Paektu: New Insights From Transition Zone Discontinuity Structure",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125307?af=R",
+    "authors": [
+      "Cunrui Han, \nWeiqian Yu, \nJames O. S. Hammond, \nDavid P. Dobson, \nHe Tan, \nYou Tian, \nWei Wei"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034166",
+    "title": "Evolution of Scaled Energy During Earthquake Ruptures",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034166?af=R",
+    "authors": [
+      "Binhao Wang, \nHeidi Houston"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006381",
+    "title": "Prebiotic organic compounds in asteroid Bennu and Ryugu reflect divergent parent body histories",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006381?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Angel Mojarro, José C. Aponte, Daniel P. Glavin, Jamie E. Elsila, Jason P. Dworkin, Harold C. Connolly",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006290",
+    "title": "Quantitative constraints on fluid-induced extreme oxygen isotope fractionation from crystal–fluid interactions in highly evolved granite–pegmatite systems",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006290?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhen-Hua Wang, Chang-Zhi Wu, Ru-Xiong Lei, Xiang-Long Luo, Matthew J. Brzozowski",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006307",
+    "title": "Impact-induced formation of low-Ca pyroxene in a partially melted troctolitic clast from the Chang’e-5 lunar regolith",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006307?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Yang Bai, Zhuang Guo, Yuqi Qian, Shichuan Sun, Jingru Ma, Kangjun Huang, Li-Hui Chen, Yunpeng Dong, Simon A.T. Redfern, Charles K. Shearer, Guochun Zhao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S001670372600637X",
+    "title": "Behavior of major to trace elements, volatiles, and metals during basaltic arc magma differentiation: a slow-cooling experimental study at 1.5, 1.0, 0.7, and 0.4 GPa",
+    "link": "https://www.sciencedirect.com/science/article/pii/S001670372600637X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 4 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jia Chang, Andreas Audétat",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
     "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600556X",
     "title": "Interseismic plate coupling along the Uttarakhand Himalaya from GNSS and ALOS-2 InSAR",
     "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600556X?dgcid=rss_sd_all",
