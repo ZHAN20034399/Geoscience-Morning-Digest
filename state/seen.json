@@ -1,5 +1,601 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11244-6",
+    "title": "Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+    "link": "https://www.nature.com/articles/s41586-026-11244-6",
+    "authors": [
+      "Rui Zeng",
+      "Julian Ufert",
+      "Bryan Y. Tang",
+      "Ryan P. Bisbey",
+      "Yogesh Surendranath"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11244-6\">doi:10.1038/s41586-026-11244-6</a>Author Correction: Anodic Pd membrane H<sub>2</sub> extraction enhances thermochemical dehydrogenation",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03176-y",
+    "title": "Maintaining global science collaboration during conflict requires fairer rules",
+    "link": "https://www.nature.com/articles/d41586-026-03176-y",
+    "authors": [
+      "Emmanuel Chidiebere Edeh",
+      "Ehizuelen Michael Mitchell Omoruyi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03176-y\">doi:10.1038/d41586-026-03176-y</a>Maintaining global science collaboration during conflict requires fairer rules",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03155-3",
+    "title": "The Solar System could die one billion times earlier than thought",
+    "link": "https://www.nature.com/articles/d41586-026-03155-3",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03155-3\">doi:10.1038/d41586-026-03155-3</a>Modelling suggests that the planets’ orbits will become destabilized inside one billion years once the Sun starts to shed mass.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03174-0",
+    "title": "The Great Barrier Reef requires special attention in the developing super El Niño",
+    "link": "https://www.nature.com/articles/d41586-026-03174-0",
+    "authors": [
+      "Awais Shakoor"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03174-0\">doi:10.1038/d41586-026-03174-0</a>The Great Barrier Reef requires special attention in the developing super El Niño",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02973-9",
+    "title": "Scientists take a radiometer for a spin in a hot-air balloon",
+    "link": "https://www.nature.com/articles/d41586-026-02973-9",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02973-9\">doi:10.1038/d41586-026-02973-9</a>A satisfying congruence between genetics and cell-biology findings, and experiments at altitude with a rotating device that measures radiant energy, in this week’s peek at Nature’s archive.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03177-x",
+    "title": "Preprints must not leak sensitive research information",
+    "link": "https://www.nature.com/articles/d41586-026-03177-x",
+    "authors": [
+      "Jingyi Chen"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03177-x\">doi:10.1038/d41586-026-03177-x</a>Preprints must not leak sensitive research information",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03160-6",
+    "title": "Unprecedented hole opened up in Antarctic winter sea ice",
+    "link": "https://www.nature.com/articles/d41586-026-03160-6",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03160-6\">doi:10.1038/d41586-026-03160-6</a>‘Rivers in the sky’ helped to keep an expanse of water roughly as big as Portugal ice-free.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03175-z",
+    "title": "AI could undermine scientific independence in subtle ways",
+    "link": "https://www.nature.com/articles/d41586-026-03175-z",
+    "authors": [
+      "Fabio Y. S. Motoki"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03175-z\">doi:10.1038/d41586-026-03175-z</a>AI could undermine scientific independence in subtle ways",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03095-y",
+    "title": "Astronomy’s ‘adrenaline junkies’: Nobel prize captures the thrill of neutrino physics",
+    "link": "https://www.nature.com/articles/d41586-026-03095-y",
+    "authors": [
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03095-y\">doi:10.1038/d41586-026-03095-y</a>Nature reporter Davide Castelvecchi reflects on covering the fast-moving field of astronomy honoured by the Nobel physics award.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02798-6",
+    "title": "Rising numbers of Asian and African PhD students choose to study in China",
+    "link": "https://www.nature.com/articles/d41586-026-02798-6",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02798-6\">doi:10.1038/d41586-026-02798-6</a>International students explain the advantages and challenges that come with pursuing a doctoral degree in China.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03105-z",
+    "title": "How digital breakdowns affect supply chains — and endanger the global economy",
+    "link": "https://www.nature.com/articles/d41586-026-03105-z",
+    "authors": [
+      "Dabo Guan"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03105-z\">doi:10.1038/d41586-026-03105-z</a>When supply chains fail, it’s often because of energy, computer or data-network failures. Addressing these requires a way to make interdependencies visible.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03129-5",
+    "title": "Strong evidence that ‘baryon junctions’ give proton its identity",
+    "link": "https://www.nature.com/articles/d41586-026-03129-5",
+    "authors": [
+      "José Guilherme Milhano",
+      "Néstor Armesto"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03129-5\">doi:10.1038/d41586-026-03129-5</a>A conserved property of protons and neutrons is carried not by their constituent particles but by structures that mediate the force between them.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03131-x",
+    "title": "Why smart glasses are about to create a major privacy crisis",
+    "link": "https://www.nature.com/articles/d41586-026-03131-x",
+    "authors": [
+      "Joy Buolamwini"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03131-x\">doi:10.1038/d41586-026-03131-x</a>As AI wearables become discreet, cheap and mainstream, they risk normalizing non-consensual recording in everyday spaces.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03136-6",
+    "title": "Cells, who needs them? Biochemists turn to proteins in a tube",
+    "link": "https://www.nature.com/articles/d41586-026-03136-6",
+    "authors": [
+      "Amber Dance"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03136-6\">doi:10.1038/d41586-026-03136-6</a>Scientists are using cell-free transcription and translation systems to synthesize proteins, design biology-based sensors and develop synthetic cells.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02966-8",
+    "title": "Circular DNA exposes a weakness in cancer cells",
+    "link": "https://www.nature.com/articles/d41586-026-02966-8",
+    "authors": [
+      "Nikolaus A. Watson",
+      "Jan O. Korbel"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02966-8\">doi:10.1038/d41586-026-02966-8</a>Repetitive sequences make extrachromosomal DNA vulnerable to breaks, which could be exploited for therapy — but might also promote tumour evolution.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03150-8",
+    "title": "Flu season could kick off ‘incredibly’ early — what scientists are watching",
+    "link": "https://www.nature.com/articles/d41586-026-03150-8",
+    "authors": [
+      "Mariana Lenharo"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03150-8\">doi:10.1038/d41586-026-03150-8</a>Cases in the Northern Hemisphere are cropping up weeks early, and they are dominated by a virus with a concerning mutation.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03092-1",
+    "title": "Nobel physics prize awarded for detection of cosmic neutrinos",
+    "link": "https://www.nature.com/articles/d41586-026-03092-1",
+    "authors": [
+      "Elizabeth Gibney",
+      "Davide Castelvecchi"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03092-1\">doi:10.1038/d41586-026-03092-1</a>Francis Halzen wins the 2026 award for his work on a neutrino observatory at the South Pole that has helped to unlock mysteries of the Universe.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02967-7",
+    "title": "Brain organoids grafted into cortex-free mice will advance human brain research",
+    "link": "https://www.nature.com/articles/d41586-026-02967-7",
+    "authors": [
+      "Marty G. Yang",
+      "Aparna Bhaduri"
+    ],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02967-7\">doi:10.1038/d41586-026-02967-7</a>Cell-based models of the human cortex transplanted into mice produce neurons that are inaccessible in vitro, and could enable scientists to link brain injury to behaviour.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03130-y",
+    "title": "How to mobilize the agile science needed in a crisis",
+    "link": "https://www.nature.com/articles/d41586-026-03130-y",
+    "authors": [],
+    "summary": "Nature, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03130-y\">doi:10.1038/d41586-026-03130-y</a>Two reports highlight the changes needed in academia to facilitate the fast, collaborative, responsive and inclusive research that aids global decision makers.",
+    "source": "Nature",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03094-z",
+    "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
+    "link": "https://www.nature.com/articles/d41586-026-03094-z",
+    "authors": [
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03094-z\">doi:10.1038/d41586-026-03094-z</a>Nature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogenetics — which scientists have anticipated for years.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03157-1",
+    "title": "The top cancer success stories of the past 50 years, by the numbers",
+    "link": "https://www.nature.com/articles/d41586-026-03157-1",
+    "authors": [
+      "Heidi Ledford"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03157-1\">doi:10.1038/d41586-026-03157-1</a>Outcomes have improved drastically in the United States for some forms of the disease, but those for others continue to lag.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03185-x",
+    "title": "Daily briefing: Medicine Nobel prize goes to optogenetics",
+    "link": "https://www.nature.com/articles/d41586-026-03185-x",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03185-x\">doi:10.1038/d41586-026-03185-x</a>Three pioneers of optogenetics have won the 2026 Nobel Prize in Physiology or Medicine. Plus, the funniest nature photography and the physics behind a new science-fiction novel.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03091-2",
+    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
+    "link": "https://www.nature.com/articles/d41586-026-03091-2",
+    "authors": [
+      "Miryam Naddaf",
+      "Ewen Callaway"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03091-2\">doi:10.1038/d41586-026-03091-2</a>Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology or Medicine for their work on optogenetics, which has revolutionized neuroscience.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03134-8",
+    "title": "How big tech is building a military–industrial complex in the age of AI",
+    "link": "https://www.nature.com/articles/d41586-026-03134-8",
+    "authors": [
+      "Chris Stokel-Walker"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03134-8\">doi:10.1038/d41586-026-03134-8</a>Two books explore how warfare is being reshaped, with influence shifting from states to tech giants.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03135-7",
+    "title": "AI biohazard hype must not divert attention from the real risks we face now",
+    "link": "https://www.nature.com/articles/d41586-026-03135-7",
+    "authors": [
+      "Saskia Popescu"
+    ],
+    "summary": "Nature, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03135-7\">doi:10.1038/d41586-026-03135-7</a>Twenty-five years after the US anthrax attacks, fears around AI are distracting people from seeing what’s needed to stay safe: a strong, regulated life-sciences sector.",
+    "source": "Nature",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03164-2",
+    "title": "Daily briefing: Can you name every female Nobel laureate?",
+    "link": "https://www.nature.com/articles/d41586-026-03164-2",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 02 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03164-2\">doi:10.1038/d41586-026-03164-2</a>Test yourself on your science Nobel knowledge. Plus, how butterfly markings mislead the eye and how to respond to hate speech without fuelling it further.",
+    "source": "Nature",
+    "date": "2026-10-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03141-9",
+    "title": "Daily briefing: The sky as you’ve never seen it — the month’s best science images",
+    "link": "https://www.nature.com/articles/d41586-026-03141-9",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 01 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03141-9\">doi:10.1038/d41586-026-03141-9</a>Coloured stripes across the sky and a crab caught in jellyfish tentacles are among this month’s sharpest science shots. Plus, a ‘speech clock’ could determine how fast you’re ageing and how invasive plant species are displacing farmers in Africa.",
+    "source": "Nature",
+    "date": "2026-10-01",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78216-2",
+    "title": "Neonatal overfeeding accelerates age-related sarcopenia and metabolic disorders through lifelong gut mucosa and microbiota programming in mice",
+    "link": "https://www.nature.com/articles/s41467-026-78216-2",
+    "authors": [
+      "Yeyu Song",
+      "Jingyi Xu",
+      "Jingjie Zhao",
+      "Rong Yang",
+      "Yuandi Ma",
+      "Yi-Ming Hou",
+      "Yutang Cao",
+      "Jiaqi Li",
+      "Shuwu Yu",
+      "Xinyu Liang",
+      "Yongxin Zhang",
+      "Kanglong Wang",
+      "Lijuan An",
+      "Yameng Liu",
+      "Zhuo-Xian Meng",
+      "Jian-Gao Fan",
+      "Cen Xie"
+    ],
+    "summary": "Nature Communications, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78216-2\">doi:10.1038/s41467-026-78216-2</a>Here, the authors demonstrate that neonatal overfeeding in mice shortens lifespan and accelerates late-life muscle loss. This originates from persistent gut mucus defects and depleted Akkermansia muciniphila, revealing a targetable developmental origin for sarcopenia.",
+    "source": "Nature Communications",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78206-4",
+    "title": "High potential contribution of intercropping to soybean and maize self-sufficiency in Europe",
+    "link": "https://www.nature.com/articles/s41467-026-78206-4",
+    "authors": [
+      "Mathilde Chen",
+      "Nicolas Guilpart",
+      "David Makowski"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78206-4\">doi:10.1038/s41467-026-78206-4</a>Domestic production of maize and soybeans in the EU currently falls short of demand. This study finds that adoption of maize-soybean intercropping could improve soybean self-sufficiency by 25−91% but also contribute to EU maize demand by 50−145%.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78564-z",
+    "title": "Ultrathin high-performance circular polarizers based on MoOCl<sub>2</sub>/NbOCl<sub>2</sub> van der Waals heterostructures",
+    "link": "https://www.nature.com/articles/s41467-026-78564-z",
+    "authors": [
+      "Shuxin Huang",
+      "Guanyu Zhang",
+      "Yaolong Li",
+      "Xianghan Meng",
+      "Yijun Wang",
+      "Weizhe Zhang",
+      "Minghao Deng",
+      "Yixuan Xu",
+      "Zini Cao",
+      "Jiaqi Li",
+      "Kaihui Liu",
+      "Wenjing Liu",
+      "Qihuang Gong",
+      "Guowei Lyu"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78564-z\">doi:10.1038/s41467-026-78564-z</a>Circularly polarized light can be used in several applications, but normally requires bulky optical components. Here, the authors report the realization of sub-micron-thick circular polarizers based on the natural phase modulation capability of NbOCl2 and polarization selectivity of MoOCl2 crystals, showing their integration into a LED chip.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78178-5",
+    "title": "Embryonic origin of cancer in newborn twins",
+    "link": "https://www.nature.com/articles/s41467-026-78178-5",
+    "authors": [
+      "Barbara Walkowiak",
+      "Sadie Baskind",
+      "Manas Dave",
+      "Pooja Balasubramanian",
+      "Nathaniel Anderson",
+      "Jonathan Kennedy",
+      "Thomas R. W. Oliver",
+      "Rohan Verma",
+      "Sarita Depani",
+      "Simon Hannam",
+      "Tom Watson",
+      "Dyanne Rampling",
+      "Karin Straathof",
+      "Liina Palm",
+      "J. Ciaran Hutchinson",
+      "Henry Lee-Six",
+      "Olga Slater",
+      "Sam Behjati"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78178-5\">doi:10.1038/s41467-026-78178-5</a>Identical twins with the same cancer can reveal how childhood tumours arise and spread before birth. Here, the authors use whole-genome sequencing of tumour, normal and placental tissues to show that a sarcoma that originated in one twin spread to the other in utero, and trace early embryonic lineages that contributed differently to the twins and placenta.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78444-6",
+    "title": "Distinct T cell correlates of COVID-19 risk before and after a second booster in previously SARS-CoV-2 infected versus naïve COVAIL trial participants",
+    "link": "https://www.nature.com/articles/s41467-026-78444-6",
+    "authors": [
+      "Bo Zhang",
+      "Youyi Fong",
+      "Chenchen Yu",
+      "Shiyu Chen",
+      "Valentin Voillet",
+      "Bhavesh Borate",
+      "Katharine Schwedhelm",
+      "Zhe Chen",
+      "Jing Wang",
+      "Nadine G. Rouphael",
+      "Angela R. Branche",
+      "David J. Diemert",
+      "Ann R. Falsey",
+      "Daniel S. Graciaa",
+      "Lindsey R. Baden",
+      "Sharon E. Frey",
+      "Jennifer A. Whitaker",
+      "Susan J. Little",
+      "Satoshi Kamidani",
+      "Emmanuel B. Walter",
+      "Richard M. Novak",
+      "Richard Rupp",
+      "Lisa A. Jackson",
+      "Craig A. Magaret",
+      "Lindsay N. Carpp",
+      "Tara M. Babu",
+      "Angelica C. Kottkamp",
+      "Anne F. Luetkemeyer",
+      "Lilly C. Immergluck",
+      "Rachel M. Presti",
+      "Martín Bäcker",
+      "Patricia L. Winokur",
+      "Siham M. Mahgoub",
+      "Paul A. Goepfert",
+      "Dahlene N. Fusco",
+      "Robert L. Atmar",
+      "Christine M. Posavad",
+      "Jinjian Mu",
+      "Mat Makowski",
+      "Mamodikoe K. Makhene",
+      "Seema U. Nayak",
+      "Paul C. Roberts",
+      "Dean Follmann",
+      "Stephen C. De Rosa",
+      "M. Juliana McElrath",
+      "Peter B. Gilbert"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78444-6\">doi:10.1038/s41467-026-78444-6</a>Vaccines to SARS-CoV-2 clearly stimulate virus specific T cell and antibody responses but T cell-mediated protection is challenging to show. Here the authors use PBMC samples from an open-label clinical trial of different prototype and variant-specific COVID-19 vaccine boosters to examine the function and phenotype of T cell populations and how T cell response levels associate with risk of, and with protection against, symptomatic SARS-CoV-2 infection.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78265-7",
+    "title": "A generative diffusion framework for physically consistent 3D turbulence",
+    "link": "https://www.nature.com/articles/s41467-026-78265-7",
+    "authors": [
+      "Tianyi Li",
+      "Michele Buzzicotti",
+      "Fabio Bonaccorso",
+      "Luca Biferale"
+    ],
+    "summary": "Nature Communications, Published online: 06 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78265-7\">doi:10.1038/s41467-026-78265-7</a>Three-dimensional turbulence contains complex multiscale fluctuations that challenge even state-of-the-art generative models. Here, the authors develop a generative diffusion framework that produces physically consistent 3D turbulence with accurate multiscale statistics.",
+    "source": "Nature Communications",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003193",
+    "title": "Natural fractures in crystalline basement reservoirs in China: types, controls, and effectiveness",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003193?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Xiaoyu Du, Lianbo Zeng, Guoping Liu, Lei Gong, Ruitong Guo, Jiacheng Yin",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125688",
+    "title": "Interdecadal Phase Shifts of Winter Asian‐Pacific Oscillation Modulate the Warm Arctic‐Cold Eurasia Pattern",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125688?af=R",
+    "authors": [
+      "Peilin Li, \nBotao Zhou, \nDapeng Zhang, \nXinping Xu, \nYujia Liu, \nWenxin Xie"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124065",
+    "title": "Corals Reveal Atlantic Drivers of Red Sea Surface Variability Through Indian Ocean Inflow",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124065?af=R",
+    "authors": [
+      "Ian H. Plummer, \nSujata A. Murty, \nAlison M. Sawyer, \nDavid P. Gillikin, \nAnouk Verheyden, \nKonrad A. Hughen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123652",
+    "title": "Drift‐Resonance Driven by Field Line Resonance Gradients: A Mechanism for Non‐Dispersive Microinjection Events",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123652?af=R",
+    "authors": [
+      "J. Liu, \nR. Rankin, \nA. W. Degeling, \nS. Yao, \nF. Fenrich"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125062",
+    "title": "High‐ and Low‐Latitude Insolation Forcing Drives the Half‐Precession Cycle in Winter Arctic Sea Ice",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125062?af=R",
+    "authors": [
+      "Zhipeng Wu, \nQiuzhen Yin, \nAndré Berger, \nZhengtang Guo, \nZhifeng Zhang, \nMing‐Qiang Liang, \nWei Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012964",
+    "title": "Provenance of the Middle‐Upper Triassic Songpan‐Ganzi Flysch of Western China Revealed by Anisotropy of Magnetic Susceptibility Measurements: Implications for the Tectonic‐Paleogeographic Evolution of the Paleo‐Tethys Ocean",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012964?af=R",
+    "authors": [
+      "Yuhan Yang, \nYong Cao, \nXiaozhou Ye, \nZhenyu Yang, \nZhiming Sun, \nHaibing Li"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013071",
+    "title": "LIPOTHERM: A Calibration Framework for GDGT Paleothermometry Based on Machine Learning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013071?af=R",
+    "authors": [
+      "Vikash Kumar, \nManish Tiwari, \nBiswajit Roy"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-05",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006368",
+    "title": "Accessory mineral control on <em>δ</em><sup>88/86</sup>Sr variation during granitic magma evolution and implications for tracing fluid-melt interaction",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006368?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Nian-Qin Zhang, Yi-Xiang Chen, Kun Zhou, Xu-Qi Chen, Fang Huang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006356",
+    "title": "Volcanically driven manganese mineralization mediated by carbonate substrates during the Early Triassic",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006356?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 5 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Li Wang, Ling Gan, Chenchen Yang, Yinqiang Zhao, Hai Xu, Runsheng Yin, Hanjie Wen",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-07",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41561-026-02113-y",
     "title": "Ocean acidification reshapes phytoplankton phosphorus metabolism under phosphate-limited conditions",
     "link": "https://www.nature.com/articles/s41561-026-02113-y",
