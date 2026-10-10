@@ -1,5 +1,786 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03159-z",
+    "title": "Breaking down nerve-cell scaffold relieves chronic pain in mice",
+    "link": "https://www.nature.com/articles/d41586-026-03159-z",
+    "authors": [],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03159-z\">doi:10.1038/d41586-026-03159-z</a>Results could help researchers to develop painkillers that are safer and more effective than existing treatments.",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03216-7",
+    "title": "Briefing Chat: Top researchers are being misled by sham academic societies",
+    "link": "https://www.nature.com/articles/d41586-026-03216-7",
+    "authors": [
+      "Benjamin Thompson",
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03216-7\">doi:10.1038/d41586-026-03216-7</a>Nature staff discuss a network of organizations that have been building their ranks through deceptive practices.",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03158-0",
+    "title": "Chimp and gorilla brains resist weight loss with age — unlike human brains",
+    "link": "https://www.nature.com/articles/d41586-026-03158-0",
+    "authors": [],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03158-0\">doi:10.1038/d41586-026-03158-0</a>The relatively short lifespans of non-human great apes might explain why their brain mass is maintained in later life",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03217-6",
+    "title": "The life of Darwin and the science of clouds: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03217-6",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03217-6\">doi:10.1038/d41586-026-03217-6</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03210-z",
+    "title": "Watch this invisible tattoo appear under UV light",
+    "link": "https://www.nature.com/articles/d41586-026-03210-z",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03210-z\">doi:10.1038/d41586-026-03210-z</a>The ink could be useful for medical tattooing, but more tests are needed before it is widely available.",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02909-3",
+    "title": "An experiment to glimpse the future Amazon — in pictures",
+    "link": "https://www.nature.com/articles/d41586-026-02909-3",
+    "authors": [
+      "Meghie Rodrigues"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02909-3\">doi:10.1038/d41586-026-02909-3</a>David Lapola is testing a big climate-science unknown: how will the forest cope as atmospheric carbon dioxide continues to rise?",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11273-1",
+    "title": "Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "link": "https://www.nature.com/articles/s41586-026-11273-1",
+    "authors": [
+      "Cliodhna Kate O’Toole",
+      "Zhiyuan Song",
+      "Filippos Anagnostakis",
+      "Zhijian Yang",
+      "Ye Ella Tian",
+      "Michael R. Duggan",
+      "Chunrui Zou",
+      "Yue Leng",
+      "Yi Cai",
+      "Wenjia Bai",
+      "Cynthia H. Y. Fu",
+      "Michael S. Rafii",
+      "Paul Aisen",
+      "Gao Wang",
+      "Philip L. De Jager",
+      "Jian Zeng",
+      "Hamilton Se-Hwee Oh",
+      "Xia Zhou",
+      "Keenan A. Walker",
+      "Daniel W. Belsky",
+      "Andrew Zalesky",
+      "Eleanor M. Simonsick",
+      "Susan M. Resnick",
+      "Luigi Ferrucci",
+      "Christos Davatzikos",
+      "Junhao Wen"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11273-1\">doi:10.1038/s41586-026-11273-1</a>Publisher Correction: Sleep chart of biological ageing clocks in middle and late life",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03116-w",
+    "title": "Five movements from the edge of the singularity",
+    "link": "https://www.nature.com/articles/d41586-026-03116-w",
+    "authors": [
+      "D. Thomas Minton"
+    ],
+    "summary": "Nature, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03116-w\">doi:10.1038/d41586-026-03116-w</a>Change is in the air.",
+    "source": "Nature",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed2180?af=R",
+    "title": "Observation of electrically generated polaron-polaritons in a monolayer MoSe2 microcavity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed2180?af=R",
+    "authors": [
+      "Yuanjun Guan, Mengyao Xu, Zhen Cui, Xingzhou Chen, Chengye Ding, Xiaoqing Zhou, Kenji Watanabe, Takashi Taniguchi, Jesper Levinsen, Meera M. Parish, Pavlos G. Savvidis, Zhe-Yu Shi, Zheng Sun, Jian Wu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei1333?af=R",
+    "title": "ALIX-dependent small extracellular vesicles from tissue-resident mesenchymal cells regulate pancreatic β cell proliferation in obesity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1333?af=R",
+    "authors": [
+      "Yuhei Uehara, Hirofumi Nagao, Aoki Tobimatsu, Keitaro Kawada, Shunsuke Shiode, Emi Horitani, Yoshinari Obata, Shiro Fukuda, Yuya Fujishima, Shunbun Kita, Hitoshi Nishizawa, Iichiro Shimomura"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz0181?af=R",
+    "title": "Canonical Wnt induction by OTULIN prevents keratinocyte death and skin inflammation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz0181?af=R",
+    "authors": [
+      "Kim Lecomte, Pieter Hertens, Virginie Wylleman, Annagiada Toniolo, Febe Roelandt, Fleur Boone, Maarten Ciers, Lien Verboom, Katrien Staes, Geert van Loo, Esther Hoste"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz2555?af=R",
+    "title": "Ocean circulation changes rather than global warming drove temperature trends across the Miocene Climatic Optimum",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz2555?af=R",
+    "authors": [
+      "Evi Wubben, Xiaoqing Liu, Tjerk J. T. Veenstra, R. Paul Acosta, Joyce den Hollander, Chris Overduin, Matthew Huber, Francesca Sangiorgi, Francien Peterse, Appy Sluijs"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz4710?af=R",
+    "title": "Contagion-preserving compression for multiscale epidemic modeling",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz4710?af=R",
+    "authors": [
+      "Leyang Xue, Zengru Di, An Zeng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1435?af=R",
+    "title": "Cell heterogeneity contributes to the variable response of HIV-1 to latency-reversing agents",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1435?af=R",
+    "authors": [
+      "Rachel Topno, Hussein Karaki, Flavia Mazzarda, Oriane Pourcelot, Manon Philippe, Kazem Zibara, Ovidiu Radulescu, Edouard Bertrand"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1692?af=R",
+    "title": "Record-setting heavy precipitation occurrence in 2024",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1692?af=R",
+    "authors": [
+      "Chad W. Thackeray, Jesse Norris, Alex Hall, Mark D. Zelinka, Stephen Po-Chedley"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9247?af=R",
+    "title": "Surficial carbonates in mantle plume sources revealed by magnesium isotopes",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9247?af=R",
+    "authors": [
+      "Ze-Zhou Wang, Fang-Zhen Teng, Matthew G. Jackson, Catherine Chauvel, Cédric Hamelin"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0368?af=R",
+    "title": "Insect-specific aldehyde synthase governs cuticle strength: a selective insecticide target",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0368?af=R",
+    "authors": [
+      "Yi Ding, Xue Hu, Zihan Pang, Huan Liu, Loushi Shen, Yingqian Liu, Tian Liu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6480?af=R",
+    "title": "Long-term immunoprophylaxis by TLR9 ligand mediates macrophage-ILC cross-talk against respiratory viral infection",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6480?af=R",
+    "authors": [
+      "Asuka Joy Tobuse, Kouji Kobiyama, Jun Tsuchida, Masamitsu N. Asaka, Daichi Utsumi, Mariana Silva Almeida, Yaeko Nakajima-Takagi, Motohiko Oshima, Tomoya Hayashi, Burcu Temizoz, Etsushi Kuroda, Cevayir Coban, Yasuhiro Yasutomi, Atsushi Iwama, Ken J. Ishii"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aej5702?af=R",
+    "title": "SMCHD1 is a target for gene activation therapy to treat Prader-Willi syndrome",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej5702?af=R",
+    "authors": [
+      "Megan Iminitoff, Anna Le Fevre, Tamara Cameron, Hannah K. Vanyai, Caleb Chew, Sarah A. Kinkel, Kelsey Breslin, Susanne Theiß, Quentin Gouil, Merlin Thomas, James M. Murphy, Christian P. Schaaf, Andrew Keniry, Marnie E. Blewitt"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ady6048?af=R",
+    "title": "A neuronal GPCR modifies neuropeptide signaling to suppress proteostasis in distal tissues",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ady6048?af=R",
+    "authors": [
+      "Joud Hirbawi, Adam Zaretsky, Huadong Zhu, Uri Goshtchevsky, Gourab Dey, Emmanuelle Merquiol, Atif Ahmed Siddiqui, Irit Cohen, Galia Blum, Ehud Cohen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea2001?af=R",
+    "title": "Targeting SUV39H2 exon skipping reverses resistance to CDK4/6 inhibitors via transcriptional activation of p21",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea2001?af=R",
+    "authors": [
+      "Shiyi Yu, Xue Gong, Yawen Yang, Ying Duan, Siyu Zhang, Ying Wang, Zheng Wang, Caili Bi, Haibo Sun"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea8654?af=R",
+    "title": "Reduced organic nitrogen compounds dominate the toxicity of PM2.5 organics following internal exposure",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea8654?af=R",
+    "authors": [
+      "Yaling Zeng, Xin Yang, Xin Yuan, Rongrong Xu, Ke Yang, Baixin Zhang, Jinghao Zhai, Baohua Cai, Shao Shi, Yin Zhang, Yujie Zhang, Ziting Hou, Antai Zhang, Zhenxing Shen, Tzung-May Fu, Lei Zhu, Huizhong Shen, Jianhuai Ye, Chen Wang, Shu Tao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9861?af=R",
+    "title": "Influenza A virus infection induces immune dysregulation in the placenta and fetus without vertical transmission in nonhuman primates",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9861?af=R",
+    "authors": [
+      "Orlando Cervantes, Sidney Sun, Hazel Huang, Briana Del Rosario, Hong Zhao, Amanda Li, Andrew Vo, Gygeria Manuel, Roslyn Van Abel, Jeff Munson, John Cornelius, Raj P. Kapur, Miranda Li, Edmunda Li, Hanning Li, Alexandra Christodoulou, Melissa Berg, Britni Curtis, Elizabeth Miller, Shannon Ruff, Brenna Menz, Solomon Wangari, Audrey Germond, Audrey Baldessari, Chris English, W. McIntyre Durning, Thomas B. Lewis, Megan N. Fredericks, Mara Maughan, Austyn Orvis, Michelle Coleman, Lakshmi Rajagopal, Deborah H. Fuller, Kristina M. Adams Waldorf"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3698?af=R",
+    "title": "A helix-loop-helix gene orchestrates male fate in common carp",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg3698?af=R",
+    "authors": [
+      "Kuangxin Chen, Ji Chen, Miao Ding, Yi Rong, Yuanqi Guo, Yongming Li, Binbin Tao, Yanlong Song, Xingxing Wu, Lei Chen, Rui Li, Mouyan Jiang, Zhaoxian Li, Shaoting Jia, Yunya Wu, Yulai Wei, Yinjun Jiang, Hairong Liu, Shuhui Ji, Wenge Ma, Xishuang Shan, Wenrong Zhong, Wen Xu, Xianyao Liao, Lu Chen, Xiya Zhang, Junzhi Luo, Xuefan Cui, Hongrui Luo, Fei Liu, Houpeng Wang, Zhixian Qiao, Xiaocui Chai, Fang Zhou, Daji Luo, Shunping He, Zuoyan Zhu, Vance L. Trudeau, Chutian Ge, Wei Hu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3957?af=R",
+    "title": "Extracellular matrix–targeted TNC-scFv armoring enhances CAR T cell persistence and antitumor activity in solid tumors",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3957?af=R",
+    "authors": [
+      "Kaizhao Chen, Qi Fu, Wei Zhang, Ziyang Lin, Longjun Chen, Youxi Zhou, Yongkun Huo, Ziqing Gao, Haoyang Wan, Caifang Wang, Xingxu Huang, Shuaishuai Zhang, Ming Liu, Xiaodong Ma"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6459?af=R",
+    "title": "Buffaloed in Brandenburg: Germany’s first brush with foot-and-mouth disease after four decades of freedom",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6459?af=R",
+    "authors": [
+      "Michael Eschbaumer, Christoph Staubach, Florian Pfaff, Jörn Gethmann, Katja Schulz, Lisa Rogoll, Sabine Bock, Wulf-Iwo Bock, Christoph Schulze, Ronny Marquart, Nicole Reinhardt, Stephan Nickisch, Nadine Kakerow, Sabrina Freter, Annett Rudovsky, Kerstin Albrecht, Sandra Leo, Christina Haarmann, Sarah Lenz, Barbara Hoffmann, Sten Calvelage, Dirk Höper, Patrick Zitzow, Angele Breithaupt, Can Çokçalişkan, Ünal Parlak, Sharon Karniely, Laith Mohammed Salih Abdulrasool, Nick Knowles, Guillaume Girault, Aurore Romey, Labib Bakkali Kassimi, Donald P. King, Christa Kühn, Carola Sauter-Louis, Martin Beer"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6920?af=R",
+    "title": "Dishevelled-mediated clustering stabilizes Frizzled6 and Vangl2 to establish planar cell polarity in the mammalian skin",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6920?af=R",
+    "authors": [
+      "Parijat Sil, Brandon Trejo, Katherine A. Little, Danelle Devenport"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4468?af=R",
+    "title": "Scalable design of fluidic DEMUX/MUX",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed4468?af=R",
+    "authors": [
+      "Hwayeong Jeong, Jamie Paik, Jung Kim"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef9368?af=R",
+    "title": "Hydration channel engineering in Tröger’s base-POP membranes for mono/multivalent cation and anion discrimination",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef9368?af=R",
+    "authors": [
+      "Haopan Sun, Ning Gan, Baolong Wu, Chenglin Liu, Yan Jin, Yuzhu Sun, Jianguo Yu, Zhaoliang Cui, Yuqing Lin, Hideto Matsuyama, Young Moo Lee"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1086?af=R",
+    "title": "Enhancer binding kinetics explain transcription factor hub formation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1086?af=R",
+    "authors": [
+      "Samantha Fallacaro, Manya Kapoor, Lillian Encarnation, Apratim Mukherjee, Meghan A. Turner, Hernan G. Garcia, Mustafa Mir"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei3713?af=R",
+    "title": "Wildfires diminish vegetation control on surface runoff",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei3713?af=R",
+    "authors": [
+      "Yuanyuan Peng, Kun Shi, Shun Bi, Qi Guan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei7996?af=R",
+    "title": "Multiscale insights into screw dislocation-driven growth mechanisms",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei7996?af=R",
+    "authors": [
+      "Peiyu Qiao, Zhongshi Zhang, Bohui Xu, Pifu Gong, Xuanze Li, Yifan Wang, Lifeng Tian, Pei Liu, Jianyu Cao, Yuye Li, Qi Zhang, Chun Zhao, Xiangmin Meng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adt4995?af=R",
+    "title": "HPSC-derived mesenchymal stromal cells ameliorate murine autistic-like phenotypes through activating oxytocinergic neurons",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adt4995?af=R",
+    "authors": [
+      "Yinong Huang, Yixuan Liu, Yilin Liu, Hongjie Liang, Yunli Tong, Ruijie Li, Xiaoran Zhang, Yiling Wang, Yiwen Deng, Jihao Wu, Yue Shu, Qiying Lu, Yuan Qiu, Jinsi Chen, Yucheng Ba, Jiayun Fang, Jiang Hao, Weiqiang Li, Haipeng Xiao, Weijun Huang, Andy Peng Xiang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2110?af=R",
+    "title": "A bifunctional actuator to correct loss-of-function deficits in cardiac voltage-gated sodium channels",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb2110?af=R",
+    "authors": [
+      "Lucile Fossier, Marc Yehya, Richard Z. Zhuang, Sri Karthika Shanmugam, Ryan Mahling, Timothy Cho, Audrey Kochiss, Allen L. Hsu, Sandra B. Gabelli, Gordana Vunjak-Novakovic, Henry M. Colecraft, Manu Ben-Johny"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed3416?af=R",
+    "title": "Phage-ICE tandems facilitate bacterial adaptation and antimicrobial resistance spread",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed3416?af=R",
+    "authors": [
+      "Jinhu Huang, Jiaqi Zhao, Pengchao Zhan, Xingyang Dai, Xinming Pan, Zhenmiao Li, Wenbin Zhao, Xiaoli Shi, Xiaoming Wang, Shengyong Mao, Jiale Ma, Liping Wang, Jinxin Liu"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5257?af=R",
+    "title": "Citron kinase activity controls alternative splicing events that drive prostate cancer growth",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5257?af=R",
+    "authors": [
+      "Chitra Rawat, Nidhi Singh, Ujjwal R. Dahiya, Qiang Hu, Sarah Ng, Dingxiao Zhang, Shaun R. Stauffer, Amina Zoubeidi, Eva Corey, Jesse McKenney, Christopher J. Weight, Samuel C. Haywood, Song Liu, Tao Liu, Hannelore V. Heemers"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee7989?af=R",
+    "title": "Insights into temporal and spatial dynamics of short association fiber formation in the human fetal brain",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee7989?af=R",
+    "authors": [
+      "Bo Li, Željka Krsnik, Lana Pierotich, Ivica Kostović, Simon K. Warfield, P. Ellen Grant, Davood Karimi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8557?af=R",
+    "title": "Effects of probiotics on joint homeostasis and osteoarthritis: Development of microbe-gut-cartilage axis-on-a-chip",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8557?af=R",
+    "authors": [
+      "Jun Liu, Ning Zhang, Yiting Lei, Xiaoshuai Wang, Xiang Zhang, Wei Huang, Changhai Ding, Denghui Xie, Jun Yu, Rocky S. Tuan, Zhong Alan Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei4756?af=R",
+    "title": "Hydrogen isotopes reveal water leakage from the core",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei4756?af=R",
+    "authors": [
+      "Yu Zhang, Wenzhong Wang, Zhongqing Wu, Bowen Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aec9366?af=R",
+    "title": "Intensification of East Asian summer extreme precipitation under a net-zero anthropogenic CO2 emission scenario",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aec9366?af=R",
+    "authors": [
+      "Seungmok Paik, Daehyun Kim, Soon-Il An, So-Eun Park, Andrew D. King, Seung-Ki Min, Chao Liu, Jongsoo Shin"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed8424?af=R",
+    "title": "Costly missed connections: Visitation and misconduct in California prisons",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed8424?af=R",
+    "authors": [
+      "Yilin Zhuo, Kristin Turney, Naomi F. Sugie, M. Keith Chen, Emily Owens"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef2217?af=R",
+    "title": "SUMO2 deletion changes chromatin accessibility and enhances cytotoxic T cell activation and tumor infiltration",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef2217?af=R",
+    "authors": [
+      "Mohottige D. Neranjan Tharuka, Dai-Hua Chen, Maria Luisa Jurgensen Amaral, Tianchen Ren, Yixuan Kuang, Shih-Ting Huang, Nikhil Chilakapati, Bing Ren, Stephen P. Schoenberger, Ye Zheng, Yuan Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0494?af=R",
+    "title": "Senescent tumor cell membrane–based “time engine” nanosystem amplifies endoplasmic reticulum targeting for metastasis blockade",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh0494?af=R",
+    "authors": [
+      "Jing Tao, Yuzhen Guo, Fengzhi Zhang, Jiahui Wu, Liyun Xing, Jinxia Kong, Lian Li, Zhou Zhou, Yuan Huang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5191?af=R",
+    "title": "On-fault and remote observations of exceptionally long, supershear rupture in the 2025 M 7.7 Mandalay earthquake",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5191?af=R",
+    "authors": [
+      "Kejie Chen, Haoran Meng, Zhenguo Zhang, Zijia Wang, Zaiwang Liu, Chris Milliner, Guoguang Wei, Fuhua Zheng, Jianhao Gao, Min Zhou, Solene L. Antoine, Chaofeng Wang, Zhongqiu He, Kai Huang, Jindong Song, Qiang Ma, Haipeng Luo, Xiaofei Chen, Jean-Philippe Avouac"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2087?af=R",
+    "title": "Chromatin interaction landscape of epimorphic regeneration in teleost fish",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh2087?af=R",
+    "authors": [
+      "Xiaohui Jia, Xianglei Zhang, Weifeng Lin, Tengfei Ren, Shiqi Liu, Yufei Lou, Wei Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed0661?af=R",
+    "title": "Multidegree fluorescence–optical rotatory dispersion (F-ORD) from submonolayer interfacial chiral films",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed0661?af=R",
+    "authors": [
+      "Kevin Murati, Matthew R. Wilson, Isabela Capelozi de Freitas, TJ Pinedo, Benjamin W. Cerjan, Patrizia Polichetti, Alexander J. Higgins, Ethan T. Cox, Osama Abuhammad, Lyudmila V. Slipchenko, Garth J. Simpson"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4948?af=R",
+    "title": "Carbonic anhydrase VIII regulates IP3R1-dependent Ca2+ signaling to coordinate insulin secretion and hepatic glucose production",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh4948?af=R",
+    "authors": [
+      "Muhammad Fauzi, Takaaki Murakami, Ryota Usui, Ainur Botagarova, Daisuke Otani, Kentarou Sakaki, Shinsuke Tokumoto, Toshinori Imaizumi, Hisato Tatsuoka, Masahito Ogura, Jonathan Campbell, Nobuya Inagaki, Daisuke Yabe"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5886?af=R",
+    "title": "Mesoscale structures in signed networks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5886?af=R",
+    "authors": [
+      "Wei Zhang, Olga Boichak, Tristram J. Alexander, Tiago P. Peixoto, Eduardo G. Altmann"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5747?af=R",
+    "title": "Magnetic omniconversion: Source-independent molding of magnetostatic fields",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5747?af=R",
+    "authors": [
+      "Jaume Cunill-Subiranas, Natanael Bort-Soldevila, Fabian Resare, Nuria Del-Valle, Witlef Wieczorek, Carles Navau"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef2358?af=R",
+    "title": "Standardizing Cell Ontology terms for cross-study integration in the female reproductive tract",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef2358?af=R",
+    "authors": [
+      "Huan Ting Ong, Diane C. Saunders, Caroline Eastwood, Aleix Puig-Barbe, Alison Kochersberger, Anna Galligos, Bailey Marshall, Benjamin K. Johnson, Caroline E. Kratka, Chen Jin, Daniela Betancur, Gabriela Rapozo Guimarães, Jordan H. Machlin, Jose V. V. Isola, Katelyn M. Adam, Osmaray Morales-Casanova, Svetlana Djirackor, Taylor Schissel, Valentina Lorenzi, Xifan Wang, Xingyu Shen, Bikem Soygur, Brian Aevermann, Eliza A. Gaylord, Mariko H. Foecke, Norbert K. Tavares, Ryan M. Samuel, Sophia Szady, Srinivasan Mahalingam, Subhasri Biswas, Will Liao, Bérénice A. Benayoun, Hattie Chung, Wipawee Winuthayanon, Jun Z. Li, Matteo A. Molè, Michael Angelo, Patricia Jeudin, Ronny Drapkin, Ariella Shikanov, Diana J. Laird, Francesca Duncan, Hui Shen, Jennifer L. Garrison, Mariana Boroni, Michael B. Stout, Roser Vento-Tormo, Sophia H. L. George, Yousin Suh, Jennifer L. Young, Monica M. Laronda"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.ael8266?af=R",
+    "title": "Erratum for the Research Article “Microenvironment-driven transformable self-assembly nanoplatform enables spatiotemporal remodeling for rheumatoid arthritis therapy” by C. Hu et al.",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.ael8266?af=R",
+    "authors": [],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aem5509?af=R",
+    "title": "Erratum for the Research Article “CEMs-SELEX: DNAzyme-powered de novo biomarker discovery and noninvasive cancer diagnosis” by W. Cui et al.",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aem5509?af=R",
+    "authors": [],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aem6775?af=R",
+    "title": "Erratum for the Research Article “The pore size of mesoporous silica nanoparticles regulates their antigen delivery efficiency”",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aem6775?af=R",
+    "authors": [],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aem6777?af=R",
+    "title": "Erratum for the Research Article “A novel β-catenin/BCL9 complex inhibitor blocks oncogenic Wnt signaling and disrupts cholesterol homeostasis in colorectal cancer”",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aem6777?af=R",
+    "authors": [],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aem0053?af=R",
+    "title": "Erratum for the Research Article “Regulation of body length and bone mass by Gpr126/Adgrg6” by P. Sun et al.",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aem0053?af=R",
+    "authors": [],
+    "summary": "Science Advances, Volume 12, Issue 41, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00834-7",
+    "title": "The riverine land-to-ocean carbon flux",
+    "link": "https://www.nature.com/articles/s43017-026-00834-7",
+    "authors": [
+      "Robert G. M. Spencer",
+      "Travis W. Drake",
+      "Maodian Liu",
+      "Peter A. Raymond"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 09 October 2026; <a href=\"https://www.nature.com/articles/s43017-026-00834-7\">doi:10.1038/s43017-026-00834-7</a>Globally, rivers export ~1015 grams of carbon to the ocean each year. This Review explores the mobilization, modulation and transport of different species of carbon within watersheds and rivers, with the aim to help inform and improve land-to-ocean carbon flux estimates.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003284",
+    "title": "A geological framework for natural hydrogen and helium resources in Canada",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003284?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Omid H. Ardakani, Daniel S. Coutts, Oliver Warr, Barbara Sherwood Lollar, Christine Deblonde, Pavel Kabanov, Christopher Lister",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003223",
+    "title": "Neapolitan Yellow Tuff revisited: a new look to stratigraphy and eruptive dynamics of a complex eruption of Campi Flegrei caldera (Italy)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003223?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Gino González, Biagio Giaccio, Roberto Isaia, Federico Lucchi, Jacopo Natale, Antonio Costa, Daniela Mele, Lorenzo Monaco, Vincenzo Amato, Pierfrancesco Dellino, Sebastien Nomade, Alison Pereira, Vincent Scao, Giuseppe Siani, Roberto Sulpizio",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005637",
+    "title": "Formation of Eo-Paleoarchean continental crust through intracrustal reworking of differentiated Hadean crust in the Bastar Craton, India",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005637?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Ankita Nandi, Ravikant Vadlamani, Christopher L. Kirkland, Chris Clark",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005704",
+    "title": "An exposed magmatic feeder system for the regional olivine unit in Nili Fossae, Mars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005704?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): A. Valantinas, J.F. Mustard, A. Tullo, M.S. Bramble, J.W. Head",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005856",
+    "title": "Sedimentary layers enable extra-wide rupture jumps across extensional strike-slip stepovers",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005856?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: 15 December 2026<b>Source:</b> Earth and Planetary Science Letters, Volume 696Author(s): Jiankuan Xu, Xiaofei Chen",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124411",
+    "title": "Resolution Dependence in a Global Atmospheric Simulation From km to 220 m Grid Spacing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124411?af=R",
+    "authors": [
+      "Shuhei Matsugishi, \nMasaki Satoh, \nTomoki Ohno"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 19, 16 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013098",
+    "title": "Global Implications of Terrain‐Induced Bias in Paleomagnetic Data From 3D Forward Modeling of Mt. Etna",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013098?af=R",
+    "authors": [
+      "A. E. Hendrickx, \nC. Thieulot, \nL. V. de Groot"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006411",
+    "title": "Apatite in chang’e-6 mare basalts reveals a heterogeneous distribution of chlorine in the moon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006411?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Sen Hu, Mengfan Qiu, Linxi Li, Hejiu Hui, Jialong Hao, Huicun He, Yubing Gao, Liang Gao, Zhan Zhou, Mahesh Anand, Wei Yang, Yangting Lin, Xian-Hua Li, Fu-Yuan Wu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006046",
+    "title": "Boron isotope fractionation in siliceous hot spring sinters: Geochemical implications for biosignatures",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006046?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 8 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Eizo Nakamura, Chie Sakaguchi, Katsura Kobayashi, Nghiem Van Dao, Elena Kalinina, Hidehisa Tsuchida, Steven W. Ruff, Luke Steller, Martin Van Kranendonk, Ayrton Hamilton, Kathleen Campbell",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-10",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-11266-0",
     "title": "Author Correction: Histone readers MLLT1 and MLLT3 concentrate AID to confer locus specificity",
     "link": "https://www.nature.com/articles/s41586-026-11266-0",
