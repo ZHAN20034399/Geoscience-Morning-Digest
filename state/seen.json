@@ -1,5 +1,413 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03240-7",
+    "title": "Award-winning microscopy image disqualified over AI use",
+    "link": "https://www.nature.com/articles/d41586-026-03240-7",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03240-7\">doi:10.1038/d41586-026-03240-7</a>The incident has prompted discussions about the use of artificial intelligence in scientific imagery.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11253-5",
+    "title": "Author Correction: Timing and trajectory of <i>BCR::ABL1</i>-driven chronic myeloid leukaemia",
+    "link": "https://www.nature.com/articles/s41586-026-11253-5",
+    "authors": [
+      "Aleksandra E. Kamizela",
+      "Daniel Leongamornlert",
+      "Nicholas Williams",
+      "Xin Wang",
+      "Kudzai Nyamondo",
+      "Kevin Dawson",
+      "Michael Spencer Chapman",
+      "Jing Guo",
+      "Joe Lee",
+      "Karim Mane",
+      "Kate Milne",
+      "Anthony R. Green",
+      "Timothy Chevassut",
+      "Peter J. Campbell",
+      "Patrick T. Ellinor",
+      "Brian J. P. Huntly",
+      "E. Joanna Baxter",
+      "Jyoti Nangalia"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11253-5\">doi:10.1038/s41586-026-11253-5</a>Author Correction: Timing and trajectory of <i>BCR::ABL1</i>-driven chronic myeloid leukaemia",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03225-6",
+    "title": "Keep medical doctors in academia — without them, health-care research will suffer",
+    "link": "https://www.nature.com/articles/d41586-026-03225-6",
+    "authors": [
+      "Daniyal J. Jafree",
+      "Mingze Sun",
+      "Gordon W. Stewart",
+      "Áine Burns",
+      "Muzlifah Haniffa",
+      "Rupert Beale",
+      "Charles Swanton",
+      "Reza Motallebzadeh"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03225-6\">doi:10.1038/d41586-026-03225-6</a>Better career support and more funding stability is needed to retain this invaluable group of scientists.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03251-4",
+    "title": "Economics Nobel awarded for work on stabilizing economies in crisis",
+    "link": "https://www.nature.com/articles/d41586-026-03251-4",
+    "authors": [
+      "Philip Ball"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03251-4\">doi:10.1038/d41586-026-03251-4</a>Laureates share award that builds on the theories that contributed to governments intervening during the COVID-19 pandemic.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02970-y",
+    "title": "Beyond the solvent fog: watching molecules dance in the crowd",
+    "link": "https://www.nature.com/articles/d41586-026-02970-y",
+    "authors": [
+      "Kathryn Froese",
+      "Germán Sciaini"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02970-y\">doi:10.1038/d41586-026-02970-y</a>A technique called time-resolved X-ray liquidography has been used to shed precision light on the steps involved in a classic chemical reaction.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03181-1",
+    "title": "What does a PhD pay? Data reveal huge gaps across Europe",
+    "link": "https://www.nature.com/articles/d41586-026-03181-1",
+    "authors": [
+      "Chris Simms"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03181-1\">doi:10.1038/d41586-026-03181-1</a>Earnings come in a combination of scholarships and salaries and vary widely between countries, an analysis by international federation Eurodoc reveals.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03207-8",
+    "title": "Hidden signals in sleep can predict future health",
+    "link": "https://www.nature.com/articles/d41586-026-03207-8",
+    "authors": [
+      "Rachel K. Rowe"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03207-8\">doi:10.1038/d41586-026-03207-8</a>From a single night of sleep, AI tools can uncover physiological patterns linked to disease and mortality that are missed by conventional sleep measures.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02714-y",
+    "title": "I told ChatGPT to ‘continue’ — it went too far",
+    "link": "https://www.nature.com/articles/d41586-026-02714-y",
+    "authors": [
+      "Ying Zhao"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02714-y\">doi:10.1038/d41586-026-02714-y</a>An ambiguous instruction caused the chatbot to send three e-mails from Ying Zhao’s connected account. The incident advanced Zhao’s project, but showed that chatbots need limits.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03224-7",
+    "title": "Does the decline of book reading mark the end of rational thinking?",
+    "link": "https://www.nature.com/articles/d41586-026-03224-7",
+    "authors": [
+      "David Adam"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03224-7\">doi:10.1038/d41586-026-03224-7</a>Smartphones and artificial intelligence are undermining our ability to follow a complex argument, with grave consequences.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11250-8",
+    "title": "Antiviral immunity via telomerase-like reverse transcription in bacteria",
+    "link": "https://www.nature.com/articles/s41586-026-11250-8",
+    "authors": [
+      "Stephen Tang",
+      "Josephine L. Ramirez",
+      "Qixiang He",
+      "Mario Rodríguez Mestre",
+      "Tanner Wiegand",
+      "Dennis J. Zhang",
+      "Megan Wang",
+      "George D. Lampe",
+      "Jing Wang",
+      "Yanzhe Ma",
+      "Marko Jovanovic",
+      "Rafael Pinilla-Redondo",
+      "Israel S. Fernández",
+      "Samuel H. Sternberg"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11250-8\">doi:10.1038/s41586-026-11250-8</a>Antiviral immunity via telomerase-like reverse transcription in bacteria",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03227-4",
+    "title": "Private, offline and yours: how to search the literature with local AI systems",
+    "link": "https://www.nature.com/articles/d41586-026-03227-4",
+    "authors": [
+      "David Brzostowicki"
+    ],
+    "summary": "Nature, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03227-4\">doi:10.1038/d41586-026-03227-4</a>Concerns about privacy, reproducibility and cost are prompting scientists to use models on their computers rather than in the cloud.",
+    "source": "Nature",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02138-3",
+    "title": "Dry pebble rain could have delivered water to Earth through hydrogen reduction of iron oxide",
+    "link": "https://www.nature.com/articles/s41561-026-02138-3",
+    "authors": [],
+    "summary": "Nature Geoscience, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02138-3\">doi:10.1038/s41561-026-02138-3</a>Much of the water on Earth could have been produced from dry silicate pebbles falling through the hot, hydrogen-rich primordial atmosphere as the planet formed. High-temperature experiments in streams of pure hydrogen demonstrate that the reduction of iron oxide in the silicates can produce water vapour in minutes or hours, and suggest that water production on Earth-sized exoplanets should be widespread.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02125-8",
+    "title": "An abrupt shift towards a hotter and drier climate regime in the Western Eurasian Steppe",
+    "link": "https://www.nature.com/articles/s41561-026-02125-8",
+    "authors": [
+      "Jinling Piao",
+      "Jong-Seong Kug",
+      "Wen Chen",
+      "Mi-Kyung Sung",
+      "Shangfeng Chen",
+      "Zhikai Wang",
+      "Qingyu Cai",
+      "Danbi Lee"
+    ],
+    "summary": "Nature Geoscience, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02125-8\">doi:10.1038/s41561-026-02125-8</a>The Western Eurasian Steppe has undergone an abrupt and persistent transition to a hotter and drier summer climate that exceeds the range of natural variability, driven by external climate forcing and amplified by internal variability and land–atmosphere feedbacks, according to observations and Earth system model simulations.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78310-5",
+    "title": "Continuous-time noise mitigation in analogue quantum simulation",
+    "link": "https://www.nature.com/articles/s41467-026-78310-5",
+    "authors": [
+      "Gabriele Bressanini",
+      "Yue Ma",
+      "Michael Hanks",
+      "Hyukjoon Kwon",
+      "M. S. Kim"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78310-5\">doi:10.1038/s41467-026-78310-5</a>Mitigating errors in analogue quantum simulators - that is, reducing noise-induced bias in expectation values - would greatly improve their operation and scalability. Here, the authors propose a time-continuous error cancellation protocol, based on introducing an auxiliary system and engineering the joint dissipation of the new, extended system.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78115-6",
+    "title": "Block-fitness modeling of the global air mobility network",
+    "link": "https://www.nature.com/articles/s41467-026-78115-6",
+    "authors": [
+      "Giulia Fischetti",
+      "Anna Mancini",
+      "Giulio Cimini",
+      "Jessica T. Davis",
+      "Abby O. K. Leung",
+      "Alessandro Vespignani",
+      "Guido Caldarelli"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78115-6\">doi:10.1038/s41467-026-78115-6</a>Origin-destination data on air travel are essential for studying global mobility and epidemic risk but are often proprietary. Here, authors introduce a maximum-entropy network method that reconstructs air passenger flows from open data and enables accurate reproduction of epidemic dynamics.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78544-3",
+    "title": "Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+    "link": "https://www.nature.com/articles/s41467-026-78544-3",
+    "authors": [
+      "Kyle J. Kinney",
+      "Kun Jia",
+      "He Zhang",
+      "Ellen Schmaljohn",
+      "Thomas Osborne",
+      "Bernice Thommandru",
+      "Karthik Murugan",
+      "Andrea Sánchez-Peña",
+      "Sean West",
+      "Shengyao Chen",
+      "Roshani Codipilly",
+      "Morgan Sturgeon",
+      "Rolf Turk",
+      "Matthew S. McNeill",
+      "Mark Behlke",
+      "Ashley Jacobi",
+      "M. Kyle Cromer",
+      "Garrett Rettig",
+      "Gavin L. Kurgan"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78544-3\">doi:10.1038/s41467-026-78544-3</a>Author Correction: UNCOVERseq enables sensitive and controlled gene editing off-target nomination across CRISPR-Cas modalities and systems",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78369-0",
+    "title": "Neuronal signatures of successful one-shot memory in mid-level visual cortex",
+    "link": "https://www.nature.com/articles/s41467-026-78369-0",
+    "authors": [
+      "Grace F. DiRisio",
+      "Cheng Xue",
+      "Marlene R. Cohen"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78369-0\">doi:10.1038/s41467-026-78369-0</a>Neural mechanisms underlying one-shot memory are not fully understood. In this study, macaque monkeys were trained to perform a continuous image recognition task and simultaneously recorded from groups of neurons in area V4. The authors found that the perceptual building blocks of fast, high-capacity memory are present in mid-level sensory cortex.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78397-w",
+    "title": "The mechanosensitive PIEZO1 channel promotes CD54<sup>+</sup>/iNOS<sup>+</sup> neutrophil expansion in pulmonary fibrosis",
+    "link": "https://www.nature.com/articles/s41467-026-78397-w",
+    "authors": [
+      "Lili Zhuang",
+      "Jia Shi",
+      "Zhangmei Lin",
+      "Xinyuan Ruan",
+      "Yichao Qian",
+      "Ruiting Su",
+      "Xuexin Zhong",
+      "Huijin Zou",
+      "Yumeng Wang",
+      "Shuyi Wang",
+      "Yimei Lai",
+      "Yubiao Guo",
+      "Niansheng Yang",
+      "Hui Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78397-w\">doi:10.1038/s41467-026-78397-w</a>Neutrophils have been shown to be involved in pulmonary fibrosis (PF). Here, the authors identify an expanded pro-inflammatory neutrophil state marked by CD54 in human PF and by iNOS in murine PF, demonstrate that iNOS+ neutrophils promote PF whilst Arg+ neutrophils are less effective, and show that mechanical activation of the PIEZO1 channel contributes to the promotion of PF by CD54 + /iNOS+ neutrophils.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78418-8",
+    "title": "Serine-65 phosphorylated ubiquitin associates with soluble tau and seeding activity in Alzheimer’s disease",
+    "link": "https://www.nature.com/articles/s41467-026-78418-8",
+    "authors": [
+      "Tingxiang Yan",
+      "Xu Hou",
+      "Jens O. Watzlawik",
+      "Dennis W. Dickson",
+      "Fabienne C. Fiesel",
+      "Wolfdieter Springer"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78418-8\">doi:10.1038/s41467-026-78418-8</a>Not all selective markers of seeding-competent Tau are known. Here, the authors identify pS65-Ub-associated tau linked to pathological Tau spreading and elevated in Alzheimer’s disease. Removal of pS65-Ub reduces tau seeding activity.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78635-1",
+    "title": "Interpretable AI-guided discovery of degradable ionizable lipids with enhanced hepatic mRNA delivery in vivo",
+    "link": "https://www.nature.com/articles/s41467-026-78635-1",
+    "authors": [
+      "Zhen Zhang",
+      "Yongbo Ren",
+      "Deqiang Kong",
+      "Jindong Feng",
+      "Kaiyi Hu",
+      "Xinyun Xu",
+      "Fukang Deng",
+      "Peixia Li",
+      "Jiuao Wang",
+      "Wenhui Huang",
+      "Guodan Wei",
+      "Yang Su",
+      "Ying Tan",
+      "Shuixing Zhang",
+      "Xiaodan Sun",
+      "Feiyu Kang",
+      "Hao Yan"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78635-1\">doi:10.1038/s41467-026-78635-1</a>Ionizable-lipid discovery remains largely empirical. Here, the authors integrate interpretable machine learning with modular degradable lipid chemistry to prioritize candidates for experimental testing and identify a lead lipid for hepatic mRNA delivery.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78225-1",
+    "title": "The central coupler of ClpXP controls intersubunit communication and couples intrasubunit chemical energy with force generation",
+    "link": "https://www.nature.com/articles/s41467-026-78225-1",
+    "authors": [
+      "Robert P. Sosa",
+      "Alfredo Jose Florez Ariza",
+      "Jeonghoon Kim",
+      "Alexander B. Tong",
+      "Zhen-Hui Kang",
+      "Alicia Li",
+      "John Kuriyan",
+      "Carlos Bustamante"
+    ],
+    "summary": "Nature Communications, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78225-1\">doi:10.1038/s41467-026-78225-1</a>What is the mechanism by which ClpXP utilizes ATP to unfold proteins? Using single-molecule, biochemical and structural methods, the authors find that the central coupler facilitates the conversion of chemical energy into a quick motion of substrate translocating loops to generate force.",
+    "source": "Nature Communications",
+    "date": "2026-10-12",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003351",
+    "title": "The Neogene evolution of the Amazon Basin: reconciling continental and marine provenance records",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003351?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Gabriel R. Moizinho, Germain Bayon, Martin Roddaz, Anne Trinquier, Marie-Laure Rouget, Marina Rabineau, Daniel Aslanian, Elton L. Dantas, Roberto V. Santos",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003260",
+    "title": "Historical biogeography of Middle-East mangroves: paleobotanical evidence",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003260?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Valentí Rull",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034098",
+    "title": "The Role of Slab Folding in Modulating the Landscape Evolution of Ribbon Collision",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034098?af=R",
+    "authors": [
+      "Andrés Felipe Rodríguez Corcho, \nClaire Mallard, \nSara Polanco, \nCamilo Montes, \nLouis Moresi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006435",
+    "title": "Source evolution controls the molybdenum isotope composition of Archean continental crust",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006435?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 11 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Eric D. Vandenburg, Oliver Nebel, Laura M. Spencer, Marc-Alban Millet, R. Hugh Smithies, Peter A. Cawood, Alexandra Churchus, Wenli Liang, Emilie Bruand, Jean-François Moyen, Alex McCoy-West, Priyardarshi Chowdhury",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-13",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-78617-3",
     "title": "Plant invasions are associated with lower community stability at multiple spatial scales",
     "link": "https://www.nature.com/articles/s41467-026-78617-3",
