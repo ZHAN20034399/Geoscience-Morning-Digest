@@ -1,5 +1,472 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03341-3",
+    "title": "Briefing Chat: An invisible tattoo that appears under UV light – and then disappears",
+    "link": "https://www.nature.com/articles/d41586-026-03341-3",
+    "authors": [
+      "Benjamin Thompson",
+      "Maren Hunsberger"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03341-3\">doi:10.1038/d41586-026-03341-3</a>Nature staff discuss a new ink that could be useful for medical tattooing — plus, an insight into why small dogs live longer than big ones.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03112-0",
+    "title": "The pianist who never played",
+    "link": "https://www.nature.com/articles/d41586-026-03112-0",
+    "authors": [
+      "Ian Li"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03112-0\">doi:10.1038/d41586-026-03112-0</a>A note to self.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03308-4",
+    "title": "IceCube just won a Nobel prize. Protect astroparticle physics projects with the same potential",
+    "link": "https://www.nature.com/articles/d41586-026-03308-4",
+    "authors": [
+      "Lindley Winslow"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03308-4\">doi:10.1038/d41586-026-03308-4</a>Building the Nobel-prizewinning neutrino experiment was a big risk. To continue its success, scientists — and funders — need to stay bold.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03303-9",
+    "title": "Memory stays strong in old age when this brain enzyme is active",
+    "link": "https://www.nature.com/articles/d41586-026-03303-9",
+    "authors": [
+      "Asher Mullard"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03303-9\">doi:10.1038/d41586-026-03303-9</a>Data from mouse brains and 13 human brains show a link between levels of a lipid-degrading enzyme and cognitive resilience.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03195-9",
+    "title": "Unprecedented atlas explores mitochondria across the tree of life",
+    "link": "https://www.nature.com/articles/d41586-026-03195-9",
+    "authors": [
+      "Miryam Naddaf"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03195-9\">doi:10.1038/d41586-026-03195-9</a>The mitoproteomes of five parasites and a plant hold medical potential — and reignite the question of just when the mitochondrion evolved.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03253-2",
+    "title": "PhD students who write dissertation with AI less likely to stay in academia",
+    "link": "https://www.nature.com/articles/d41586-026-03253-2",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03253-2\">doi:10.1038/d41586-026-03253-2</a>US PhD graduates who used artificial intelligence were more likely to work in industry.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03338-y",
+    "title": "History’s long-secret codes are being cracked by amateurs using AI",
+    "link": "https://www.nature.com/articles/d41586-026-03338-y",
+    "authors": [
+      "Kaia Glickman"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03338-y\">doi:10.1038/d41586-026-03338-y</a>Cryptographers’ inboxes are being flooded with requests to validate cipher solutions.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03336-0",
+    "title": "Daily briefing: Bleached corals revived by healthy neighbour’s touch",
+    "link": "https://www.nature.com/articles/d41586-026-03336-0",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03336-0\">doi:10.1038/d41586-026-03336-0</a>Ghostly white corals are fully restored in eight weeks by contact with a healthy counterpart. Plus, arXiv is capping submissions per researcher and four good news stories to brighten your day.",
+    "source": "Nature",
+    "date": "2026-10-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78649-9",
+    "title": "Breaking water-structure constraints by Hofmeister effects in interfacial polymerization for polyamide membranes",
+    "link": "https://www.nature.com/articles/s41467-026-78649-9",
+    "authors": [
+      "Qingchen Tang",
+      "Hao Chen",
+      "Yu Chen",
+      "Hanyu Wu",
+      "Xingwang Meng",
+      "Wu Jin",
+      "Panjia Jiang",
+      "Yizhou Zhang",
+      "Xunda Feng"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78649-9\">doi:10.1038/s41467-026-78649-9</a>Water structures govern the behaviour of solutes across aqueous bulk and interfacial environments. Here the authors use weakly hydrated anions to reshape hydration in the bulk and at interfaces, thereby regulating amine monomer partitioning and interfacial transport while suppressing acyl chloride hydrolysis during polyamide-forming interfacial polymerization.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78604-8",
+    "title": "Spatially resolving isomeric trisaccharides on surfaces with Orbitrap-SIMS",
+    "link": "https://www.nature.com/articles/s41467-026-78604-8",
+    "authors": [
+      "Margaret Moloney",
+      "Richard Paterson",
+      "Bin Yan",
+      "Anya Eyres",
+      "Clare L. Newell",
+      "Jean-Luc Vorng",
+      "Alexander Pirkl",
+      "John F. Watts",
+      "Ian S. Gilmore",
+      "Gustavo F. Trindade"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78604-8\">doi:10.1038/s41467-026-78604-8</a>Structural isomers can be difficult to distinguish and map by mass alone. This study shows that Orbitrap-SIMS can separate and image isomeric sugars directly on surfaces, offering a new route to study complex biomolecules.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78524-7",
+    "title": "Optical-handedness-driven enantioselective synthesis and programmable chirality encoding of covalent organic frameworks",
+    "link": "https://www.nature.com/articles/s41467-026-78524-7",
+    "authors": [
+      "Taewoong Kim",
+      "Jaewon Kim",
+      "Joohee Oh",
+      "Seungyoon Kang",
+      "Song Gyun Kim",
+      "Jee Hyeon Kim",
+      "Min Su Han",
+      "Young Yong Kim",
+      "Chanho Pak",
+      "Jeong-Eun Park",
+      "Hyunseob Lim"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78524-7\">doi:10.1038/s41467-026-78524-7</a>Covalent organic frameworks (COFs) typically require chiral precursors or catalysts to achieve asymmetry. Here, the authors report the enantioselective synthesis of chemically chiral COFs using circularly polarized light as the sole chiral director.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78906-x",
+    "title": "Brassinosteroids improve nitrogen utilization by antagonizing BIN2-mediated SnRK1 activation",
+    "link": "https://www.nature.com/articles/s41467-026-78906-x",
+    "authors": [
+      "Lianmei Yao",
+      "Jinyang Lyu",
+      "Yan Qiao",
+      "Guolan Zheng",
+      "Shurui Liu",
+      "Na Sun",
+      "Honglei Wang",
+      "Wouter Smagghe",
+      "Jelle Van Leene",
+      "Min Fan",
+      "Chao Han",
+      "Ming-Yi Bai"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78906-x\">doi:10.1038/s41467-026-78906-x</a>Brassinosteroids are widely used in agriculture, but their modes of action remain incompletely understood. Here, the authors show that brassinosteroids inhibit BIN2, leading to KIN10 degradation and activation of gene expression and nitrogen assimilation enzymes.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78873-3",
+    "title": "Size-dependent catalysis of Ru nanoparticles for selective reductive amination of PET plastic",
+    "link": "https://www.nature.com/articles/s41467-026-78873-3",
+    "authors": [
+      "Zuyi Zhang",
+      "Yawen Shi",
+      "Shengbo Zhang",
+      "Junyang Wang",
+      "Chen Meng",
+      "Xinyi Niu",
+      "Xinyong Diao",
+      "Na Ji"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78873-3\">doi:10.1038/s41467-026-78873-3</a>Turning waste plastic into valuable chemicals requires precise control of competing reactions. This study shows that tuning ruthenium particle size enables selective conversion of polyethylene terephthalate into p-xylylenediamine.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78949-0",
+    "title": "ADAM17 is a broad HIV-1 restriction factor targeted by Nef to restore Env maturation",
+    "link": "https://www.nature.com/articles/s41467-026-78949-0",
+    "authors": [
+      "Qiuchen Li",
+      "Sunan Li",
+      "Shuvankar Dey",
+      "Dongjie Sun",
+      "Liangliang Sun",
+      "Yong-Hui Zheng"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78949-0\">doi:10.1038/s41467-026-78949-0</a>Here, the authors show that the cell-surface protein ADAM17 blocks HIV-1 by preventing maturation of the viral envelope protein, while the viral protein Nef counteracts this effect by redirecting ADAM17 out of infected cells.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78765-6",
+    "title": "Metabolic reprogramming of macrophage-specific transketolase orchestrates angiogenesis in diabetic wounds",
+    "link": "https://www.nature.com/articles/s41467-026-78765-6",
+    "authors": [
+      "Yuan Xiong",
+      "Li Lu",
+      "Qipeng Wu",
+      "Han Wang",
+      "Hui Hu",
+      "Huangxuan Zhao",
+      "Hélder A. Santos",
+      "Mohammad-Ali Shahbazi",
+      "Bobin Mi"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78765-6\">doi:10.1038/s41467-026-78765-6</a>Diabetes impairs wound healing by disrupting macrophage metabolism and angiogenesis. Here, authors identify macrophage-specific transketolase (TKT) as a metabolic checkpoint and develop a nanozyme hydrogel that restores macrophage TKT to promote vascular repair in diabetic wounds.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78701-8",
+    "title": "Nonflammable sulfamoyl–carbonate hybrid electrolyte for high-voltage lithium batteries via preemptive passivation",
+    "link": "https://www.nature.com/articles/s41467-026-78701-8",
+    "authors": [
+      "Hun Kim",
+      "Jae-Min Kim",
+      "Yo-Han Yang",
+      "Xiaosheng Song",
+      "Dong-Gun Koo",
+      "Kang Xu",
+      "Yang-Kook Sun"
+    ],
+    "summary": "Nature Communications, Published online: 17 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78701-8\">doi:10.1038/s41467-026-78701-8</a>Batteries require safe electrolytes without compromising performance. Here, the authors develop a nonflammable sulfamoyl–carbonate hybrid electrolyte for high-voltage, long-lasting, and safe lithium-ion batteries.",
+    "source": "Nature Communications",
+    "date": "2026-10-17",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL120401",
+    "title": "Ammonia Air‐Sea Exchange in Southwest UK",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL120401?af=R",
+    "authors": [
+      "S. Louw, \nT. G. Bell, \nE. M. S. Woodward, \nM. Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123130",
+    "title": "Million‐Year Scale Hydrothermal and Hydrocarbon Evolution Hosted Within Stratified Thermohydraulic Systems in Sedimented Ultraslow‐Spreading Settings, Svyatogor and Vestnesa Ridges",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123130?af=R",
+    "authors": [
+      "Y. Sakai, \nY. Fukamatsu, \nV. J. Clementi, \nY. Rosenthal, \nJ. Gruetzner, \nS. Bünz, \nA. Plaza‐Faverola, \nK. St. John, \nR. G. Lucchi, \nT. A. Ronge, \nO. Libman‐Roshal, \nL. Monito, \nY. Liu, \nM. Iizuka, \nL. Duxbury, \nL. Haygood, \nO. Tadai, \nG.‐I. Uramoto, \nW. Lin, \nExpedition 403 Shipboard Scientists"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124051",
+    "title": "Interpretable Machine Learning Reveals Global Nonlinear Responses of Soil Respiration to Climate",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124051?af=R",
+    "authors": [
+      "Benjamin Laffitte, \nZhihan Yang, \nTao Zhou, \nXiangjun Pei, \nXiaolu Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125281",
+    "title": "Analysis of the Correlation Between Post‐Injection Wellhead Pressure Decay and Trailing Seismicity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125281?af=R",
+    "authors": [
+      "R. Minetto, \nZ. Wang, \nO. Lengliné, \nJ. Schmittbuhl"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124766",
+    "title": "Flood Responses to Climate Warming on Tribal Lands Using High‐Resolution Hydrodynamic Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124766?af=R",
+    "authors": [
+      "Tianjiao Pu, \nGabriele Villarini, \nRenato S. Amorim, \nDonghui Li, \nSudershan Gangrade, \nMartha Durr, \nBrandi Janssen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124581",
+    "title": "Sandy Turbidity Current Acts as a Rusty Carbon Pump at the Shelf Edge",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124581?af=R",
+    "authors": [
+      "Zhuoyue Zhang, \nChenglong Wang, \nTianyu Chen, \nRui Bao, \nZicheng Chen, \nXiao Huang, \nYang Zhang, \nXinqing Zou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123775",
+    "title": "Offshore Freshened Groundwater Distribution Is Controlled by Along‐ and Cross‐Shore Topographic Variability",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123775?af=R",
+    "authors": [
+      "Yi‐Peng Zhang, \nAnner Paldor"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123272",
+    "title": "Exploring Jupiter's Mid‐Latitude Dusk Magnetopause: The Impact of Magnetic Reconnection",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123272?af=R",
+    "authors": [
+      "J. Montgomery, \nP. A. Delamere, \nA. R. Smith, \nC. Spitler, \nG. Fuller, \nR. W. Ebert, \nF. Allegrini, \nS. A. Fuselier, \nR. J. Wilson"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124399",
+    "title": "Direct Experimental Observation of Wave‐Amplified Turbulent Mixing",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124399?af=R",
+    "authors": [
+      "O. Rømcke, \nP. Gautam, \nØ. Breivik, \nM. P. Malila, \nR. J. Hearst, \nS. Å. Ellingsen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GL118750",
+    "title": "Biomass Burning in Australia: No Evidence for Carbonyl Sulfide (OCS) Enhancement in Fire Plumes From In‐Situ Measurements During SouthTRAC",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GL118750?af=R",
+    "authors": [
+      "S. Kessler, \nN. Emig, \nH.‐C. Lachnitt, \nD. Kunkel, \nH. Bozem, \nV. Bense, \nP. Joppe, \nT. Kaluza, \nJ.‐U. Grooß, \nA. Zahn, \nH. Ziereis, \nM. Riese, \nP. Hoor"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125211",
+    "title": "Distinct Characteristics of Convectively Induced Turbulence (CIT) and Non‐CIT in the Western Pacific Using In Situ Aircraft Data and GK‐2A Satellite Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125211?af=R",
+    "authors": [
+      "Sung‐Ho Baek, \nJung‐Hoon Kim, \nYoo‐Jeong Noh, \nSang‐Moo Lee, \nDaehyun Kim, \nHye‐Yeong Chun"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013110",
+    "title": "Mantle Transition Zone Constraints on Slab Penetration and Slab‐Edge Mantle Flow Beneath the Kamchatka Peninsula",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013110?af=R",
+    "authors": [
+      "Muchen Sun, \nYangyang Liao, \nStephen S. Gao, \nKelly H. Liu, \nYouqiang Yu"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013253",
+    "title": "Full Waveform Modeling of Bridgmanite Fabric‐Induced Seismic Discontinuities in the Mid‐Mantle: Implications for Double Underside Reflections Beneath Subduction Zones",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013253?af=R",
+    "authors": [
+      "John Keith Magali, \nYe Yuan, \nTakumi Matsunaga, \nChristine Thomas"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035049",
+    "title": "Cambrian Stage 3 Paleomagnetism of the South China Block: Implications for Early Paleozoic Gondwana Reconstructions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035049?af=R",
+    "authors": [
+      "Dongmeng Zhang, \nXin Cheng, \nVadim A. Kravchinsky, \nMengting Zhong, \nBitian Wei, \nNan Jiang, \nLongyun Xing, \nShuqi Lan, \nWeijie Zhang, \nJiahui Zhang, \nChao Chang, \nWei Liu, \nYanan Zhou, \nXingliang Zhang, \nHanning Wu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034241",
+    "title": "Combining Borehole Seismic Data and Deep‐Learning Methods to Monitor Seismic Sequences in the Istanbul‐Marmara Region, NW Türkiye",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034241?af=R",
+    "authors": [
+      "Oliver Fabisch, \nMarco Bohnhoff, \nPatricia Martínez‐Garzón"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006617",
+    "title": "Simultaneous formation of DNA and RNA nucleosides in shock-recovery experiments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006617?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jiawen Zhao, Koichi Mimura",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006630",
+    "title": "Bomb-<sup>14</sup>C signals in santa barbara basin sediments and radiocarbon constraints on terrestrial organic carbon",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006630?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Hanyue Xu, Hong-Chun Li, Da-Wei Li, Meng Yu, Hailong Zhang, William M. Berelson, Meixun Zhao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006563",
+    "title": "Rapid changes to permeable, continental shelf sediment pore water geochemistry in response to olivine addition as a marine carbon dioxide removal technique",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006563?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 16 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Matthew Quinan, Aaron Celestian, Nick Rollins, Zvi Steiner, William Berelson",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
     "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei0840?af=R",
     "title": "Latent effector capacity governs reversible T cell exhaustion: A theoretical mathematical model of PD-1 blockade response",
     "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei0840?af=R",
