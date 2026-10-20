@@ -1,5 +1,336 @@
 [
   {
+    "id": "https://www.nature.com/articles/d41586-026-03317-3",
+    "title": "Toxic chemicals in fentanyl revealed by speedy technique",
+    "link": "https://www.nature.com/articles/d41586-026-03317-3",
+    "authors": [],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03317-3\">doi:10.1038/d41586-026-03317-3</a>Chemical fingerprinting charts the rises and declines of specific adulterants in illicit supplies of the drug.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03237-2",
+    "title": "Light and mirrors move large quantum computers closer to reality",
+    "link": "https://www.nature.com/articles/d41586-026-03237-2",
+    "authors": [],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03237-2\">doi:10.1038/d41586-026-03237-2</a>Scientists improve photon-collecting device that could be used to connect multiple quantum-computing arrays.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03228-3",
+    "title": "Audio long read: How to stay smart in the age of AI — the science of critical thinking",
+    "link": "https://www.nature.com/articles/d41586-026-03228-3",
+    "authors": [
+      "Helen Pearson",
+      "Benjamin Thompson"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03228-3\">doi:10.1038/d41586-026-03228-3</a>Although worries are growing about AI's potential to blunt reasoning skills, research has uncovered ways to keep the brain sharp.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03345-z",
+    "title": "US government probe into postdoc visas worries scientists",
+    "link": "https://www.nature.com/articles/d41586-026-03345-z",
+    "authors": [
+      "Nicola Jones"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03345-z\">doi:10.1038/d41586-026-03345-z</a>The administration says that the universities being investigated are using the visas to undercut wages for US nationals, but researchers say that restricting international applications could harm science.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03265-y",
+    "title": "Microdosing LSD shows some cognitive benefits — but only for women",
+    "link": "https://www.nature.com/articles/d41586-026-03265-y",
+    "authors": [
+      "Gemma Conroy"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03265-y\">doi:10.1038/d41586-026-03265-y</a>Different effects of low-dose psychedelics on sustained attention in women and men deserve further investigation.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03312-8",
+    "title": "How pregnancy reshapes the brain throughout life",
+    "link": "https://www.nature.com/articles/d41586-026-03312-8",
+    "authors": [
+      "Liisa Galea"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03312-8\">doi:10.1038/d41586-026-03312-8</a>Neuroscience is mapping changes in the brain during pregnancy. What they mean for future health is yet to be pinned down.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03275-w",
+    "title": "Climate scientists face deluge of public-records requests about fossil-fuel studies",
+    "link": "https://www.nature.com/articles/d41586-026-03275-w",
+    "authors": [
+      "James Dinneen"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03275-w\">doi:10.1038/d41586-026-03275-w</a>A Nature investigation identified more than 30 requests since 2024 to US universities in a campaign questioning climate attribution science.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03315-5",
+    "title": "‘Fiercely stubborn’: the US scientists continuing their research amid funding cuts",
+    "link": "https://www.nature.com/articles/d41586-026-03315-5",
+    "authors": [
+      "Virginia Gewin"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03315-5\">doi:10.1038/d41586-026-03315-5</a>Researchers working on climate change, diversity, transgender health and international aid have turned to lawsuits, private donors and alternative topics to keep their projects going.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03339-x",
+    "title": "Experienced researchers ‘disrupt’ less than rookie scientists — but their ideas last",
+    "link": "https://www.nature.com/articles/d41586-026-03339-x",
+    "authors": [
+      "Xiaoying You"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03339-x\">doi:10.1038/d41586-026-03339-x</a>Researchers have found a link between a scientist’s experience and and whether their ideas have a lasting influence.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03313-7",
+    "title": "Three reasons why AI is not conscious and perhaps never will be",
+    "link": "https://www.nature.com/articles/d41586-026-03313-7",
+    "authors": [
+      "Anil K. Seth",
+      "Ned Block",
+      "Giulio Tononi"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03313-7\">doi:10.1038/d41586-026-03313-7</a>Large language models can mimic thought and feeling with uncanny skill. But evidence from neuroscience suggests that intelligence alone is not enough for subjective experience.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11290-0",
+    "title": "Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
+    "link": "https://www.nature.com/articles/s41586-026-11290-0",
+    "authors": [
+      "Regev Schweiger",
+      "Sangjin Lee",
+      "Chenxi Zhou",
+      "Tsun-Po Yang",
+      "Stacy Li",
+      "Rashesh Sanghvi",
+      "Matthew Neville",
+      "Katie Smith",
+      "Kirsty Roberts",
+      "Ayrun Nessa",
+      "Sam Wadge",
+      "Kerrin S. Small",
+      "Peter J. Campbell",
+      "Kristian Almstrup",
+      "Peter H. Sudmant",
+      "Raheleh Rahbari",
+      "Richard Durbin"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11290-0\">doi:10.1038/s41586-026-11290-0</a>Author Correction: Long-read sequencing reveals pre-meiotic gene conversion in sperm",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03309-3",
+    "title": "How to compare and strengthen research systems",
+    "link": "https://www.nature.com/articles/d41586-026-03309-3",
+    "authors": [
+      "Lin Zhang"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03309-3\">doi:10.1038/d41586-026-03309-3</a>Analysing national research systems by using open-access data and new methods can help countries to learn from each other.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03328-0",
+    "title": "Why failure is a taboo topic in science",
+    "link": "https://www.nature.com/articles/d41586-026-03328-0",
+    "authors": [
+      "Dom Byrne"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03328-0\">doi:10.1038/d41586-026-03328-0</a>Failure is one of the best teachers we have. So why is nobody talking about it?",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02623-0",
+    "title": "Lessons from Katrina: how to rebuild academia from the ground up",
+    "link": "https://www.nature.com/articles/d41586-026-02623-0",
+    "authors": [
+      "Laura Woodrow"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02623-0\">doi:10.1038/d41586-026-02623-0</a>More than 20 years after Hurricane Katrina, universities in New Orleans have learnt what it takes to rebuild from ruin — including what gets in the way.",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41586-026-11293-x",
+    "title": "Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes",
+    "link": "https://www.nature.com/articles/s41586-026-11293-x",
+    "authors": [
+      "Yuanlong Zhang",
+      "Angran Li",
+      "Lekang Yuan",
+      "Mingrui Wang",
+      "Weihao Zhao",
+      "Zhenbo Wang",
+      "Boyang Zang",
+      "Yangxuan Zhou",
+      "Tao Yu",
+      "Lin Gao",
+      "Yu Wu",
+      "Rongkang Zhu",
+      "Mengyi Tian",
+      "Kun Li",
+      "Jiamin Wu",
+      "Pu Dai",
+      "Qionghai Dai"
+    ],
+    "summary": "Nature, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11293-x\">doi:10.1038/s41586-026-11293-x</a>Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes",
+    "source": "Nature",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03348-w",
+    "title": "Daily briefing: We’re close to reaching a 30% land-conservation target",
+    "link": "https://www.nature.com/articles/d41586-026-03348-w",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03348-w\">doi:10.1038/d41586-026-03348-w</a>More land for conservation is positive, but doesn’t necessarily protect biodiversity, say researchers. Plus, say goodbye to the leap second and how the Inca empire lasted longer than we thought.",
+    "source": "Nature",
+    "date": "2026-10-16",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02124-9",
+    "title": "Decolonize soil erosion modelling",
+    "link": "https://www.nature.com/articles/s41561-026-02124-9",
+    "authors": [
+      "Pedro Velloso Gomes Batista",
+      "Rónadh Cox",
+      "Markus Keck",
+      "Peter Ebanyat",
+      "Anindya Majhi",
+      "Jean Paolo Gomes Minella",
+      "Maarten Wynants",
+      "Peter Fiener"
+    ],
+    "summary": "Nature Geoscience, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02124-9\">doi:10.1038/s41561-026-02124-9</a>Uncritical extrapolation of soil erosion models developed in the Global North to Global South settings for which they were not designed reflects and perpetuates neocolonial biases in geoscience. To build a more accurate and equitable understanding of land degradation, we must rethink erosion research.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41561-026-02135-6",
+    "title": "Trade-offs between soil inorganic and organic carbon driven by multiple global environmental changes",
+    "link": "https://www.nature.com/articles/s41561-026-02135-6",
+    "authors": [
+      "Tongshuo Bai",
+      "Yi Wang",
+      "Jun Deng",
+      "Yunpeng Qiu",
+      "Haotian Zhang",
+      "Steven J. Hall",
+      "Yi Zhang",
+      "Shuijin Hu"
+    ],
+    "summary": "Nature Geoscience, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41561-026-02135-6\">doi:10.1038/s41561-026-02135-6</a>Global environmental changes can induce contrasting responses of soil organic and inorganic carbon, according to an 8-year field experiment in a semi-arid grassland and a meta-analysis.",
+    "source": "Nature Geoscience",
+    "date": "2026-10-19",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125763",
+    "title": "Declining Surface Solar Radiation Resources in Polar Regions Under Global Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125763?af=R",
+    "authors": [
+      "Liangke Huang, \nLing Xiong, \nZhaoliang Zeng, \nJianeng Jiang, \nRuqing Zhu, \nKe Gui, \nMinghu Ding, \nYaqiang Wang, \nHuizheng Che, \nLilong Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124619",
+    "title": "Probing Atmospheric Gravity‐Wave‐Relevant Representations in a Weather Foundation Model via Multi‐Method Fine‐Tuning",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124619?af=R",
+    "authors": [
+      "Yanan Guo, \nJunqiang Song, \nChuanfeng Zhao, \nXiaoqun Cao, \nYikun Yang, \nHongze Leng"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125263",
+    "title": "Cloud Controlling Factor Analysis Reveals E3SMv3 Structural Bias and Mean State Controls on Stratocumulus Radiative Sensitivity",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125263?af=R",
+    "authors": [
+      "T. A. Myers, \nT. Aerenson, \nD. T. McCoy, \nM. D. Zelinka, \nJ. M. Nugent, \nH. Brown"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034881",
+    "title": "Effects of Microstructural Heterogeneity on the Macroscopic Spectrum of Elastically Accommodated Grain‐Boundary Sliding",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034881?af=R",
+    "authors": [
+      "Zhengxuan Li, \nJohn F. Rudge"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033942",
+    "title": "Pervasive Velocity‐Weakening Behavior of Simulated Quartz Gouge at Crustal Faulting Conditions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033942?af=R",
+    "authors": [
+      "Jianye Chen, \nAndré R. Niemeijer"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-18",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006642",
+    "title": "Sedimentary and redox controls on pyrite sulfur isotopes in oxic–suboxic continental shelf sediments",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006642?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 18 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xin Chang, Tiegang Li, Zhifang Xiong, Chengguo Guan, Yu Gu, Houjie Wang, Guangchao Zhuang, Xiting Liu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-20",
+    "sent": true
+  },
+  {
     "id": "10.1029/2026GC013359",
     "title": "Benchmarking Multiple Methods for the Spectral Analysis of Seafloor Morphology",
     "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013359?af=R",
