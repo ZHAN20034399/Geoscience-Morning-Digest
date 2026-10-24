@@ -1,5 +1,761 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41586-026-11303-y",
+    "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "link": "https://www.nature.com/articles/s41586-026-11303-y",
+    "authors": [
+      "Yizhou Joseph He",
+      "Khyati Meghani",
+      "Marie-Christine Caron",
+      "Chunyu Yang",
+      "Daryl A. Ronato",
+      "Jie Bian",
+      "Anchal Sharma",
+      "Jessica Moore",
+      "Joshi Niraj",
+      "Alexandre Detappe",
+      "John G. Doench",
+      "Gaelle Legube",
+      "David E. Root",
+      "Alan D. D’Andrea",
+      "Pascal Drané",
+      "Subhajyoti De",
+      "Panagiotis A. Konstantinopoulos",
+      "Jean-Yves Masson",
+      "Dipanjan Chowdhury"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/s41586-026-11303-y\">doi:10.1038/s41586-026-11303-y</a>Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03395-3",
+    "title": "Elusive snow leopards and evasive particles: Books in brief",
+    "link": "https://www.nature.com/articles/d41586-026-03395-3",
+    "authors": [
+      "Andrew Robinson"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03395-3\">doi:10.1038/d41586-026-03395-3</a>Andrew Robinson reviews five of the best science picks.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03318-2",
+    "title": "Sleep declines in rural communities after electricity arrives",
+    "link": "https://www.nature.com/articles/d41586-026-03318-2",
+    "authors": [],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03318-2\">doi:10.1038/d41586-026-03318-2</a>Scientists tracked the changing sleep patterns of Indigenous people in Argentina who gained access to mains electricity — and smart phones.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03418-z",
+    "title": "Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent",
+    "link": "https://www.nature.com/articles/d41586-026-03418-z",
+    "authors": [
+      "Benjamin Thompson",
+      "Elizabeth Gibney"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03418-z\">doi:10.1038/d41586-026-03418-z</a>Nature staff discuss how precisely measuring a positron could shed light on one of physics’ greatest mysteries — plus, the latest on an ambitious mission to a Martian moon.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03416-1",
+    "title": "First person infected with rare Shamonda virus: what we know",
+    "link": "https://www.nature.com/articles/d41586-026-03416-1",
+    "authors": [
+      "Rachel Fieldhouse"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03416-1\">doi:10.1038/d41586-026-03416-1</a>Infectious-disease researchers say the risk of the livestock pathogen moving between people is low.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03383-7",
+    "title": "Elizabeth Holmes film enthralls — but her legacy haunts science",
+    "link": "https://www.nature.com/articles/d41586-026-03383-7",
+    "authors": [
+      "Kaia Glickman",
+      "Max Kozlov"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03383-7\">doi:10.1038/d41586-026-03383-7</a>You Can See Everything brings blood-testing start-ups back into the public eye. They persevere in Theranos’s shadow.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03108-w",
+    "title": "Rebody",
+    "link": "https://www.nature.com/articles/d41586-026-03108-w",
+    "authors": [
+      "Eric Fomley"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03108-w\">doi:10.1038/d41586-026-03108-w</a>Fighting fit.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03417-0",
+    "title": "Moderna mRNA vaccine almost halves the risk of skin cancer returning",
+    "link": "https://www.nature.com/articles/d41586-026-03417-0",
+    "authors": [
+      "Mohana Basu"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03417-0\">doi:10.1038/d41586-026-03417-0</a>Long-awaited results from phase III trial show huge benefits for treatment-resistant melanoma.",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-02582-6",
+    "title": "I’m expected to work excessive hours in the lab. Should I speak up about my disability?",
+    "link": "https://www.nature.com/articles/d41586-026-02582-6",
+    "authors": [
+      "Christine Ro"
+    ],
+    "summary": "Nature, Published online: 23 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-02582-6\">doi:10.1038/d41586-026-02582-6</a>What can a researcher in an overworked laboratory do to take care of themselves and their lab-mates, and how should they navigate medical disclosure?",
+    "source": "Nature",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03438-9",
+    "title": "Daily briefing: The tell-tale features of a Denisovan",
+    "link": "https://www.nature.com/articles/d41586-026-03438-9",
+    "authors": [
+      "Jacob Smith"
+    ],
+    "summary": "Nature, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03438-9\">doi:10.1038/d41586-026-03438-9</a>See what gave Denisovans their distinct look. Plus, a vaccine trial for Ebola could kick off this week in the Democratic Republic of the Congo and what makes a great climate graphic.",
+    "source": "Nature",
+    "date": "2026-10-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03320-8",
+    "title": "AI doctors’ orders come with a sky-high bill",
+    "link": "https://www.nature.com/articles/d41586-026-03320-8",
+    "authors": [],
+    "summary": "Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03320-8\">doi:10.1038/d41586-026-03320-8</a>Large language models suggest more tests, referrals and medications than human physicians do, driving up the cost of care.",
+    "source": "Nature",
+    "date": "2026-10-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/d41586-026-03400-9",
+    "title": "Daily briefing: How tech billionaires are changing science funding",
+    "link": "https://www.nature.com/articles/d41586-026-03400-9",
+    "authors": [
+      "Flora Graham"
+    ],
+    "summary": "Nature, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41586-026-03400-9\">doi:10.1038/d41586-026-03400-9</a>Ultra-rich philanthropists are disrupting biomedical science. Plus, why physicists have kept an antimatter particle caged for months and whether it’s really possible to be swallowed by a whale and survive.",
+    "source": "Nature",
+    "date": "2026-10-21",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adz0039?af=R",
+    "title": "An in situ forming immunomodulatory hydrogel reinvigorates exhausted CD8+ T cells via preserving their mitochondrial fitness",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adz0039?af=R",
+    "authors": [
+      "Yiming Qi, Jing Li, Ziyan Chen, Chenming Zou, Haichao Zhu, Alice Shen Yi Shan, Yuli Fu, Jingwen Hou, Chaozhu Zheng, Qiongzhe Ren, Yu Qiao, Zhu Jin, Feihu Wang, Shengrong Guo"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aea1431?af=R",
+    "title": "NRF2 coordinates cystine import and glutathione use to sustain ferroptosis resistance and formaldehyde tolerance in cancer",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aea1431?af=R",
+    "authors": [
+      "Agustín E. Morellato, Natividad Alquezar-Artieda, Alejandro Guerrero-Maldonado, Rajinder Singh, Lilla Beja, Carla Umansky, Laura Perich-Pallaruelo, Mireia Pellicer, Paula Fernandez-Deu, Nicolas Aira, Nour Bourached-Silva, Uciel Chorostecki, Donald J. L. Jones, Gaël Roué, Richard J. Hopkinson, Lucas B. Pontel"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8595?af=R",
+    "title": "Primary tumor–derived lactate primes prostate cancer cells for a dormant fate",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb8595?af=R",
+    "authors": [
+      "Luigi Ippolito, Erica Pranzini, Giulia Gangarossa, Marta Iozzo, Giuseppina Comito, Giacomo Venditti, Sara Roccabianca, Elisa Pardella, Matteo Lulli, Alice Santi, Gabriella Nesi, Elisa Giannoni, Paola Chiarugi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9836?af=R",
+    "title": "CASTOR1 functional inactivation drives KRAS-mutant NSCLC and therapy resistance by a noncanonical mechanism of tumor suppression",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb9836?af=R",
+    "authors": [
+      "Xian Wang, Ling Ding, Wen Meng, Elaine Byrnes, Suet Kee Loo, Shenyu Sun, Luping Chen, Tingting Li, Man-Tzu Wang, Arjun Pennathur, Yufei Huang, Shou-Jiang Gao"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee0560?af=R",
+    "title": "Lineage-specific and gestational age–dependent DNA methylation programming orchestrates human placental development",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee0560?af=R",
+    "authors": [
+      "Shanru Yi, Jing Xiao, Ruixue Wang, Mengting Wang, Chunyan Le, Guang Yang, Shanshan Yi, Wenju Liu, Hong Wang, Xiaocui Li, Xiaoyu Liu, Kai Wang, Cizhong Jiang, Shaorong Gao, Jiayu Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee3876?af=R",
+    "title": "PhagoID: Quantitative in situ proximity labeling defines the proteomes of bead- and microbe-containing phagosome lumina across species, maturation, and immune activation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee3876?af=R",
+    "authors": [
+      "Benjamin L. Allsup, Supriya Gharpure, Cal Gunnarsson, Mateo L. Stagg, Bryan D. Bryson"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee4738?af=R",
+    "title": "SCML2 inhibits PrimPol-mediated DNA replication repriming and regulates replication gap-associated cancer cell vulnerability",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee4738?af=R",
+    "authors": [
+      "Xin Shi, Qianqian Peng, Jing Guo, Wei Wu, Ping Wang, Xin Zhou, Qiang Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5135?af=R",
+    "title": "Scalable architecture for measurement-induced squeezed light interferometers",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5135?af=R",
+    "authors": [
+      "Abhinav Verma, Jacob Hastrup, Jonas S. Neergaard-Nielsen, Ulrik L. Andersen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5241?af=R",
+    "title": "RAF isoform selectivity of MEK inhibitors and rational design of a covalent ARAF-MEK inhibitor",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5241?af=R",
+    "authors": [
+      "Sayan Chakraborty, Jie Jiang, Javier Vinals Camallonga, Dimitris Gazgalis, Thomas W. Gero, Maurício T. Tavares, Georgia Dittemore, Emre Tkacik, Tyler S. Beyett, Dong Man Jang, Byung Hak Ha, Felix H. Gottlieb, Talya Levitz, Rebecca J. Metivier, Anna M. Schmoker, David A. Scott, Hyesung Jeon, Pasi A. Jänne, Michael J. Eck"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee9670?af=R",
+    "title": "Histone methyltransferase NSD2 shapes CD8+ T cell fates through the H3K36me2-Zbtb20 axis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee9670?af=R",
+    "authors": [
+      "Shijie Yuan, Yifan Xu, Huicheng Liu, Ying Xue, Mengdi Zhu, Xiaorong Xie, Xuwei Wu, Yuting Xia, Lin Li, Yuan Luo, Zehan Huang, Xiangping Yang, Huiyun Du, Ran He"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef2844?af=R",
+    "title": "High-throughput droplet-based enzymatic DNA methylome profiling enables single-cell resolution of epigenetic heterogeneity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef2844?af=R",
+    "authors": [
+      "Gaojie Li, Yang Yang, Zhuoran Li, Qi Wang, Ying Wang, Bin Guo, Kunmeng Yang, Ming Tan, Jinwei Li, Jiacheng Sun, Guangxin Zhang, Shengwei Xiong, Mei Zhang, Zhihua Zhang, Yingying Xie, Yue Shi, Xin Ma, Weimin Ci"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef6029?af=R",
+    "title": "Loss of KAT5-dependent H2A.Z acetylation provokes chromosomal instability in recurrent pregnancy loss",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef6029?af=R",
+    "authors": [
+      "Shilei Bi, Yongjie Chen, Lizi Zhang, Jiahui Zhang, Yijing Wang, Baoying Huang, Shanze Li, Lijun Huang, Yifan Wang, Huarong Wang, Ranran Meng, Zhaowei Tu, Lili Du, Haibin Wang, Zhijian Wang, Dunjin Chen, Shuang Zhang, Fengchao Wang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef8067?af=R",
+    "title": "Direct observations of submesoscale turbulence driving mesoscale eddy leakage",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef8067?af=R",
+    "authors": [
+      "Haijin Cao, Zhiyou Jing, Baylor Fox-Kemper, Bo Qiu, Joseph H. Lacasce, Tong Yan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4557?af=R",
+    "title": "Morphological intelligence for dynamic aerial interactions",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg4557?af=R",
+    "authors": [
+      "Yongkang Jiang, Junjin Li, Shuyu Meng, Yanmin Zhou, Bin He, Jamie Paik"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5840?af=R",
+    "title": "Structural basis for start codon selection by eIF5-mimic proteins",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5840?af=R",
+    "authors": [
+      "Ximena Zottig, Chun-Ying Huang, Zahra Seraj, Nikolaus Grigorieff, Andrei A. Korostelev"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8654?af=R",
+    "title": "Using initial states to identify successful El Niño–Southern Oscillation forecasts 1 year in advance",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg8654?af=R",
+    "authors": [
+      "Nandini Ramesh, Mandy B. Freund, Damien B. Irving, Dougal T. Squire, Carly R. Tozer, Didier P. Monselesan, Tess Parker, Annette Stellema, James S. Risbey"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9427?af=R",
+    "title": "Hemolymph pressure-mediated friction in the tarsus of the desert locust (Schistocerca gregaria)",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg9427?af=R",
+    "authors": [
+      "Jiahui Zhao, Zhendong Dai, Stanislav N. Gorb, Chuchu Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1073?af=R",
+    "title": "Interferon-λ signaling to maternal dendritic cells protects against congenital Zika virus infection",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh1073?af=R",
+    "authors": [
+      "Margaret R. Dedloff, Thomas R. Reinhardt, Tessa-Jonne F. Ropp, Joel Rivera-Cardona, Celeste R. Robles, Rebecca L. Casazza, J. Ashley Ezzell, Michelle S. Itano, Helen M. Lazear"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3295?af=R",
+    "title": "Frequency-dependent fitness effects are ubiquitous in rapidly adapting microbial populations",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh3295?af=R",
+    "authors": [
+      "Joao A. Ascensao, Keon D. Abedi, Aditya N. Prasad, Oskar Hallatschek"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5101?af=R",
+    "title": "Electrically reconfigurable dipolar polaritons with highly tunable nonlinearity in a homobilayer microcavity",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5101?af=R",
+    "authors": [
+      "Baixu Xiang, Yubin Wang, Guihan Wen, Yitong Li, Hao Wen, Zengde She, Haiyun Liu, Kenji Watanabe, Takashi Taniguchi, Timothy C. H. Liew, Zhiyuan Sun, Qihua Xiong"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5116?af=R",
+    "title": "Bioinspired ventral-groove fibers for volume-programmable pneumatic actuation",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh5116?af=R",
+    "authors": [
+      "Xiaoyu Zhang, Qianyi Li, Xiaolong Li, Ziang Li, Haoran Qiu, Shiyun Qian, Ying Yi Tan, Hong Yee Low, Tural Khudiyev"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6128?af=R",
+    "title": "Early Gravettian genomic data from Western Europe reveal population movements before the LGM",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6128?af=R",
+    "authors": [
+      "Pere Gelabert, Susanna Sawyer, Vanessa Villalba-Mouco, Olivia Cheronet, Victoria Oberreiter, Diego Gárate, Christian Normand, Lawrence G. Straus, Manuel R. González Morales, Igor Gutiérrez-Zugasti, David Cuenca-Solana, Joëlle Darricau, Henry de Lumley, José-Miguel Tejero, Mareike Stahlschmidt, Thomas Higham, Maddalena Giannì, Laura G. van der Sluis, Carla Gómez-Montes, Miriam Ibáñez-Herranz, Michelle Hämmerle, Brina Zagorc, Florian Exler, Florian Brück, Stefan Franz, Fernanda Tenorio Cano, Kristin Stewardson, Lijun Qiu, Ana B. Marín-Arroyo, Michaela Lucci, Alessia Nava, Francesco Genchi, Donato Coppola, Chiara La Marca, Alfredo Coppa, David Reich, Ron Pinhasi"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6590?af=R",
+    "title": "In situ CAR-M engineered by liposomal mRNA nanomedicine remodels fibrotic microenvironment for ameliorating liver fibrosis",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6590?af=R",
+    "authors": [
+      "Hong Xiao, Xiaoxia Li, Kaimin Cai, Yifei Leng, Xiaoyan Miao, Tinghui Yin, Xintao Shuai, Jie Ren"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6993?af=R",
+    "title": "53BP1 as a cofactor in the activation of the p53-family transcriptional program: A correlative multimodal microscopy approach",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh6993?af=R",
+    "authors": [
+      "Simone Pelicci, Laura Furia, Lorenzo Ciacci, Teresa Gravina, Pier Giuseppe Pelicci, Gaetano Ivan Dellino, Mario Faretta"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7499?af=R",
+    "title": "SMCHD1 loss rewires MYOD1 enhancer nexuses and chromatin accessibility landscapes in muscle cells",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeh7499?af=R",
+    "authors": [
+      "Zhijun Huang, Wei Cui, Adam Klaiss, Gerd P. Pfeifer"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei0758?af=R",
+    "title": "The Nematostella synaptonemal complex mediates divergent and sex-specific meiotic programs",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei0758?af=R",
+    "authors": [
+      "Stefanie Williams, Jennifer Gardner, Stephanie H. Nowotarski, Matthew C. Gibson"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei1547?af=R",
+    "title": "A methylation-dependent reader couples arginine methylation to S6K2 signaling in vivo",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1547?af=R",
+    "authors": [
+      "Yalong Wang, Bin Liu, Rongjie Fu, Wei He, Daniel J. McGrail, Han Xu, Mark T. Bedford"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei2880?af=R",
+    "title": "Spider-inspired bidirectional robotic joints driven by electrohydraulic multiaxial strain",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei2880?af=R",
+    "authors": [
+      "Zean Yuan, Shuhong Huang, Luna Zhou, Xinyu Zhu, Jun Luo, Guo Zhan Lum, Rui Chen"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aej1008?af=R",
+    "title": "A noncanonical meiotic cohesin complex associates with specific MCM complexes to promote cohesion establishment and homolog bias",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej1008?af=R",
+    "authors": [
+      "Lujie Ma, Qianqian Jin, Dongcheng Hu, Xianwu Lin, Zizhen Fan, Rihui Yan"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.adx5564?af=R",
+    "title": "Biophysically constrained learning from healthy neural priors improves motor decoding in pathological cortical networks",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.adx5564?af=R",
+    "authors": [
+      "Yihan Wu, Tao Chang, Siliang Chen, Yuxin Quan, Qiang Sun, Marc M. Van Hulle, Yanhui Liu, Ning Jiang, Dario Farina, Yuan Yang, Qing Mao, Jiayuan He"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1963?af=R",
+    "title": "An innovative colon inflammation-targeting platform for ulcerative colitis treatment",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeb1963?af=R",
+    "authors": [
+      "Waliul Islam, Haiming Chen, Ling Li, Kevan J. Salimian, Florin M. Selaru"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4003?af=R",
+    "title": "Learning by moving: Physical motion accelerates category learning",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed4003?af=R",
+    "authors": [
+      "Luke Rosedahl, Yuka Sasaki, Takeo Watanabe"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed6757?af=R",
+    "title": "Polycomb factor PHF19 affects AML initiation, patient prognosis, and survival",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed6757?af=R",
+    "authors": [
+      "Gianni Paolo Gamarra Figueroa, Arantxa Gutierrez, Enrique Blanco, Pedro Vizán, Cecilia Ballaré, Aleksandra Sparavier, Marta Tosto, Saverio Minucci, Lars Velten, Luciano Di Croce"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aef3338?af=R",
+    "title": "NAD+ metabolic restoration resolves the inflammation-immunocompetence trade-off in lung graft-versus-host disease",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aef3338?af=R",
+    "authors": [
+      "Jing Li, Zheng Zhou, Jiaqian Qi, Fan Zhang, Ziyan Zhang, Xueqian Li, Shuhui Jiang, Xiang Li, Luyao Wang, Xiahong Xie, Jinfeng Chen, Kanghua Zeng, Yue Han, Junhong Jiang, Mingzhou Ye"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei1892?af=R",
+    "title": "Neural circuitry mediating hypercapnia-induced microarousal and impaired sleep depth",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei1892?af=R",
+    "authors": [
+      "Chen Yang, Wen-Xuan Tang, Wen-Xu Wang, Xiao-Long Lv, Xin-Yi Wang, Dan-Ni He, Hao Wen, Jia-hui Guo, Jin-Xuan Zhou, Jian Guan, Jing Cang, Shi-Bin Li"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei5782?af=R",
+    "title": "Opposing cell-type preferences for binding and replication shape influenza A virus infection in human airways",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei5782?af=R",
+    "authors": [
+      "Josephine von Kempis, Marie O. Pohl, Elisabeth Gaggioli, Cyrille Niklaus, Alexandra Trkola, Geert-Jan Boons, Robert P. de Vries, Silke Stertz"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aej9537?af=R",
+    "title": "Gradient-interlayer–based flexible pressure sensors for high-performance robotic perception",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aej9537?af=R",
+    "authors": [
+      "Mingyuan Sun, Gang Ma, Shuai Dong, Erlong Wang, Shi-Yang Tang, Xuanhan Chen, Yipu Guo, Xiaoqin Sun, Xiangpeng Li, Weihua Li, Shiwu Zhang"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aed4541?af=R",
+    "title": "Death receptors regulate entry to therapy-induced senescence and orchestrate addiction to IAPs",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aed4541?af=R",
+    "authors": [
+      "Gokhan Gunay, Seren Hamsici, Vaishnavi Venugopalan, Aoife Costigan, Melanie Fritsch, Aislinn Gallagher Aldave, Anne Huber, Brianna Fernandez, Hande Efe-Cicek, Pavel Davidovich, Pavitha Parathan, Akash Srivaths, Natalie Hudson, Eleanor Noone, Jeffrey O’Callaghan, Lisa A. Mielke, Sarah L. Doyle, Sabrina L. Spencer, Matthew Campbell, Conor J. Kearney, Hamid Kashkar, Seamus J. Martin"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aee5701?af=R",
+    "title": "TET2-driven activation of AGO2 links epigenetic remodeling to myeloid commitment and leukemia",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aee5701?af=R",
+    "authors": [
+      "Aleksey Lazarenkov, Gemma Valcárcel, Alba Martinez, Clara Berenguer, \n\tAnna V. López-Rubio, Mireia Obiols, Claudia Fontanet, Ana Barba, Juan José Rodríguez-Sevilla, Gregoire Stik, Irmela Jeremias, Pablo Menendez, José Luis Sardina"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aei9767?af=R",
+    "title": "Multiplexed and implantable fiber sensor for real-time blood monitoring",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aei9767?af=R",
+    "authors": [
+      "Zhizhi Wu, Fan Chen, Jiaheng Liang, Yufei Zhang, Qiyao Huang, Chi Zhang, Peng Li, Shanghang Li, Haihua Shu, Xin Cheng, Hwa-Yaw Tam, Yunfei Chai, Zijian Zheng"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5791?af=R",
+    "title": "Retroviral insertions contributed to the divergence of human and chimpanzee brains",
+    "link": "https://www.science.org/doi/abs/10.1126/sciadv.aeg5791?af=R",
+    "authors": [
+      "Patricia Gerdes, Ofelia Karlsson, Raquel Garza, Diahann A. M. Atacho, PingHsun Hsieh, Bharat Prajapati, DongAhn Yoo, Chandramouli Muralidharan, Anita Adami, Carrie Davis-Hansson, Emily M. Johansson, Yogita Sharma, Laura Castilla-Vallmanya, Wiktor West, Meghna Vinod, Lucian Domitrovic, Pia A. Johansson, Jenny Johansson, Christopher H. Douse, Chandrasekhar Kanduri, Patric Jern, Evan E. Eichler, Johan Jakobsson"
+    ],
+    "summary": "Science Advances, Volume 12, Issue 43, October 2026. <br />",
+    "source": "AAAS: Science Advances: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003405",
+    "title": "Natural fracture attributes and their influence on hydraulic fracture growth: a review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003405?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Julia F.W. Gale, Qiqi Wang, Hunjoo P. Lee, J.E. Olson",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003466",
+    "title": "Lithospheric structural and magmatic fractionation controls on the giant Ag metallogenic belt in the Great Xing'an Range",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003466?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Kaixuan Hui, Kezhang Qin, Bertrand Rottier, Mingjian Cao, Zhenzhen Li, Le Wang, Junxing Zhao, Xinyu Zou",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003429",
+    "title": "Erratum to “Reply to comment by Peter D. McIntosh and Adrian J. Slee on review article by Nicolas Flament and Colin V. Murray-Wallace: ‘Last Interglacial shoreline successions in southeastern Australia: A framework for identifying a waning mantle upwelling, neotectonic movements and sea-level change’” [Earth-Sci. Rev. 281 (2026) 105628 1–6]",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003429?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Nicolas Flament, Colin V. Murray-Wallace",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005959",
+    "title": "The oxygen isotope evolution of CM chondrites during aqueous alteration",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005959?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): M.D. Suttle, B. Babrián",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006023",
+    "title": "Fault gouge composition controls preparatory processes and recurrence of laboratory earthquakes: From time-Predictable failure to aseismic slip",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006023?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Navin Thapa, Thomas H.W. Goebel",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034683",
+    "title": "Scaling the Swell: Plume‐Lithosphere Interaction and Its Signal in Dynamic Seafloor Topography",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034683?af=R",
+    "authors": [
+      "Ziqi Ma, \nMaxim Ballmer, \nAntonio Manjón‐Cabeza Córdoba"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-22",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034322",
+    "title": "A Global Centroid Catalog of S‐Wave Microseisms: Insights Into the Role of Sedimentary Layers",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034322?af=R",
+    "authors": [
+      "Shota Kato, \nKiwamu Nishida, \nRyota Takagi"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006629",
+    "title": "Thermodynamics of NaCl(aq) from 230 to 2000 K and from 0.1 to 10,000 MPa: Applications to Earth and Other Ocean Worlds",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006629?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): J. Michael Brown, Olivier Bollengier, Ula Jones, Steven D. Vance, Baptiste Journaux",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006654",
+    "title": "Calcium isotope systematics during multistage seafloor alteration of abyssal peridotites: insights from the Gakkel Ridge",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006654?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Jia-Wei Xiong, Chuan-Zhou Liu, Yin-Zheng Lin, Yang Xu",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006666",
+    "title": "Multi-Stage Carbonatite Magmatism Drives Rare Earth Element Enrichment",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006666?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 22 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lucas Tatnell, Andrea Giuliani, Isra Ezad, Christopher M Fisher, Mohammed Bouabdellah, Stephen Centrella, Laurent Sapor, Marco Fiorentini",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03414-3",
     "title": "Can a 'lullaby' save coral reefs from extinction?",
     "link": "https://www.nature.com/articles/d41586-026-03414-3",
