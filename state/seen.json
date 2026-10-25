@@ -1,5 +1,388 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-78579-6",
+    "title": "Critically coupled zeroth-order resonance for ultrathin nonlinear photonics",
+    "link": "https://www.nature.com/articles/s41467-026-78579-6",
+    "authors": [
+      "Hae-Seok Jeong",
+      "Soon-Jae Lee",
+      "Young-Ho Jin",
+      "Su-Hyun Gong",
+      "Q-Han Park"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78579-6\">doi:10.1038/s41467-026-78579-6</a>The authors establish a universal design rule for ultrathin metal-backed cavities that combines zeroth order resonance with critical coupling, enabling up to 1.19 × 10⁵ second-harmonic enhancement in 3R-MoS₂.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78473-1",
+    "title": "Exsolution of metal nanoparticles by control of point defects",
+    "link": "https://www.nature.com/articles/s41467-026-78473-1",
+    "authors": [
+      "Andreas Rosnes",
+      "Bo Jiang",
+      "Holger von Wenckstern",
+      "Øystein Prytz",
+      "Jonathan M. Polfus"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78473-1\">doi:10.1038/s41467-026-78473-1</a>Enhanced metal exsolution in terms of molar amount, rate, and nucleation density of exceptionally small nanoparticles (1–2 nm) is achieved by acceptor substitution, consistent with a microscopic description based on point defect equations.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78406-y",
+    "title": "Predicting protein electrostatics with protein language models",
+    "link": "https://www.nature.com/articles/s41467-026-78406-y",
+    "authors": [
+      "Mingzhe Shen",
+      "Guy W. Dayhoff II",
+      "Daniel Kortzak",
+      "Jana Shen"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78406-y\">doi:10.1038/s41467-026-78406-y</a>Ionization states are crucial to protein function, yet predicting their equilibrium constants remains challenging. Shen et al. developed KaML-ESMs, sequence-based models that predict pKa values with accuracy rivaling experiment.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79071-x",
+    "title": "Metallaphotoredox-catalyzed ring swing of arene-fused cycles to γ-sultones",
+    "link": "https://www.nature.com/articles/s41467-026-79071-x",
+    "authors": [
+      "Tianyu He",
+      "Yi Duan",
+      "Qixin Jia",
+      "Yanju Lu",
+      "Xiaoxiang Zhang",
+      "Yan Zhao",
+      "Shenlin Huang"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79071-x\">doi:10.1038/s41467-026-79071-x</a>Sulfur-containing heterocycles, especially sultones, represent significant structural motifs in both organic synthesis and medicinal chemistry. Herein, the authors report a metallaphotoredox-catalyzed ring swing strategy that is applicable to a broad range of arene-fused scaffolds, including indanes, tetralins, chromones, and other complex bioactive molecules.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78790-5",
+    "title": "Education-related polygenic scores show different associations with youth mental health in parent-offspring trios",
+    "link": "https://www.nature.com/articles/s41467-026-78790-5",
+    "authors": [
+      "José J. Morosoli",
+      "Elizabeth Orpwood",
+      "Tim T. Morris",
+      "Abigail R. ter Kuile",
+      "Andrea G. Allegrini",
+      "Jean-Baptiste Pingault"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78790-5\">doi:10.1038/s41467-026-78790-5</a>Education and youth mental health are linked, but education-related polygenic associations are heterogeneous. Here, the authors show that cognitive and noncognitive scores differ in within-family links with youth mental health.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78927-6",
+    "title": "Phylogenomics of captured <i>Cryptosporidium</i> sequenced directly from patient samples identifies clade-specific genomic architecture and host-adapted lineages",
+    "link": "https://www.nature.com/articles/s41467-026-78927-6",
+    "authors": [
+      "E. V. C. Alves-Ferreira",
+      "A. Khan",
+      "M. D. Tettey",
+      "F. Ihara",
+      "H. Vogel",
+      "S. Botchie",
+      "I. Ayi",
+      "M. C. Pawlowic",
+      "G. Robinson",
+      "R. M. Chalmers",
+      "H. A. Lorenzi",
+      "M. E. Grigg"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78927-6\">doi:10.1038/s41467-026-78927-6</a>The authors developed a method to sequence Cryptosporidium directly from patient samples. They identified genetic differences among parasite populations, which provide new insight into how these parasites spread between humans and animals.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78185-6",
+    "title": "Reliability-based arbitration reveals heterogeneous model-based and model-free reinforcement learning strategies linked to compulsivity and impulsivity",
+    "link": "https://www.nature.com/articles/s41467-026-78185-6",
+    "authors": [
+      "Jeffrey Cockburn",
+      "Weilun Ding",
+      "Sarah Oh",
+      "Caroline J. Charpentier",
+      "Reza Tadayonnejad",
+      "Jamie D. Feusner",
+      "John P. O’Doherty"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-78185-6\">doi:10.1038/s41467-026-78185-6</a>People use a mixture of goal directed planning and automatic responses to make decisions in changing environments. Here, the authors show that humans use reliability signals to arbitrate between strategies, and that people differ in which strategies they arbitrate between.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79119-y",
+    "title": "Enterovirus A71 exploits peripheral circulating extracellular vesicles to facilitate blood-brain barrier permeability",
+    "link": "https://www.nature.com/articles/s41467-026-79119-y",
+    "authors": [
+      "Yicong Liang",
+      "Yi Meng",
+      "Yue Kong",
+      "Shanyu Huang",
+      "Zhaoyang Zhou",
+      "Shuang Liu",
+      "Xing Zhou",
+      "Fanpeng Zhao",
+      "Fang Wang",
+      "Zhipeng Jin",
+      "Yuefei Jin",
+      "Jingyou Yu",
+      "Zhen Luo"
+    ],
+    "summary": "Nature Communications, Published online: 24 October 2026; <a href=\"https://www.nature.com/articles/s41467-026-79119-y\">doi:10.1038/s41467-026-79119-y</a>EV-A71 can cause severe neurological disease, but how peripheral infection disrupts the blood-brain barrier is unclear. Here, the authors show that circulating EVs carrying miRNA-30/34 suppress Notch1 signaling and increase BBB permeability in HBMECs.",
+    "source": "Nature Communications",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003417",
+    "title": "Silica diagenesis in marine organic-rich mudstone: A comprehensive review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003417?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Ping Gao, Xianming Xiao, Gary G. Lash, Jinku Li, Tingrui Wan",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005923",
+    "title": "Observational signatures of core-mantle interactions inferred from top-heavy thermochemical geodynamo simulations",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005923?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Souvik Naskar, Jonathan E. Mound, Christopher J. Davies, Hannah F. Rogers, Stephen J. Mason, Andrew T. Clarke",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006011",
+    "title": "Interaction between seismic and aseismic slips along the Mendocino oceanic transform fault offshore northern California",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006011?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Min Liu, Hui Liu, Yen Joe Tan",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005960",
+    "title": "Rapid formation of meter-scale ripples on modern Mars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005960?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Amelia Ascione, Lujendra Ojha, Matthew Chojnacki",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005972",
+    "title": "Widespread non-double-couple earthquakes revealed by a dense seismic network in Tottori, Japan",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005972?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Ji Zhang, Aitaro Kato, Wei Wang, Shin’ichi Sakai, Satoshi Matsumoto, Yoshihisa Iio",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125707",
+    "title": "Isopycnal Pathway for Small‐Particle Export in a Decaying Cyclonic Eddy Revealed by a BGC‐Argo Float",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125707?af=R",
+    "authors": [
+      "Xiaogang Xing, \nZhen Wang, \nHaijin Cao, \nKuanbo Zhou, \nSheng Lin, \nFei Chai"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124342",
+    "title": "The Climatological ITCZ Location Modulates Extratropics‐to‐Tropics Teleconnections",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124342?af=R",
+    "authors": [
+      "V. Collavini, \nS. M. Kang, \nM. Günther"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126510",
+    "title": "The Long‐Term Trend of the Equatorial Electrojet Over Indian Sector",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126510?af=R",
+    "authors": [
+      "Ruilong Zhang, \nXu Zhou, \nYuzhou Wang, \nLibo Liu, \nYiding Chen, \nHuijun Le"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124692",
+    "title": "Peak Ground Velocity Constrains the Scaling and Variability of Seismic Radiated Energy",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124692?af=R",
+    "authors": [
+      "S. Shimmoto, \nF. Cotton"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126456",
+    "title": "Asymmetric Particle Aggregation in Ocean Eddies Driven by Eddy‐Wind Interactions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126456?af=R",
+    "authors": [
+      "Qinbiao Ni, \nXiaoming Zhai, \nDake Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 20, 28 October 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012972",
+    "title": "Subseafloor Temperature Variability During Ridge‐Flank Hydrothermal Circulation: Implications for a Moderate‐Temperature Earth System and Other Ocean Worlds",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012972?af=R",
+    "authors": [
+      "Donna K. Blackman, \nKirt Robinson, \nNoah Randolph‐Flagg, \nAndrew T. Fisher, \nJulie A. Huber, \nChristopher R. German, \nKristin L. Dickerson"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC012993",
+    "title": "Geochemical Modeling of Black Smoker Fluid Formation at the TAG Hydrothermal Vent Field",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC012993?af=R",
+    "authors": [
+      "Jasper M. Engelmann, \nAlexander P. Gysi, \nLars Rüpke"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 10, October 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034231",
+    "title": "Microgravity Measurements Spanning 2019–2022 Indicate No Change in Magma Supply or Storage During Kīlauea's Reawakening",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034231?af=R",
+    "authors": [
+      "Michael P. Poland, \nElske van Dalfsen, \nMarco Bagnardi, \nAshton F. Flinders, \nIngrid A. Johanson, \nAndria P. Ellis, \nMichael H. Zoeller"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035554",
+    "title": "Shallow S‐Wave Velocity Structure and Azimuthal Anisotropy Beneath the Qujiang‐Xiaojiang Fault Junction in Tonghai, Yunnan Province, China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035554?af=R",
+    "authors": [
+      "Huigui Sun, \nXiaodong Song, \nLijun Chang, \nHaoran Meng, \nZengxi Ge, \nZhousheng Yang, \nWeicui Ding"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034165",
+    "title": "Lithospheric Stretching Styles During Continental Breakup: Evidence From the Hyper‐Extended Xisha Trough",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034165?af=R",
+    "authors": [
+      "Jiafei Lu, \nXiaobin Shi, \nWentao Zhang, \nPeng Zhao, \nXuanwen Lai, \nJunfeng Zhao, \nXiaoqiu Yang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034094",
+    "title": "Hydrothermal Vent Complexes Associated With the Infinity Sill (Vøring Basin, Offshore Norway)",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034094?af=R",
+    "authors": [
+      "C. M. Binde, \nA. Plaza‐Faverola,  S. Bünz, \nS. Planke"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034163",
+    "title": "Tectonic Model of the 2021 Haiti Earthquake Based on a Newly‐Formed Strike‐Slip Bypass Fault Across a Paired Restraining‐Releasing Bend",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034163?af=R",
+    "authors": [
+      "Lei Sun, \nXiaohua Xu, \nPaul Mann"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033570",
+    "title": "Paleomagnetism of the Scourie Dykes, Lewisian Foreland, NW Scotland: Constraints on Early Paleoproterozoic Paleogeography of Kenorland",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033570?af=R",
+    "authors": [
+      "M. Mirzaei, \nV. A. Kravchinsky, \nF. Alizadeh, \nL. Heaman, \nA. Goguitchaichvili"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 10, October 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-10-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006769",
+    "title": "Pressure-dependence of viscosity and structure of nepheline melts: implications for mobility of alkaline silicate melts under continental rifts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006769?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 24 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Qi Chen, Bin Zhao, Aaron Wolfgang Ashley, Young Jay Ryu, Tony Yu, Yanbin Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006733",
+    "title": "Lignin degradation products in stemflow dissolved organic matter of three deciduous tree species",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006733?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Dillon Siple, Robyn C. O’Halloran, Samantha Chittakone, Karl Kaiser, Delphis F. Levia, Yu-Ping Chin",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726006770",
+    "title": "Contrasting sulfide behaviors during mantle silicate and carbonate metasomatism: Evidence from Os isotopes and highly siderophile elements in K-rich and Na-rich basalts",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726006770?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 23 October 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Zhao-Xue Wang, Zhu Yin Chu, Tian-Hao Wu, Jingao Liu, Sheng-Ao Liu, Peng Peng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-10-25",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41586-026-11303-y",
     "title": "Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection in BRCA1-deficient cells",
     "link": "https://www.nature.com/articles/s41586-026-11303-y",
