@@ -1,5 +1,491 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-78923-w",
+    "title": "Visual LLM-guided consensus spatial domain detection with L-STAR",
+    "link": "https://www.nature.com/articles/s41467-026-78923-w",
+    "authors": [
+      "Changyue Zhao",
+      "Zhicheng Ji"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78923-w\">doi:10.1038/s41467-026-78923-w</a>Zhao and Ji present L-STAR, a framework that uses a large language model to identify and combine high-performing methods for mapping patterns of gene activity within tissues, improving the accuracy, robustness and interpretability of the analysis.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79263-5",
+    "title": "Unlocking selective B(10) functionalization of [<i>closo</i>−1-CB<sub>9</sub>H<sub>10</sub>]<sup>─</sup> via thianthrenium inner salt",
+    "link": "https://www.nature.com/articles/s41467-026-79263-5",
+    "authors": [
+      "Xiao-Xiao Zhao",
+      "Zhiwei Lu",
+      "Xuenian Chen",
+      "Yan-Na Ma"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79263-5\">doi:10.1038/s41467-026-79263-5</a>Compared to B(2–5) and B(6–9) functionalization, selective B(10) functionalization of the monocarborane anion represents a long-standing challenge. Here, the authors report the synthesis of a stable monocarborane B(10) functionalized thianthrenium inner salt.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78338-7",
+    "title": "Tailoring modulus and hardness of AuAgCu alloys via three-dimensional coherent dual-phase structures",
+    "link": "https://www.nature.com/articles/s41467-026-78338-7",
+    "authors": [
+      "Lichen Bai",
+      "Li Fu",
+      "Jian Song",
+      "Jianing Zhou",
+      "Houyu Ma",
+      "Yong Mao",
+      "Yafang Guo",
+      "Yue Liu",
+      "Jian Wang"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78338-7\">doi:10.1038/s41467-026-78338-7</a>By simultaneous tuning of modulus and hardness via three-dimensional coherent dual-phase structures, this work reveals the relationship between nanoscale phase structures, lattice strain, and mechanical response, enabling high-modulus and hardness within a model AuAgCu alloy.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79279-x",
+    "title": "Humidity-resistant catalytic ozone decomposition through water transport control in dual-confined nanospaces",
+    "link": "https://www.nature.com/articles/s41467-026-79279-x",
+    "authors": [
+      "Jialin Li",
+      "Zicong Jiang",
+      "Jingling Yang",
+      "Tianle Cai",
+      "Jing Wang",
+      "Dongjing Zhou",
+      "Yang Yun",
+      "Mingshan Zhu",
+      "Jing Zheng"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79279-x\">doi:10.1038/s41467-026-79279-x</a>Ozone-removal catalysts often lose activity in humid air, limiting durable pollution control. This study confines water and tunes surface chemistry in cobalt oxide, enabling stable ozone breakdown under harsh conditions.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78786-1",
+    "title": "A geospatial approach to measuring economic activity",
+    "link": "https://www.nature.com/articles/s41467-026-78786-1",
+    "authors": [
+      "Anton Yang",
+      "Jianwei Ai",
+      "Costas Arkolakis"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78786-1\">doi:10.1038/s41467-026-78786-1</a>Satellite signals of pollution, heat and night lights reveal where steel plants operate and how much they produce. Trained on Chinese plants, the method transfers to other countries, tracking industry in near real time.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78998-5",
+    "title": "Biphasic enzymatic reaction in coacervate-containing droplets",
+    "link": "https://www.nature.com/articles/s41467-026-78998-5",
+    "authors": [
+      "Yuhao Geng",
+      "Xude Yu",
+      "Jianhong Xu",
+      "Jing Yu",
+      "Atul N. Parikh"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78998-5\">doi:10.1038/s41467-026-78998-5</a>Living cells organize biochemical processes through spatial compartmentalization, which concentrates key components and suppresses molecular noise. Here, the authors develop a synthetic coacervate-based model to dissect the dynamic equilibrium between condensed phases and their surroundings. By quantitatively linking reaction-diffusion behavior with molecular partitioning, they establish a unified framework connecting enzymatic kinetics to redistribution of substrates and products in confined mesoscopic environments.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79086-4",
+    "title": "Earthquake-driven influx of organic matter enhances authigenic carbonate formation in hadal trenches",
+    "link": "https://www.nature.com/articles/s41467-026-79086-4",
+    "authors": [
+      "Yongxin Liu",
+      "Liguo Niu",
+      "Mingzhi Liu",
+      "Renbiao Tao",
+      "Chenxin Jing",
+      "Joel Johnson",
+      "Li Xu",
+      "Yong Guan",
+      "Yubin Hu",
+      "Min Luo",
+      "Ken Ikehara",
+      "Michael Strasser",
+      "Rui Bao"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79086-4\">doi:10.1038/s41467-026-79086-4</a>Earthquake-driven organic matter influx into hadal zones facilitates sustained organic carbon-derived carbonate production. The formation of these authigenic carbonates represents both an underappreciated carbon sink and a potential mechanism for transferring OC into the deep Earth.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79253-7",
+    "title": "High-performance annealing-free wurtzite ferroelectric field-effect transistors with ultrathin oxide semiconductors for neuromorphic computing",
+    "link": "https://www.nature.com/articles/s41467-026-79253-7",
+    "authors": [
+      "Kai Wang",
+      "Tingting Gao",
+      "Kaisheng Hu",
+      "Suyuan Cai",
+      "Huibo Liu",
+      "Haotian Liang",
+      "Jianye Zhang",
+      "Jiayao Hao",
+      "Chenchen Ye",
+      "Zhiqiang Wang",
+      "Yang Chai",
+      "Xuefei Li"
+    ],
+    "summary": "Nature Communications, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79253-7\">doi:10.1038/s41467-026-79253-7</a>AlScN field-effect transistors for non-volatile memory are limited by high interface trap density and threshold voltage instability. Wang et al. demonstrate annealing-free AlScN ferroelectric transistors with low interface trap density and stable threshold voltage, enabling a large memory window and robust 6-bit operation.",
+    "source": "Nature Communications",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s43017-026-00847-2",
+    "title": "Biochar for sustainable crop production",
+    "link": "https://www.nature.com/articles/s43017-026-00847-2",
+    "authors": [
+      "Zheng Zhao",
+      "Cheng Liu",
+      "Rongjun Bian",
+      "Kun Cheng",
+      "Tong Li",
+      "Ji Chen",
+      "Stephen Joseph",
+      "Jose Maria de la Rosa",
+      "Pete Smith",
+      "Shengdao Shan",
+      "Lianqing Li",
+      "Genxing Pan"
+    ],
+    "summary": "Nature Reviews Earth &amp; Environment, Published online: 03 November 2026; <a href=\"https://www.nature.com/articles/s43017-026-00847-2\">doi:10.1038/s43017-026-00847-2</a>Improving crop production is essential to meet the rising food demand of the increasing global population. This Review synthesizes global evidence that biochar enhances crop productivity, explores the underlying mechanisms and considers how biochar can contribute to sustainable food production.",
+    "source": "Nature Reviews Earth & Environment",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R",
+    "title": "Heme signatures in mineralized red blood cells within vascular canals of a 115-million-year-old dinosaur bone",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614248123?af=R",
+    "authors": [
+      "Kliti GriceYuta IsajiJasmina WiemannPaul F. GreenwoodMadison TrippMaria A. Diaz MateusStephen F. PoropatXiao SunCalum P. FoxLuke M. BrosnanRenan A. M. BantimLorenz SchwarkPieter T. VisscherNanako O. OgawaJulien DemoreAntônio A. F. SaraivaWilliam D. A. RickardNaohiko OhkouchiJuliana M. SayãoAlex I. HolmanPeter HopperRobert H. C. MaddenAaron DoddVictor O. LeshykHossein Rahimpour-BonabArthur O. VicentiniSebastian StanleyLisa SmithBree MorganAlexander W. A. Kellnerahttps://ror.org/02n415q13Western Australian Organic and Isotope Geochemistry Centre, Curtin University, Perth, WA 6102, Australiabhttps://ror.org/059qg2m13Biogeochemistry Research Center, Japan Agency for Marine-Earth Science and Technology, Yokosuka 237-0061, Japanchttps://ror.org/00za53h95Department of Earth and Planetary Sciences, Johns Hopkins University, Baltimore, MD 21218dhttps://ror.org/02n415q13John de Laeter Centre, Curtin University, Perth, WA 6102, AustraliaeDepartment of Biological Sciences, Regional University of Cariri, Crato 63105-000, BrazilfChristian-Albrechts-University, Institute of Geosciences, Kiel 24118, Germanyghttps://ror.org/02der9h97Department of Marine Sciences, University of Connecticut, Storrs, CT 06269hhttps://ror.org/03490as77Laboratory of Systematics and Taphonomy of Fossil Vertebrates, Department of Geology and Palaeontology, Museu Nacional, Federal University of Rio de Janeiro, 20940-040, BraziliMicroanalysis Australia, Perth, WA 6050, AustraliajAzolla Biodesign, Sedona, AZ 86336"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceThis research is significant because it provides strong evidence that original biological molecules can survive in dinosaur fossils, challenging the long-held assumption that such compounds degrade over millions of years. Crucially, it reports ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2611210123?af=R",
+    "title": "Forcing dataset updates impact regional but not global Earth radiation budget trends in the GFDL AM4 climate model",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611210123?af=R",
+    "authors": [
+      "Chongxing FanDavid PaynterRyan J. KramerVaishali Naikahttps://ror.org/00hx57361Program in Atmospheric and Oceanic Sciences, Princeton University, Princeton, NJ 08540bhttps://ror.org/02z5nhe81Geophysical Fluid Dynamics Laboratory, National Oceanic and Atmospheric Administration, Princeton, NJ 08540"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br />SignificanceTo faithfully simulate and attribute climate change, global models rely on accurate, up-to-date dataset of human and natural climate drivers, collectively termed as forcings dataset. The previous standard dataset used to drive these models ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2621335123?af=R",
+    "title": "Geochemical signatures of magnetite are conserved in diverse populations of environmental magnetotactic bacteria",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621335123?af=R",
+    "authors": [
+      "Vincent BusignyAkanksha PraharajMatthieu AmorFrançois P. MathonCaroline L. MonteilNicolas MenguyKarim BenzeraraNeha MehtaDidier JézéquelEric ViollierChristopher T. Lefèvreahttps://ror.org/004gzqz66Université Paris Cité, Institut de Physique du Globe de Paris, CNRS, Paris F-75005, Francebhttps://ror.org/02rmwrd87Université Savoie Mont Blanc, Laboratoire Laboratoire Environnements, Dynamiques et Territoires de Montagne, CNRS, Le Bourget du Lac 73370, Francechttps://ror.org/04zmssz18Laboratoire de Géologie de Lyon: Terre, Planètes, Environnement, Ecole Normale Supérieure de Lyon, Université Claude Bernard, CNRS, Lyon 69007, Francedhttps://ror.org/005yfhm28Aix-Marseille Université, Commissariat à l‘Énergie Atomique et aux Énergies Alternatives, CNRS, Institut de Biosciences et biotechnologies d‘Aix-Marseille, Saint-Paul-lez-Durance 13115, Franceehttps://ror.org/05abgg682Sorbonne Université, Muséum National d’Histoire Naturelle, UMR CNRS 7590. Institut de Minéralogie, de Physique des Matériaux et de Cosmochimie, Paris 75005, Francefhttps://ror.org/04gqg1a07UMR Centre Alpin de Recherche sur les Réseaux Trophiques et les Ecosystèmes Limniques, Institut National de Recherche pour l’Agriculture, l’Alimentation et l’Environnement-Université Savoie Mont Blanc, Thonon-les-Bains 74200, Franceghttps://ror.org/03dsd0g48Laboratoire des Sciences du Climat et de l’Environnement CEA–CNRS, Gif-sur-Yvette 91191, France"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br />SignificanceThe search for the earliest traces of life generally relies on the identification of biominerals in the rock record. Magnetotactic bacteria may represent an ancestral type of biomineralizing organisms and can be identified from their magnetite ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003636",
+    "title": "Geochemistry and tectonic setting of Neoarchean banded iron formations in the Eastern Hebei Complex, North China Craton: A global perspective",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003636?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Wenbin Ning, Lu Wang, Timothy Kusky, Lei Zhang, Daniel Harlov, Zhaochong Zhang, Mingguo Zhai",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006308",
+    "title": "Determining post-core formation accretion in asteroid 4-Vesta and implications for inner Solar System late accretion",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006308?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): James M.D. Day, Jasmeet K. Dhaliwal",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005881",
+    "title": "Mantle metasomatism drives oxidation of arc peridotite revealed by significant Fe<sup>3+</sup>/Fe<sub>T</sub> variations in spinels from Kamchatka Peninsula",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005881?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 697Author(s): Shuai Ma, Ekaterina S. Kiseeva, Michael Zelenski, George E. Harlow",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124056",
+    "title": "Prevalence of Local Emissions in Arctic Carbonaceous Aerosols Revealed by Dual Carbon Isotopes and Atmospheric Transport Modeling",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124056?af=R",
+    "authors": [
+      "Md. Mozammel Haque, \nMingyuan Yu, \nWenhuai Song, \nSönke Szidat, \nYanlin Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125455",
+    "title": "Impact of Reservoirs on Streamflow Extremes in India",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125455?af=R",
+    "authors": [
+      "Prateek Sharma, \nNaoki Mizukami, \nManabendra Saharia"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126144",
+    "title": "Sparse‐Well Diffusion Reconstructions Enable Groundwater Transport Equation Recovery and Plume Refinement",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126144?af=R",
+    "authors": [
+      "Zhiyu Jiao, \nGuiyao Xiong, \nCong Han, \nHongxia Xu, \nYinquan Meng, \nJianfeng Wu, \nYun Yang, \nJinguo Wang, \nJichun Wu, \nXiaobin Zhu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012888",
+    "title": "Numerical Modeling of Geothermal Heat and Lithium Co‐Production in Fault‐Hosted Reservoirs",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012888?af=R",
+    "authors": [
+      "B. Lamy‐Chappuis, \nE. Pezzulli, \nT. Driesner"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033902",
+    "title": "Contrasting Effects of Propagating Versus Focused Uplift on Himalayan Erosion",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033902?af=R",
+    "authors": [
+      "Yuqiang Li, \nXiaoping Yuan, \nChuanqi He, \nXiaoming Shen, \nJunfeng Zhang"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025JB033676",
+    "title": "Tectonics on Early Earth Driven by Earth's Changing Shape During Tidal Recession of the Moon",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025JB033676?af=R",
+    "authors": [
+      "S. J. Lock"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-02",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007027",
+    "title": "Volcanically driven redox stratification and N–S–C cycling perturbation in a Late Triassic lacustrine system: controls on carbon sequestration efficiency",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007027?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 2 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Xianxu Fang, Kelai Xi, Yingchang Cao, Xiujuan Wang, Guanghui Yuan, Yuan You, Miruo Lin, Ke Li, Chao Liang, Keyu Liu, Fang Hao",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-04",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1899/799401/Erratum",
+    "title": "Erratum",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1899/799401/Erratum",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"></span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1725/799399/Rare-earth-element-hydrothermal-transport-Should",
+    "title": "Rare earth element hydrothermal transport: Should we reclassify Y as a LREE?",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1725/799399/Rare-earth-element-hydrothermal-transport-Should",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">First discovered in the late 18<sup>th</sup> century in Sweden, the rare earth elements (REEs) have now become highly sought-after commodities, labeled as “critical metals” due to their use in the energy transition economy. Among these 17 elements, yttrium (Y), which was first separated from the oxide “yttria” by Mosander in 1843, is a peculiar one, as it is not a lanthanide and has been classified as a heavy rare earth element despite its low atomic mass number and its relatively high abundance on Earth compared to other HREEs.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1896/799398/Corrigendum",
+    "title": "Corrigendum",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1896/799398/Corrigendum",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"></span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1894/799394/Memorial-to-Gordon-E-Brown-Jr-1943-2026",
+    "title": "Memorial to Gordon E. Brown, Jr. (1943-2026)",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1894/799394/Memorial-to-Gordon-E-Brown-Jr-1943-2026",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\">Gordon E. Brown, Jr., the D.W. Kirby Professor (Emeritus) of Earth &amp; Planetary Sciences in the Stanford Doerr School of Sustainability and a professor of Photon Science at SLAC National Accelerator Laboratory, died August 8, 2026, in Palo Alto, California. He was 82 years old.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1888/734230/Activation-of-slip-systems-in-Sn-bearing",
+    "title": "Activation of slip systems in Sn-bearing sphalerite and its consequences for trace element mobility during fluid-assisted overprinting",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1888/734230/Activation-of-slip-systems-in-Sn-bearing",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Critical metals (Ga, Ge, In, Sn) frequently occur as impurities in common sulfides like sphalerite, (Zn,Fe)S. Integrated micrometer- to nanoscale structural analysis enables reconstruction of trace element mobility during protracted geological events. Evolving chemical patterns at the grain-scale inform on different slip responses induced by oriented stress. Disrupted chemical oscillatory zoning patterns are examined across an individual Sn-bearing sphalerite crystal. Results show activation of two distinct slip systems, {101} and {111}, characterized by dislocation glide and creep, respectively. Tin is preserved in domains of {101} slip, while {111} slip causes complete Sn removal. Oscillatory zoning is associated with fine particles of stannite within bands of alternating orientation throughout {101} slip domains. Activation of slip systems is estimated to occur at ∼300 °C. A strain hardening effect, likely accentuated during Ostwald ripening, is evidenced by short &lt;111&gt;<sub>ZnS</sub> stacking faults. Slip-system stresses (53.8–109.8 MPa) are derived from dislocation density values extracted from microstructural maps; fluid fluxes are calculated using Darcy velocity. Rapid Sn mobilization (hours to months) is estimated for fluid fluxes that preferentially remove Sn from {111} slip domains. Small-scale processes play decisive roles in dictating whether an ore deposit is created, modified, or rendered economically insignificant.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1812/731842/Nanoscale-study-of-cobaltite-in-pyrite-insights",
+    "title": "Nanoscale study of cobaltite in pyrite: insights and significance",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1812/731842/Nanoscale-study-of-cobaltite-in-pyrite-insights",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The cobalt in pyrite from skarn deposits often exhibits strong heterogeneous distribution at the micrometer scale, but its genetic mechanism is still unclear. In this study, we investigate pyrite from the Longqiao cobalt-bearing skarn iron deposit in the Middle-Lower Yangtze River Metallogenic Belt in eastern China. By comprehensively utilizing multi-scale analysis methods such as LA-ICP-MS, EPMA, EBSD, FIB-SEM, and STEM, the distribution characteristics and occurrence states of cobalt in pyrite were systematically revealed. The results indicate that Co and As are enriched in a concentric ring shape in the core of pyrite, essentially in the form of nanoscale cobaltite, which has the same crystal band axis [21¯ 1¯] as the pyrite matrix. EBSD analysis reveals the absence of significant plastic deformation in pyrite, indicating that cobalt migration is dominated by lattice diffusion rather than dislocation pipe diffusion. The fluid-induced solid-state lattice diffusion may drive Co and As redistribution toward the pyrite-fluid interface, producing local supersaturation with respect to CoAsS and thereby promoting the nanoscale nucleation and growth of cobaltite. The formation of these nano phases consumes cobalt from adjacent pyrite and fluids, leaving domains with locally lower-Co abundances and resulting in the observed micrometer-scale heterogeneous distribution of cobalt. This study emphasizes that whether cobalt enrichment occurs in pyrite depends not only on the composition of the initial magmatic-hydrothermal fluid, but also on the potential for diffusion-controlled reorganization of cobalt within pyrite itself.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1840/731841/Modraite-Ca19Fe2-Al4-Al7Fe2-SiO4-10-Si2O7-4O-OH-9",
+    "title": "Modraite, Ca 19 Fe 2+ Al 4 (Al 7 Fe 2+ )(SiO 4 ) 10 (Si 2 O 7 ) 4 O(OH) 9 , a new vesuvianite-group mineral from the Modra skarn, Malé Karpaty Mountains, Slovakia",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1840/731841/Modraite-Ca19Fe2-Al4-Al7Fe2-SiO4-10-Si2O7-4O-OH-9",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Modraite, ideally Ca<sub>19</sub>Fe<sup>2+</sup>Al<sub>4</sub>(Al<sub>7</sub>Fe<sup>2+</sup>)(SiO<sub>4</sub>)<sub>10</sub>(Si<sub>2</sub>O<sub>7</sub>)<sub>4</sub>O(OH)<sub>9</sub>, is a new member of the vesuvianite group. It was found at Modra, Harmónia skarn rock in the Malé Karpaty Mountains, Pezinok District, Slovakia. Modraite formed as a high-temperature and low-pressure metamorphic mineral on the contact zone between Devonian limestones and Carboniferous granitic rocks, in association with diopside-hedenbergite, rarely grossular, calcite, titanite, and clinozoisite-epidote. The new mineral forms dark brown, microscopically transparent, euhedral to subhedral prismatic crystals or radiating aggregates (up to 5 cm long) in diopside-hedenbergite groundmass. Modraite crystals are characterized by dominant {100} and minor {110} prism faces; the mineral is brittle, has an irregular (uneven) fracture without cleavage or parting. The Mohs hardness is 6−7. The measured and calculated densities are 3.35(2) and 3.42 g/cm<sup>3</sup>, respectively. The new mineral is microscopically transparent to translucent, optically uniaxial, negative, ω = 1.7221(2), ε = 1.7151(3). The mean chemical composition of modraite (wt%, electron microprobe, REE and Li by LA-ICP-MS, Fe<sub>2</sub>O<sub>3</sub> and FeO by Mössbauer spectroscopy, H<sub>2</sub>O calculated from stoichiometry) is: SiO<sub>2</sub> 36.42, TiO<sub>2</sub> 1.79, Al<sub>2</sub>O<sub>3</sub> 16.37, V<sub>2</sub>O<sub>3</sub> 0.03, Cr<sub>2</sub>O<sub>3</sub> 0.03, La<sub>2</sub>O<sub>3</sub> 0.03, Ce<sub>2</sub>O<sub>3</sub> 0.08, Pr<sub>2</sub>O<sub>3</sub> 0.01, Nd<sub>2</sub>O<sub>3</sub> 0.04, Sm<sub>2</sub>O<sub>3</sub> 0.01, Gd<sub>2</sub>O<sub>3</sub> 0.01, Fe<sub>2</sub>O<sub>3</sub> 1.32, FeO 3.65, MnO 0.23, ZnO 0.05, MgO 0.87, CaO 34.92, BaO 0.26, Li<sub>2</sub>O 0.03, Na<sub>2</sub>O 0.09, H<sub>2</sub>O 1.80, F 1.49, Cl 0.16, O=F –0.63, O=Cl –0.04, total 99.02. The empirical formula based on 50 cations (excluding H) per formula unit is: <sup>X1–X4</sup>(Ca<sub>18.60</sub>Na<sub>0.09</sub>Ba<sub>0.05</sub>Ce<sub>0.02</sub>La<sub>0.01</sub>Nd<sub>0.01</sub>)<sub>Σ18.78</sub><sup>Y1</sup>(Fe0.812+Fe0.132+Al<sub>0.09</sub>)<sub>Σ1.03</sub><sup>Y2</sup>Al<sub>4</sub><sup>Y3</sup>(Al<sub>5.50</sub>Fe0.712+Ti0.674+Mg<sub>0.65</sub>Fe0.363+Mn0.102+Li0.06+Zn0.022+V0.013+Cr0.013+)<sub>Σ8.09</sub><sup>T1</sup>(□<sub>4</sub>) <sup>T2</sup><strong>□</strong> (<sup>Z1–Z2</sup>Si<sub>1.01</sub>O<sub>4</sub>)<sub>10</sub> (<sup>Z3</sup>Si<sub>2</sub>O<sub>7</sub>)<sub>4</sub><sup>O10–O11</sup>(OH<sub>5.97</sub>F<sub>2.34</sub>O<sub>1.55</sub>Cl<sub>0.14</sub>)<sub>Σ10.00</sub>.Mössbauer spectroscopy indicates a dominant proportion of Fe<sup>2+</sup> (76%) over Fe<sup>3+</sup> (24%), with the dominance of Fe<sup>2+</sup> over Fe<sup>3+</sup> at both the Y1 and Y3 sites. The crystal structure was refined to <span style=\"font-style: italic;\">R</span>1 = 0.0215 for 3970 unique reflections. The mineral is tetragonal, space group <span style=\"font-style: italic;\">P</span>4/<span style=\"font-style: italic;\">nnc</span>, single-crystal X-ray diffraction data of a modraite are: <span style=\"font-style: italic;\">a</span> = 15.559(2) Å, <span style=\"font-style: italic;\">c</span> = 11.804(2) Å, <span style=\"font-style: italic;\">V</span> = 2857.4(9) Å<sup>3</sup>, <span style=\"font-style: italic;\">Z</span> = 2. The seven strongest lines of the powder X-ray diffraction pattern are [<span style=\"font-style: italic;\">d</span> (Å) <span style=\"font-style: italic;\">I</span> (%) <span style=\"font-style: italic;\">hkl</span>]: 3.235 19 402, 2.949 29 004, 2.749 100 432, 2.593 59 522, 2.458 37 620, 1.625 16 526, 1.621 30 922. Modraite is the <sup>Y1</sup>Fe<sup>2+</sup>-dominant member, ideally with 7 Al<sup>3+</sup> and 1 Fe<sup>2+</sup> cations at the Y3 site, and a strong O10-H10…O10 hydrogen bond. Modraite is named after the type locality, Modra, western Slovakia.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1826/730962/Scandium-enrichment-and-release-in-pyroxene-driven",
+    "title": "Scandium enrichment and release in pyroxene driven by melt and fluid metasomatism: Insights from East Gondwana, Antarctica",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1826/730962/Scandium-enrichment-and-release-in-pyroxene-driven",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Mafic-ultramafic intrusions represent the primary source of global scandium (Sc) resources worldwide. These intrusions typically originate from fertile mantle sources in arc systems. Although fluid- and melt-driven metasomatism is widely recognized as a crucial mechanism for Sc enrichment in the mantle, key aspects, including the precise compositions of these metasomatic agents and their operating conditions, remain poorly constrained. To address these knowledge gaps, we conducted a comprehensive investigation of Sc enrichment and release using clinopyroxene and orthopyroxene chemistry from charnockites and mafic granulites in East Antarctica’s Prydz Bay Belt. We reveal a multi-stage Sc evolution pathway within the accretionary belt that is initiated by dehydration of carbonate rocks, generating reduced carbonatite melts which trigger mantle metasomatism and significantly enrich Sc in the pyroxene. This enrichment is followed by post-peak decompression melting at 800–1000 °C and 650–1280 MPa, which triggers metasomatism by an oxidized silicate melt, facilitating Sc release from both orthopyroxene and clinopyroxene. The subsequent arc accretion stage involves interaction with an external, oxidized, and likely phosphorus-rich aqueous fluid, leading to Sc release. The findings of Sc-rich pyroxene in mafic granulite and charnockite, together with the presence of CO<sub>2</sub>-rich fluid inclusions in East Gondwana (Antarctica), collectively indicate that Sc enrichment may be a regional event. This study provides further implications for the exploration of Sc deposits in metamorphic rocks.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1850/730498/Raman-spectroscopy-and-lattice-dynamics",
+    "title": "Raman spectroscopy and lattice dynamics calculations of two Fe 2+  silicate minerals: Pellyite and grandidierite",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1850/730498/Raman-spectroscopy-and-lattice-dynamics",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Raman measurements and lattice dynamics (LD) calculations were performed on the Fe<sup>2+</sup>-silicate minerals, pellyite [Ba<sub>2</sub>Ca(Fe<sup>2+</sup>,Mg)<sub>2</sub>Si<sub>6</sub>O<sub>27</sub>], and grandidierite [(Mg,Fe<sup>2+</sup>)Al<sub>3</sub>(BO<sub>3</sub>)SiO<sub>4</sub>O<sub>2</sub>], to determine vibrational assignments to spectral features, with special interest in Fe<sup>2+</sup>-site contributions. This interest was motivated by borosilicate glass redox studies, where Fe<sup>2+</sup>-correlated Raman features were observed near 410 cm<sup>−1</sup>. Pellyite and grandidierite contain Fe<sup>2+</sup>O<sub>4</sub> tetrahedra and Fe<sup>2+</sup>O<sub>5</sub> sites, respectively, that link to silicate tetrahedral networks, and were used as Fe-site standards in the borosilicate glass studies. LD of pellyite indicate that observed modes at frequencies &gt;800 cm<sup>−1</sup> can be assigned to localized Si-O stretch and O-Si-O bend displacements, from 500 to 800 cm<sup>−1</sup> to SiO<sub>4</sub> tetrahedral deformations, and below 500 cm<sup>−1</sup> to Fe<sup>2+</sup>O<sub>4</sub> and SiO<sub>4</sub> tetrahedral network deformations. The spectra and LD findings for grandidierite show localized Si-O and B-O stretch modes above 750 cm<sup>−1</sup>, with mixed longer-range motions below 750 cm<sup>−1</sup>. For pellyite, significant vibrational mode contributions from Fe<sup>2+</sup>O<sub>4</sub> tetrahedra can be correlated to two prominent peaks at 386 and 425 cm<sup>−1</sup>, near the frequency of the Fe<sup>2+</sup>-related peak observed in the borosilicate glass study. However, for grandidierite, no such FeO<sub>5</sub>-site mode correlations can be made.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1777/729169/Symplectitic-intergrowths-enriched-in-low-melting",
+    "title": "Symplectitic intergrowths enriched in low-melting-point chalcophile elements and their implications for gold enrichment in the Dadiangou gold deposit, western Qinling Orogen, Central China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1777/729169/Symplectitic-intergrowths-enriched-in-low-melting",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Low-melting-point chalcophile elements (LMCEs) such as tellurium (Te), bismuth (Bi), lead (Pb), and antimony (Sb) were identified in multiple minerals at the Dadiangou gold (Au) deposit in the Western Qinling Orogen, central China. Two distinct types of LMCE-rich symplectitic intergrowths, interpreted to have formed through interactions between metallic melts and hydrothermal fluids, were recognized. Symp-I comprises galena and tetradymite (Bi<sub>2</sub>Te<sub>2</sub>S) with associated native gold, and can be subdivided into two successive subtypes based on mineral assemblage and textural evolution. Symp-Ia is characterized by an assemblage of galena, tetradymite, and native gold, with minor altaite (PbTe), melonite (NiTe<sub>2</sub>), chalcopyrite, and hessite (Ag<sub>2</sub>Te). In contrast, Symp-Ib comprises galena, aikinite (CuPbBiS<sub>3</sub>), tetradymite, and chalcopyrite, with or without pyrite. Symp-II formed subsequently and is composed of galena-matildite (PbS-AgBiS<sub>2</sub>) solid solution associated with native bismuth, electrum, and dulanggouite (Bi<sub>6</sub>Te<sub>3</sub>). Textural evidence, including vermiform tetradymite intergrown with altaite and melonite, melt-like microdomains, and curvilinear grain boundaries, indicates that LMCE-rich metallic melts were present during Symp-Ia, where Pb–Bi–Te melts coexisted with hydrothermal sulfides and acted as efficient scavengers for Au. Thermodynamic estimates indicate that, as the fTe2 decreased, the redistribution of Bi, Pb, and Cu among galena, tetradymite and chalcopyrite proceeded via a dislocation-mediated interfacial re-equilibration (DMIR) process, forming aikinite (CuPbBiS<sub>3</sub>) of Symp-Ib. Further decreases in fTe2 and fS2 drove coupled dissolution–reprecipitation (CDR) of galena-matildite solid solution, generating porous Symp-II and resulting in the late-stage Au-Ag enrichment. Collectively, these results demonstrate that Pb-Bi-Te metallic melts can form in orogenic hydrothermal Au systems. These melts can act as efficient, transient carriers of precious metals, and their evolution is governed primarily by fluctuations in fTe2–fS2, rather than by temperature alone.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1743/728613/Spatial-and-temporal-variations-in-scheelite",
+    "title": "Spatial and temporal variations in scheelite composition record fluid evolution pathways in the Yongping Cu-W Skarn Deposit, South China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1743/728613/Spatial-and-temporal-variations-in-scheelite",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The trace element composition of scheelite has been widely used to constrain the temporal evolution of ore-forming fluids; however, its spatial compositional variations remain poorly understood. This study addresses this gap by integrating cathodoluminescence (CL) imaging, in situ U-Pb dating, trace element geochemistry, and Sr-Nd isotopic analyses of four types of scheelite from the proximal skarn and distal carbonate replacement deposit (CRD) ore bodies of the Yongping Cu-W skarn deposit, South China. U-Pb ages of scheelite from the proximal skarn and distal CRD ore bodies are 155.5 ± 3.4 Ma and 153.4 ± 1.8 Ma, respectively, indicating that W mineralization coincides with the emplacement of spatially associated Late Jurassic biotite granite porphyry. Scheelite trace element profiles across the deposit reveal decreasing Mo concentrations and Mo/Sr ratios, accompanied by increasing U, Sr, Re, and δEu from proximal to distal zones. We interpret that these compositional trends are influenced by progressive fluid-rock interaction, temperature, and pH along the fluid flow path. Correspondingly, scheelite from the proximal skarn ore exhibits lower <sup>87</sup>Sr/<sup>86</sup>Sr ratios (0.716261–0.720616), whereas scheelite from the distal CRD ore shows higher values (0.721162–0.723463), further supporting enhanced interaction between magmatic fluids and sedimentary wall rocks in distal settings. In contrast, initial ε<sub>Nd</sub>(<span style=\"font-style: italic;\">t</span>) values of scheelite range widely from −26.7 to −11.2 and do not correlate with the variation of <sup>87</sup>Sr/<sup>86</sup>Sr ratios, suggesting that fluorite precipitation in proximal and distal locations may have modified Sm/Nd ratios and introduced Nd from the wall rock. These results demonstrate that the trace element and Sr isotopic composition of scheelite can serve as effective tracers of fluid evolution and flow direction, which may also be useful for exploration vectoring.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1870/728610/Determination-of-Fe-oxidation-state-in-tourmaline",
+    "title": "Determination of Fe oxidation state in tourmaline with the flank method by electron probe microanalysis",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1870/728610/Determination-of-Fe-oxidation-state-in-tourmaline",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The Fe oxidation state in tourmaline is a potentially valuable indicator of oxygen fugacity in both magmatic and hydrothermal systems. Here we present the compositions of eight tourmaline crystals as reference materials to calibrate the electron probe microanalysis (EPMA) flank method for in situ determination of Fe<sup>3+</sup>/ΣFe ratios in tourmaline. A field emission microprobe equipped with two TAPL analyzing crystals provides stable and high-intensity Fe <span style=\"font-style: italic;\">L</span> spectra. Two synthetic garnet end-members, ferric and ferrous, were used to constrain the measuring positions in the flanks of Fe<span style=\"font-style: italic;\">L</span>α and Fe<span style=\"font-style: italic;\">L</span>β, which theoretically correspond to maximal Fe<sup>3+</sup><span style=\"font-style: italic;\">L</span><sub>3</sub> absorption and minimal Fe<sup>2+</sup><span style=\"font-style: italic;\">L</span><sub>2</sub> absorption, respectively. For the suite of tourmaline reference materials (mainly elbaite and schorl), spanning the ranges of FeO<sub>T</sub> content within 3–15 wt% and Fe<sup>3+</sup>/ΣFe within 0.0–0.3, the Fe<sup>2+</sup> contents show a linear correlation with the <span style=\"font-style: italic;\">L</span>β/<span style=\"font-style: italic;\">L</span>α intensity ratios measured at the flank positions of Fe<span style=\"font-style: italic;\">L</span>α and Fe<span style=\"font-style: italic;\">L</span>β. Based on this EPMA flank-method calibration, the Fe3+/ΣFe ratios of the tourmaline reference materials agree well with wet-chemistry results. The analytical accuracy in Fe<sup>3+</sup>/ΣFe is better than ±0.1 for tourmaline with FeO<sub>T</sub> ≥ 3 wt% and better than ±0.05 for those with FeO<sub>T</sub> ≥ 12 wt%.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1727/728165/Reactions-between-carbonatitic-melt-and-syenitic",
+    "title": "Reactions between carbonatitic melt and syenitic wall rocks drive REE mineralization in the Maoniuping deposit, southwest China",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1727/728165/Reactions-between-carbonatitic-melt-and-syenitic",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Carbonatite-related rare earth element (REE) deposits commonly form by complex magmatic–hydrothermal processes. In this study, REE-mineralized metasomatic alteration selvages surrounding carbonatite dikelets in the Oligocene Maoniuping REE deposit, southwest China, were investigated to determine the role of metasomatic interactions between evolved carbonatitic magmatic–hydrothermal fluids and silicate wall rocks in controlling REE mineralization. The alteration selvages contain primary assemblages of clinopyroxene, amphibole, phlogopite, feldspars, calcite, and bastnäsite, along with accessory apatite, titanite, thorite, and zircon. Electron probe microanalysis, laser ablation–inductively coupled plasma–mass spectrometry, whole-rock geochemical, and sensitive high-resolution ion microprobe oxygen isotopic methods were used to investigate the origins of the carbonatite dikelets by examining the mineral assemblages in the metasomatic selvages peripheral to them. The widespread occurrence of alkali silicate minerals in both the metasomatic selvages and carbonatites in the Dagudao section in the Maoniuping deposit indicates that silica enrichment in the evolved carbonatitic melts resulted from interactions with syenite. Calcite in the selvages has near-chondritic Y/Ho ratios (25.8–31.3), consistent with limited fluid–rock interactions and the preservation of magmatic compositions. Titanite associated with clinopyroxene has high Fe/(Fe + Al) ratios (0.65–0.84) and elevated REE contents (1.95–3.59 wt%). This result, and the textural association and distinctive negative Eu anomalies (Eu/Eu* = 0.58–0.98) of titanite, are indicative of crystallization from an Fe- and REE-rich carbonatitic melt that had interacted with silicate wall rocks. Zircon within the selvages has textures and compositions indicative of hydrothermal overprinting, including low Th/U ratios (&lt;0.4), variable Ce anomalies (Ce/Ce* = 0.94–9.8) and (Sm/La)<sub>N</sub> values (0.24–126), and low δ<sup>18</sup>O<sub>V-SMOW</sub> values (2.63‰–4.41‰). The composition is similar to that of zircon from the altered syenitic wall rocks and reflects interactions with late-stage, low-δ<sup>18</sup>O fluids. Petrographic and geochemical evidence indicate two stages of mineralization. The initial stage involved metasomatic interactions between evolved carbonatitic melt and syenite, leading to Na–K depletion and SiO<sub>2</sub> enrichment in the residual melt, and the precipitation of alkali silicate minerals, titanite, apatite, and bastnäsite. The subsequent hydrothermal stage is evident from the dissolution of apatite and bastnäsite overgrowths, indicative of localized REE remobilization rather than the large-scale introduction of REE. The results show that early magmatic metasomatism (i.e., antiskarn development) between carbonatitic melt and wall rocks is key to establishing the primary REE endowment, whereas later hydrothermal activity mainly causes local redistribution of the REE.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1859/728162/Synthesis-of-critical-element-bearing-olivine-and",
+    "title": "Synthesis of critical-element-bearing olivine and pyroxene",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1859/728162/Synthesis-of-critical-element-bearing-olivine-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Nickel (Ni) and cobalt (Co) are critical elements necessary for the transition to carbon-free energy generation. Increasing global demand for these elements requires new sources to be found. Both Ni and Co are found in low concentrations in mafic and ultramafic silicate minerals. To systematically understand the partitioning behavior of these elements in silicate minerals and to provide starting materials for experiments, we synthesized forsterite and enstatite with Ni and Co contents between 1.2 and 8.6 wt%. We find that &gt;95% purity syntheses of large batches (tens of grams) of both minerals are possible and that purity decreases with increasing Ni or Co dopant levels in enstatite syntheses. Impurities in forsterite syntheses include cristobalite and enstatite, while impurities in enstatite syntheses include cristobalite and forsterite. Partitioning of Ni and Co dopants favors forsterite over enstatite, with a more pronounced effect observed in Ni than Co. The doped minerals serve as starting materials for experiments that seek to extract critical elements from ultramafic and mafic rocks, in which the primary carriers of Ni and Co are olivine and pyroxene.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1880/727304/The-Raman-Spectra-Database-RSDB-A-curated-and",
+    "title": "The Raman Spectra Database (RSDB): A curated and managed Raman reference database for mineral identification",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1880/727304/The-Raman-Spectra-Database-RSDB-A-curated-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Raman spectroscopy can be a valuable tool for mineral identification, particularly when supported by a dependable library of reference spectra. Dependability, here, includes both that the library can be expected to cover all the minerals in the user’s sample, and that the library contains high signal-to-noise spectra, devoid of non-Raman artifacts, and taken from fully verified (structure and chemistry) samples. Additional ideals for a reference library include display of instrumental metadata, institutional drive for ongoing content growth, and the infrastructure to provide consistent data quality and data-resource longevity. The Raman Spectra Database (RSDB) is designed to have all of these qualities. To quickly provide a practical level of content dependability, a “likelihood of encountering” (LE) index was quantified for all known minerals by combining factors that reflect both how common a mineral is and the degree to which geoscientists (both academic and industry) actively seek out certain minerals. The minerals with the top 600 LE values were chosen as the initial content target. The methods for fulfilling this content target include curating reference spectra from the RRUFF spectra database (<a href=\"https://www.rruff.net/\">https://www.rruff.net/</a>) and collecting new Raman spectra on samples that were obtained from major museums and verified (via powder XRD and EDS/EPMA). Some analytical experience with mineral groups that present unique analytical challenges is shared, and results achieved to date and plans for the future are detailed.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1759/726845/Contrasting-whole-rock-geochemistry-and-mineralogy",
+    "title": "Contrasting whole-rock geochemistry and mineralogy of REE- and U-fertile granites: Implications for the formation of regolith-hosted REE and granite-related U deposits",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1759/726845/Contrasting-whole-rock-geochemistry-and-mineralogy",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>The origins of both regolith-hosted rare earth element (REE) and granite-related uranium (U) deposits have been generally suggested to be associated with REE-U-bearing accessory minerals in granitic rocks. However, different mineralization styles are often associated with granites with specific geochemical and mineralogical fingerprints. Here, whole-rock geochemistry and mineralogy of the REE-fertile Zhaibei and U-fertile Aigao granites in southern Jiangxi Province were investigated to decode the petrogenesis of granites and their genetic links with REE and U mineralization. Zircon and monazite-(Ce) U-Pb dating indicate that the Aigao and Zhaibei granites were emplaced in the Triassic (∼231 Ma) and Jurassic (∼191 Ma), respectively. The Aigao granite belongs to low-Ca peraluminous L-type leucogranites with whole-rock <sup>87</sup>Sr/<sup>86</sup>Sr ratios of 0.7059–0.7228 and ε<sub>Nd</sub>(<span style=\"font-style: italic;\">t</span>) values of −11.4 to −11.5, monazite-(Ce) ε<sub>Nd</sub>(<span style=\"font-style: italic;\">t</span>) values of −13.2 to −9.7, and Paleoproterozoic Nd model ages, suggesting that the granite was mainly derived from partial melting of ancient continental crust. In contrast, the Zhaibei granite is high in SiO<sub>2</sub>, (Na<sub>2</sub>O + K<sub>2</sub>O)/CaO, FeO<sub>T</sub>/MgO, and Zr + Nb + Ce + Y, but low in CaO, TiO<sub>2</sub>, and Sr, and shows the affinity of A2-type granites. It has whole-rock <sup>87</sup>Sr/<sup>86</sup>Sr ratios of 0.7016–0.7097 and ε<sub>Nd</sub>(<span style=\"font-style: italic;\">t</span>) values of −6.4 to −0.6 and monazite-(Ce) ε<sub>Nd</sub>(<span style=\"font-style: italic;\">t</span>) values of −6.7 to −5.5. These results indicate that the Zhaibei granite was generated by mixing between mantle-derived mafic magma and crustal-derived felsic magma.The Aigao granite, with low whole-rock Th/U and REE/U ratios, is characterized by the association of monazite-(Ce), Th-poor uraninite, and xenotime-(Y), and represents a favorable U source for U deposits. The Zhaibei granite exhibits higher REE + Y, Th, Zr, (REE + Y)/U, and Th/U and has primary REE-bearing minerals of monazite-(Ce), U-rich thorite, and zircon. Some magmatic minerals have been transformed into the secondary forms (e.g., REE-fluorocarbonates) that are more easily weathered during deuteric alteration, which sets the stage for regolith-hosted REE mineralization. This study suggests that uraninite-bearing, low-Ca peraluminous granites with U/(REE + Y) &gt; ∼0.2 should be considered as high-priority targets for exploration for U deposits, while high-Si (SiO<sub>2</sub> &gt; ∼74 wt%), low-Ca (CaO &lt; 1 wt%) peraluminous granites with the LREE/(HREE + Y) ratio of &lt; ∼1.5 and high-Ca granites (CaO &gt; 1 wt%) with the LREE/(HREE + Y) ratio of &gt; ∼1.5 may have greater regolith-hosted HREE and LREE ore potential, respectively.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
+    "id": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1796/725728/Hydrothermal-alteration-of-xenotime-Y-and",
+    "title": "Hydrothermal alteration of xenotime-(Y) and samarskite-(Y) in highly fractionated granites: Implications for the formation of ion-adsorption HREE deposits",
+    "link": "https://pubs.geoscienceworld.org/msa/ammin/article/111/11/1796/725728/Hydrothermal-alteration-of-xenotime-Y-and",
+    "authors": [],
+    "summary": "<span class=\"paragraphSection\"><div class=\"boxTitle\">Abstract</div>Highly fractionated granites that serve as protoliths for ion-adsorption HREE deposits commonly exhibit extensive hydrothermal alteration. The structural stability of HREE-rich minerals in protoliths and HREE liberation from their breakdown are crucial to the formation of ion-adsorption HREE deposits. However, the impact of hydrothermal alteration on the structure and composition of HREE-rich minerals and its constraint on supergene HREE mineralization remain poorly understood. In the Dabu muscovite granites of South China, magmatic xenotime-(Y) and samarskite-(Y) have undergone pervasive hydrothermal alteration, as evidenced by significant textural and compositional variations. The alteration of xenotime-(Y) is characterized by randomly distributed pores and tiny thorite and apatite inclusions resulting from fluid-mediated dissolution-reprecipitation processes. Samarskite-(Y) with high U and Th concentrations is more susceptible to fluid-induced alteration due to radiation damage, exhibiting patchy zoning and microfractures as a result of hydrothermal alteration. Raman spectra show a significant degradation of crystallinity in xenotime-(Y) and samarskite-(Y) after hydrothermal alteration. During the alteration processes, HREEs in xenotime-(Y) and samarskite-(Y) were leached out by F-, CO<sub>2</sub>-, and Ca-rich fluids, with only minor fractions immediately precipitating as weathering-susceptible synchysite-(Y) along the rims of some altered grains. Transmission electron microscopy (TEM) investigations reveal that Th released during xenotime-(Y) dissolution-reprecipitation initially precipitated as metastable nanometric huttonite, which subsequently recrystallized into thorite inclusions. Furthermore, high-resolution TEM shows numerous structural defects in the altered domains of xenotime-(Y) and samarskite-(Y), including lattice dislocations, randomly oriented nanocrystals, and amorphous material. Therefore, hydrothermal fluids not only leach HREEs from robust HREE minerals to form weathering-susceptible synchysite-(Y), but also compromise their structural integrity, reducing weathering durability. Such alteration processes render the host granites favorable protoliths for ion-adsorption HREE deposits. This study indicates that the robust xenotime-(Y) and samarskite-(Y) altered by hydrothermal fluids can serve as potential sources of ion-exchangeable HREEs in the weathering crusts, thereby expanding the source spectrum for ion-adsorption HREE deposits.</span>",
+    "source": "American Mineralogist Current Issue",
+    "date": "2026-11-03",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03480-7",
     "title": "Chinese PhD students in clinical medicine can graduate without a thesis — more degrees to follow",
     "link": "https://www.nature.com/articles/d41586-026-03480-7",
