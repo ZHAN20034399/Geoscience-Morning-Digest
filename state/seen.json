@@ -1,5 +1,454 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-79077-5",
+    "title": "Topological Josephson trijunctions as a Majorana source and path",
+    "link": "https://www.nature.com/articles/s41467-026-79077-5",
+    "authors": [
+      "Kyungtae Kim",
+      "June-Young M. Lee",
+      "Hyeongseop Kim",
+      "H.-S. Sim"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79077-5\">doi:10.1038/s41467-026-79077-5</a>Manipulating Majorana bound states is a key requirement for topological quantum computation. Here, the authors propose a topological insulator Josephson trijunction in a magnetic field that enables the generation, transport, and fusion of Majorana bound states through static control of superconducting phases.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79432-6",
+    "title": "Antagonistic second-messenger signalling coordinates <i>Pseudomonas aeruginosa</i> surface colonization and virulence",
+    "link": "https://www.nature.com/articles/s41467-026-79432-6",
+    "authors": [
+      "Maya Bruderer",
+      "Jiangning Li",
+      "Andreas Kaczmarczyk",
+      "Simon van Vliet",
+      "Kai Schleicher",
+      "Rao Rohan Girish",
+      "Pablo Manfredi",
+      "Nicole Thürkauf",
+      "Alexander Klotz",
+      "Marco Kuhn",
+      "Nina Khanna",
+      "Alexandre Persat",
+      "Benoit-Joseph Laventie",
+      "Urs Jenal"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79432-6\">doi:10.1038/s41467-026-79432-6</a>Second messengers cAMP and c-di-GMP regulate surface behaviours and virulence in Pseudomonas aeruginosa. Here, the authors show how the bacteria switch between attachment and surface movement by coordinating the two signalling systems, allowing distinct bacterial populations to work together to colonise and damage human airway tissue.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78713-4",
+    "title": "Selective depolymerization of poly(ethylene terephthalate) for economical closed-loop recycling of mixed textiles",
+    "link": "https://www.nature.com/articles/s41467-026-78713-4",
+    "authors": [
+      "Cheng Liu",
+      "Jian Wang",
+      "Hong Wan",
+      "Lilong Gao",
+      "Haomiao Zhang",
+      "Bogeng Li",
+      "Ning Zheng",
+      "Tao Xie"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78713-4\">doi:10.1038/s41467-026-78713-4</a>Recovering polymerization-grade monomers from waste textiles remains challenging. Here the authors report that the depolymerization of PET from thermally treated mixed textiles via methanolysis can be achieved in a rapid yet highly selective manner under mild conditions.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79376-x",
+    "title": "Nanofluid wetting of Cu enables thin lithium negative electrodes for high-energy and long-cycling lithium metal batteries",
+    "link": "https://www.nature.com/articles/s41467-026-79376-x",
+    "authors": [
+      "Wei Wu",
+      "Qilong Wu",
+      "Wenting Liu",
+      "De Ning",
+      "Ming Chen",
+      "Jie Zhang",
+      "Fengping Zhang",
+      "Xuhao Wang",
+      "Dong Zhou",
+      "Man Wang",
+      "Zhenyao Wei",
+      "Guohua Zhong",
+      "Yonghong Deng",
+      "Stefano Passerini",
+      "Jun Wang",
+      "Chunlei Yang"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79376-x\">doi:10.1038/s41467-026-79376-x</a>Lithium metal batteries face trade-offs between energy density and cycling life owing to lithium processability and plating challenges. Here, authors develop a nanofluid-wetting method to fabricate thin Li foils down to 800 nm, which enables anode-lean pouch cells with 498 Wh kg–1 / 1,142 Wh L–1 and stable cycling over 250 cycles.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78009-7",
+    "title": "Fully Integrated Deep-Ocean Flexible Temperature–Depth Sensor with Neural Network Compensation",
+    "link": "https://www.nature.com/articles/s41467-026-78009-7",
+    "authors": [
+      "Hai Zhang",
+      "Zihong Wei",
+      "A. S. Ismail",
+      "Zhuhang Dai",
+      "Diye Wu",
+      "Rongjie Lin",
+      "Zhenting Ye",
+      "Quan Hong",
+      "Maggie CY Lau Vetter",
+      "Yaxiaer Yalikun",
+      "Huaping Wu",
+      "Chenjing Shang",
+      "Yang Yang"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78009-7\">doi:10.1038/s41467-026-78009-7</a>Marine pressure monitoring helps reveal ocean dynamics and assess human impacts. This work reports a self-contained low-power flexible marine temperature depth (FMTD) sensor featuring wide range, high precision and restrained temperature drift.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79065-9",
+    "title": "WASH orchestrates phagosomal maturation and bacterial killing in neutrophils through syntaxin 19-mediated lysosomal fusion",
+    "link": "https://www.nature.com/articles/s41467-026-79065-9",
+    "authors": [
+      "Elsa Meneses-Salas",
+      "Jennifer L. Johnson",
+      "Aparna Shukla",
+      "Danni Chen",
+      "Serene Moussaoui",
+      "Mouad Ait Kbaich",
+      "Kersi Pestonjamasp",
+      "William B. Kiosses",
+      "Junhee Kwon",
+      "Ben A. Croker",
+      "Hal M. Hoffman",
+      "Catherine C. Hedrick",
+      "Daniel D. Billadeau",
+      "Mauricio Terebiznik",
+      "Sergio D. Catz"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79065-9\">doi:10.1038/s41467-026-79065-9</a>How actin regulates late phagosomal maturation and microbial killing in neutrophils remains unclear. The authors here show that WASH drives actin-dependent lysosomal dynamics and STX19 recruitment to phagosomes, enabling lysosome fusion and bacterial killing.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79393-w",
+    "title": "Coupling electrolyte mechanical reinforcement and interfacial stress relaxation for near-ambient sulfide all-solid-state lithium metal batteries",
+    "link": "https://www.nature.com/articles/s41467-026-79393-w",
+    "authors": [
+      "Hyeongseok Lee",
+      "Jihun Sung",
+      "Seongsoo Park",
+      "Dokyung Kim",
+      "Sangwon Lee",
+      "Jae-Hong Lim",
+      "Kyungmok Ko",
+      "Daiwei Wang",
+      "Donghai Wang",
+      "Young Joo Lee",
+      "Janghyuk Moon",
+      "Soojin Park"
+    ],
+    "summary": "Nature Communications, Published online: 07 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79393-w\">doi:10.1038/s41467-026-79393-w</a>All-solid-state lithium metal batteries can suffer from dendrite growth and interfacial stress at low pressures. Here, authors couple a self-polymerizable composite sulfide electrolyte with a porous carbon current collector, enabling stable near-ambient condition cycling at high areal loading.",
+    "source": "Nature Communications",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag349?af=R",
+    "title": "TIP-INN: A thermodynamics-informed machine learning framework for the mechanical behavior of rocks",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag349?af=R",
+    "authors": [
+      "Kangan LiTushar MittalBenjamin HoltzmanSeth SaltielRaphael AffinitoLoic DaridonBarbara Romanowicz"
+    ],
+    "summary": "PNAS Nexus, Volume 5, Issue 11, October 2026. <br />Modeling the mechanical deformation of geological materials across relevant thermodynamic conditions and dynamic processes remains a fundamental challenge in Earth sciences. Conventional rheological models rely on isolated disciplinary approaches and ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag366?af=R",
+    "title": "Spatial organization of InSAR deformation-rate extremes across permafrost-transition and thermokarst contexts on the Tibetan Plateau",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag366?af=R",
+    "authors": [
+      "Mei ChenXie HuXiyuan BaoBarbara Romanowicz"
+    ],
+    "summary": "PNAS Nexus, Volume 5, Issue 11, October 2026. <br />Ground motion in degrading permafrost (PF) terrain is uneven, and regional averages obscure the rare pixels—those with the most negative rates or the sharpest neighborhood contrasts—that matter most for infrastructure screening. Whether these extremes ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-24",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003648",
+    "title": "The Northern Limb of the Bushveld Complex revisited",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003648?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Judith Kinnaird, Marina Yudovskaya",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003752",
+    "title": "Atomistic simulation of mineral dissolution: mechanistic constraints and limits from laboratory to field",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003752?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Shang Ma, Xiaolei Feng, Simon A.T. Redfern",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012825226003739",
+    "title": "Hydrogeochemical behavior and applications of radium isotopes in natural saline waters: A systematic review",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012825226003739?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 November 2026<b>Source:</b> Earth-Science ReviewsAuthor(s): Zhe Zhang, Bing Xu, Jian Liu, Lixin Yi",
+    "source": "ScienceDirect Publication: Earth-Science Reviews",
+    "date": "2026-11-08",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26005996",
+    "title": "Late Cretaceous extensional collapse of primitive Tibetan plateau in central Qiangtang prior to the India-Asia collision",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26005996?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): Xiao Liang, Genhou Wang, Paul D. Bons, Guoli Yuan, Wentao Cao, Zhibo Liu, Bo Zhang, Dian Li, Jinxue Du",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-08",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125498",
+    "title": "Evaluating the Impact of Multiscale E‐Region Turbulence on HF Scintillation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125498?af=R",
+    "authors": [
+      "Alexander Q. Green, \nWilliam J. Longley, \nMatthew A. Young, \nMeers M. Oppenheim"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125440",
+    "title": "Fluid‐Controlled Tidal Modulation of Aftershocks Following the 2022 M6.8 Luding Earthquake",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125440?af=R",
+    "authors": [
+      "Jinbo Zheng, \nWei Wang, \nAitaro Kato, \nJinhai Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-07",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125952",
+    "title": "Desert Lakes Nasser–Toshka: A Novel Site for Satellite Gravimetry Validation",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125952?af=R",
+    "authors": [
+      "Hao‐si Li, \nShuang Yi, \nYun Xiao, \nHao Zhou, \nHussein A. Mohasseb, \nHe Tang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124730",
+    "title": "High‐Resolution Discharge Inversion in a Small Alpine Watershed: Combining Monitoring Images and Triaxial Seismic Data",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124730?af=R",
+    "authors": [
+      "Shuang Liu, \nKaiheng Hu, \nPu Li, \nHao Li"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125862",
+    "title": "Plasma and Electric Environment Within Lunar Pits and Caves Exposed to the Solar Wind",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125862?af=R",
+    "authors": [
+      "Y. Miyake, \nJ. Nakazono"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124460",
+    "title": "Strengthened Central Pacific ENSO Variability With Reduced Asymmetry Modulated by Upper‐Ocean Salinification Since the Late 1990s",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124460?af=R",
+    "authors": [
+      "Wenxiu Zhong, \nDaling Li Yi, \nJue Li, \nSong Yang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124806",
+    "title": "Transformational Faulting: The Case of Quartz‐Coesite",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124806?af=R",
+    "authors": [
+      "Giulia Mingardi, \nJulien Gasc, \nRobert Farla, \nMarie Baïsset, \nMathieu Soret, \nDamien Deldicque, \nPhilippe Yamato, \nMatteo Alvaro, \nAlexandre Schubnel"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125735",
+    "title": "Enhanced Surface Coupling but Suppressed Convective Triggering During Humid–Hot Extremes in the Yangtze River Basin, a Major Humid‐Heat Hotspot in China",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125735?af=R",
+    "authors": [
+      "Jiangfeng Wei, \nGuojie Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124156",
+    "title": "Water Vapor Buoyancy and the African Easterly Jet",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124156?af=R",
+    "authors": [
+      "Heng Quan, \nDa Yang, \nWilliam Boos, \nTiffany Shaw, \nHuazhi Ge, \nYaoxuan Zeng, \nCarly KleinStern"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126171",
+    "title": "Record‐Shattering Winter “Heatwave” Over the Antarctic Peninsula in 2026, Associated Primarily With Tropical East Indian Ocean Surface Temperature Anomalies",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126171?af=R",
+    "authors": [
+      "Zhaosheng Zhai, \nYetang Wang, \nXiaolu Li, \nQingli Wu, \nYulun Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125616",
+    "title": "Tree Rings Indicate Potential for Severe Soil Moisture Drought in California Is Much Greater Than Observations Suggest",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125616?af=R",
+    "authors": [
+      "Jacob Jones, \nA. Park Williams"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126367",
+    "title": "Pore‐Scale Segregation and Enrichment of Polydisperse Colloids via Transverse Migration in Porous Media",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126367?af=R",
+    "authors": [
+      "Zirong Liu, \nBaonan He, \nJiangtao He, \nZhen Chen, \nXiaojun Li, \nJinpei Hu, \nQiwen Xia, \nYanjia Chu, \nZhenjun Zhou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126024",
+    "title": "Accelerated Atmospheric Drying in Neighboring Rural Areas Across China Associated With Urban Warming",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126024?af=R",
+    "authors": [
+      "Xiaowen Huang, \nShuo Wang, \nZhenzhong Zeng, \nJinxin Zhu, \nDagang Wang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125728",
+    "title": "Observation of Return‐Stroke Current Wave Speed in a Long Channel Formed by Preceding Upward Connecting Leader",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125728?af=R",
+    "authors": [
+      "Lyuwen Chen, \nWeitao Lyu, \nQi Qi, \nYijun Zhang, \nYing Ma, \nShaodong Chen, \nQiyuan Yin, \nBin Wu, \nXu Yan, \nGan Yang, \nHengyi Liu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125997",
+    "title": "The Scale Length of Electron Cyclotron Harmonic Wave Power by MMS Satellites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125997?af=R",
+    "authors": [
+      "Xu Liu, \nLunjin Chen"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126019",
+    "title": "Intrinsic Backflow in Heterogeneous Aquifer During Electrokinetic Remediation: A Challenge in Field‐Scale Application",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126019?af=R",
+    "authors": [
+      "Rong Mao, \nMichel C. Boufadel"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122828",
+    "title": "Convective Vertical Velocities of Dust Devils in Gale Crater, Mars",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122828?af=R",
+    "authors": [
+      "S. D. Guzewich, \nC. L. Campbell, \nE. L. Mason, \nG. Bischof"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 21, 16 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034065",
+    "title": "Marine Sediment Imaging With Distributed Acoustic Sensing Offshore Central Chile",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034065?af=R",
+    "authors": [
+      "Clara Vernet, \nDiane Rivet, \nAlister Trabattoni, \nMarie Baillet"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-06",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007039",
+    "title": "Zircon saturation in damp hot rhyolites",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007039?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 6 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Julian-Christopher Storck, Ben Ellis, Edgar A. Cortes-Calderon, Marcel Guillong, Olivier Bachmann",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-08",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03595-x",
     "title": "Medicinal plants, lessons from mushrooms and the power of smell: Books in brief",
     "link": "https://www.nature.com/articles/d41586-026-03595-x",
