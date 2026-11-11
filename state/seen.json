@@ -1,5 +1,308 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41561-026-02136-5",
+    "title": "Regional land carbon shifts strengthen atmospheric carbon dioxide–land carbon flux coupling",
+    "link": "https://www.nature.com/articles/s41561-026-02136-5",
+    "authors": [
+      "Shuxin Luo",
+      "Philippe Ciais",
+      "Peter B. Reich",
+      "Yingzuo Qin",
+      "Yakun Zhu",
+      "Alan D. Ziegler",
+      "Xiaoye Liu",
+      "Xinyu Zou",
+      "Qiaomei Feng",
+      "Jingyang Gao",
+      "Qing Hu",
+      "Zhenzhong Zeng",
+      "Yuntian Chen",
+      "Dongxiao Zhang"
+    ],
+    "summary": "Nature Geoscience, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41561-026-02136-5\">doi:10.1038/s41561-026-02136-5</a>Changes in the regional contribution to the flux of carbon from land have become more coupled to interannual atmospheric carbon dioxide fluctuations from 1959 to 2022, making land carbon sink variability more detectable, according to models and observations.",
+    "source": "Nature Geoscience",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79063-x",
+    "title": "OsCPK17- and OsMPK6-mediated dual phosphorylation of OsPUB12 maintains OsPUB2-regulated OsPUB12 homeostasis and balances rice immunity",
+    "link": "https://www.nature.com/articles/s41467-026-79063-x",
+    "authors": [
+      "Guosheng Zhao",
+      "Baohui Mou",
+      "Xinhang Zheng",
+      "Shuo Liu",
+      "Dian Sheng",
+      "Shanzhi Wang",
+      "Lin Zhu",
+      "Wu Yang",
+      "Zhicheng Huang",
+      "Shu Song",
+      "Songheng He",
+      "Lisong Zhu",
+      "Yuese Ning",
+      "Fuhao Cui",
+      "Jiyang Wang",
+      "Wenxian Sun"
+    ],
+    "summary": "Nature Communications, Published online: 11 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79063-x\">doi:10.1038/s41467-026-79063-x</a>OsPUB2 degrades OsPUB12 to promote rice immunity. Phosphorylation of OsPUB12 by OsCPK17 and OsMPK6 at two sites fine-tunes its stability and the plant’s defense response.",
+    "source": "Nature Communications",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79332-9",
+    "title": "Pico-X: a 24.9 nanowatt microcontroller for long-duration autonomous operation in flexible landing-pad sensor networks",
+    "link": "https://www.nature.com/articles/s41467-026-79332-9",
+    "authors": [
+      "Yuyang Xiong",
+      "Xinlong Mao",
+      "Yanfeng Jiang"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79332-9\">doi:10.1038/s41467-026-79332-9</a>Researchers present Pico-X, a programmable microcontroller designed for sparse event-driven sensing. Operating at nanowatt power levels, it enables long-duration autonomous monitoring and reliable event detection in distributed flexible sensor networks.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79213-1",
+    "title": "Cryo-EM reveals conserved baseplate-architecture and distinct accessory-protein assemblies in mycobacteriophages Claus, Corndog and Mysterious",
+    "link": "https://www.nature.com/articles/s41467-026-79213-1",
+    "authors": [
+      "Sunil Kumar Tewary",
+      "Chun-Hsiung Wang",
+      "Ming-Ching Lin",
+      "Melvin C. Shen",
+      "Li-An Tsai",
+      "Jitendra Maharana",
+      "Ronelito J. Perez",
+      "Chi-En Mou",
+      "Graham F. Hatfull",
+      "Todd L. Lowary",
+      "Meng-Chiao Ho"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79213-1\">doi:10.1038/s41467-026-79213-1</a>Atomic-resolution structures of three mycobacteriophages reveal a conserved baseplate core decorated by diverse accessory proteins, showing how related siphophages build distinct baseplate architectures from a common structural core.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79651-x",
+    "title": "A lactate-fatty acid loop drives prostate cancer bone colonization by mediating metabolic interplay between tumor cells and osteoblasts",
+    "link": "https://www.nature.com/articles/s41467-026-79651-x",
+    "authors": [
+      "Renuka Dahiya",
+      "Chihyean Ong",
+      "Gigani Dharshan",
+      "Megan M. Barry",
+      "Cheyenne A. Ernst",
+      "Minhyung Kim",
+      "Jin Wu",
+      "Vasanta Putluri",
+      "Spencer R. Rosario",
+      "Wiam Bshara",
+      "Jianmin Zhang",
+      "Nagireddy Putluri",
+      "Zbigniew Gugala",
+      "Subhamoy Dasgupta",
+      "Hai Wang"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79651-x\">doi:10.1038/s41467-026-79651-x</a>Bone metastases in advanced prostate cancer remain difficult to treat and are associated with poor outcomes. Here, the authors show that bone-colonizing prostate tumor cells exploit lactate uptake via MCT1 to fuel tumor growth and promote osteogenesis, identifying MCT1 inhibition as a potential therapeutic strategy.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-77621-x",
+    "title": "The representational geometry of cognitive maps under cognitive control",
+    "link": "https://www.nature.com/articles/s41467-026-77621-x",
+    "authors": [
+      "Seongmin A. Park",
+      "Maryam Zolfaghar",
+      "Jacob Russin",
+      "Douglas S. Miller",
+      "Randall C. O’Reilly",
+      "Erie D. Boorman"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-77621-x\">doi:10.1038/s41467-026-77621-x</a>The brain organizes relationships between entities into cognitive maps. Here, the authors show that complementary stable and context-dependent representational geometries balance stability and behavioral flexibility, with their geometry shaped by cognitive control.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79046-y",
+    "title": "Electric vehicle battery materials supply disruptions can be mitigated&#xa0; with chemistry changes and recycling",
+    "link": "https://www.nature.com/articles/s41467-026-79046-y",
+    "authors": [
+      "Jason O’Connor",
+      "Karan Bhuwalka",
+      "Jeremy J. Michalek",
+      "Elsa A. Olivetti",
+      "Abigail Randall",
+      "Richard Roth",
+      "Kate S. Whitefoot"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79046-y\">doi:10.1038/s41467-026-79046-y</a>This study shows that disruptions in US battery materials supply could cost tens of billions of dollars. However, feasible changes in battery chemistry and increasing recycled lithium supply largely reduce the consequences of the disruptions.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79289-9",
+    "title": "Toward personalized deep brain stimulation via white matter stimulation and microstructure in depression",
+    "link": "https://www.nature.com/articles/s41467-026-79289-9",
+    "authors": [
+      "Ha Neul Song",
+      "Ki Sueng Choi",
+      "Martijn Figee",
+      "Brian H. Kopell",
+      "Patricio Riva-Posse",
+      "Jungho Cha",
+      "Robert E. Gross",
+      "Helen S. Mayberg"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79289-9\">doi:10.1038/s41467-026-79289-9</a>A study of 51 patients receiving deep brain stimulation for treatment-resistant depression shows that individual white matter stimulation and integrity jointly influence antidepressant response, supporting more personalized neuromodulation strategies.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78330-1",
+    "title": "High-entropy alloy aerogels promote selective glycerol oxidation to tartronate at industrial current densities",
+    "link": "https://www.nature.com/articles/s41467-026-78330-1",
+    "authors": [
+      "Hengyi Chen",
+      "Rui-Ting Gao",
+      "Lei Wang",
+      "Limin Wu"
+    ],
+    "summary": "Nature Communications, Published online: 10 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78330-1\">doi:10.1038/s41467-026-78330-1</a>The production of tartronate from glycerol electrooxidation is limited by low selectivity at industrial-scale current densities. Here, the authors report a PtCuCoCeSn high-entropy alloy aerogel for regulated glycerol adsorption, enabling 81.4% selectivity and stable operation up to 240 hours.",
+    "source": "Nature Communications",
+    "date": "2026-11-10",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R",
+    "title": "Intensification of compound wind drought and heatwave events under climate change",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604442123?af=R",
+    "authors": [
+      "Meng QuLu ShenXinrong YangFengwei WanHuiru ZhongSheng Wuahttps://ror.org/02v51f717Department of Atmospheric and Oceanic Sciences, School of Physics, Peking University, Beijing 100871, China"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceAs renewable energy penetration increases, electricity systems will become increasingly vulnerable to extreme weather. One particularly critical hazard is the compound wind drought–heatwave (WDHW), during which weak winds suppress power ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2610912123?af=R",
+    "title": "Isotopically heavy carbon in the core",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610912123?af=R",
+    "authors": [
+      "Yves MoussallamDamanveer S. GrewalGuillaume GeorgeaisHyunJoo LeeEstelle F. Rose-KogaAllan LernerBridgett HolmanPaul J. WallaceNatália Gauer PasqualonOlivia E. AndersonMatthew G. Jacksonahttps://ror.org/00hj8s172Department of Earth and Environmental Sciences, Lamont–Doherty Earth Observatory, Columbia University, New York, NY 10964bhttps://ror.org/03thb3e06American Museum of Natural History, Department of Earth and Planetary Sciences, New York, NY 10024chttps://ror.org/03v76x132Department of Earth and Planetary Sciences, Yale University, New Haven, CT 06511dhttps://ror.org/02t2hg116Institut des Sciences de la Terre d‘Orléans, UMR 7327, Université Orléans–CNRS-Observatoire des Sciences de l’Univers en région Centre, Orléans 45071, Franceehttps://ror.org/04wyk9691US Geological Survey, Cascades Volcano Observatory, Vancouver, WA 98683fhttps://ror.org/0293rh119Department of Earth Sciences, University of Oregon, Eugene, OR 97403ghttps://ror.org/01wspgy28University of Hawai’i at Mānoa, Department of Earth and Planetary Sciences, Honolulu, HI 96822hhttps://ror.org/05gq02987Department of Earth, Environmental and Planetary Sciences, Brown University, Providence, RI 02912iDepartment of Earth Science, University of California Santa Barbara, Santa Barbara, CA 93106"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceEarth’s core likely holds the majority of the planet’s carbon, yet its composition has remained beyond direct observation. By analyzing carbon isotopes in undegassed melt inclusions from Hawaiian lavas that sample different parts of the ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2618898123?af=R",
+    "title": "Millennial-scale variability in Greenland dust provenance during Dansgaard–Oeschger events of the last glacial period",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618898123?af=R",
+    "authors": [
+      "Seokhyun RoChanghee HanYeongcheol HanSoon Do HurChul-Un RoJørgen Peder SteffensenAnders SvenssonHubertus FischerAndrea BurkeKhanghyun LeeAhhyung LeeSungmin Hongahttps://ror.org/01easw929Department of Ocean Sciences, Inha University, Incheon 22212, Republic of Koreabhttps://ror.org/00n14a494Division of Glacial and Earth Sciences, Korea Polar Research Institute, Incheon 21990, Republic of Koreachttps://ror.org/02wn5qz54School of Earth and Environmental Sciences, University of St Andrews, St Andrews KY16 9TS, United Kingdomdhttps://ror.org/01wjejq96Department of Earth System Sciences, Yonsei University, Seoul 03722, Republic of Koreaehttps://ror.org/01easw929Department of Chemistry, Inha University, Incheon 22212, Republic of Koreafhttps://ror.org/01easw929Particle Pollution Research and Management Center, Inha University, Incheon 21999, Republic of Koreaghttps://ror.org/035b05819Physics of Ice, Climate and Earth, Niels Bohr Institute, University of Copenhagen, Copenhagen DK-2200, Denmarkhhttps://ror.org/02k7v4d05Climate and Environmental Physics, Physics Institute, and Oeschger Centre for Climate Change Research, University of Bern, Bern 3012, Switzerlandihttps://ror.org/00n14a494Unit of Antarctic Inland Research, Korea Polar Research Institute, Incheon 21990, Republic of Korea"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceGreenland ice-core records show dust concentrations up to 15 times higher during colder than warmer phases of abrupt climate shifts in the last glacial period. Earlier studies identified East Asian deserts as the primary dust source. Here, ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1073/pnas.2620731123?af=R",
+    "title": "Optimal scenario design for climate emulation",
+    "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620731123?af=R",
+    "authors": [
+      "Christopher B. WomackShahine BouabidAndrei SokolovPopat SalunkeGlenn FlierlSebastian D. EasthamNoelle E. Selinahttps://ror.org/042nb2s44Department of Aeronautics and Astronautics, Massachusetts Institute of Technology, Cambridge 02139, MAbhttps://ror.org/042nb2s44Center for Sustainability Science and Strategy, Massachusetts Institute of Technology, Cambridge 02139, MAchttps://ror.org/042nb2s44Department of Earth, Atmospheric, and Planetary Sciences, Massachusetts Institute of Technology, Cambridge 02139, MAdhttps://ror.org/041kmwe10Department of Aeronautics, Brahmal Vasudevan Institute for Sustainable Aviation, Imperial College London, London SW7 2AZ, United Kingdomehttps://ror.org/042nb2s44Institute for Data, Systems, and Society, Massachusetts Institute of Technology, Cambridge 02139, MA"
+    ],
+    "summary": "Proceedings of the National Academy of Sciences, Volume 123, Issue 46, November 2026. <br />SignificanceClimate emulators developed through machine learning promise to revolutionize impact assessments by offering an inexpensive way to explore future climates. However, these models often fail to generalize to scenarios that differ from their ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-11-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006047",
+    "title": "Constraints on repeated polygonal ground formation at Gale crater, Mars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006047?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): Madison L. Turner, Emmy B. Hughes, William Rapin, Steven G. Banham, Frances Rivera-Hernández, Aster Cowart, Edwin S. Kite",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X2600631X",
+    "title": "Miocene surface uplift and moisture-source evolution resolved by stable-isotope proxies in the southern Central Andean foreland basin ( ∼ 32<sup>∘</sup>S)",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X2600631X?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): Chance B. Ronemus, Caden J. Howlett, Peter G. DeCelles, Barbara Carrapa, Lucas M. Fennell, Kaustubh Thirumalai, Veleda A.P. Müller, Lucas Lothari",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006230",
+    "title": "Morphology and dynamics of steep-fronted glaciers around Alba Mons, Mars",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006230?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): Noé Le Becq, Léo Scordia, Susan J. Conway, Anna Grau Galofre, Nicolas Mangold, Valentin T. Bickel, Shane Byrne",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034456",
+    "title": "Co‐Located P and S‐Wave Teleseismic Velocity Tomography of the Alaskan Upper Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034456?af=R",
+    "authors": [
+      "Cristhian Salas, \nZachary C. Eilon"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-09",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007131",
+    "title": "Hydrated mantle source and low-pressure differentiation control the formation of gold-enriched magmas",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007131?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Deng-Yang He, Hao-Cheng Yu, David Hernández-Uribe, Olivier Namur, Meng-Fan Yang, Shan-Shan Li, Guo-Long Yan, Kun-Feng Qiu, Jun Deng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007143",
+    "title": "Vanadium isotopic compositions in organic-rich sediments and the implications for constraining ancient marine redox evolutions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007143?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Siqi Li, Sean Newby, James McManus, Silke Severmann, Jeremy D. Owens",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007155",
+    "title": "Comparative study of anoxic dissolution of arsenopyrite, loellingite, and pyrite: crystal structural controls on interfacial Reactivity",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007155?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 9 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Pei Chang, Xiangyu Zhu, Minghao Tang, Jianchao Zhang, Xiancai Lu, Cong-qiang Liu, H. Henry Teng",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-11",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03588-w",
     "title": "He spent a year on ‘Mars’: NASA science officer emerges from mock mission",
     "link": "https://www.nature.com/articles/d41586-026-03588-w",
