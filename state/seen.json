@@ -1,5 +1,398 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-79593-4",
+    "title": "Assembly of a renal countercurrent system in a beetle",
+    "link": "https://www.nature.com/articles/s41467-026-79593-4",
+    "authors": [
+      "Robin Beaven",
+      "Mila Fafinska",
+      "Jian Dai",
+      "Kenneth V. Halberg",
+      "Barry Denholm"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79593-4\">doi:10.1038/s41467-026-79593-4</a>Developmental assembly of a powerful water conservation countercurrent exchange system in a beetle is orchestrated through dynamic crosstalk between its multiple constituent organs mediated by just two fibroblast growth factor signalling pathways.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79399-4",
+    "title": "Rhizospheric pH mediated thermo-signalling coordinates root growth under heat stress",
+    "link": "https://www.nature.com/articles/s41467-026-79399-4",
+    "authors": [
+      "Aneesh S. Lale",
+      "Atish Bansod",
+      "Srija Chakraborty",
+      "Erfan Ghafouri",
+      "Jayne L. Davis",
+      "Thanh B. Nghiem",
+      "Feijian Sun",
+      "Brighton Gapare",
+      "Winnie Teh",
+      "Xiangyu Xu",
+      "Lixia Pan",
+      "Aditi N. Borkar",
+      "Lieven De Veylder",
+      "Ranjan Swarup",
+      "Ive De Smet",
+      "Rahul A. Bhosale"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79399-4\">doi:10.1038/s41467-026-79399-4</a>Plant roots adjust their growth in response to soil temperature, but the underlying mechanisms remain unclear. Here, the authors show that pH regulates temperature-dependent root growth through ROS-mediated control of cell cycle dynamics in Arabidopsis thaliana.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79359-y",
+    "title": "Chirality-locked low-dimensional bound states in the continuum lasers",
+    "link": "https://www.nature.com/articles/s41467-026-79359-y",
+    "authors": [
+      "Heegeun Kim",
+      "Chiwon Shin",
+      "Seunghoon Bae",
+      "Kyoung-Ho Kim",
+      "Hong-Gyu Park"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79359-y\">doi:10.1038/s41467-026-79359-y</a>Bound states in the continuum are intrinsically delocalized. Here, the authors realize localized bound state-in-the-continuum lasers at one-dimensional interfaces and zero-dimensional junctions by interfacing domains of opposite chirality.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78707-2",
+    "title": "Boosting reinforcement learning for critical node detection with multi-topology training strategies",
+    "link": "https://www.nature.com/articles/s41467-026-78707-2",
+    "authors": [
+      "Kushal Raj Bhandari",
+      "Pin-Yu Chen",
+      "Shlomo Havlin",
+      "Jianxi Gao"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78707-2\">doi:10.1038/s41467-026-78707-2</a>Critical node detection helps identify network elements whose removal most disrupts connectivity. Here, the authors develop a reinforcement-learning approach that trains on diverse graph topologies to improve generalization to both synthetic and real networks.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-78019-5",
+    "title": "Field-angle-resolved heat transport in UTe<sub>2</sub>: determination of nodal positions in the superconducting order parameter",
+    "link": "https://www.nature.com/articles/s41467-026-78019-5",
+    "authors": [
+      "Ian M. Hayes",
+      "Elliot Fang",
+      "Shanta R. Saha",
+      "Vivek Mishra",
+      "P. J. Hirschfeld",
+      "Johnpierre Paglione"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-78019-5\">doi:10.1038/s41467-026-78019-5</a>Determining the gap symmetry of superconducting phases in UTe2 remains a central challenge. Here, the authors use field-angle-dependent thermal conductivity and theoretical analysis to identify b-axis point nodes in the low-field state, consistent with a B2u order parameter.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79533-2",
+    "title": "Geophysical conditions favoring precursory slip before major earthquakes",
+    "link": "https://www.nature.com/articles/s41467-026-79533-2",
+    "authors": [
+      "Peng Dong",
+      "Kaiwen Xia",
+      "Aitaro Kato",
+      "Kazushige Obara",
+      "Zhigang Peng",
+      "Jianbing Peng"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79533-2\">doi:10.1038/s41467-026-79533-2</a>Laboratory experiments show that precursory slow slip before earthquakes is controlled by faultroughness and stress. On smooth faults, it is most pronounced at low stress, explaining whysmooth, fluid-rich megathrust faults often host precursors.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79182-5",
+    "title": "TRIM47 drives cardiac ischemia/reperfusion injury by impairing mitochondrial function and fatty acid metabolism in male mice",
+    "link": "https://www.nature.com/articles/s41467-026-79182-5",
+    "authors": [
+      "Can Hu",
+      "Lufang Wang",
+      "Wei Sun",
+      "Yishu Song",
+      "Xueke Li",
+      "Ziming Zhang",
+      "Xin Zhang",
+      "Li Zhang"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79182-5\">doi:10.1038/s41467-026-79182-5</a>Cardiac I/R injury is a prevalent and intractable clinical complication. Here, the authors show that TRIM47 facilitates ubiquitination-dependent nuclear translocation of FOXO1 and the subsequent inhibition of HNF4α, thereby aggravating mitochondrial dysfunction, FAO defects and cardiac I/R injury.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79357-0",
+    "title": "Multi-ancestry genetic analysis reveals 29 novel rheumatoid arthritis loci, effector genes and drug repurposing opportunities",
+    "link": "https://www.nature.com/articles/s41467-026-79357-0",
+    "authors": [
+      "Ayeong Kwon",
+      "So-Young Bang",
+      "Eunji Ha",
+      "Young Jin Kim",
+      "Young Bin Joo",
+      "Bong-Jo Kim",
+      "Hye-Soon Lee",
+      "Sang-Cheol Bae",
+      "Kwangwoo Kim"
+    ],
+    "summary": "Nature Communications, Published online: 14 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79357-0\">doi:10.1038/s41467-026-79357-0</a>Integrated genetic, functional, and network-level analyses reveal how population-specific and shared genetic signals contribute to rheumatoid arthritis and provide new insights into disease mechanisms and therapeutic opportunities.",
+    "source": "Nature Communications",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag347?af=R",
+    "title": "Local atomic environments reveal structural controls on MgSiO3 liquid-crystal similarity",
+    "link": "https://www.pnas.org/doi/abs/10.1093/pnasnexus/pgag347?af=R",
+    "authors": [
+      "Jake AcquadroXiyuan BaoJie DengBarbara Romanowicz"
+    ],
+    "summary": "PNAS Nexus, Volume 5, Issue 11, October 2026. <br />MgSiO3is a fundamental silicate system in Earth and rocky planetary interiors, where its structures control crystallization, differentiation, and evolution of host planets. Yet, silicate structure has usually been analyzed through aggregate structural ...",
+    "source": "Proceedings of the National Academy of Sciences: Earth, Atmospheric, and Planetary Sciences",
+    "date": "2026-10-06",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124947",
+    "title": "HSSW Salinity Potentially Modulated by Summertime Preconditioning in Terra Nova Bay Polynya",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124947?af=R",
+    "authors": [
+      "Hyun A. Choi, \nCraig Stevens, \nUna Kim Miller, \nTaekyun Kim, \nLiv van Nijmegen Cornelissen, \nSung‐Ho Choo, \nChristopher J. Zappa, \nWon Sang Lee, \nSukyoung Yun, \nJae Hong Moon, \nSeung‐Tae Yoon"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126085",
+    "title": "What Drives Negative KDP Above the Melting Layer? The Hidden Role of Secondary Ice Production",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126085?af=R",
+    "authors": [
+      "Yongjie Huang, \nGreg M. McFarquhar, \nAlexander V. Ryzhkov, \nMing Xue, \nDhwanit J. Mise, \nJeffrey C. Snyder, \nLulin Xue, \nWilliam Y. Y. Cheng, \nMariko Oue, \nPavlos Kollias, \nMichael P. Jensen, \nTimothy Logan, \nEric Bruning"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL127099",
+    "title": "A Geometry‐Aware Multimodal Fusion Transformer for Pipeline Leak Localization From Time‐Lapse Resistivity and Permittivity Sections",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL127099?af=R",
+    "authors": [
+      "Chuanjun Zhan, \nZhenxue Dai, \nLizhi Du, \nLiang Shen, \nJunhao Zheng, \nYuancang Li, \nJichun Wu, \nMohamad Reza Soltanian, \nKenneth C. Carroll, \nXiaoying Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125573",
+    "title": "Southern Ocean Control on the Relationship Between AMOC Slowdown and ITCZ Shift in CMIP6 Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125573?af=R",
+    "authors": [
+      "Norman J. Steinert, \nJörg Schwinger"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125244",
+    "title": "Low Frequency Icequakes Generated During Transient Cavity Drainage on a Greenlandic Outlet Glacier",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125244?af=R",
+    "authors": [
+      "Hugo Rousseau, \nFlorent Gimbert, \nJules Le Bot, \nReza Esfahani, \nSamuel H. Doyle, \nNicolas Paris, \nMichel Campillo, \nStephen Livingstone, \nAndrew Sole, \nTifenn Le Bris, \nAlexandre Michel, \nRyan Ing, \nArthur Grange, \nAlbanne Lecointre"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125482",
+    "title": "Estimates of Rare Storm Surges in Poorly Gauged Coastal Areas",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125482?af=R",
+    "authors": [
+      "Pietro Devò, \nThomas Wahl, \nMarco Marani"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL125220",
+    "title": "Spatial‐Temporal Compounding Summer Extremes Driven by Preferred Circulation Trajectories Over Europe",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL125220?af=R",
+    "authors": [
+      "Ruud Sperna Weiland, \nKarin van der Wiel, \nFrank Selten, \nDim Coumou"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126105",
+    "title": "Graph‐Based Automated Discovery of Concise Soil Hydraulic Functions From Data: Beyond Empirical Formulations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126105?af=R",
+    "authors": [
+      "Hao Xu, \nJinshen Sun, \nYuntian Chen, \nDongxiao Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124836",
+    "title": "Hydraulic Uncertainty Complicates Estimating How Much Injection Wells Individually Contribute to Fault Pressure Loading Near Peace River, Alberta",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124836?af=R",
+    "authors": [
+      "K. Akitaya, \nD. W. Eaton, \nR. O. Salvage, \nH. Gilbert"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126424",
+    "title": "Large‐N Seismic Imaging Reveals Synchronized Uplift of Crustal and Lithospheric Discontinuities Associated With Transient Magma Ascent Beneath the Eifel Volcanic Fields",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126424?af=R",
+    "authors": [
+      "Xiaohui Yuan, \nTorsten Dahm, \nMarius Isken, \nClaus Milkereit, \nChristoph Sens‐Schönfelder, \nBernd Schmidt"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL124569",
+    "title": "Kinematics of the Eastern Kunlun Fault Revealed by Viscoelastic Earthquake‐Cycle Deformation Modeling Constrained by InSAR and GNSS Observations",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124569?af=R",
+    "authors": [
+      "Zhijie Tao, \nFaqi Diao, \nXiong Xiong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126098",
+    "title": "Humid Atmospheric Processing Regulates Spectral Masking of Black‐Carbon‐Containing Aerosols in the Sichuan Basin",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126098?af=R",
+    "authors": [
+      "Jie Sun, \nGang Zhao, \nGuiying You, \nJiaxin Wei, \nYujie Yang, \nXinlei Lv, \nQiqi Mo, \nTong Liu, \nZiye Zhang, \nYunxiao Li, \nBatu Alaxi, \nWeili Lin, \nShaodong Xie, \nDongjie Shang, \nMin Hu"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126173",
+    "title": "A Kinetic Equilibrium Model for Two‐Dimensional Magnetic Holes",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126173?af=R",
+    "authors": [
+      "Xu‐Zhi Zhou, \nYun‐Fei Liu, \nJing‐Huan Li, \nQiu‐Gang Zong"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL126563",
+    "title": "Coastal Submesoscale Frontal Dynamics Link Nearshore Phytoplankton Blooms to the Continental Shelf",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL126563?af=R",
+    "authors": [
+      "Ryan K. Walter, \nPiero L. F. Mazzini, \nThomas P. Connolly, \nChristopher A. Edwards, \nClark Pennelly, \nNathan Shunk, \nRicardo U. Nardi, \nStephen A. Huie, \nJosephine Trillo, \nApril P. Thibodeau, \nAlexis L. Pasulka, \nIan Robbins"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013147",
+    "title": "Dehydration of FeOOH in Subducted Slabs at the Mantle Transition Zone and Uppermost Lower Mantle",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013147?af=R",
+    "authors": [
+      "Mengqi Guo, \nXinyang Li, \nWenliang Xu, \nSergio Speziale, \nZhaodong Liu, \nZihan Zhang, \nHongyu Yu, \nLiang Li, \nFangfei Li, \nQiang Zhou"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GC013239",
+    "title": "Tracing Thermotectonic Signals in the Denman Glacier Area, East Antarctica, Using Combined Apatite Lu–Hf, U–Pb, and Biotite Rb–Sr Thermochronology",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GC013239?af=R",
+    "authors": [
+      "Ferdinand Mayer‐Ullmann, \nStijn Glorie, \nJacob Mulder, \nMartin Hand, \nJacqueline A. Halpin"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034402",
+    "title": "Outer‐Rise Earthquakes in the Alaska‐Aleutian Subduction Zone: Implications for Mantle Hydration and Tsunami Hazards",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034402?af=R",
+    "authors": [
+      "Patrick R. Matulka, \nDouglas A. Wiens, \nZongshan Li, \nGrace Barcheck, \nGeoffrey A. Abers, \nNatalia A. Ruppert"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-13",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007246",
+    "title": "Spatiotemporal variability of Tungsten-182 in the Hawaiian Plume",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007246?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 14 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Lori N. Willhite, Nicole M.B. Williamson, Valerie A. Finlayson, Dominique Weis, Richard J. Walker",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007234",
+    "title": "Manganese-mediated ROS amplification drives oxidative dissolution of stibnite under dark abiotic conditions",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007234?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Tongliang Wu, Linfang Zhu, Meiying Huang, Cun Liu, Yihang Huang, Song Wu, Zimeng Wang, Peixin Cui, Yujun Wang",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007222",
+    "title": "Low-Ca olivine antecrysts as fingerprints of recycled oceanic crust and possible pyroxenite destruction beneath the southern East Pacific Rise region",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007222?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 13 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Annie Chien, Peng Jiang, John M. Sinton, Zhaoshan Chang, Shiqiang Huang, Ethan Warnes, Jacqueline E. Dixon",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03668-x",
     "title": "Number of international students arriving in US plunges — worrying scientists",
     "link": "https://www.nature.com/articles/d41586-026-03668-x",
