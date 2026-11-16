@@ -1,5 +1,287 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-79620-4",
+    "title": "Phosphorus-mediated reverse hydrogen spillover enables rate-matched nitrate-sulfate paired electrolysis for ammonium persulfate synthesis",
+    "link": "https://www.nature.com/articles/s41467-026-79620-4",
+    "authors": [
+      "Yaobin Wang",
+      "Hanbo Cui",
+      "Changhui Zhou",
+      "Chaoyue Xie",
+      "Ruiqing Zhao",
+      "Wanru Liao",
+      "Hongmei Li",
+      "Yan Zhang",
+      "Lei Li",
+      "Zhiyuan Su",
+      "Yongyang Chen",
+      "Jinhua Li",
+      "Abdolreza Simchi",
+      "Jing Bai",
+      "Baoxue Zhou",
+      "Min Liu"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79620-4\">doi:10.1038/s41467-026-79620-4</a>Electrochemical conversion of nitrate-rich wastewater to valuable ammonium salts is promising. We report a phosphorus-mediated reverse hydrogen spillover mechanism that synchronizes nitrate-reduction and sulfate-oxidation kinetics, enabling direct electrosynthesis of ammonium persulfate.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79672-6",
+    "title": "Directly visualizing the energy level structure of quantum dot molecules",
+    "link": "https://www.nature.com/articles/s41467-026-79672-6",
+    "authors": [
+      "Heun Mo Yoo",
+      "Tanner M. Janda",
+      "Connor Nasseraddin",
+      "Jason R. Petta"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79672-6\">doi:10.1038/s41467-026-79672-6</a>Characterizing the energy spectrum of semiconductor quantum dots is essential for spin qubit operation but remains challenging across broad parameter ranges. Here, the authors use molecular spectroscopy to map one and two electron energy levels in a silicon double quantum dot as functions of detuning, tunnel coupling, and magnetic field.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79192-3",
+    "title": "Cytotoxic drugs and bispecific T cell engagers synergize to rewire host immunity and elicit polyclonal antitumor T cell responses",
+    "link": "https://www.nature.com/articles/s41467-026-79192-3",
+    "authors": [
+      "Dylan Kwart",
+      "Qiaozhi Wei",
+      "Wei-Yi Cheng",
+      "Kamilah Ryan",
+      "Allen Leary",
+      "Jacquelynn Golubov",
+      "Ciara Torres",
+      "Patrick Poon",
+      "Jacqueline Warsaw",
+      "Jacob Lowy",
+      "Erica Ullman",
+      "Aynur Hermann",
+      "Jennifer Finney",
+      "Lauric Haber",
+      "Albert Canturri",
+      "Dharani Ajithdoss",
+      "Andria Skinner",
+      "Eric Smith",
+      "Christopher Daly",
+      "Jeremy Rabinowitz",
+      "Erin Paul",
+      "Nicole Stokes Oristian",
+      "William Poueymirou",
+      "Christina Adler",
+      "Min Ni",
+      "Namita T. Gupta",
+      "Frank Seebach",
+      "Melissa Mathias",
+      "Matthew Fury",
+      "Israel Lowy",
+      "William Olson",
+      "John C. Lin",
+      "Andrew Murphy",
+      "Bei Wang",
+      "Dimitris Skokos"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79192-3\">doi:10.1038/s41467-026-79192-3</a>TAA×CD28 costimulatory bispecific antibodies are a class of immunotherapeutics that provide tumor-targeted CD28 costimulation to T cells by crosslinking CD28 on T cells to a tumor-associated antigen (TAA) expressed on tumor cells. Here, the authors show that cytotoxic therapies reprogram the tumor microenvironment and augment the antitumor immunity induced by TAA×CD28 bispecifics.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79429-1",
+    "title": "Facet-dependent anion adsorption for electrolyte-Cu interfacial stability in initially anode-free Li-metal batteries",
+    "link": "https://www.nature.com/articles/s41467-026-79429-1",
+    "authors": [
+      "Jeong-A Lee",
+      "Minju Song",
+      "Yoonhan Cho",
+      "Chaeyeong Nam",
+      "Sejin Kim",
+      "Hyeon Jeong Kim",
+      "Dongwoo Kim",
+      "Jeesoo Park",
+      "Hyeokjin Kwon",
+      "Rama K. Vasudevan",
+      "Sang Woo Han",
+      "Hee-Tak Kim",
+      "Seungbum Hong",
+      "Nam-Soon Choi"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79429-1\">doi:10.1038/s41467-026-79429-1</a>Initially anode-free lithium-metal batteries are limited by unstable interfacial reactions at Cu current collectors. Here, authors show that preferential anion adsorption can stabilize the copper interface and improve long-term cycling.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79570-x",
+    "title": "Site-specific N-glycoproteomic analysis of extracellular vesicles from seminal plasma reveals the molecular typing of azoospermia",
+    "link": "https://www.nature.com/articles/s41467-026-79570-x",
+    "authors": [
+      "Mingyang Li",
+      "Zhe Zhang",
+      "Xiaorong Song",
+      "Yan Li",
+      "Nan Lu",
+      "Jie Ni",
+      "Haixia Tu",
+      "Bing Wang",
+      "Yueshuai Guo",
+      "Yulian Wang",
+      "Xiang Li",
+      "Yifan Zhou",
+      "Yue Wang",
+      "Xiangzheng Zhang",
+      "Yuanyuan Deng",
+      "Jie Sun",
+      "Yuhan Cai",
+      "Dong Wei",
+      "Tianye Wang",
+      "Xinyu Wang",
+      "Zibing Han",
+      "Zhongze Gu",
+      "Xiaoyu Yang",
+      "Zhuoying Xie",
+      "Hui Jiang",
+      "Xuejiang Guo"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79570-x\">doi:10.1038/s41467-026-79570-x</a>This study presents EVGlyco, a low-input platform for site-specific N-glycoproteomic analysis of biofluid EVs. It identifies site-specific N-glycan signatures in seminal plasma EVs that distinguish azoospermia types and nonobstructive subtypes.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79160-x",
+    "title": "Chromatin priming of skeletal stem and progenitor cells governs cell fate during bone repair",
+    "link": "https://www.nature.com/articles/s41467-026-79160-x",
+    "authors": [
+      "Maria Ethel",
+      "Cassandre Goachet",
+      "Simon Perrin",
+      "Pauline Constant",
+      "Salma Lakhlifi",
+      "Norine Longé",
+      "Fanny Coulpier",
+      "Nicolas Narboux-Nême",
+      "Céline Colnot"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79160-x\">doi:10.1038/s41467-026-79160-x</a>Skeletal stem/progenitor cells in bone and skeletal muscle are diverse populations with distinct roles in bone repair. This study defines their transcriptomic and chromatin-priming signatures that control cell fate during regeneration.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79450-4",
+    "title": "Mapping dynamics of subcellular RNA and protein localization and organization using optimal transport",
+    "link": "https://www.nature.com/articles/s41467-026-79450-4",
+    "authors": [
+      "Jun Zhu",
+      "Hongchao Li",
+      "Yafang Li",
+      "Yiming Li",
+      "Guibin Wang",
+      "Yimeng Zhang",
+      "Xianju Li",
+      "Yang Li",
+      "Zirui Wang",
+      "Sijun Wang",
+      "Tianze Ling",
+      "Yun Yang",
+      "Min Li",
+      "Fuchu He",
+      "Xuechen Zhu",
+      "Xiaowen Wang",
+      "Cheng Chang"
+    ],
+    "summary": "Nature Communications, Published online: 15 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79450-4\">doi:10.1038/s41467-026-79450-4</a>The authors introduce a computational tool SLOT to map mRNA and protein localization within cells, providing a framework and spatial atlas for studying molecular organization during early development and informing virtual cell models.",
+    "source": "Nature Communications",
+    "date": "2026-11-15",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL122184",
+    "title": "Defect‐Mediated Pathway for Abiotic Hydrogen Generation From Olivine: The Role of Undercoordinated Silicate Sites",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL122184?af=R",
+    "authors": [
+      "Jeffrey Roshan De Lile, \nFeiwu Zhang"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026GL123136",
+    "title": "Dehydration of the Pampean Flat Slab and Crustal Deformation in the Overriding Plate Revealed by Earthquake Stress Drops",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL123136?af=R",
+    "authors": [
+      "Yurong Riley Zhang, \nS. Shawn Wei, \nDongdong Tian, \nLepolt Linkimer, \nSusan L. Beck, \nDaniel Evan Portner"
+    ],
+    "summary": "Geophysical Research Letters, Volume 53, Issue 22, 28 November 2026.",
+    "source": "Wiley: Geophysical Research Letters: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2025GC012759",
+    "title": "From Detrital Magnetite to Authigenic Greigite: Mineral Magnetic Assemblages in Holocene Estuarine Sediments of the Ångermanälven River, Sweden",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025GC012759?af=R",
+    "authors": [
+      "Dominika K. Niezabitowska, \nSophie C. Roud, \nIan Snowball, \nBjarne Almqvist"
+    ],
+    "summary": "Geochemistry, Geophysics, Geosystems, Volume 27, Issue 11, November 2026.",
+    "source": "Wiley: Geochemistry, Geophysics, Geosystems: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB034700",
+    "title": "Physical Controls on the Shape of Earthquake Source Time Functions",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB034700?af=R",
+    "authors": [
+      "Cheng‐Yi Wang, \nChun‐Yu Ke"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB033946",
+    "title": "Gravity Evidence for Vertically Coherent Lithospheric Deformation in Northeastern Tibet: Implications for Plateau Growth Mechanisms",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB033946?af=R",
+    "authors": [
+      "Qipei Pang, \nYunlong Wu, \nHao Li, \nFan Zhang, \nYi Zhang, \nMeitao Han, \nLifeng Bao, \nXiaolin Ji"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035043",
+    "title": "Imaging Complex Tectonic Structures and Slab Interactions Beneath Sulawesi Island, Indonesia, From Enhanced Three‐Dimensional Vp, Vs, and Vp/Vs Tomographic Models",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035043?af=R",
+    "authors": [
+      "A. M. M. Huda, \nH.‐H. Huang, \nY.‐M. Wu, \nY. Wang, \nC.‐H. Chan, \nD. S. J. Sianipar, \nE. Ulfiana"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
+    "id": "10.1029/2026JB035868",
+    "title": "Elastic and Electrical Signatures of Overpressure in Partially Saturated Sandstones",
+    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026JB035868?af=R",
+    "authors": [
+      "Tongcheng Han, \nRongkai Jia, \nDong Li, \nLi‐Yun Fu"
+    ],
+    "summary": "Journal of Geophysical Research: Solid Earth, Volume 131, Issue 11, November 2026.",
+    "source": "Wiley: Journal of Geophysical Research: Solid Earth: Table of Contents",
+    "date": "2026-11-14",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/s41467-026-79593-4",
     "title": "Assembly of a renal countercurrent system in a beetle",
     "link": "https://www.nature.com/articles/s41467-026-79593-4",
