@@ -1,5 +1,150 @@
 [
   {
+    "id": "https://www.nature.com/articles/s41467-026-79559-6",
+    "title": "Electrically induced glass transition of polyelectrolyte complexes enables kinetic ionic diodes",
+    "link": "https://www.nature.com/articles/s41467-026-79559-6",
+    "authors": [
+      "Chankyu Kim",
+      "Chan-Hyuk Jeon",
+      "Jowon Shin",
+      "Younghoon Kim",
+      "Owen A. Lee",
+      "Ryan C. Hayward",
+      "Hyeong Jun Kim"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79559-6\">doi:10.1038/s41467-026-79559-6</a>The glass transition induces changes in material properties, transforming a rigid glass into a soft rubber. Here the authors demonstrate an electrically induced glass transition in a polyelectrolyte complex, sandwiched between two oppositely charged ionoelastomers and applying time-temperature-salt superposition principle.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79465-x",
+    "title": "The genetic and proteomic determinants of pediatric stature development and their link to adult height and type 2 diabetes",
+    "link": "https://www.nature.com/articles/s41467-026-79465-x",
+    "authors": [
+      "N. Fragoso-Bargas",
+      "AE Lupu",
+      "I. Campillo-Pereda",
+      "Y. Huang",
+      "J. Sundfjord",
+      "R. Karimi",
+      "T. Lind",
+      "JC Holm",
+      "LA Holm",
+      "A. Havdahl",
+      "OA Andreassen",
+      "S. O’Rahilly",
+      "P. Sole-Navais",
+      "B. Jacobsson",
+      "E. Bratland",
+      "G. Davey Smith",
+      "PB Juliusson",
+      "KK Ong",
+      "T. Hansen",
+      "PR Njølstad",
+      "M. Vaudel",
+      "S. Johansson"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79465-x\">doi:10.1038/s41467-026-79465-x</a>Childhood growth reflects complex genetic and biological processes, but their developmental timing is not fully understood. Here, the authors identify stage‑specific genetic and proteomic influences on growth from infancy through childhood, and reveal links between early growth patterns and later type 2 diabetes risk.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79404-w",
+    "title": "A quantitative deep-learning-based framework reveals a continuum of chromatin sensitivities across transcription factors",
+    "link": "https://www.nature.com/articles/s41467-026-79404-w",
+    "authors": [
+      "Lukas Burger",
+      "Noa Gil",
+      "Dirk Schübeler"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79404-w\">doi:10.1038/s41467-026-79404-w</a>The authors develop a deep-learning-based framework revealing that TF binding sensitivity to chromatin is a continuum rather than a binary feature, and that binding patterns can be explained by a mixture of hierarchical and cooperative mechanisms.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79400-0",
+    "title": "Benzoxaboroles target CPSF3 for degradation through a SUMO-dependent pathway in trypanosomes",
+    "link": "https://www.nature.com/articles/s41467-026-79400-0",
+    "authors": [
+      "Ning Zhang",
+      "Farnaz Zahedifard",
+      "Abdul Samad",
+      "Simone Altmann",
+      "Melanie Ridgway",
+      "Richard J. Wall",
+      "Michele Tinti",
+      "Eric C. Schirmer",
+      "David Horn",
+      "Martin Zoltner",
+      "Mark C. Field"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79400-0\">doi:10.1038/s41467-026-79400-0</a>Benzoxaborole drugs, such as acoziborole, target CPSF3 and mRNA processing in multiple parasites. Here the authors find that these drugs rapidly and specifically target trypanosome CPSF3 for degradation, in a SUMO- and proteasome-dependent manner.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79723-y",
+    "title": "Foliar and floral frost damage reshape reproductive phenology with limited carry-over effects",
+    "link": "https://www.nature.com/articles/s41467-026-79723-y",
+    "authors": [
+      "Jianhong Lin",
+      "Nicolas Delpierre",
+      "Cyrille Rathgeber",
+      "Hai Ren",
+      "Jian-Guo Huang",
+      "Frank Berninger",
+      "Xiaobo Li",
+      "Qianqian Ma"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79723-y\">doi:10.1038/s41467-026-79723-y</a>Late spring frost can damage plant tissues and disrupt reproduction. The authors show that frost damage to leaves shortens the fruit development period, whereas damage to flowers prolongs it, with limited carry-over effects into the following year.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.nature.com/articles/s41467-026-79344-5",
+    "title": "Desmin filaments extend along actin filaments within the mouse skeletal muscle sarcomere",
+    "link": "https://www.nature.com/articles/s41467-026-79344-5",
+    "authors": [
+      "Sunu Joseph",
+      "Joon-Hyuk Ko",
+      "Nitsan Dahan",
+      "Tali Dadosh",
+      "Hana K. Pak",
+      "Jonathan A. Kirk",
+      "Wonho Jhe",
+      "Shenhav Shemer"
+    ],
+    "summary": "Nature Communications, Published online: 22 November 2026; <a href=\"https://www.nature.com/articles/s41467-026-79344-5\">doi:10.1038/s41467-026-79344-5</a>Here, the authors use super-resolution microscopy to show that desmin filaments extend beyond Z-lines and align with actin inside mouse skeletal muscle sarcomeres, where they help support force generation when sarcomeres are stretched.",
+    "source": "Nature Communications",
+    "date": "2026-11-22",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0012821X26006539",
+    "title": "<em>In-situ</em> sound velocities of iron-rich ringwoodite: Implications for the composition of the deep Martian mantle",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0012821X26006539?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: January 2027<b>Source:</b> Earth and Planetary Science Letters, Volume 698Author(s): Rui Zhang, Duojun Wang, Nao Cai, Farla Robert, Xiaokang Feng, Chunyin Zhou, Junsheng Ma, Baocun Wang, Jiayuan Liu, Zhaodong Liu, Kewei Shen, Ke Yang, Cun You",
+    "source": "ScienceDirect Publication: Earth and Planetary Science Letters",
+    "date": "2026-11-23",
+    "sent": true
+  },
+  {
+    "id": "https://www.sciencedirect.com/science/article/pii/S0016703726007477",
+    "title": "Magnesium isotopes reveal diverse clay-water interfacial processes shaping hydrochemical evolution",
+    "link": "https://www.sciencedirect.com/science/article/pii/S0016703726007477?dgcid=rss_sd_all",
+    "authors": [],
+    "summary": "Publication date: Available online 21 November 2026<b>Source:</b> Geochimica et Cosmochimica ActaAuthor(s): Rui Wang, Xiao-Wei Jiang, John Cherry, Tao-Tao Ji, Ying Tan, Longfei Gou, Guilin Han, Li Wan, Huaming Guo, Zhangdong Jin",
+    "source": "ScienceDirect Publication: Geochimica et Cosmochimica Acta",
+    "date": "2026-11-23",
+    "sent": true
+  },
+  {
     "id": "https://www.nature.com/articles/d41586-026-03803-8",
     "title": "BepiColombo finally reaches Mercury after eight-year odyssey",
     "link": "https://www.nature.com/articles/d41586-026-03803-8",
